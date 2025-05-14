@@ -1,0 +1,10 @@
+{
+    "caption": "\"A soft fabric possibly duvet with off-white coloring and rectangular shape. Features crumpled texture and layered edges. Likely used for warmth and comfort in sleeping. Positioned on a bed frame within a bedroom setting, surrounded by pillows and bedside furniture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358582/1/object_in_frame_143.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358582/1/object_in_frame_150.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358582/1/object_in_frame_138.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358582/1/object_in_frame_148.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358582/1/object_in_frame_149.png"
+    ]
+}

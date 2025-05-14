@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly tray-type object with a silver finish and rectangular shape. Has a flat surface and raised edges. Likely used for holding or transporting items. Positioned in an office environment near boxes, cabinets, and other equipment.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0704_00/cart-1/object_in_frame_1296.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0704_00/cart-1/object_in_frame_1332.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0704_00/cart-1/object_in_frame_1308.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0704_00/cart-1/object_in_frame_1728.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0704_00/cart-1/object_in_frame_216.png"
+    ]
+}

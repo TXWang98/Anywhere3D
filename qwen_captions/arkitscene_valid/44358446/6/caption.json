@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden board-type object with a light beige color and rectangular shape. The flat surface and smooth texture suggest it could be used as a divider or support structure. Its placement near the bed implies it might serve a functional role in the bedroom setup, potentially as part of a storage unit or bed frame.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358446/6/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358446/6/object_in_frame_607.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358446/6/object_in_frame_644.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358446/6/object_in_frame_625.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358446/6/object_in_frame_626.png"
+    ]
+}

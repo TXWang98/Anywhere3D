@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly curtain rod with silver coloring and elongated shape. Has a smooth, cylindrical structure with evenly spaced circular knobs. Likely used for hanging curtains. Positioned horizontally along the top of a window with blue curtains below.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/37/object_in_frame_000392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/37/object_in_frame_000391.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/37/object_in_frame_000474.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/37/object_in_frame_000475.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/37/object_in_frame_000390.png"
+    ]
+}

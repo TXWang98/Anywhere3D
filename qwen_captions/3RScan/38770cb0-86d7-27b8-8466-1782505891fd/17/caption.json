@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly glass vase-type object with translucent coloring and a rounded, slightly tapered shape. The smooth surface suggests it could be made of clear or frosted glass. Likely used for decorative purposes or as a container for flowers. Found on a shelf within a cabinet alongside other similar objects, indicating a storage setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/17/object_in_frame_000496.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/17/object_in_frame_000547.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/17/object_in_frame_000494.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/17/object_in_frame_000634.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/17/object_in_frame_000546.png"
+    ]
+}

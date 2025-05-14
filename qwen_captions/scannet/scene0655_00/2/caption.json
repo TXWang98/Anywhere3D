@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic chair with black and blue coloring and a contoured shape. Features armrests and a cushioned seat. Designed for comfortable seating. Positioned near other chairs in an office or meeting room setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0655_00/office chair-2/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0655_00/office chair-2/object_in_frame_244.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0655_00/office chair-2/object_in_frame_257.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0655_00/office chair-2/object_in_frame_235.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0655_00/office chair-2/object_in_frame_289.png"
+    ]
+}

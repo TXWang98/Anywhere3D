@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic chair with a dark color and rounded seat. The structure includes a central support column and multiple legs with casters. Likely designed for office or desk use. Positioned under a wooden desk, surrounded by personal items like a laptop, headphones, and storage containers in what appears to be a bedroom or home office setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/desk-31/object_in_frame_900.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/desk-31/object_in_frame_918.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/desk-31/object_in_frame_888.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/desk-31/object_in_frame_3594.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/desk-31/object_in_frame_3432.png"
+    ]
+}

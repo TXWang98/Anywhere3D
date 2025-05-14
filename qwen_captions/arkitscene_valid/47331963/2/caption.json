@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly glass vase-type object with translucent coloring and a fluted body shape. The tapered rim suggests it is designed for holding flowers. Likely used as a floral display container. Found on a dining table alongside a bouquet of tulips and other tableware items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/2/object_in_frame_1778.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/2/object_in_frame_1761.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/2/object_in_frame_1817.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/2/object_in_frame_1813.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/2/object_in_frame_1821.png"
+    ]
+}

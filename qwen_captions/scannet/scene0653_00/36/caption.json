@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic and metal office chair with a dark blue backrest and light beige seat. The chair has a five-pointed star base with casters for mobility. Designed for ergonomic seating in an office environment. Positioned near a filing cabinet and storage boxes, suggesting a workspace setup.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/office chair-36/object_in_frame_3468.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/office chair-36/object_in_frame_3504.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/office chair-36/object_in_frame_3450.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/office chair-36/object_in_frame_3552.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/office chair-36/object_in_frame_3456.png"
+    ]
+}

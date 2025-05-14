@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white painted door with a metallic handle and rectangular shape. Features a simple, smooth surface with vertical paneling. Designed for entry and exit. Positioned in an indoor setting with tiled flooring visible at the bottom.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0139_00/door-17/object_in_frame_1178.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0139_00/door-17/object_in_frame_1170.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0139_00/door-17/object_in_frame_1176.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0139_00/door-17/object_in_frame_1174.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0139_00/door-17/object_in_frame_1172.png"
+    ]
+}

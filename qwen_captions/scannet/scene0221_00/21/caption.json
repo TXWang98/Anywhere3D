@@ -1,0 +1,10 @@
+{
+    "caption": "A framed artwork with a colorful and abstract pattern. The rectangular shape features a flat surface and a visible border. Likely intended for wall decoration. Positioned above a bed in a bedroom setting, alongside another similar piece of art.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0221_00/picture-21/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0221_00/picture-21/object_in_frame_210.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0221_00/picture-21/object_in_frame_220.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0221_00/picture-21/object_in_frame_209.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0221_00/picture-21/object_in_frame_205.png"
+    ]
+}

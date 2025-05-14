@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a green hue and rectangular shape. The tapered rim suggests it may be designed for stacking or storage. Its function is unclear but could be used for holding small items. It is placed on top of a cardboard box, which is situated in a cluttered room with various household items around.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/20/object_in_frame_932.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/20/object_in_frame_978.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/20/object_in_frame_952.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/20/object_in_frame_935.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/20/object_in_frame_938.png"
+    ]
+}

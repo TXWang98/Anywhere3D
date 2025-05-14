@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric possibly towel-type object with white coloring and rectangular shape. Appears soft and slightly textured. Likely used for drying or wrapping. Hanging on a hook near a bathroom door, with another similar item nearby.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0527_00/wall-21/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0527_00/wall-21/object_in_frame_470.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0527_00/wall-21/object_in_frame_523.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0527_00/wall-21/object_in_frame_440.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0527_00/wall-21/object_in_frame_441.png"
+    ]
+}

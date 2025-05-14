@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly pan-type object with a dark gray color and circular shape. The tapered rim suggests it is designed for cooking, with a handle extending outward. Likely used for frying or saut\u00e9ing. Hanging on a wall-mounted rack in a kitchen setting, near other utensils and cookware.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac75e4-8d6f-2d13-8f7c-fb5b5747d1ba/37/object_in_frame_000062.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac75e4-8d6f-2d13-8f7c-fb5b5747d1ba/37/object_in_frame_000060.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac75e4-8d6f-2d13-8f7c-fb5b5747d1ba/37/object_in_frame_000061.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac75e4-8d6f-2d13-8f7c-fb5b5747d1ba/37/object_in_frame_000063.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac75e4-8d6f-2d13-8f7c-fb5b5747d1ba/37/object_in_frame_000059.png"
+    ]
+}

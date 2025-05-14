@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with green coloring and rectangular shape. Features a grid-like structure on its surface. Likely used for storage or organization. Found in a cluttered indoor space near other household items like bottles and boxes.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/closet doors-24/object_in_frame_567.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/closet doors-24/object_in_frame_550.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/closet doors-24/object_in_frame_558.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/closet doors-24/object_in_frame_562.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/closet doors-24/object_in_frame_554.png"
+    ]
+}

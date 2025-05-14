@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly metallic container-type object with a dark color and rectangular shape. Inconclusive evidence for its structure or texture details. Its function is unclear but may be related to storage or appliance use. Located within a kitchen environment, near a refrigerator and countertop.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897541/10/object_in_frame_326.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897541/10/object_in_frame_373.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897541/10/object_in_frame_374.png"
+    ]
+}

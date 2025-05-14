@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly glass bottle-type object with amber coloring and cylindrical shape. The tapered rim suggests it may be a beverage container. Likely used for storing liquids. Positioned on a shelf alongside other bottles, indicating a collection or storage area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/13/object_in_frame_1047.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/13/object_in_frame_1062.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/13/object_in_frame_1071.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/13/object_in_frame_1050.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/13/object_in_frame_1053.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy black monitor with a rectangular shape. The screen is large and flat, with visible cables connected at the back. Likely used for computer display purposes. Positioned on a desk alongside other electronic devices like a router and speakers.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/12/object_in_frame_3202.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/12/object_in_frame_2956.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/12/object_in_frame_3120.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/12/object_in_frame_3494.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/12/object_in_frame_3186.png"
+    ]
+}

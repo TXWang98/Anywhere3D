@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric container-type object with dark and purple coloring. Appears to have a soft, flexible structure with no rigid shape. Likely used for storing or transporting items. Found on the floor near a bed with clothing and other personal belongings scattered around.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/suitcase-63/object_in_frame_1270.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/suitcase-63/object_in_frame_1875.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/suitcase-63/object_in_frame_1435.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/suitcase-63/object_in_frame_1410.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/suitcase-63/object_in_frame_1425.png"
+    ]
+}

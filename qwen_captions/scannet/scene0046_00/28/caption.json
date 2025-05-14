@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic hairdryer with white and black coloring and an elongated shape. Features a coiled cord and a cylindrical nozzle. Likely used for drying hair. Positioned on a bathroom countertop near toiletries and a mirror.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/wall-28/object_in_frame_2084.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/wall-28/object_in_frame_2052.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/wall-28/object_in_frame_2048.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/wall-28/object_in_frame_2092.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/wall-28/object_in_frame_2032.png"
+    ]
+}

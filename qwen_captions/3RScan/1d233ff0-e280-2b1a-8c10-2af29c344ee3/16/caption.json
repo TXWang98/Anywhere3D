@@ -1,0 +1,8 @@
+{
+    "caption": "\"A metallic possibly vent-type object with silver coloring and square shape. Features horizontal slats and a slightly recessed design. Likely used for air circulation or ventilation. Mounted on a plain ceiling surface, with no other objects immediately surrounding it.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d233ff0-e280-2b1a-8c10-2af29c344ee3/16/object_in_frame_000184.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d233ff0-e280-2b1a-8c10-2af29c344ee3/16/object_in_frame_000183.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d233ff0-e280-2b1a-8c10-2af29c344ee3/16/object_in_frame_000185.png"
+    ]
+}

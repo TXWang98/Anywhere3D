@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white possibly plastic storage unit with a rectangular shape. Features multiple drawers with curved handles and a flat top surface. Likely used for organizing bathroom items. Positioned next to a trash bin and beneath a wicker basket in a tiled bathroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663115/4/object_in_frame_404.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663115/4/object_in_frame_415.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663115/4/object_in_frame_403.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663115/4/object_in_frame_406.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663115/4/object_in_frame_301.png"
+    ]
+}

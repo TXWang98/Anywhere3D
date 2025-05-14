@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly ceramic container-type object with a light beige color and a cylindrical shape. The tapered rim suggests it might be designed for pouring or serving. Its smooth surface lacks distinct structural features. Inconclusive evidence for its specific function, but it could be used for storage or as a decorative item. Found on the kitchen countertop near a sink area, surrounded by various kitchen utensils and cleaning supplies.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/sink-8/object_in_frame_2015.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/sink-8/object_in_frame_1975.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/sink-8/object_in_frame_1955.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/sink-8/object_in_frame_2070.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/sink-8/object_in_frame_1950.png"
+    ]
+}

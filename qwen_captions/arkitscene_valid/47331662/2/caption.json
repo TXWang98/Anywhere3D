@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden drawer-type object with a light brown color and rectangular shape. Features visible handles and layered compartments. Likely used for storage. Positioned within a cabinet structure, adjacent to other drawers and near a small table with magazines.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331662/2/object_in_frame_670.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331662/2/object_in_frame_731.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331662/2/object_in_frame_671.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331662/2/object_in_frame_657.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331662/2/object_in_frame_729.png"
+    ]
+}

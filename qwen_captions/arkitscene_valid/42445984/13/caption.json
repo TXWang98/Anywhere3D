@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden possibly planter-type object with a natural brown finish and rectangular shape. Has a flat top surface and visible soil texture. Likely used for growing plants. Mounted on a wall above a black cabinet, surrounded by various household items like boxes and cleaning supplies.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445984/13/object_in_frame_32.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445984/13/object_in_frame_702.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445984/13/object_in_frame_698.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445984/13/object_in_frame_713.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445984/13/object_in_frame_700.png"
+    ]
+}

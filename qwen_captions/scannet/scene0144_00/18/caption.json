@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly cardboard box-type object with a light brown color and rectangular shape. Appears to have a smooth surface and no visible handles or clasps. Likely used for storage or packaging. Positioned on top of a white dresser alongside various items like books, papers, and containers in what seems to be a bedroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0144_00/dresser-18/object_in_frame_1112.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0144_00/dresser-18/object_in_frame_1098.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0144_00/dresser-18/object_in_frame_1102.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0144_00/dresser-18/object_in_frame_1078.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0144_00/dresser-18/object_in_frame_1076.png"
+    ]
+}

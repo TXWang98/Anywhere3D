@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric-covered chair with teal upholstery and a rectangular shape. The chair has a woven seat and armrests, suggesting a comfortable seating arrangement. It appears to be used for casual sitting or resting. Positioned next to a bed with patterned bedding, indicating a bedroom setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/15/object_in_frame_6139.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/15/object_in_frame_6051.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/15/object_in_frame_6110.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/15/object_in_frame_6153.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/15/object_in_frame_6080.png"
+    ]
+}

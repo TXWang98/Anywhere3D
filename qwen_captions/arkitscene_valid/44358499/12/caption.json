@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white possibly radiator-type object with a rectangular shape. Features horizontal slats and a flat surface. Likely used for heating the room. Positioned against a wall in a living area near a potted plant and a glass door.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/12/object_in_frame_180.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/12/object_in_frame_792.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/12/object_in_frame_701.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/12/object_in_frame_708.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/12/object_in_frame_185.png"
+    ]
+}

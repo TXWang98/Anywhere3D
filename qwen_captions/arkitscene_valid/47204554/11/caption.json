@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic tool-type object, matte silver with angular grooves. Inconclusive evidence for its exact function between a wrench or specialized clamp. Seen in a workshop environment near assembly parts.\" \n\nHowever, upon analyzing the provided images, it appears that the green bounding box is highlighting a section of cabinetry rather than an object. Therefore, a more accurate caption would be:\n\n\"A white kitchen cabinet with smooth surfaces and rectangular shape. Features sleek handles and a clean design. Likely used for storage. Positioned along a tiled floor in a modern kitchen setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204554/11/object_in_frame_529.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204554/11/object_in_frame_538.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204554/11/object_in_frame_516.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204554/11/object_in_frame_520.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204554/11/object_in_frame_527.png"
+    ]
+}

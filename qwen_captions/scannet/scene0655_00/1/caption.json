@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic chair with black coloring and a contoured shape. Has armrests and a cushioned seat. Likely designed for office or meeting room use. Positioned near other chairs around a conference table in a professional setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0655_00/office chair-1/object_in_frame_529.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0655_00/office chair-1/object_in_frame_509.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0655_00/office chair-1/object_in_frame_484.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0655_00/office chair-1/object_in_frame_546.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0655_00/office chair-1/object_in_frame_577.png"
+    ]
+}

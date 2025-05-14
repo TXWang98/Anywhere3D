@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic trash can with a light gray color and rectangular shape. Has a hinged lid and a visible trash bag inside. Likely used for waste disposal. Positioned near a doorway in a room with a table, chairs, and a whiteboard.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/wall-16/object_in_frame_747.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/wall-16/object_in_frame_756.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/wall-16/object_in_frame_675.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/wall-16/object_in_frame_771.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/wall-16/object_in_frame_678.png"
+    ]
+}

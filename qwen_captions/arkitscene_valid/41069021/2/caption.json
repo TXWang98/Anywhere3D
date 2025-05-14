@@ -1,0 +1,10 @@
+{
+    "caption": "\"A transparent glass table with a rectangular shape. Features a minimalist design with slender legs and a flat surface. Likely serves as a side table for holding small items. Positioned beside a leather sofa, with a smartphone and charger resting on top.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/2/object_in_frame_1392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/2/object_in_frame_1405.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/2/object_in_frame_102.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/2/object_in_frame_1758.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/2/object_in_frame_1740.png"
+    ]
+}

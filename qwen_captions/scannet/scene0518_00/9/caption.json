@@ -1,0 +1,10 @@
+{
+    "caption": "\"A transparent glass pitcher with a handle and a slightly tapered rim. The smooth, glossy surface reflects light, indicating its material properties. Designed for pouring liquids, it features a wide opening at the top for easy filling. Positioned on a white table in a room setting, surrounded by furniture like drawers and a chair.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0518_00/coffee table-9/object_in_frame_932.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0518_00/coffee table-9/object_in_frame_252.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0518_00/coffee table-9/object_in_frame_332.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0518_00/coffee table-9/object_in_frame_344.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0518_00/coffee table-9/object_in_frame_938.png"
+    ]
+}

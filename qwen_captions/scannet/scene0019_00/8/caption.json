@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic trash can with a light gray color and cylindrical shape. Has a lid and appears to be made of smooth material. Likely used for waste disposal. Positioned in a hallway near lockers and a door, suggesting a school or office environment.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0019_00/trash can-8/object_in_frame_328.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0019_00/trash can-8/object_in_frame_312.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0019_00/trash can-8/object_in_frame_275.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0019_00/trash can-8/object_in_frame_292.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0019_00/trash can-8/object_in_frame_288.png"
+    ]
+}

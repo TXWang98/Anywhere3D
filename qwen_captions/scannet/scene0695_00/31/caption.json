@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with red and white patterns. Irregular shape with a crumpled texture. Likely used for storing or disposing of items. Found on top of a trash bin near a window, surrounded by various bags and objects.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/wall-31/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/wall-31/object_in_frame_450.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/wall-31/object_in_frame_447.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/wall-31/object_in_frame_444.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/wall-31/object_in_frame_441.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic container-type object with a reflective silver surface and cylindrical shape. The tapered rim suggests it could be a thermos or similar insulated container. While resembling a storage vessel, the presence of white lids hints at functional affordances for sealing contents. Inconclusive evidence for its exact purpose. Found on a shelf within a dark cabinet alongside other containers in what appears to be an office or workspace setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/cabinet-61/object_in_frame_1790.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/cabinet-61/object_in_frame_1800.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/cabinet-61/object_in_frame_1535.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/cabinet-61/object_in_frame_1545.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/cabinet-61/object_in_frame_1815.png"
+    ]
+}

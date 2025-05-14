@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric armchair with green upholstery and a rectangular shape. Features wooden legs and a cushioned seat. Likely designed for seating comfort. Positioned in a living space near a sliding glass door, with a rug on the floor and a laundry machine visible in one view.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261142/3/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261142/3/object_in_frame_58.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261142/3/object_in_frame_93.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261142/3/object_in_frame_87.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261142/3/object_in_frame_59.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy black television with a rectangular shape. Flat screen and slim profile design. Likely used for entertainment purposes. Positioned on a wooden shelf alongside other electronic devices in a living room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332893/6/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332893/6/object_in_frame_748.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332893/6/object_in_frame_732.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332893/6/object_in_frame_896.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332893/6/object_in_frame_1213.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden cabinet-type object with a light beige finish and rectangular shape. Features multiple panels and doors, suggesting storage functionality. Inconclusive evidence for specific contents. Positioned against the wall in a living room setting, near a leather ottoman and adjacent to other furniture pieces.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/10/object_in_frame_3517.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/10/object_in_frame_2504.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/10/object_in_frame_1196.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/10/object_in_frame_1201.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/10/object_in_frame_1203.png"
+    ]
+}

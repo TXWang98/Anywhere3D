@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white plastic chair with a simple design and rectangular shape. The chair has a smooth texture and features horizontal slats on the backrest. It is designed for seating purposes. Positioned around a wooden dining table in a kitchen setting, alongside other similar chairs.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662921/11/object_in_frame_787.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662921/11/object_in_frame_790.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662921/11/object_in_frame_791.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662921/11/object_in_frame_781.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662921/11/object_in_frame_789.png"
+    ]
+}

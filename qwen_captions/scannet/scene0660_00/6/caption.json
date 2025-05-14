@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy leather chair with black coloring and a rounded, ergonomic shape. Features smooth contours and cushioned seating. Designed for comfortable seating. Positioned under a wooden table alongside other similar chairs in a dining or meeting room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0660_00/chair-6/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0660_00/chair-6/object_in_frame_178.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0660_00/chair-6/object_in_frame_12.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0660_00/chair-6/object_in_frame_53.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0660_00/chair-6/object_in_frame_43.png"
+    ]
+}

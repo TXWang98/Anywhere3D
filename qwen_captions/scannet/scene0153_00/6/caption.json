@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic door hinge with a silver finish and rectangular shape. Has a simple, flat structure with minimal texture details. Likely used for connecting and allowing the movement of a door. Positioned on the edge of a white door in a bathroom setting, near a bathtub and safety rail.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0153_00/door-6/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0153_00/door-6/object_in_frame_434.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0153_00/door-6/object_in_frame_469.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0153_00/door-6/object_in_frame_412.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0153_00/door-6/object_in_frame_471.png"
+    ]
+}

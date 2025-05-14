@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic bottle with orange and white coloring and a cylindrical shape. The tapered rim suggests it is designed for pouring or dispensing liquid. Likely contains a cleaning product or personal care item. Placed on a corner shelf in a bathroom, near other household items like a box of juice and cleaning tools.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/bottle-29/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/bottle-29/object_in_frame_792.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/bottle-29/object_in_frame_816.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/bottle-29/object_in_frame_840.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/bottle-29/object_in_frame_939.png"
+    ]
+}

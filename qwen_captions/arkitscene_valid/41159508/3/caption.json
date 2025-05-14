@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden cabinet-type object with a dark brown finish and rectangular shape. Features multiple compartments and shelves. Likely used for storage of bathroom essentials. Positioned under a sink in a bathroom setting, near a scale and various toiletries.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159508/3/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159508/3/object_in_frame_602.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159508/3/object_in_frame_45.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159508/3/object_in_frame_97.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159508/3/object_in_frame_381.png"
+    ]
+}

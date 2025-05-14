@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic vending machine with a dark gray and black color scheme and a rectangular shape. Features a transparent glass front displaying various snack items on shelves. Designed for dispensing packaged snacks and beverages. Positioned in an indoor setting, adjacent to a floor lamp and near a wooden door.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0019_00/wall-20/object_in_frame_404.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0019_00/wall-20/object_in_frame_460.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0019_00/wall-20/object_in_frame_394.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0019_00/wall-20/object_in_frame_412.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0019_00/wall-20/object_in_frame_441.png"
+    ]
+}

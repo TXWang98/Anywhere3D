@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly ceramic vase-type object with a dark, possibly black or deep brown color and a rounded shape. The tapered rim suggests it may be designed for holding flowers or decorative purposes. While resembling a vase, the presence of what appears to be a plant inside supports this function. Situated on a cabinet alongside framed artwork and other decorative items in a cozy indoor setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/14/object_in_frame_000023.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/14/object_in_frame_000024.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/14/object_in_frame_000022.png"
+    ]
+}

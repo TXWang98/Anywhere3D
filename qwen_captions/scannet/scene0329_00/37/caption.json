@@ -1,0 +1,10 @@
+{
+    "caption": "A black plastic chair with a matte finish and angular shape. Has a simple frame structure with four legs and armrests. Designed for seating in an office environment. Positioned near a desk with various items like papers and a computer monitor, suggesting a workspace setup.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/chair-37/object_in_frame_1034.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/chair-37/object_in_frame_144.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/chair-37/object_in_frame_1012.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/chair-37/object_in_frame_1068.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/chair-37/object_in_frame_1030.png"
+    ]
+}

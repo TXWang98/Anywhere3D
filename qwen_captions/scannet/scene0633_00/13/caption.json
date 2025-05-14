@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic thermometer with a white face and circular shape. The black border and visible dial suggest temperature measurement functionality. Mounted on a wall near the corner of a room, adjacent to a canopy bed and crib. Inconclusive evidence for its exact purpose, but likely used for monitoring room temperature in a nursery setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0633_00/clock-13/object_in_frame_1158.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0633_00/clock-13/object_in_frame_1152.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0633_00/clock-13/object_in_frame_1144.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0633_00/clock-13/object_in_frame_1170.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0633_00/clock-13/object_in_frame_1162.png"
+    ]
+}

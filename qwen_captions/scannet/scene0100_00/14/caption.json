@@ -1,0 +1,10 @@
+{
+    "caption": "A paper toilet roll with white coloring and cylindrical shape. Mounted on a wooden holder attached to the wall. Used for personal hygiene purposes. Positioned next to a toilet in a bathroom setting, with a shower curtain partially visible on the left side.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/toilet paper-14/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/toilet paper-14/object_in_frame_0.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/toilet paper-14/object_in_frame_46.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/toilet paper-14/object_in_frame_376.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/toilet paper-14/object_in_frame_361.png"
+    ]
+}

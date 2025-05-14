@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic container-type object with a light beige or off-white color and rectangular shape. The tapered rim suggests it could be a storage bin or dispenser. It has a smooth, flat surface with no visible handles or openings. Its function is unclear but may be for holding small items. Positioned against a tiled wall in what appears to be a bathroom setting, near a mirror and other bathroom fixtures.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331337/6/object_in_frame_386.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331337/6/object_in_frame_377.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331337/6/object_in_frame_387.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331337/6/object_in_frame_352.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331337/6/object_in_frame_388.png"
+    ]
+}

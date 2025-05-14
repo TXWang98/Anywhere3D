@@ -1,0 +1,10 @@
+{
+    "caption": "\"A black leather office chair with a cushioned seat and backrest. Features armrests and a five-point base with wheels. Designed for ergonomic seating in professional settings. Positioned near a desk with a laptop and monitor, suggesting a workspace environment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0314_00/office chair-4/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0314_00/office chair-4/object_in_frame_136.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0314_00/office chair-4/object_in_frame_117.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0314_00/office chair-4/object_in_frame_107.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0314_00/office chair-4/object_in_frame_561.png"
+    ]
+}

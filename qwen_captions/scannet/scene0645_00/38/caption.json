@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden door with a light beige color and rectangular shape. Features a simple panel design and metallic handle. Likely serves as an entrance or exit. Positioned adjacent to a tiled floor and wall, with a visible bathroom in the background.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/door-38/object_in_frame_3780.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/door-38/object_in_frame_2800.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/door-38/object_in_frame_2919.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/door-38/object_in_frame_2912.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/door-38/object_in_frame_2863.png"
+    ]
+}

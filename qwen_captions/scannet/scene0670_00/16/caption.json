@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic ceiling light fixture with a white color and rectangular shape. The structure appears to have a smooth, glossy surface. Likely designed for ambient lighting in the kitchen. Positioned on the ceiling above wooden cabinets and a tiled backsplash.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/wall-16/object_in_frame_2695.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/wall-16/object_in_frame_2725.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/wall-16/object_in_frame_2690.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/wall-16/object_in_frame_2730.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/wall-16/object_in_frame_2745.png"
+    ]
+}

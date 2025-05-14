@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy ceramic mug with a red interior and white exterior, featuring a cylindrical shape with a handle. The tapered rim suggests it is designed for comfortable drinking. Made for holding beverages, likely coffee or tea. Sitting on a wooden desk beside earphones, pens, and computer monitors in an office setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/divider-10/object_in_frame_1296.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/divider-10/object_in_frame_1362.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/divider-10/object_in_frame_1314.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/divider-10/object_in_frame_1302.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/divider-10/object_in_frame_1350.png"
+    ]
+}

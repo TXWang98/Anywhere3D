@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly fire extinguisher with bright red coloring and cylindrical shape. Has a tapered nozzle and attached hose. Designed for emergency fire suppression. Mounted on a wall bracket near a door in an indoor setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0685_00/wall-5/object_in_frame_1605.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0685_00/wall-5/object_in_frame_1533.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0685_00/wall-5/object_in_frame_1494.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0685_00/wall-5/object_in_frame_1524.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0685_00/wall-5/object_in_frame_1515.png"
+    ]
+}

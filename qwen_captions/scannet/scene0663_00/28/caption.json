@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy plastic monitor with a black frame and rectangular shape. The screen displays text and code, suggesting it is used for programming or data analysis. Positioned on a desk alongside other office items like a keyboard, mouse, and documents.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/monitor-28/object_in_frame_1676.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/monitor-28/object_in_frame_600.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/monitor-28/object_in_frame_608.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/monitor-28/object_in_frame_712.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/monitor-28/object_in_frame_1620.png"
+    ]
+}

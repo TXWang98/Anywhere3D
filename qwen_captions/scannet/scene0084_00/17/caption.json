@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric possibly curtain-type object with light beige coloring and elongated rectangular shape. Features vertical folds and a smooth texture. Likely used for privacy in the shower area. Positioned along the edge of the shower, adjacent to tiled walls and a showerhead.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/shower curtain-17/object_in_frame_747.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/shower curtain-17/object_in_frame_717.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/shower curtain-17/object_in_frame_714.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/shower curtain-17/object_in_frame_771.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/shower curtain-17/object_in_frame_768.png"
+    ]
+}

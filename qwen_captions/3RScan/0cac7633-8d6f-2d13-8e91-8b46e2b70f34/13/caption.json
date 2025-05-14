@@ -1,0 +1,8 @@
+{
+    "caption": "\"A metallic possibly lampshade-type object with silver reflective coloring and cylindrical shape. Features a textured, perforated surface with visible light source inside. Likely serves as a decorative lighting fixture. Suspended from the ceiling in what appears to be an indoor space with clothing racks nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7633-8d6f-2d13-8e91-8b46e2b70f34/13/object_in_frame_000050.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7633-8d6f-2d13-8e91-8b46e2b70f34/13/object_in_frame_000051.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7633-8d6f-2d13-8e91-8b46e2b70f34/13/object_in_frame_000172.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly upholstered chair with red fabric and ornate wooden frame. Curved armrests and detailed carvings on the legs. Likely designed for seating in a formal setting. Positioned against a tiled wall near a white cabinet.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d233ff0-e280-2b1a-8c10-2af29c344ee3/17/object_in_frame_000149.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d233ff0-e280-2b1a-8c10-2af29c344ee3/17/object_in_frame_000151.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d233ff0-e280-2b1a-8c10-2af29c344ee3/17/object_in_frame_000147.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d233ff0-e280-2b1a-8c10-2af29c344ee3/17/object_in_frame_000146.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d233ff0-e280-2b1a-8c10-2af29c344ee3/17/object_in_frame_000148.png"
+    ]
+}

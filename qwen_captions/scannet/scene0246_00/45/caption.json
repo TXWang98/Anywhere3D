@@ -1,0 +1,10 @@
+{
+    "caption": "### Image 1:\n\"A glossy ceramic lampshade with white coloring and spherical shape. Features a textured, petal-like design. Provides ambient lighting. Suspended from the ceiling in a bedroom setting with a bed and bedside table nearby.\"\n\n### Image 2:\n\"A possibly wooden hanger-type object with light brown color and curved shape. Has a simple structure for hanging clothes. Likely used for storing garments. Positioned on a tiled wall near a shower area.\"\n\n### Image 3:\n\"A white door or panel with smooth surface and rectangular shape. Appears to be part of a bathroom partition. Functional as a privacy barrier. Located adjacent to a shower curtain and tiled walls.\"\n\n### Image 4:\n\"A white door or panel with smooth surface and rectangular shape. Appears to be part of a bathroom partition. Functional as a privacy barrier. Located adjacent to a shower curtain and tiled walls.\"\n\n### Image 5:\n\"A possibly wooden hanger-type object with light brown color and curved shape. Has a simple structure for hanging clothes. Likely used for storing garments. Positioned on a tiled wall near a shower area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/wall-45/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/wall-45/object_in_frame_1228.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/wall-45/object_in_frame_1012.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/wall-45/object_in_frame_1256.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/wall-45/object_in_frame_1216.png"
+    ]
+}

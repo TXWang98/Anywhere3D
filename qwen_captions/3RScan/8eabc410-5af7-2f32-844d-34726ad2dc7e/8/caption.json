@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a translucent blue color and rectangular shape. The tapered rim suggests it may be designed for stacking or storage. Its flat base and open top indicate it could hold small items. Positioned on a table in what appears to be a classroom setting, surrounded by chairs and desks.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/8/object_in_frame_000406.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/8/object_in_frame_000338.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/8/object_in_frame_000231.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/8/object_in_frame_000340.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/8/object_in_frame_000404.png"
+    ]
+}

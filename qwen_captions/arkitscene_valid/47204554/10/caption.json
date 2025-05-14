@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic tool-type object, matte black with a rectangular shape. Angular edges and flat surfaces. Inconclusive evidence for its function, but it may be related to home appliances or furniture. Positioned near the base of a kitchen cabinet in a modern living space.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204554/10/object_in_frame_593.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204554/10/object_in_frame_501.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204554/10/object_in_frame_596.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204554/10/object_in_frame_521.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204554/10/object_in_frame_494.png"
+    ]
+}

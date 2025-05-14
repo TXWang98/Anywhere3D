@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden chair with a dark brown finish and rectangular shape. Features a cushioned seat and backrest with a patterned fabric cover. Designed for seating, likely in a casual indoor setting. Positioned near a desk with various items like clothes and shoes scattered around, suggesting a lived-in space.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/chair-6/object_in_frame_747.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/chair-6/object_in_frame_783.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/chair-6/object_in_frame_5373.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/chair-6/object_in_frame_3150.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/chair-6/object_in_frame_5058.png"
+    ]
+}

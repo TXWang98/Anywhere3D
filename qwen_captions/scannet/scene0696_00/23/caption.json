@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a translucent appearance and irregular shape. The structure includes various compartments and slots. Likely used for organizing small items. Found on a cluttered shelf among other household objects, suggesting a storage or utility room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/wall-23/object_in_frame_898.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/wall-23/object_in_frame_50.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/wall-23/object_in_frame_846.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/wall-23/object_in_frame_848.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/wall-23/object_in_frame_110.png"
+    ]
+}

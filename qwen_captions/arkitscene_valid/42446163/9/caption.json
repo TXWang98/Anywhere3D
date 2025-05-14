@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with translucent pink coloring and cylindrical shape. The tapered rim suggests it could be a cup or small vase. Its smooth surface lacks distinct structural features. Likely used for holding small items or decorative purposes. Positioned near the edge of a doorway, partially obscured by the door frame.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446163/9/object_in_frame_268.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446163/9/object_in_frame_262.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446163/9/object_in_frame_267.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446163/9/object_in_frame_280.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446163/9/object_in_frame_264.png"
+    ]
+}

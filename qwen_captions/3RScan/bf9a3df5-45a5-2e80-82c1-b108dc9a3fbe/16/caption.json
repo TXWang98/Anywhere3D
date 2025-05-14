@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric possibly bag-type object with dark brown coloring and a rectangular shape. Features multiple compartments and straps. Likely used for carrying personal items. Hanging on a wooden coat rack in an indoor setting, near other garments and household furniture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3df5-45a5-2e80-82c1-b108dc9a3fbe/16/object_in_frame_000075.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3df5-45a5-2e80-82c1-b108dc9a3fbe/16/object_in_frame_000021.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3df5-45a5-2e80-82c1-b108dc9a3fbe/16/object_in_frame_000132.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3df5-45a5-2e80-82c1-b108dc9a3fbe/16/object_in_frame_000076.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3df5-45a5-2e80-82c1-b108dc9a3fbe/16/object_in_frame_000022.png"
+    ]
+}

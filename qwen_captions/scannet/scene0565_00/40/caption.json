@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly container-type object with a dark gray color and rectangular shape. The structure features multiple levels with open sides, suggesting it could be a shelving unit or storage rack. Its function appears to be for holding items, though the specific purpose is unclear. Positioned near a door in an office environment, surrounded by desks, chairs, and other office equipment. Inconclusive evidence for its exact use due to limited visible contents.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0565_00/cart-40/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0565_00/cart-40/object_in_frame_47.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0565_00/cart-40/object_in_frame_24.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0565_00/cart-40/object_in_frame_139.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0565_00/cart-40/object_in_frame_110.png"
+    ]
+}

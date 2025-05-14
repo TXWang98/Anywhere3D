@@ -1,0 +1,10 @@
+{
+    "caption": "\"A matte blue door with a rectangular shape. Features a metallic handle and a small window with a red frame. Serves as an entrance or exit point. Positioned at the end of a hallway, adjacent to wooden panels and a mirror.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/door-21/object_in_frame_1180.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/door-21/object_in_frame_1184.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/door-21/object_in_frame_1224.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/door-21/object_in_frame_1204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/door-21/object_in_frame_1168.png"
+    ]
+}

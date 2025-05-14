@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic possibly shower stall with beige and white tiled walls. Square-shaped enclosure with a drain in the center of the floor. Designed for bathing purposes. Located in a bathroom setting, adjacent to a door.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/wall-17/object_in_frame_824.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/wall-17/object_in_frame_866.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/wall-17/object_in_frame_812.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/wall-17/object_in_frame_858.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/wall-17/object_in_frame_820.png"
+    ]
+}

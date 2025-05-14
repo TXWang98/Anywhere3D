@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric armchair with light blue upholstery and a wooden frame. The chair has a slightly curved backrest and armrests, providing ergonomic support. Designed for comfortable seating in a relaxed environment. Positioned near a window sill with books and cables nearby, suggesting a casual workspace or lounge area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/chair-8/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/chair-8/object_in_frame_460.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/chair-8/object_in_frame_476.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/chair-8/object_in_frame_280.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/chair-8/object_in_frame_444.png"
+    ]
+}

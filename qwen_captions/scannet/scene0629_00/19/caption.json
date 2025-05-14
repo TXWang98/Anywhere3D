@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a translucent appearance and rectangular shape. The tapered rim suggests it may be designed for stacking or storage. Inconclusive evidence for its specific function, but it could be used for holding small items. Located on the ceiling near a light fixture in a residential hallway setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/ceiling light-19/object_in_frame_2376.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/ceiling light-19/object_in_frame_1316.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/ceiling light-19/object_in_frame_2384.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/ceiling light-19/object_in_frame_1312.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/ceiling light-19/object_in_frame_1268.png"
+    ]
+}

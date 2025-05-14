@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic oven with a silver and black color scheme. Rectangular shape with multiple compartments and glass doors. The presence of knobs and handles suggests it is designed for cooking and baking. Positioned in a kitchen setting, adjacent to wooden cabinets and a countertop with various kitchen items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/3/object_in_frame_824.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/3/object_in_frame_886.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/3/object_in_frame_891.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/3/object_in_frame_887.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/3/object_in_frame_807.png"
+    ]
+}

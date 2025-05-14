@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric sofa with a light yellow color and elongated rectangular shape. Features button tufting along the backrest and armrests. Likely designed for seating multiple people. Positioned against a wall in a living room setting, accompanied by red cushions and a small side table nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261142/1/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261142/1/object_in_frame_426.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261142/1/object_in_frame_151.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261142/1/object_in_frame_153.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261142/1/object_in_frame_430.png"
+    ]
+}

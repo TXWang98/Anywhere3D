@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic {generic}-type object with a dark finish and rectangular shape. The tapered rim suggests it could be a vent or part of a lighting fixture. Its flat surface and lack of visible handles indicate it may not be a functional storage unit. Located on the upper section of a kitchen cabinet, above built-in ovens, in a modern kitchen setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204554/21/object_in_frame_328.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204554/21/object_in_frame_326.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204554/21/object_in_frame_325.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204554/21/object_in_frame_323.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204554/21/object_in_frame_280.png"
+    ]
+}

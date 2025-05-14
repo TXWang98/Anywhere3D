@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic trash can with a dark gray color and cylindrical shape. The tapered rim suggests it is designed for easy disposal of waste. It has a simple, utilitarian structure with no visible texture details. Likely used for collecting general office waste. Positioned near an entrance in an office environment, adjacent to a blue recycling bin and wooden doors.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/wall-28/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/wall-28/object_in_frame_918.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/wall-28/object_in_frame_872.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/wall-28/object_in_frame_838.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/wall-28/object_in_frame_920.png"
+    ]
+}

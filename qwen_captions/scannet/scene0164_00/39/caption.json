@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly glass container-type object with a translucent appearance and cylindrical shape. The tapered rim suggests it may be designed for pouring or serving liquids. While resembling a vase, the presence of a label indicates it might have been repurposed from a commercial product. Inconclusive evidence for its current function. Found on a kitchen countertop near a sink, dish soap, and other kitchen items.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/object-39/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/object-39/object_in_frame_1557.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/object-39/object_in_frame_1485.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/object-39/object_in_frame_447.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/object-39/object_in_frame_441.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A collection of books with various colors and rectangular shapes. The spines display different text and images, suggesting diverse content. Likely intended for reading and information storage. Positioned on a shelf within a bookstore environment, surrounded by other books and categorized under \"Cooking.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-60/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-60/object_in_frame_759.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-60/object_in_frame_183.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-60/object_in_frame_186.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-60/object_in_frame_189.png"
+    ]
+}

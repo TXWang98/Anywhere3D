@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic tool-type object with a dark color and rectangular shape. Angular grooves and ridges on its surface. Inconclusive evidence for its exact function, but it may be used for mechanical tasks. Found in a workshop environment near a workbench and various tools.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3da4-45a5-2e80-8082-be634b241693/26/object_in_frame_000251.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3da4-45a5-2e80-8082-be634b241693/26/object_in_frame_000250.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3da4-45a5-2e80-8082-be634b241693/26/object_in_frame_000343.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3da4-45a5-2e80-8082-be634b241693/26/object_in_frame_000000.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3da4-45a5-2e80-8082-be634b241693/26/object_in_frame_000341.png"
+    ]
+}

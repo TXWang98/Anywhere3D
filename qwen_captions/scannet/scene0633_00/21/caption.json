@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric possibly canopy-type object with beige coloring and a draped shape. Features soft, flowing material with gathered edges. Likely designed to provide shade or decoration. Positioned above a crib in a nursery setting, near a changing table and other baby-related items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0633_00/baby mobile-21/object_in_frame_132.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0633_00/baby mobile-21/object_in_frame_1150.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0633_00/baby mobile-21/object_in_frame_112.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0633_00/baby mobile-21/object_in_frame_166.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0633_00/baby mobile-21/object_in_frame_146.png"
+    ]
+}

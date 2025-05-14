@@ -1,0 +1,10 @@
+{
+    "caption": "A white towel with a soft texture and rectangular shape. Hanging neatly on a metal towel bar. Likely used for drying hands or body. Positioned in a bathroom setting near a bathtub and toilet, with tiled walls in the background.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0693_00/shower door-19/object_in_frame_670.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0693_00/shower door-19/object_in_frame_508.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0693_00/shower door-19/object_in_frame_696.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0693_00/shower door-19/object_in_frame_690.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0693_00/shower door-19/object_in_frame_504.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A paper book with white pages and a rectangular shape. The visible text and images suggest it is open, likely for reading or studying. Positioned on a dark table surface alongside other books and stationery items in what appears to be a study or office setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0671_00/book-9/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0671_00/book-9/object_in_frame_570.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0671_00/book-9/object_in_frame_540.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0671_00/book-9/object_in_frame_521.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0671_00/book-9/object_in_frame_7.png"
+    ]
+}

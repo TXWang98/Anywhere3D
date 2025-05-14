@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric backpack with dark gray and black coloring and a rectangular shape. Features multiple compartments and straps. Designed for carrying personal items. Positioned on the floor beside a wooden chair in a casual dining area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0647_00/backpack-21/object_in_frame_529.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0647_00/backpack-21/object_in_frame_508.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0647_00/backpack-21/object_in_frame_576.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0647_00/backpack-21/object_in_frame_475.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0647_00/backpack-21/object_in_frame_478.png"
+    ]
+}

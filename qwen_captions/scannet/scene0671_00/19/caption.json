@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic storage cart with orange and white coloring and a multi-tiered shape. Features multiple compartments and wheels for mobility. Likely used for organizing and transporting items. Positioned near a table with books and documents, suggesting an office or study environment.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0671_00/cart-19/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0671_00/cart-19/object_in_frame_459.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0671_00/cart-19/object_in_frame_191.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0671_00/cart-19/object_in_frame_440.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0671_00/cart-19/object_in_frame_195.png"
+    ]
+}

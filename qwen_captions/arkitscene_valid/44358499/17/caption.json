@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic trash can with a silver finish and cylindrical shape. Features a foot pedal mechanism for hands-free operation. Likely used for waste disposal. Positioned on the tiled floor of a kitchen near cabinets and a pet bowl.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/17/object_in_frame_670.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/17/object_in_frame_677.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/17/object_in_frame_679.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/17/object_in_frame_188.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/17/object_in_frame_195.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden bookshelf with a variety of colors and rectangular shapes. Holds numerous books in an organized manner. Likely used for storage and display of reading materials. Positioned against a wall, adjacent to another similar shelf.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0558_00/books-19/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0558_00/books-19/object_in_frame_156.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0558_00/books-19/object_in_frame_150.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0558_00/books-19/object_in_frame_91.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0558_00/books-19/object_in_frame_98.png"
+    ]
+}

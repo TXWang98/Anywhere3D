@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a white and translucent appearance. The shape is rectangular with rounded edges, and it appears to have a lid or cover. While resembling a storage box, the presence of items inside suggests it may be used for organizing small objects. Found on top of a bookshelf in a library setting, surrounded by books and other miscellaneous items. Inconclusive evidence for its exact function, but it likely serves as a utility container within the library environment.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-89/object_in_frame_1392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-89/object_in_frame_36.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-89/object_in_frame_222.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-89/object_in_frame_1410.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-89/object_in_frame_198.png"
+    ]
+}

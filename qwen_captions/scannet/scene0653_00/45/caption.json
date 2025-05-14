@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric bag-type object with black and white coloring and a rectangular shape. Features visible text \"HEAD\" on its surface. Likely used for carrying sports equipment or personal items. Positioned on a desk next to a laptop and office supplies in an office setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/office chair-45/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/office chair-45/object_in_frame_570.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/office chair-45/object_in_frame_468.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/office chair-45/object_in_frame_708.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/office chair-45/object_in_frame_504.png"
+    ]
+}

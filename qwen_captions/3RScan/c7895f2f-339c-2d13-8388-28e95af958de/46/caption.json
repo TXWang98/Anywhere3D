@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic container-type object with dark coloring and cylindrical shape. The tapered rim suggests it could be a decorative vase or storage jar. Inconclusive evidence for its exact function, but it appears to have a smooth surface. Positioned on a wooden shelf alongside other similar containers in what seems to be a retail display setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c7895f2f-339c-2d13-8388-28e95af958de/46/object_in_frame_000170.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c7895f2f-339c-2d13-8388-28e95af958de/46/object_in_frame_000167.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c7895f2f-339c-2d13-8388-28e95af958de/46/object_in_frame_000169.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c7895f2f-339c-2d13-8388-28e95af958de/46/object_in_frame_000228.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c7895f2f-339c-2d13-8388-28e95af958de/46/object_in_frame_000171.png"
+    ]
+}

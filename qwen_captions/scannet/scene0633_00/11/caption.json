@@ -1,0 +1,10 @@
+{
+    "caption": "A white possibly cabinet-type object with a smooth surface and rectangular shape. Features two doors with black handles and a small yellow sticker on the side. Likely used for storage. Positioned against a light green wall near a crib and a clock.\n\nConfidence Signals:\n- \"The presence of doors and handles suggests it is designed for storage.\"\n- \"While resembling a cabinet, the surrounding context of a nursery setting supports its use as a storage unit.\"\n- \"Inconclusive evidence for its exact contents, but its placement indicates it may hold baby-related items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0633_00/wall-11/object_in_frame_1158.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0633_00/wall-11/object_in_frame_1122.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0633_00/wall-11/object_in_frame_1146.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0633_00/wall-11/object_in_frame_1138.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0633_00/wall-11/object_in_frame_1134.png"
+    ]
+}

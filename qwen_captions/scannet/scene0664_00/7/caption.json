@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic electrical outlet cover with white coloring and rectangular shape. Smooth surface with multiple plug slots. Designed for safe electrical access. Mounted on a beige wall near a bathroom countertop with various toiletries.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0664_00/light switch-7/object_in_frame_968.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0664_00/light switch-7/object_in_frame_960.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0664_00/light switch-7/object_in_frame_956.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0664_00/light switch-7/object_in_frame_962.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0664_00/light switch-7/object_in_frame_954.png"
+    ]
+}

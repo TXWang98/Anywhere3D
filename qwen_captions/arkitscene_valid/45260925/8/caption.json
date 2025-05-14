@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly fireplace with dark gray and rectangular shape. Features a traditional mantel design with intricate detailing. Likely used for heating or decorative purposes. Positioned against a wall in a living room setting, surrounded by furniture and decor items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260925/8/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260925/8/object_in_frame_377.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260925/8/object_in_frame_24.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260925/8/object_in_frame_104.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260925/8/object_in_frame_624.png"
+    ]
+}

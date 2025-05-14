@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy plastic detergent bottle with bright orange coloring and a rounded, slightly tapered shape. The bottle has a smooth surface with a white cap and visible branding. Likely used for storing and dispensing laundry detergent. Positioned on top of a washing machine in a laundry room setting, alongside other cleaning supplies and cardboard boxes.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0139_00/washing machine-1/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0139_00/washing machine-1/object_in_frame_470.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0139_00/washing machine-1/object_in_frame_468.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0139_00/washing machine-1/object_in_frame_380.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0139_00/washing machine-1/object_in_frame_446.png"
+    ]
+}

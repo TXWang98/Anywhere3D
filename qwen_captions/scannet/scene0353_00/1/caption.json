@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric backpack-type object with dark blue and gray coloring. Has a rectangular shape with multiple compartments and zippers. Likely used for carrying personal items. Seen on the floor near a pair of shoes and in front of a small refrigerator in a cluttered room setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/shoes-1/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/shoes-1/object_in_frame_900.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/shoes-1/object_in_frame_756.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/shoes-1/object_in_frame_896.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/shoes-1/object_in_frame_908.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric-covered chair with a light beige and white color scheme. The chair has a simple, cushioned seat and backrest with a metal frame structure. Likely designed for seating comfort in an office or study area. Positioned near a desk with various items like a laptop, papers, and books, suggesting a workspace setup.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0144_00/clothes-27/object_in_frame_670.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0144_00/clothes-27/object_in_frame_0.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0144_00/clothes-27/object_in_frame_698.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0144_00/clothes-27/object_in_frame_684.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0144_00/clothes-27/object_in_frame_688.png"
+    ]
+}

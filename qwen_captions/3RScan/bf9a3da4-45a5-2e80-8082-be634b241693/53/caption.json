@@ -1,0 +1,9 @@
+{
+    "caption": "\"A possibly plastic container-type object with a translucent green color and rectangular shape. The structure appears to have a lid or cover, suggesting it is used for storage. Its function is likely for organizing small items. It is placed on a shelf among other storage containers and office supplies in what seems to be an organized workspace.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3da4-45a5-2e80-8082-be634b241693/53/object_in_frame_000057.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3da4-45a5-2e80-8082-be634b241693/53/object_in_frame_000081.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3da4-45a5-2e80-8082-be634b241693/53/object_in_frame_000056.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3da4-45a5-2e80-8082-be634b241693/53/object_in_frame_000082.png"
+    ]
+}

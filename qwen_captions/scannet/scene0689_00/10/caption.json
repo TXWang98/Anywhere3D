@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic chair with black and red coloring and a contoured shape. Features armrests, a cushioned seat, and a backrest with mesh material. Designed for ergonomic seating in an office environment. Positioned under a table alongside other chairs in a meeting room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0689_00/chair-10/object_in_frame_515.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0689_00/chair-10/object_in_frame_492.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0689_00/chair-10/object_in_frame_500.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0689_00/chair-10/object_in_frame_520.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0689_00/chair-10/object_in_frame_522.png"
+    ]
+}

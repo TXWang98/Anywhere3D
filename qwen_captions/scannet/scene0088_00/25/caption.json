@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic trash can-type object with a dark gray color and cylindrical shape. Has a simple, utilitarian design with no visible lid or decorative features. Likely used for waste disposal. Positioned near the corner of a room, adjacent to a whiteboard and a small table holding miscellaneous items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0088_00/wall-25/object_in_frame_529.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0088_00/wall-25/object_in_frame_426.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0088_00/wall-25/object_in_frame_423.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0088_00/wall-25/object_in_frame_402.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0088_00/wall-25/object_in_frame_541.png"
+    ]
+}

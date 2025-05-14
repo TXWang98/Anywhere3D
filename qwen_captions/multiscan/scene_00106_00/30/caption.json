@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden dresser with a light brown finish and rectangular shape. Features multiple drawers with metal handles and a glass-paneled door. Likely used for storage of clothing or household items. Positioned against a wall near a chair with a teal cushion, in a room with various objects on top including jars and papers.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/30/object_in_frame_6140.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/30/object_in_frame_9746.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/30/object_in_frame_9767.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/30/object_in_frame_9808.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/30/object_in_frame_5333.png"
+    ]
+}

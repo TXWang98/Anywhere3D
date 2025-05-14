@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy plastic monitor with a black screen and rectangular shape. Has a sleek design with ventilation slots on the back. Used for displaying digital content. Positioned on a desk in an office environment, surrounded by various office supplies and equipment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/monitor-2/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/monitor-2/object_in_frame_126.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/monitor-2/object_in_frame_1473.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/monitor-2/object_in_frame_1446.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/monitor-2/object_in_frame_1458.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic sink with white coloring and an oval shape. Smooth, glossy surface with a slightly raised basin edge. Designed for handwashing or other bathroom hygiene tasks. Positioned on top of a wooden vanity cabinet in a bathroom setting, near cleaning supplies.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898818/3/object_in_frame_297.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898818/3/object_in_frame_299.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898818/3/object_in_frame_300.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898818/3/object_in_frame_296.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898818/3/object_in_frame_304.png"
+    ]
+}

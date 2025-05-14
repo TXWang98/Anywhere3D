@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a translucent appearance and rectangular shape. The tapered rim suggests it might be used for storage or transport of small items. Inconclusive evidence for its exact function. Located on an office desk near computer equipment and other work-related items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/31/object_in_frame_000345.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/31/object_in_frame_000830.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/31/object_in_frame_000101.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/31/object_in_frame_001116.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/31/object_in_frame_001311.png"
+    ]
+}

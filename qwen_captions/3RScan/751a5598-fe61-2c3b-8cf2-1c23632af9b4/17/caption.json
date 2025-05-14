@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with translucent blue coloring and rectangular shape. Has a simple, flat structure with no visible handle or lid. Likely used for storing small items. Seen on a desk in an office environment near computer equipment and other work-related objects.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/17/object_in_frame_000917.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/17/object_in_frame_000106.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/17/object_in_frame_000211.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/17/object_in_frame_000928.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/17/object_in_frame_000525.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden window frame with light brown coloring and rectangular shape. The structure includes multiple panes and a visible latch mechanism. Likely designed for ventilation and natural light entry. Positioned along the wall, adjacent to seating arrangements in a meeting or classroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/wall-23/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/wall-23/object_in_frame_460.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/wall-23/object_in_frame_308.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/wall-23/object_in_frame_432.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/wall-23/object_in_frame_38.png"
+    ]
+}

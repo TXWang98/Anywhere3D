@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric jacket-type object with dark and patterned coloring. Appears draped over a chair with visible folds and seams. Likely worn as outerwear. Positioned in a living space near a security vest and other household items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/14/object_in_frame_498.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/14/object_in_frame_470.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/14/object_in_frame_476.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/14/object_in_frame_475.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/14/object_in_frame_471.png"
+    ]
+}

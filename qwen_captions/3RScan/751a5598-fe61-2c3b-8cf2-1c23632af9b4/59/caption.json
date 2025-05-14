@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a translucent white color and cylindrical shape. The tapered rim suggests it could be a cup or small bucket. It has a smooth texture and appears to have a functional handle for carrying. Likely used for holding liquids or small items. Found on the floor near a workstation with various tools and equipment around.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/59/object_in_frame_001100.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/59/object_in_frame_000571.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/59/object_in_frame_000850.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/59/object_in_frame_001426.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/59/object_in_frame_000694.png"
+    ]
+}

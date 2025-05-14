@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden conference table with a light brown finish and rectangular shape. The surface is smooth with cable management features integrated into the tabletop. Designed for meetings and collaborative work. Positioned in a meeting room surrounded by black office chairs, cables, and various electronic devices.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/table-14/object_in_frame_1884.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/table-14/object_in_frame_2068.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/table-14/object_in_frame_1080.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/table-14/object_in_frame_1928.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/table-14/object_in_frame_1068.png"
+    ]
+}

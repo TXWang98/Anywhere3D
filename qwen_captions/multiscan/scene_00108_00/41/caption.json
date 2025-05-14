@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly tool-type object with a matte silver finish and angular grooves. Ambiguous function between wrench or specialized clamp. Seen in workshop environment near assembly parts.\n\nInconclusive evidence for its exact purpose, but the presence of other tools and equipment suggests it is used for mechanical tasks. The object's placement on top of a microwave indicates it might be temporarily stored there.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/41/object_in_frame_7879.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/41/object_in_frame_7911.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/41/object_in_frame_7849.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/41/object_in_frame_7834.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/41/object_in_frame_7896.png"
+    ]
+}

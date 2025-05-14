@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a dark blue and gray color scheme. Rectangular shape with rounded edges and a slightly textured surface. The tapered rim suggests it may be designed for stacking or storage. Inconclusive evidence for its specific function, but it appears to be placed on a desk alongside office supplies like scissors and a notebook.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/00d42bed-778d-2ac6-86a7-0e0e5f5f5660/29/object_in_frame_000181.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/00d42bed-778d-2ac6-86a7-0e0e5f5f5660/29/object_in_frame_000180.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/00d42bed-778d-2ac6-86a7-0e0e5f5f5660/29/object_in_frame_000184.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/00d42bed-778d-2ac6-86a7-0e0e5f5f5660/29/object_in_frame_000201.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/00d42bed-778d-2ac6-86a7-0e0e5f5f5660/29/object_in_frame_000183.png"
+    ]
+}

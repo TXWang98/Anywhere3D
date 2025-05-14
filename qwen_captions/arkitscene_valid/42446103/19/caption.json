@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden cabinet with a natural finish and rectangular shape. Features glass-paneled doors revealing contents inside. Likely used for storage or display purposes. Positioned against a wall in a living space, near framed artwork and other furniture pieces.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/19/object_in_frame_310.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/19/object_in_frame_303.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/19/object_in_frame_300.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/19/object_in_frame_304.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/19/object_in_frame_309.png"
+    ]
+}

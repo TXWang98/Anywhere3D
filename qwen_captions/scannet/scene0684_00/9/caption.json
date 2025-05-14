@@ -1,0 +1,10 @@
+{
+    "caption": "A cardboard box with a brown color and rectangular shape. The structure is open at the top, revealing some contents inside. Likely used for storage or transport. Positioned against a wall near a door with a glass panel, adjacent to white containers on the floor.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0684_00/wall-9/object_in_frame_534.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0684_00/wall-9/object_in_frame_587.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0684_00/wall-9/object_in_frame_540.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0684_00/wall-9/object_in_frame_563.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0684_00/wall-9/object_in_frame_554.png"
+    ]
+}

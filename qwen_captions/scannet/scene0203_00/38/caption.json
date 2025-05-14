@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic umbrella-type object with a dark handle and elongated shape. The tapered rim suggests it could be an umbrella, but the lack of visible fabric makes it inconclusive. Likely used for protection from rain or sun. Positioned in a stand near a doorway, surrounded by household items like shoes and storage containers.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/object-38/object_in_frame_270.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/object-38/object_in_frame_274.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/object-38/object_in_frame_282.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/object-38/object_in_frame_266.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/object-38/object_in_frame_264.png"
+    ]
+}

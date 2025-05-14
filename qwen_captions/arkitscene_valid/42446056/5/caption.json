@@ -1,0 +1,10 @@
+{
+    "caption": "\"A woven fabric chair with vibrant rainbow coloring and flat rectangular shape. Features a tightly interlaced texture creating a sturdy seat and backrest. Designed for seating comfort. Positioned in a child's room near a radiator, bed, and toy table.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446056/5/object_in_frame_2328.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446056/5/object_in_frame_2349.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446056/5/object_in_frame_2444.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446056/5/object_in_frame_2336.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446056/5/object_in_frame_2323.png"
+    ]
+}

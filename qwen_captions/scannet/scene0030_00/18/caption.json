@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic bookshelf with a variety of colors and rectangular shape. Features multiple shelves filled with books of different sizes and orientations. Serves as a storage unit for literature. Positioned against a wall near a window, with cardboard boxes and other furniture in the vicinity.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/bookshelf-18/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/bookshelf-18/object_in_frame_884.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/bookshelf-18/object_in_frame_2280.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/bookshelf-18/object_in_frame_896.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/bookshelf-18/object_in_frame_904.png"
+    ]
+}

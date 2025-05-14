@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric possibly container-type object with beige and white tones. Appears to have a soft, crumpled texture and irregular shape. Likely used for storing or organizing items. Found on top of a wooden dresser in a cluttered bedroom setting, surrounded by other storage bins and personal belongings.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/clothes-40/object_in_frame_3672.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/clothes-40/object_in_frame_5202.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/clothes-40/object_in_frame_1062.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/clothes-40/object_in_frame_3933.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/clothes-40/object_in_frame_5157.png"
+    ]
+}

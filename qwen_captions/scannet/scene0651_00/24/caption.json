@@ -1,0 +1,10 @@
+{
+    "caption": "\"A plastic possibly container-type object with vibrant blue coloring and a rectangular shape. Features perforated sides for ventilation or drainage. Likely used for storage or waste collection. Positioned in a corner near a white cabinet and electrical outlet, suggesting a utility room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0651_00/wall-24/object_in_frame_529.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0651_00/wall-24/object_in_frame_510.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0651_00/wall-24/object_in_frame_540.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0651_00/wall-24/object_in_frame_563.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0651_00/wall-24/object_in_frame_554.png"
+    ]
+}

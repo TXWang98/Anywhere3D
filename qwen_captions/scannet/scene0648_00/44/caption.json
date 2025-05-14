@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric slipper with dark coloring and flat shape. Appears soft and flexible. Likely designed for indoor footwear. Found on the floor near a chair and storage containers in a bedroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/shoes-44/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/shoes-44/object_in_frame_312.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/shoes-44/object_in_frame_1428.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/shoes-44/object_in_frame_372.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/shoes-44/object_in_frame_3546.png"
+    ]
+}

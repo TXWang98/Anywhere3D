@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly container-type object with silver coloring and rectangular shape. Has a smooth surface and appears to have a lid or cover. Likely used for storage or transport of small items. Positioned on a shelf among other containers and office supplies in what seems to be an organized storage area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3da4-45a5-2e80-8082-be634b241693/14/object_in_frame_000054.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3da4-45a5-2e80-8082-be634b241693/14/object_in_frame_000066.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3da4-45a5-2e80-8082-be634b241693/14/object_in_frame_000332.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3da4-45a5-2e80-8082-be634b241693/14/object_in_frame_000067.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3da4-45a5-2e80-8082-be634b241693/14/object_in_frame_000052.png"
+    ]
+}

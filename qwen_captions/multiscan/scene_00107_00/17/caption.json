@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly pipe-type object with a silver color and cylindrical shape. Features a smooth surface with visible joints and connections. Likely part of a plumbing system. Positioned adjacent to a toilet in a bathroom setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/17/object_in_frame_6463.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/17/object_in_frame_6488.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/17/object_in_frame_4260.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/17/object_in_frame_4005.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/17/object_in_frame_4336.png"
+    ]
+}

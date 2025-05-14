@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic oven with a black and stainless steel finish. Rectangular shape with a glass door and control panel on the front. Designed for baking and cooking. Positioned in a kitchen setting, surrounded by wooden cabinets and countertops.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/2/object_in_frame_909.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/2/object_in_frame_607.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/2/object_in_frame_608.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/2/object_in_frame_881.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/2/object_in_frame_908.png"
+    ]
+}

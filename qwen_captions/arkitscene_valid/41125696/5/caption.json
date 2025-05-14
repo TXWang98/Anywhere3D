@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy black television with a rectangular shape. Flat screen and slim profile design. Likely for entertainment purposes. Positioned on a glass stand in a modern living room setting, near a sofa and coffee table.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125696/5/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125696/5/object_in_frame_92.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125696/5/object_in_frame_674.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125696/5/object_in_frame_623.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125696/5/object_in_frame_122.png"
+    ]
+}

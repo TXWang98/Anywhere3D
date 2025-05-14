@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a translucent appearance and rectangular shape. The tapered rim suggests it may be designed for pouring or dispensing contents. Inconclusive evidence for its exact function, but it could serve as a storage bin or organizer. Positioned on a desk near other office supplies and equipment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/20/object_in_frame_000011.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/20/object_in_frame_000001.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/20/object_in_frame_000010.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/20/object_in_frame_000012.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/20/object_in_frame_000013.png"
+    ]
+}

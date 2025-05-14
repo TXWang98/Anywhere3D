@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden possibly cabinet-type object with a light brown finish and rectangular shape. Features multiple drawers and doors with visible handles. Likely used for storage purposes. Positioned against the wall in a living room setting, near a television and other furniture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663149/9/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663149/9/object_in_frame_47.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663149/9/object_in_frame_55.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663149/9/object_in_frame_49.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663149/9/object_in_frame_201.png"
+    ]
+}

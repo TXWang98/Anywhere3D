@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic chair with dark gray coloring and a rectangular shape. Features a perforated backrest and armrests. Designed for seating in office or meeting environments. Positioned near a table in a conference room setting, surrounded by similar chairs and a projector screen on the wall.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0430_00/chair-7/object_in_frame_366.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0430_00/chair-7/object_in_frame_378.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0430_00/chair-7/object_in_frame_414.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0430_00/chair-7/object_in_frame_372.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0430_00/chair-7/object_in_frame_375.png"
+    ]
+}

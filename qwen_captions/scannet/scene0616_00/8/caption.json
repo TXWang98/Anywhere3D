@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric armchair with beige upholstery and a cushioned shape. Features padded armrests and a slightly reclined backrest. Designed for comfortable seating. Positioned in a living room setting near a fireplace, alongside another similar chair and a metal-framed chair.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/armchair-8/object_in_frame_1035.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/armchair-8/object_in_frame_2715.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/armchair-8/object_in_frame_980.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/armchair-8/object_in_frame_2750.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/armchair-8/object_in_frame_110.png"
+    ]
+}

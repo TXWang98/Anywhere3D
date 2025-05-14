@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic vase-type object with white coloring and a slender, elongated shape. The tapered rim suggests it may be designed for holding flowers or decorative purposes. While resembling a vase, the presence of a small opening at the top hints at potential functional affordances like pouring or serving. Situated on a table covered with a lace tablecloth, surrounded by chairs and other dining-related items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/18/object_in_frame_1191.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/18/object_in_frame_1190.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/18/object_in_frame_1189.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/18/object_in_frame_1101.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/18/object_in_frame_1185.png"
+    ]
+}

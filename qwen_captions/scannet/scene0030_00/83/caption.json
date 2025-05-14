@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic tool-type object, matte silver with angular grooves. Ambiguous function between wrench or specialized clamp. Seen in workshop environment near assembly parts.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/books-83/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/books-83/object_in_frame_756.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/books-83/object_in_frame_2244.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/books-83/object_in_frame_2212.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/books-83/object_in_frame_2204.png"
+    ]
+}

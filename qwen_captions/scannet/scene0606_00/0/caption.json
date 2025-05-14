@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic vase-type object with a translucent appearance and fluted body shape. The tapered rim suggests it may be used for floral arrangements. While resembling a vase, the presence of water droplets on its surface indicates recent use or cleaning. Found on a windowsill alongside other plants and gardening tools, suggesting a decorative yet functional placement in a kitchen environment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/wall-0/object_in_frame_328.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/wall-0/object_in_frame_368.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/wall-0/object_in_frame_356.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/wall-0/object_in_frame_292.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/wall-0/object_in_frame_372.png"
+    ]
+}

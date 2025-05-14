@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic dollhouse with pastel pink and purple coloring and a multi-level structure. Features detailed rooms and furniture inside. Designed for imaginative play. Positioned on a bed in a child's bedroom, surrounded by toys and bedding.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/dollhouse-12/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/dollhouse-12/object_in_frame_792.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/dollhouse-12/object_in_frame_976.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/dollhouse-12/object_in_frame_980.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/dollhouse-12/object_in_frame_780.png"
+    ]
+}

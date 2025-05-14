@@ -1,0 +1,10 @@
+{
+    "caption": "\"A polished wooden wardrobe with a rich brown hue and rectangular shape. Features vertical panels, horizontal slats, and a sturdy handle. Designed for storing clothes and personal items. Positioned against a wall in a bedroom setting, adjacent to a bed and ceiling light fixture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898581/5/object_in_frame_310.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898581/5/object_in_frame_1752.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898581/5/object_in_frame_1735.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898581/5/object_in_frame_1766.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898581/5/object_in_frame_1759.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic chair with dark brown and black coloring and a rectangular shape. Features a mesh backrest and armrests, along with white legs and wheels. Likely designed for office or meeting room seating. Positioned around a light beige table in a conference room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0430_00/chair-3/object_in_frame_1047.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0430_00/chair-3/object_in_frame_1137.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0430_00/chair-3/object_in_frame_1095.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0430_00/chair-3/object_in_frame_1707.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0430_00/chair-3/object_in_frame_1260.png"
+    ]
+}

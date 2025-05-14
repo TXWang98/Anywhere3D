@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric chair with a neutral gray color and an ergonomic shape. Features cushioned seating and backrest with visible texture. Likely designed for comfortable seating. Positioned around a dining table in a living space, alongside other chairs and furniture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/9/object_in_frame_515.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/9/object_in_frame_482.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/9/object_in_frame_484.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/9/object_in_frame_793.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/9/object_in_frame_493.png"
+    ]
+}

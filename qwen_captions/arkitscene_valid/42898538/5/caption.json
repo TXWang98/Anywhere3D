@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic container-type object with a light beige color and rectangular shape. Has a textured surface resembling woven material. Likely used for storing small items or as a decorative piece. Placed on a wooden vanity table alongside various toiletries and personal care products.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898538/5/object_in_frame_824.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898538/5/object_in_frame_796.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898538/5/object_in_frame_758.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898538/5/object_in_frame_709.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898538/5/object_in_frame_760.png"
+    ]
+}

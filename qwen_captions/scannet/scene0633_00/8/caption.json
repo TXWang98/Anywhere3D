@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric curtain with beige coloring and a soft, textured appearance. The material drapes vertically, creating folds and shadows. Likely used for light control and privacy in the room. Positioned beside a window with a sheer white panel underneath, near a cozy armchair with cushions.\n\nConfidence Signals:\n- \"The vertical folds suggest it is designed to be drawn open or closed.\"\n- \"While resembling a standard curtain, the presence of the sheer panel indicates a layered approach to window treatment.\"\n- \"Inconclusive evidence for its exact length, but it appears to extend fully from the top of the window.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0633_00/curtain-8/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0633_00/curtain-8/object_in_frame_92.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0633_00/curtain-8/object_in_frame_54.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0633_00/curtain-8/object_in_frame_514.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0633_00/curtain-8/object_in_frame_522.png"
+    ]
+}

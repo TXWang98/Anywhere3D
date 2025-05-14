@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic mug with dark brown coloring and cylindrical shape. The tapered rim suggests it is designed for drinking. Likely used for beverages like coffee or tea. Placed on a kitchen countertop near a toaster and kettle, indicating a typical breakfast setup.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897521/4/object_in_frame_567.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897521/4/object_in_frame_570.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897521/4/object_in_frame_559.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897521/4/object_in_frame_543.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897521/4/object_in_frame_566.png"
+    ]
+}

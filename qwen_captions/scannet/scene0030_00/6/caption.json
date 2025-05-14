@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric-covered chair with blue upholstery and a rectangular backrest. The chair has a simple, functional design with metal legs. Likely used for seating in an educational or office setting. Positioned at a desk near another chair and a chalkboard.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/chair-6/object_in_frame_1392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/chair-6/object_in_frame_1500.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/chair-6/object_in_frame_1464.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/chair-6/object_in_frame_1264.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/chair-6/object_in_frame_1260.png"
+    ]
+}

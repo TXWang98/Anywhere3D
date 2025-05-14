@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a blue and white pattern. Cylindrical shape with a tapered rim suggests it could be a cup or small canister. Structure includes a lid or cap on top. Likely used for storing or serving items. Placed on a desk near a laptop, phone, and other personal belongings.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/object-15/object_in_frame_32.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/object-15/object_in_frame_2380.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/object-15/object_in_frame_2384.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/object-15/object_in_frame_648.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/object-15/object_in_frame_40.png"
+    ]
+}

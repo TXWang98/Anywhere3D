@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy plastic monitor with black coloring and rectangular shape. Has a sleek design with a thin bezel and stand support. Made for computer display purposes. Positioned on a desk alongside keyboards, mice, and other computer peripherals in an office setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0095_00/monitor-7/object_in_frame_898.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0095_00/monitor-7/object_in_frame_1122.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0095_00/monitor-7/object_in_frame_1040.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0095_00/monitor-7/object_in_frame_880.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0095_00/monitor-7/object_in_frame_1134.png"
+    ]
+}

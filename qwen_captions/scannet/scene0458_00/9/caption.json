@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with white coloring and a cylindrical shape. The tapered rim suggests it might be a bottle or dispenser. While resembling a storage container, the presence of a pump mechanism indicates it could be for dispensing liquid. Likely used for storing and dispensing bathroom products. Found on a shower shelf alongside other hygiene items like a soap dispenser and cleaning tools.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/soap dish-9/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/soap dish-9/object_in_frame_783.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/soap dish-9/object_in_frame_150.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/soap dish-9/object_in_frame_135.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/soap dish-9/object_in_frame_162.png"
+    ]
+}

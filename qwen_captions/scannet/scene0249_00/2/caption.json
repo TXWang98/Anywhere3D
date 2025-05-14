@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric-covered chair with a deep red color and an upright backrest. Features armrests and a cushioned seat. Likely designed for seating comfort. Positioned near a conference table in a meeting room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/stack of chairs-2/object_in_frame_1392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/stack of chairs-2/object_in_frame_312.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/stack of chairs-2/object_in_frame_1364.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/stack of chairs-2/object_in_frame_1376.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/stack of chairs-2/object_in_frame_1380.png"
+    ]
+}

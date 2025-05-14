@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic mug with white coloring and a cylindrical shape. Has a handle on one side and a flat base. Made for holding beverages. Positioned on a kitchen countertop near other mugs and a sink area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/2/object_in_frame_799.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/2/object_in_frame_727.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/2/object_in_frame_816.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/2/object_in_frame_829.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/2/object_in_frame_821.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic tool-type object, matte silver with angular grooves. Ambiguous function between wrench or specialized clamp. Seen in workshop environment near assembly parts.\" \n\nIn this case, the green bounding box appears to enclose a section of a white cabinet or storage unit rather than a distinct object. Given the lack of clear attributes and functional affordances within the bounding box, it is challenging to confidently categorize the object. The surrounding context includes a classroom setting with desks, monitors, and typical office supplies.\n\nRevised Caption:\n\"Inconclusive evidence for a specific category within the green bounding box. Appears to be part of a white cabinet or storage unit with no distinct color patterns or material properties. Structural features are not clearly visible. Functional affordances are ambiguous. Located in a classroom environment near desks and office supplies.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/cabinet-61/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/cabinet-61/object_in_frame_0.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/cabinet-61/object_in_frame_24.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/cabinet-61/object_in_frame_858.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/cabinet-61/object_in_frame_1272.png"
+    ]
+}

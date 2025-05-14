@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric-covered chair with a light green and white pattern. The chair has a cushioned seat and backrest, with a slightly curved frame. It appears designed for comfortable seating at a table. Positioned near a wooden dining table in a room with leaf-patterned wallpaper.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115550/10/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115550/10/object_in_frame_537.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115550/10/object_in_frame_687.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115550/10/object_in_frame_539.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115550/10/object_in_frame_437.png"
+    ]
+}

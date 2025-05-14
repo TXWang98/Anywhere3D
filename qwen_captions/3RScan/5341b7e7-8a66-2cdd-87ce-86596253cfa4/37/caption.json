@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly fabric container-type object with dark brown coloring and irregular shape. Appears soft and flexible, lacking rigid structure. Likely used for storage or as a cushion. Seen partially under bedding on a bed with pillows and striped sheets nearby.\"\n\n\"A possibly metallic tool-type object with light gray coloring and elongated shape. Angular grooves suggest specialized function. Inconclusive evidence for exact purpose between wrench or clamp. Found in workshop environment near assembly parts.\"\n\n\"A glossy ceramic mug with white coloring and cylindrical shape. The tapered rim suggests it is designed for drinking. Has a comfortable handle and flat base. Made for holding beverages. Sitting on a countertop beside other kitchen items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/37/object_in_frame_000233.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/37/object_in_frame_000196.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/37/object_in_frame_000163.png"
+    ]
+}

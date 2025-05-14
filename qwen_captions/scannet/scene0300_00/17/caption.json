@@ -1,0 +1,10 @@
+{
+    "caption": "\"A translucent fabric window covering with a light gray color and rectangular shape. The material appears soft and slightly textured, allowing diffused light to pass through. Likely used for privacy and light control in an office setting. Positioned above a wooden windowsill, with framed artwork on the wall nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0300_00/wall-17/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0300_00/wall-17/object_in_frame_1096.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0300_00/wall-17/object_in_frame_1100.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0300_00/wall-17/object_in_frame_920.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0300_00/wall-17/object_in_frame_1030.png"
+    ]
+}

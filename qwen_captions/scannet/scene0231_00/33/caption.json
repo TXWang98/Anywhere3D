@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic clock with a white face and circular shape. Enclosed in a green frame. Likely used for timekeeping. Mounted on the wall above a kitchen counter, near a rice cooker and other small appliances.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/clock-33/object_in_frame_84.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/clock-33/object_in_frame_1897.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/clock-33/object_in_frame_980.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/clock-33/object_in_frame_2562.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/clock-33/object_in_frame_1015.png"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly ceramic container-type object with a green lid and cylindrical shape. The tapered rim suggests it could be a jar or storage container. Its function is inconclusive but may be for holding small items. Placed on a windowsill near other similar containers, against a backdrop of a rainy outdoor scene.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/27/object_in_frame_000052.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/27/object_in_frame_000051.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/27/object_in_frame_000053.png"
+    ]
+}

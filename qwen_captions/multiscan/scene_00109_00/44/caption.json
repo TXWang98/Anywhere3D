@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wall-type object with a neutral beige color and flat, smooth surface. No distinct structural features or textures are visible. Inconclusive evidence for its function. Located adjacent to a sofa with various pillows and bags, in a living room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/44/object_in_frame_9916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/44/object_in_frame_9994.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/44/object_in_frame_11383.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/44/object_in_frame_11414.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/44/object_in_frame_9932.png"
+    ]
+}

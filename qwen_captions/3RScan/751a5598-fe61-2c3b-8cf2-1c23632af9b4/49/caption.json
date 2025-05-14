@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a translucent appearance and irregular shape. The structure includes small compartments or sections. Likely used for organizing small items. Found on a cluttered desk alongside various office supplies and electronic devices.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/49/object_in_frame_000917.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/49/object_in_frame_000106.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/49/object_in_frame_000360.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/49/object_in_frame_000568.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/49/object_in_frame_000130.png"
+    ]
+}

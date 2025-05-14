@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic trash can with a silver finish and cylindrical shape. Overflowing with crumpled white paper. Designed for waste disposal. Positioned near a radiator in a bathroom setting, adjacent to a toilet.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/radiator-10/object_in_frame_1392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/radiator-10/object_in_frame_30.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/radiator-10/object_in_frame_1362.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/radiator-10/object_in_frame_1338.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/radiator-10/object_in_frame_216.png"
+    ]
+}

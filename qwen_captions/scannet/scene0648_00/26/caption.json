@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic storage-type object with a translucent green color and rectangular shape. Features a grid-like pattern on the sides, suggesting it's designed for stacking or organizing. Likely used for storing small items. Found in a dorm room setting near a desk, chair, and other personal belongings. Inconclusive evidence for its exact contents due to the semi-transparent nature of the material.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/chair-26/object_in_frame_2862.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/chair-26/object_in_frame_3426.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/chair-26/object_in_frame_2856.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/chair-26/object_in_frame_3594.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/chair-26/object_in_frame_3432.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic chair with a dark gray cushion and rectangular frame. The structure features a simple, modern design with straight lines and minimal ornamentation. Likely intended for seating at a kitchen island or dining area. Positioned near a kitchen counter with fruit and other items visible in the background.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204554/17/object_in_frame_404.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204554/17/object_in_frame_410.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204554/17/object_in_frame_254.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204554/17/object_in_frame_406.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204554/17/object_in_frame_411.png"
+    ]
+}

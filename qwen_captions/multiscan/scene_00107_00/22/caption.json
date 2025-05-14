@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white possibly plastic light fixture with a rectangular shape. Features four cylindrical lampshades arranged in a row. Likely designed for wall-mounted illumination. Positioned above a mirror in a bathroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/22/object_in_frame_16966.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/22/object_in_frame_16940.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/22/object_in_frame_10945.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/22/object_in_frame_17017.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/22/object_in_frame_10869.png"
+    ]
+}

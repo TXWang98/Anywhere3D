@@ -1,0 +1,10 @@
+{
+    "caption": "A matte black possibly trash can-type object with a rectangular shape. Features a hinged lid and a sturdy build. Likely used for waste disposal. Positioned next to a white data safe in an office setting, near stacked cardboard boxes.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0338_00/cabinet-2/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0338_00/cabinet-2/object_in_frame_570.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0338_00/cabinet-2/object_in_frame_29.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0338_00/cabinet-2/object_in_frame_49.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0338_00/cabinet-2/object_in_frame_38.png"
+    ]
+}

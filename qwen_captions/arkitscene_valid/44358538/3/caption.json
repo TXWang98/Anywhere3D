@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic container-type object with a light blue and white color pattern. The tapered rim suggests it could be a small vase or decorative holder. It has a rounded, slightly irregular shape with no visible handle or spout. Likely used for holding small items or as an ornamental piece. Placed on the edge of a bathtub alongside other toiletries like bottles and tubes.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358538/3/object_in_frame_84.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358538/3/object_in_frame_233.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358538/3/object_in_frame_88.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358538/3/object_in_frame_82.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358538/3/object_in_frame_235.png"
+    ]
+}

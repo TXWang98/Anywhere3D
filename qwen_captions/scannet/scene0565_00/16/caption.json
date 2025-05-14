@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly trash can with a blue lid and cylindrical shape. The surface appears smooth with a slight sheen, indicating a metal material. The tapered rim suggests it is designed for easy disposal of waste. Likely used for office waste management. Positioned near an office door, adjacent to a rolling cart and other office furniture.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0565_00/recycling bin-16/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0565_00/recycling bin-16/object_in_frame_47.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0565_00/recycling bin-16/object_in_frame_101.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0565_00/recycling bin-16/object_in_frame_149.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0565_00/recycling bin-16/object_in_frame_127.png"
+    ]
+}

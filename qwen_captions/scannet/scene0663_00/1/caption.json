@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly wooden door with a frosted glass panel and rectangular shape. The door has a metallic handle and lock mechanism. Likely serves as an entrance or exit. Positioned adjacent to shelving units and office furniture in a workspace setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/door-1/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/door-1/object_in_frame_1848.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/door-1/object_in_frame_1040.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/door-1/object_in_frame_2300.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/door-1/object_in_frame_964.png"
+    ]
+}

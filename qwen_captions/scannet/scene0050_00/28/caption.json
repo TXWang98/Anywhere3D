@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy plastic water bottle with transparent coloring and cylindrical shape. Has a white cap and label. Likely used for drinking water. Positioned on a cluttered desk alongside laptops, papers, and other office supplies.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/laptop-28/object_in_frame_4116.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/laptop-28/object_in_frame_252.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/laptop-28/object_in_frame_3836.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/laptop-28/object_in_frame_4032.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/laptop-28/object_in_frame_3773.png"
+    ]
+}

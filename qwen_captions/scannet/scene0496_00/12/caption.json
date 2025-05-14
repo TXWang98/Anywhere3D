@@ -1,0 +1,10 @@
+{
+    "caption": "\"A black plastic office chair with a mesh backrest and ergonomic design. Features a five-point wheeled base for mobility. Designed for prolonged sitting comfort in professional settings. Positioned near a wooden table and other chairs in a well-lit conference room.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/chair-12/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/chair-12/object_in_frame_610.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/chair-12/object_in_frame_644.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/chair-12/object_in_frame_650.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/chair-12/object_in_frame_566.png"
+    ]
+}

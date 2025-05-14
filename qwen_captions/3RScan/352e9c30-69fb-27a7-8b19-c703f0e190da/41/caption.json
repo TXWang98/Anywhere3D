@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric cushion-type object with beige coloring and rectangular shape. Appears soft and plush with visible folds and seams. Likely used for seating comfort. Positioned on a dark blue sofa alongside other cushions and pillows in a living room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/41/object_in_frame_000260.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/41/object_in_frame_000238.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/41/object_in_frame_000225.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/41/object_in_frame_000231.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/41/object_in_frame_000273.png"
+    ]
+}

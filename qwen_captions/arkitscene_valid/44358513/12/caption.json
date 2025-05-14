@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy black monitor with a rectangular shape. The screen displays an image, and the frame is slim with a slightly curved design. Likely used for computer tasks or entertainment. Positioned on a wooden desk alongside other office equipment like a printer and a chair.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358513/12/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358513/12/object_in_frame_282.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358513/12/object_in_frame_290.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358513/12/object_in_frame_333.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358513/12/object_in_frame_5.png"
+    ]
+}

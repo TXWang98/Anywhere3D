@@ -1,0 +1,10 @@
+{
+    "caption": "\"A plastic storage bin with vibrant blue coloring and a rectangular shape. Features perforated sides for ventilation and white handles for easy carrying. Designed for organizing and storing items. Positioned on the floor in a corner near an electrical outlet, suggesting use in a home or office setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0651_00/wall-11/object_in_frame_593.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0651_00/wall-11/object_in_frame_589.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0651_00/wall-11/object_in_frame_597.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0651_00/wall-11/object_in_frame_584.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0651_00/wall-11/object_in_frame_599.png"
+    ]
+}

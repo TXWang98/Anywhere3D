@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic chair-type object with dark gray coloring and a rectangular shape. Has a flat seat and backrest with armrests. Likely designed for seating in educational or office settings. Positioned in rows alongside other similar chairs in a classroom environment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0257_00/chair-18/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0257_00/chair-18/object_in_frame_470.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0257_00/chair-18/object_in_frame_1124.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0257_00/chair-18/object_in_frame_1094.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0257_00/chair-18/object_in_frame_1106.png"
+    ]
+}

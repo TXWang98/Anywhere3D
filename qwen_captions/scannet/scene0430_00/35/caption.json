@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly glass window with a translucent appearance and rectangular shape. The structure includes a frame and appears to be part of a larger wall assembly. Likely serves as a light source and ventilation option. Positioned above a radiator in a meeting room setting, surrounded by chairs and tables.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0430_00/window-35/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0430_00/window-35/object_in_frame_426.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0430_00/window-35/object_in_frame_513.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0430_00/window-35/object_in_frame_657.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0430_00/window-35/object_in_frame_522.png"
+    ]
+}

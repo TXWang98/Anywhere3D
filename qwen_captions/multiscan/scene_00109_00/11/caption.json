@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly {generic}-type object with no discernible color or shape. Inconclusive evidence for its structure, texture, or function. Located on a wall near a framed artwork and wooden slats.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/11/object_in_frame_9500.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/11/object_in_frame_5267.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/11/object_in_frame_5108.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/11/object_in_frame_13447.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/11/object_in_frame_9462.png"
+    ]
+}

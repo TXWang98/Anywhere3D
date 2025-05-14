@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy ceramic mug with white coloring and a cylindrical shape. Has a comfortable handle and flat base. Made for holding beverages. Sitting on a kitchen counter beside a coffee maker and jar of beans.\"\n\n\"A possibly metallic container-type object with dark coloring and rectangular shape. Inconclusive evidence for its function, but it appears to be part of an appliance. Located above a stove in a kitchen setting.\"\n\n\"A possibly glass bottle-type object with red labeling and cylindrical shape. The tapered rim suggests it is designed for pouring. Likely contains a beverage or sauce. Found on a kitchen counter near utensils and other containers.\"\n\n\"A smooth black induction cooktop with a flat surface and digital controls. Rectangular shape with embedded heating elements. Used for cooking food. Positioned above an oven in a kitchen environment.\"\n\n\"A glossy black induction cooktop with a flat surface and digital controls. Rectangular shape with embedded heating elements. Used for cooking food. Positioned above an oven in a kitchen environment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/14/object_in_frame_401.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/14/object_in_frame_400.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/14/object_in_frame_893.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/14/object_in_frame_646.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/14/object_in_frame_654.png"
+    ]
+}

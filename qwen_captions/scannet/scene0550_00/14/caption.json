@@ -1,0 +1,10 @@
+{
+    "caption": "A ceramic sink with white coloring and a rectangular shape. Features a smooth surface and a central drain. Used for washing hands or other hygiene tasks. Positioned in a bathroom setting, adjacent to a toilet and near a trash bin filled with used paper towels.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/sink-14/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/sink-14/object_in_frame_126.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/sink-14/object_in_frame_102.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/sink-14/object_in_frame_1050.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/sink-14/object_in_frame_66.png"
+    ]
+}

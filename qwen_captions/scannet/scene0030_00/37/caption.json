@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly cardboard box-type object with a neutral beige color and rectangular shape. Has visible printed labels and taped seams. Likely used for storage or transport. Found under a desk alongside other boxes and a shopping bag in an office setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/box-37/object_in_frame_556.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/box-37/object_in_frame_716.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/box-37/object_in_frame_1940.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/box-37/object_in_frame_676.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/box-37/object_in_frame_624.png"
+    ]
+}

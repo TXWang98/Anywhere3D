@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic trash bag with black coloring and irregular shape. Appears crumpled and flexible. Likely used for waste disposal. Positioned on the floor near a kitchen counter, adjacent to a washing machine and other household items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897521/11/object_in_frame_529.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897521/11/object_in_frame_491.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897521/11/object_in_frame_485.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897521/11/object_in_frame_493.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897521/11/object_in_frame_527.png"
+    ]
+}

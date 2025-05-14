@@ -1,0 +1,9 @@
+{
+    "caption": "\"A possibly metallic container-type object with a dark, reflective surface and rectangular shape. The tapered rim suggests it could be a decorative or functional vessel. Its smooth texture and solid structure hint at storage or display purposes. Positioned on a dark surface near framed pictures and other objects in an indoor setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/26/object_in_frame_000101.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/26/object_in_frame_000100.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/26/object_in_frame_000143.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/26/object_in_frame_000145.png"
+    ]
+}

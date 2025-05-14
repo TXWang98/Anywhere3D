@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic cabinet-type object with a white finish and rectangular shape. Smooth surface and simple design. Likely used for storage in a kitchen setting. Positioned above an oven, adjacent to other cabinetry.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898521/7/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898521/7/object_in_frame_199.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898521/7/object_in_frame_200.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898521/7/object_in_frame_190.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898521/7/object_in_frame_189.png"
+    ]
+}

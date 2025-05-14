@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a teal and purple color scheme. The shape is rectangular with a slightly tapered top, featuring compartments for holding various items. Likely used for storing bathroom accessories like brushes or cleaning tools. Found in a bathroom setting next to a toilet and other hygiene-related objects.\n\nConfidence Signals:\n- \"The presence of multiple slots suggests it's designed to hold different types of items.\"\n- \"While resembling a storage container, the specific purpose remains unclear due to the lack of visible contents.\"\n- \"Inconclusive evidence for its exact function, but its placement near bathroom fixtures implies a utility role.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/dustpan-16/object_in_frame_1191.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/dustpan-16/object_in_frame_1242.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/dustpan-16/object_in_frame_1284.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/dustpan-16/object_in_frame_1206.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/dustpan-16/object_in_frame_1245.png"
+    ]
+}

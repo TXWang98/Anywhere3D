@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden table with a light beige color and rectangular shape. Smooth surface texture with visible wood grain patterns. Designed for seating multiple people, as evidenced by the surrounding chairs. Positioned in an office setting near other tables, chairs, and office equipment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/table-9/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/table-9/object_in_frame_570.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/table-9/object_in_frame_558.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/table-9/object_in_frame_235.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/table-9/object_in_frame_211.png"
+    ]
+}

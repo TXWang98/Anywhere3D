@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric towel with white coloring and rectangular shape. Appears soft and folded neatly. Likely used for drying hands or body. Hanging on a wall-mounted rack in a bathroom setting, near a shower curtain and door handle.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0664_00/towel-15/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0664_00/towel-15/object_in_frame_702.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0664_00/towel-15/object_in_frame_720.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0664_00/towel-15/object_in_frame_598.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0664_00/towel-15/object_in_frame_634.png"
+    ]
+}

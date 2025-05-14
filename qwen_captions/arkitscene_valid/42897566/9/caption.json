@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly upholstered cushion-type object with beige and gold striped patterns. Rectangular shape with soft, padded texture. Likely serves as a seat or backrest for the chair. Positioned on a dining chair in a room with other similar chairs around a table.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897566/9/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897566/9/object_in_frame_387.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897566/9/object_in_frame_339.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897566/9/object_in_frame_475.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897566/9/object_in_frame_522.png"
+    ]
+}

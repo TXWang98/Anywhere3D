@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden side table with a light brown finish and rectangular shape. Has a flat top surface and simple legs. Likely used for holding small items like lamps or books. Positioned beside a bed in a bedroom setting, with a lamp on top and near other furniture like a fan.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899734/3/object_in_frame_659.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899734/3/object_in_frame_656.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899734/3/object_in_frame_661.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899734/3/object_in_frame_675.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899734/3/object_in_frame_638.png"
+    ]
+}

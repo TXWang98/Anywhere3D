@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden container-type object with a mix of natural wood tones and rectangular shape. Appears to have multiple compartments or layers stacked together. Likely used for storage or organization. Positioned on a red stool near cardboard boxes and other household items in a living room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261142/9/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261142/9/object_in_frame_336.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261142/9/object_in_frame_338.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261142/9/object_in_frame_344.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261142/9/object_in_frame_289.png"
+    ]
+}

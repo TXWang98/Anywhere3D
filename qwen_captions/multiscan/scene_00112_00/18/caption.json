@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly cardboard box-type object with brown coloring and rectangular shape. Appears to be slightly open with visible contents inside. Likely used for storage or packaging. Found near a doorway, alongside other items like a black plastic bag and another box.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/18/object_in_frame_4403.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/18/object_in_frame_4759.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/18/object_in_frame_4818.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/18/object_in_frame_4774.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/18/object_in_frame_4789.png"
+    ]
+}

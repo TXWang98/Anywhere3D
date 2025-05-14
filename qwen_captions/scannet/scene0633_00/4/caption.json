@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plush toy-type object with green coloration and elongated shape. Appears to have a textured surface resembling scales or fabric. Likely intended for decorative or playful purposes. Positioned on a shelf among framed pictures and other small items in a room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0633_00/ledge-4/object_in_frame_742.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0633_00/ledge-4/object_in_frame_756.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0633_00/ledge-4/object_in_frame_758.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0633_00/ledge-4/object_in_frame_48.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0633_00/ledge-4/object_in_frame_760.png"
+    ]
+}

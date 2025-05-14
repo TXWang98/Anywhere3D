@@ -1,0 +1,10 @@
+{
+    "caption": "A [transparent] window with [black frames] and [rectangular shape]. Features a grid pattern on the glass. Allows natural light to enter the room. Positioned above a radiator in a bathroom setting, near a toilet paper dispenser and a toilet.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/window-6/object_in_frame_132.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/window-6/object_in_frame_174.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/window-6/object_in_frame_1602.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/window-6/object_in_frame_144.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/window-6/object_in_frame_150.png"
+    ]
+}

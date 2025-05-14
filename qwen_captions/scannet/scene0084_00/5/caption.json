@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with green and white patterns. Rectangular shape with a slightly tapered form. The structure suggests it could be a small storage box or packaging. Likely used for holding toiletries or personal items. Placed on a bathroom counter near a tissue dispenser and other hygiene products.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/toilet paper rolls-5/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/toilet paper rolls-5/object_in_frame_345.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/toilet paper rolls-5/object_in_frame_300.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/toilet paper rolls-5/object_in_frame_393.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/toilet paper rolls-5/object_in_frame_330.png"
+    ]
+}

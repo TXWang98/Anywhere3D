@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with white and blue coloring. Cylindrical shape with a flat top surface. The tapered rim suggests it may be used for storing food or beverages. Found on a kitchen countertop near a coffee maker and other kitchen items.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/salt-32/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/salt-32/object_in_frame_1254.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/salt-32/object_in_frame_123.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/salt-32/object_in_frame_141.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/salt-32/object_in_frame_1260.png"
+    ]
+}

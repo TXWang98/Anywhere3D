@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy ceramic mug with white coloring and a cylindrical shape. The tapered rim suggests it is designed for drinking. It has a smooth surface and appears to be empty. Sitting on top of a wooden cabinet alongside other potted plants.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663099/1/object_in_frame_742.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663099/1/object_in_frame_702.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663099/1/object_in_frame_576.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663099/1/object_in_frame_364.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663099/1/object_in_frame_579.png"
+    ]
+}

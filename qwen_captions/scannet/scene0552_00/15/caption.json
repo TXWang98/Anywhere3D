@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic tray-type object with a light gray color and rectangular shape. Has a flat surface and raised edges. Likely used for organizing or transporting items. Positioned on a desk in an office setting, near chairs and other office equipment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/paper cutter-15/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/paper cutter-15/object_in_frame_124.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/paper cutter-15/object_in_frame_71.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/paper cutter-15/object_in_frame_141.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/paper cutter-15/object_in_frame_181.png"
+    ]
+}

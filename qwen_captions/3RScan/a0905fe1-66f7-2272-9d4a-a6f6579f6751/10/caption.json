@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly fabric garment-type object with black and white coloring. Appears to have a structured, tailored shape with visible seams and folds. Likely worn as formal attire. Displayed on a mannequin in a retail setting with shelves of other clothing items in the background.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a0905fe1-66f7-2272-9d4a-a6f6579f6751/10/object_in_frame_000027.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a0905fe1-66f7-2272-9d4a-a6f6579f6751/10/object_in_frame_000029.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a0905fe1-66f7-2272-9d4a-a6f6579f6751/10/object_in_frame_000028.png"
+    ]
+}

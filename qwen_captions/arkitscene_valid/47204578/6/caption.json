@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic container-type object with a neutral color and rectangular shape. The smooth surface suggests it could be made of metal or plastic. Its function is unclear but may serve as storage. Positioned on a small table near a wall outlet in a living room setting, with a sofa and rug visible in the background.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204578/6/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204578/6/object_in_frame_47.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204578/6/object_in_frame_46.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204578/6/object_in_frame_166.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204578/6/object_in_frame_5.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric cushion with dark and light patterns. Rectangular shape with soft edges. Appears to be a decorative throw pillow. Placed on a blue sofa alongside other cushions in a living room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/37/object_in_frame_000276.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/37/object_in_frame_000238.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/37/object_in_frame_000274.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/37/object_in_frame_000241.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/37/object_in_frame_000273.png"
+    ]
+}

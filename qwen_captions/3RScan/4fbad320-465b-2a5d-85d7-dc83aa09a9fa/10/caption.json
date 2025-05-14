@@ -1,0 +1,10 @@
+{
+    "caption": "\"A cardboard box with brown coloring and rectangular shape. Has visible printed labels and tape sealing. Likely used for storage or shipping. Positioned on top of a cabinet in an office environment, near other similar boxes.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/4fbad320-465b-2a5d-85d7-dc83aa09a9fa/10/object_in_frame_000471.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/4fbad320-465b-2a5d-85d7-dc83aa09a9fa/10/object_in_frame_000225.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/4fbad320-465b-2a5d-85d7-dc83aa09a9fa/10/object_in_frame_000233.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/4fbad320-465b-2a5d-85d7-dc83aa09a9fa/10/object_in_frame_000470.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/4fbad320-465b-2a5d-85d7-dc83aa09a9fa/10/object_in_frame_000226.png"
+    ]
+}

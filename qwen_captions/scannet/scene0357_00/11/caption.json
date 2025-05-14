@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a green hue and rectangular shape. Features a lid and appears to have compartments inside. Likely used for storage or organization. Positioned on a cluttered table near various household items like bottles and food packaging, in a home environment by the stairs. \n\nConfidence Signals:\n- \"The rectangular shape and lid suggest it is designed for storing items.\"\n- \"While resembling a storage container, the presence of other miscellaneous objects nearby makes its specific use inconclusive.\"\n- \"Inconclusive evidence for its exact material due to image resolution.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/table-11/object_in_frame_328.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/table-11/object_in_frame_336.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/table-11/object_in_frame_295.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/table-11/object_in_frame_280.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/table-11/object_in_frame_330.png"
+    ]
+}

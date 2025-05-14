@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a red and white color pattern. The shape is rectangular with rounded edges. Inconclusive evidence for its function, but it may be used for storage or packaging. Positioned on a shelf next to a television and other small items, suggesting a living room setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/wall-30/object_in_frame_2264.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/wall-30/object_in_frame_2248.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/wall-30/object_in_frame_2236.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/wall-30/object_in_frame_2300.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/wall-30/object_in_frame_2304.png"
+    ]
+}

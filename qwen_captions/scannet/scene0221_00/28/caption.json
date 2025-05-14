@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with green coloring and a cylindrical shape. The structure appears to have a smooth texture and a slightly tapered form. Inconclusive evidence for its specific function, but it may be used for storage or as a decorative item. Found on the floor near a bed in a bedroom setting, with other furniture like a dresser and television visible in the background.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0221_00/wall-28/object_in_frame_515.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0221_00/wall-28/object_in_frame_512.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0221_00/wall-28/object_in_frame_501.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0221_00/wall-28/object_in_frame_514.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0221_00/wall-28/object_in_frame_493.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy plastic possibly remote control with white coloring and rectangular shape. Has a compact design with multiple buttons visible. Likely used for operating electronic devices. Placed on a small wooden shelf beside a bed in a bedroom setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/nightstand-54/object_in_frame_132.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/nightstand-54/object_in_frame_252.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/nightstand-54/object_in_frame_368.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/nightstand-54/object_in_frame_128.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/nightstand-54/object_in_frame_364.png"
+    ]
+}

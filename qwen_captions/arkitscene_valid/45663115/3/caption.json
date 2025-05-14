@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic sink with white coloring and a basin shape. Features a faucet, handles, and a pedestal base. Designed for handwashing and personal hygiene. Positioned in a bathroom setting near a towel rack, trash bin, and bath mat.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663115/3/object_in_frame_310.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663115/3/object_in_frame_244.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663115/3/object_in_frame_314.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663115/3/object_in_frame_322.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663115/3/object_in_frame_424.png"
+    ]
+}

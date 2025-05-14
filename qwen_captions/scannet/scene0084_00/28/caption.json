@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic possibly shower seat with off-white coloring and angular shape. Features a slatted design for water drainage. Likely intended for seating during showers. Positioned within a tiled shower area, adjacent to a curtain and wall-mounted fixtures.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/object-28/object_in_frame_1047.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/object-28/object_in_frame_756.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/object-28/object_in_frame_1101.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/object-28/object_in_frame_738.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/object-28/object_in_frame_1068.png"
+    ]
+}

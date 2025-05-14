@@ -1,0 +1,10 @@
+{
+    "caption": "\"A plastic chair with a red seat and black backrest. The chair has a simple, ergonomic design with a flat seating surface and a slightly curved backrest for support. It is designed for comfortable seating in an office or meeting room environment. Positioned near other chairs and a table in a conference room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0169_00/chair-1/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0169_00/chair-1/object_in_frame_1062.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0169_00/chair-1/object_in_frame_846.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0169_00/chair-1/object_in_frame_930.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0169_00/chair-1/object_in_frame_819.png"
+    ]
+}

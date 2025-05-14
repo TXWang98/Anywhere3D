@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a dark color and cylindrical shape. The tapered rim suggests it could be a trash bin or storage container. Its placement on the floor near a bed indicates it might serve as a bedside waste receptacle. Inconclusive evidence for its exact function, but it appears to be in a bedroom setting alongside furniture like a dresser and beds.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0221_00/wall-27/object_in_frame_515.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0221_00/wall-27/object_in_frame_510.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0221_00/wall-27/object_in_frame_513.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0221_00/wall-27/object_in_frame_519.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0221_00/wall-27/object_in_frame_494.png"
+    ]
+}

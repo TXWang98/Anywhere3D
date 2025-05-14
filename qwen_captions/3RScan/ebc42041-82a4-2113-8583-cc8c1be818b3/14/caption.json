@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic tool-type object with a dark color and elongated shape. Angular grooves and ridges suggest a specialized design. Inconclusive evidence for its exact function, but it may be used for mechanical tasks. Found on a bedside table near a bed in a bedroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ebc42041-82a4-2113-8583-cc8c1be818b3/14/object_in_frame_000356.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ebc42041-82a4-2113-8583-cc8c1be818b3/14/object_in_frame_000002.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ebc42041-82a4-2113-8583-cc8c1be818b3/14/object_in_frame_000001.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ebc42041-82a4-2113-8583-cc8c1be818b3/14/object_in_frame_000164.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ebc42041-82a4-2113-8583-cc8c1be818b3/14/object_in_frame_000165.png"
+    ]
+}

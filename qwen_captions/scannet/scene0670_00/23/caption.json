@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly thermos-type object with a silver finish and cylindrical shape. Has a narrow opening at the top and a smooth, reflective surface. Likely used for keeping beverages hot or cold. Positioned on a kitchen countertop among various food items and containers.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/pitcher-23/object_in_frame_845.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/pitcher-23/object_in_frame_790.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/pitcher-23/object_in_frame_565.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/pitcher-23/object_in_frame_840.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/pitcher-23/object_in_frame_700.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric chair cover with dark gray and textured appearance. The shape conforms to the contours of an office chair. Likely serves as a protective or decorative layer for the chair. Positioned over the backrest of a chair in front of a desk with a computer monitor, suggesting an office setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/wall-24/object_in_frame_824.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/wall-24/object_in_frame_828.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/wall-24/object_in_frame_822.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/wall-24/object_in_frame_808.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/wall-24/object_in_frame_798.png"
+    ]
+}

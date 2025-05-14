@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white possibly plastic chest of drawers with a smooth surface and rectangular shape. Features multiple drawers with round knobs. Likely used for storage. Positioned against a wall in a bedroom setting, near a wardrobe and a television.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662942/8/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662942/8/object_in_frame_164.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662942/8/object_in_frame_192.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662942/8/object_in_frame_163.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662942/8/object_in_frame_201.png"
+    ]
+}

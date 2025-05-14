@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic tablet-type object with a dark gray color and rectangular shape. Has a smooth, flat surface with rounded edges. Likely used for digital interaction or display purposes. Positioned on a desk among computer peripherals like keyboards and mice in an office setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/keyboard-40/object_in_frame_1794.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/keyboard-40/object_in_frame_1755.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/keyboard-40/object_in_frame_1704.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/keyboard-40/object_in_frame_1695.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/keyboard-40/object_in_frame_1722.png"
+    ]
+}

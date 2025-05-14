@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic chair with red cushioning and a simple frame. The structure includes a flat seat and backrest supported by four legs. Likely designed for seating in casual dining settings. Positioned under a wooden table in a restaurant environment, surrounded by similar chairs.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/20/object_in_frame_000373.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/20/object_in_frame_000322.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/20/object_in_frame_000301.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/20/object_in_frame_000320.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/20/object_in_frame_000319.png"
+    ]
+}

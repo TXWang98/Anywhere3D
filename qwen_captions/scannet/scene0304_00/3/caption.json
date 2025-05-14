@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly container-type object with a silver color and rectangular shape. The surface has a grid-like pattern with small compartments. Likely used for storage or organization. Positioned in a tiled room with similar containers surrounding it, suggesting a mailroom or locker area.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/mailboxes-3/object_in_frame_932.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/mailboxes-3/object_in_frame_1122.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/mailboxes-3/object_in_frame_992.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/mailboxes-3/object_in_frame_1160.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/mailboxes-3/object_in_frame_1016.png"
+    ]
+}

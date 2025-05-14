@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly glass mirror-type object with reflective surface and rectangular shape. Has a dark frame and visible reflections of the room. Likely used for viewing or decorative purposes. Mounted on a wall above a counter with other framed items nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/101/object_in_frame_000138.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/101/object_in_frame_000140.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/101/object_in_frame_000101.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/101/object_in_frame_000139.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/101/object_in_frame_000097.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with translucent green coloring and a rectangular shape. The tapered rim suggests it may be designed for stacking or easy pouring. Its function is unclear but could be used for storing food items. Found on a kitchen countertop near other containers and utensils.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446038/7/object_in_frame_84.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446038/7/object_in_frame_482.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446038/7/object_in_frame_88.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446038/7/object_in_frame_104.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446038/7/object_in_frame_103.png"
+    ]
+}

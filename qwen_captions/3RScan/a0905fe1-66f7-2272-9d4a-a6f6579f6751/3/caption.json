@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic mug with a beige color and cylindrical shape. Has a smooth surface and rounded handle. Likely used for drinking beverages. Placed on a wooden tray alongside other items like a wallet and keys, suggesting a casual indoor setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a0905fe1-66f7-2272-9d4a-a6f6579f6751/3/object_in_frame_000096.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a0905fe1-66f7-2272-9d4a-a6f6579f6751/3/object_in_frame_000081.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a0905fe1-66f7-2272-9d4a-a6f6579f6751/3/object_in_frame_000079.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a0905fe1-66f7-2272-9d4a-a6f6579f6751/3/object_in_frame_000036.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a0905fe1-66f7-2272-9d4a-a6f6579f6751/3/object_in_frame_000097.png"
+    ]
+}

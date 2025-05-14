@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plush toy-type object with blue and yellow coloring and a soft, rounded shape. Features include a cartoonish design with visible limbs and facial features. Likely intended for play or comfort. Placed on a bed in a child's room, surrounded by bedding and other toys.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/13/object_in_frame_000108.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/13/object_in_frame_000109.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/13/object_in_frame_000283.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/13/object_in_frame_000105.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/13/object_in_frame_000286.png"
+    ]
+}

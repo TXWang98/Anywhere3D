@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden chair with a medium brown finish and a rectangular backrest. The chair has vertical slats on the backrest and four legs with a slightly curved design. It is designed for seating at a table. Positioned around a dining table in a room with green walls and patterned flooring, alongside other similar chairs.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/chair-26/object_in_frame_1392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/chair-26/object_in_frame_1770.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/chair-26/object_in_frame_1743.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/chair-26/object_in_frame_354.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/chair-26/object_in_frame_1746.png"
+    ]
+}

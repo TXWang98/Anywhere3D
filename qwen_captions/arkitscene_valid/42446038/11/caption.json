@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly bread box with a brushed silver finish and rectangular shape. Has a hinged lid and rounded edges. Likely used for storing baked goods. Positioned on a kitchen countertop near packaged food items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446038/11/object_in_frame_845.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446038/11/object_in_frame_843.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446038/11/object_in_frame_841.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446038/11/object_in_frame_840.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446038/11/object_in_frame_849.png"
+    ]
+}

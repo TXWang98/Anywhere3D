@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric shower curtain with white coloring and a patterned design. Features geometric shapes and lines in dark tones. Likely serves as a privacy screen and water barrier. Positioned over a bathtub, with tiled walls visible in the background.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/24/object_in_frame_000119.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/24/object_in_frame_000141.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/24/object_in_frame_000121.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/24/object_in_frame_000140.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/24/object_in_frame_000122.png"
+    ]
+}

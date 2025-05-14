@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly chair-type object with silver and angular shape. Has a frame structure with intersecting bars. Likely used for seating. Positioned on wooden flooring near a glass table in a dining area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115460/13/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115460/13/object_in_frame_509.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115460/13/object_in_frame_439.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115460/13/object_in_frame_598.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115460/13/object_in_frame_578.png"
+    ]
+}

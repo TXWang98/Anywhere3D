@@ -1,0 +1,10 @@
+{
+    "caption": "A whiteboard with a light gray surface and rectangular shape. The board has various writings and drawings in black marker, including geometric shapes and text. It is mounted on the wall above a desk cluttered with papers, books, and office supplies. The presence of markers and erasers below suggests it is used for writing and drawing. Located in a workspace environment with a computer monitor, keyboard, and other items nearby.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/whiteboard-18/object_in_frame_1455.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/whiteboard-18/object_in_frame_1461.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/whiteboard-18/object_in_frame_1482.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/whiteboard-18/object_in_frame_1485.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/whiteboard-18/object_in_frame_1470.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly textile shoe-type object with blue and white coloring and a low-profile shape. Appears to have laces and a soft, flexible structure. Likely designed for casual wear or athletic activities. Found on the floor near cardboard boxes and office supplies in a cluttered workspace environment.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/shoes-18/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/shoes-18/object_in_frame_1131.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/shoes-18/object_in_frame_855.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/shoes-18/object_in_frame_876.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/shoes-18/object_in_frame_1203.png"
+    ]
+}

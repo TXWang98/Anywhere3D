@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a neutral color and rectangular shape. The tapered rim suggests it might be used for storage or organization. Inconclusive evidence for its exact function, but it appears to have compartments inside. Located on a cluttered desk in an office environment, surrounded by computer equipment and other miscellaneous items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/13/object_in_frame_000917.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/13/object_in_frame_001112.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/13/object_in_frame_000087.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/13/object_in_frame_000930.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/13/object_in_frame_000866.png"
+    ]
+}

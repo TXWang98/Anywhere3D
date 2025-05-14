@@ -1,0 +1,10 @@
+{
+    "caption": "A ceramic toilet with a white color and rounded shape. Features a smooth, glossy surface and a flush handle on the side. Designed for sanitary waste disposal. Positioned in a bathroom setting, adjacent to a bathtub and a wall-mounted artwork above it.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0406_00/wall-18/object_in_frame_132.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0406_00/wall-18/object_in_frame_126.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0406_00/wall-18/object_in_frame_290.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0406_00/wall-18/object_in_frame_292.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0406_00/wall-18/object_in_frame_110.png"
+    ]
+}

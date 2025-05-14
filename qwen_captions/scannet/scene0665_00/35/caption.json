@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden chair with blue upholstery and a rectangular backrest. The chair has a sturdy frame with visible joints and slats. Designed for seating at tables. Positioned around a light-colored table in what appears to be a meeting or classroom setting, alongside other similar chairs.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0665_00/chair-35/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0665_00/chair-35/object_in_frame_124.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0665_00/chair-35/object_in_frame_102.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0665_00/chair-35/object_in_frame_141.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0665_00/chair-35/object_in_frame_181.png"
+    ]
+}

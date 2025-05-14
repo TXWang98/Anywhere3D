@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic chair-type object with beige coloring and a simple rectangular backrest. The structure includes vertical supports and horizontal seating surface. Likely designed for classroom seating. Positioned in a row among other similar chairs within an educational setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/104/object_in_frame_000260.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/104/object_in_frame_000234.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/104/object_in_frame_000231.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/104/object_in_frame_000417.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/104/object_in_frame_000080.png"
+    ]
+}

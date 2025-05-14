@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic vase-type object with a dark green hue and a slender, elongated shape. The tapered rim suggests it may be designed for holding flowers or decorative plants. While resembling a vase, the presence of nearby kitchen items like fruits and utensils makes its function less certain. Positioned on a kitchen countertop near various household objects.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/8/object_in_frame_1223.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/8/object_in_frame_2145.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/8/object_in_frame_2566.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/8/object_in_frame_344.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/8/object_in_frame_1203.png"
+    ]
+}

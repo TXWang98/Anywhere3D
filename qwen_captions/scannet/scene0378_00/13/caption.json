@@ -1,0 +1,10 @@
+{
+    "caption": "A [paper] possibly container-type object with [various colors] and [rectangular shape]. Contains stacked documents and files. Likely used for storing papers or reports. Located on a shelf amidst other books and office supplies in an academic setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/books-13/object_in_frame_1047.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/books-13/object_in_frame_1029.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/books-13/object_in_frame_993.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/books-13/object_in_frame_1083.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/books-13/object_in_frame_1119.png"
+    ]
+}

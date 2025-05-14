@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly cardboard container-type object with multicolored printed patterns and rectangular shape. Appears to have a slightly open top revealing magazines or papers inside. Likely used for storage or organization. Positioned on the floor near a wooden cabinet, with other household items like a tissue box and a spool of thread nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331662/3/object_in_frame_670.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331662/3/object_in_frame_677.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331662/3/object_in_frame_732.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331662/3/object_in_frame_726.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331662/3/object_in_frame_560.png"
+    ]
+}

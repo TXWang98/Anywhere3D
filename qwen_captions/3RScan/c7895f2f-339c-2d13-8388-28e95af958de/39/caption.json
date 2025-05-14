@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden cabinet with a natural wood grain pattern and rectangular shape. Features horizontal slats and a flat top surface. Likely used for storage purposes. Positioned against a wall with leaf-patterned wallpaper, near other furniture pieces.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c7895f2f-339c-2d13-8388-28e95af958de/39/object_in_frame_000039.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c7895f2f-339c-2d13-8388-28e95af958de/39/object_in_frame_000126.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c7895f2f-339c-2d13-8388-28e95af958de/39/object_in_frame_000127.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c7895f2f-339c-2d13-8388-28e95af958de/39/object_in_frame_000040.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c7895f2f-339c-2d13-8388-28e95af958de/39/object_in_frame_000038.png"
+    ]
+}

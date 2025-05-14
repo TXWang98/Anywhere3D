@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly hook-type object with silver color and elongated shape. Has a curved end for hanging items. Likely used for holding towels or clothes. Mounted on a tiled wall above a radiator, with a light blue towel draped over it.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/33/object_in_frame_000308.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/33/object_in_frame_000391.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/33/object_in_frame_000307.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/33/object_in_frame_000305.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/33/object_in_frame_000389.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic chair with black coloring and a rectangular seat. Has a simple frame structure with vertical backrest slats. Likely used for seating in a meeting or classroom setting. Positioned around long tables in a well-lit room with windows and other chairs nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/table-17/object_in_frame_998.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/table-17/object_in_frame_236.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/table-17/object_in_frame_262.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/table-17/object_in_frame_1000.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/table-17/object_in_frame_232.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A cardboard box with vibrant orange and white coloring and a rectangular shape. Features printed text and images on its surface. Likely contains fabric softener sheets. Positioned on top of a washing machine in a laundry room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0139_00/dryer sheets-3/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0139_00/dryer sheets-3/object_in_frame_244.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0139_00/dryer sheets-3/object_in_frame_302.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0139_00/dryer sheets-3/object_in_frame_218.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0139_00/dryer sheets-3/object_in_frame_298.png"
+    ]
+}

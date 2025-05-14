@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric backpack with gray and black coloring and a rectangular shape. Features multiple compartments and adjustable straps. Designed for carrying personal items. Placed on a couch beside other bags and pillows in a living room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/25/object_in_frame_9913.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/25/object_in_frame_5851.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/25/object_in_frame_9968.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/25/object_in_frame_6823.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/25/object_in_frame_8813.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic tool-type object, matte silver with angular grooves. Ambiguous function between wrench or specialized clamp. Seen in workshop environment near assembly parts.\"\n\n**Analysis:**\n\n- **Category**: The object appears to be a tool-type object, possibly metallic due to its reflective properties and industrial design.\n- **Attributes**: \n  - Color patterns & material properties: The object has a matte silver finish, suggesting it is made of metal.\n  - 3D shape characteristics & structural features: It has an angular, elongated shape with grooves that could indicate a specific function.\n  - Functional affordances: The design suggests it could be used for mechanical tasks, such as tightening or clamping.\n  - Contextual placement & surrounding objects: The object is placed in what seems to be a workshop or garage setting, surrounded by other tools and equipment.\n\n**Confidence Signals**: \"Ambiguous function between wrench or specialized clamp.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/37/object_in_frame_000518.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/37/object_in_frame_000511.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/37/object_in_frame_000491.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/37/object_in_frame_000512.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/37/object_in_frame_000490.png"
+    ]
+}

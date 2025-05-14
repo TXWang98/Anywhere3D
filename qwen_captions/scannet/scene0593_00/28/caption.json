@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly wooden door with a light brown color and rectangular shape. The door has a panel design with visible hinges and a handle on the left side. It appears to be a standard interior door, likely used for access between rooms. Positioned adjacent to a white cabinet and near a beige couch in what seems to be an office or common area setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0593_00/doorframe-28/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0593_00/doorframe-28/object_in_frame_621.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0593_00/doorframe-28/object_in_frame_1527.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0593_00/doorframe-28/object_in_frame_669.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0593_00/doorframe-28/object_in_frame_624.png"
+    ]
+}

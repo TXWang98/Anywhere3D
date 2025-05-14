@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy plastic television with a black screen and rectangular shape. The flat surface and thin frame suggest it is designed for wall mounting or placement on furniture. It appears to be turned off and is positioned atop a wooden cabinet in a dimly lit room, surrounded by various items like bags and bottles.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/tv-26/object_in_frame_2779.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/tv-26/object_in_frame_2695.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/tv-26/object_in_frame_2625.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/tv-26/object_in_frame_2716.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/tv-26/object_in_frame_2604.png"
+    ]
+}

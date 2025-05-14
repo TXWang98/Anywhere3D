@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy paper magazine with white pages and a red spine. The rectangular shape is flat and thin, with printed text and images on the surface. Likely intended for reading or reference. Positioned on a dark table alongside other books and papers in what appears to be a study or office setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0671_00/cabinet-7/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0671_00/cabinet-7/object_in_frame_41.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0671_00/cabinet-7/object_in_frame_54.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0671_00/cabinet-7/object_in_frame_49.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0671_00/cabinet-7/object_in_frame_38.png"
+    ]
+}

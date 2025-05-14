@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a white and blue color scheme. The shape is cylindrical with a slightly tapered rim, suggesting it could be a cup or small container. It appears to have a smooth texture. Its function is inconclusive but may be used for storing small items or as a disposable cup. Found on a cluttered desk alongside books, papers, and other miscellaneous objects in a dormitory setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/chair-4/object_in_frame_1996.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/chair-4/object_in_frame_748.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/chair-4/object_in_frame_1820.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/chair-4/object_in_frame_2004.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/chair-4/object_in_frame_1776.png"
+    ]
+}

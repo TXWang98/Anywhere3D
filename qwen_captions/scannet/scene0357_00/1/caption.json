@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with green coloring and rectangular shape. Features printed images of fruits on its surface. Likely used for storing or transporting items. Positioned on a cluttered table near a staircase, alongside various household objects like bottles and tools.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/box-1/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/box-1/object_in_frame_570.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/box-1/object_in_frame_347.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/box-1/object_in_frame_276.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/box-1/object_in_frame_288.png"
+    ]
+}

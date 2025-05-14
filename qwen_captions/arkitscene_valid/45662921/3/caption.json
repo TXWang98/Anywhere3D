@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden stool with a light brown seat and backless design. The tapered legs suggest stability and ergonomic support. Likely used for seating at the kitchen island. Positioned under the counter alongside other similar stools in a modern kitchen setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662921/3/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662921/3/object_in_frame_379.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662921/3/object_in_frame_423.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662921/3/object_in_frame_395.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662921/3/object_in_frame_444.png"
+    ]
+}

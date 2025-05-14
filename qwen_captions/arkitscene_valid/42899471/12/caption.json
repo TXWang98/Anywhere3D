@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic mug with a dark red color and cylindrical shape. The tapered rim suggests it is designed for drinking. It appears to have a handle, though not fully visible. Likely used for beverages. Positioned on a kitchen counter near a sink and other kitchen appliances.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899471/12/object_in_frame_884.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899471/12/object_in_frame_886.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899471/12/object_in_frame_881.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899471/12/object_in_frame_883.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899471/12/object_in_frame_875.png"
+    ]
+}

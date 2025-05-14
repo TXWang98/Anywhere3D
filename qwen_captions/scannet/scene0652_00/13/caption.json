@@ -1,0 +1,10 @@
+{
+    "caption": "\"A soft fabric pillow with light gray and white striped pattern and rectangular shape. Features a smooth texture and slight indentation from use. Provides head support for resting. Positioned on a bed with other pillows and bedding, in a bedroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0652_00/pillow-13/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0652_00/pillow-13/object_in_frame_524.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0652_00/pillow-13/object_in_frame_468.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0652_00/pillow-13/object_in_frame_432.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0652_00/pillow-13/object_in_frame_424.png"
+    ]
+}

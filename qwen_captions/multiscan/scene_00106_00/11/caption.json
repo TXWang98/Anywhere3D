@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic pen with a dark color and elongated shape. The cylindrical form suggests it is designed for writing. Likely used for note-taking or signing documents. Found on a cluttered desk alongside papers and other office supplies, indicating a workspace environment.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/11/object_in_frame_3778.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/11/object_in_frame_3330.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/11/object_in_frame_3530.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/11/object_in_frame_7939.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/11/object_in_frame_3732.png"
+    ]
+}

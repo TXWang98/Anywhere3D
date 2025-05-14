@@ -1,0 +1,8 @@
+{
+    "caption": "\"A metallic possibly container-type object with a dark color and cylindrical shape. Has a lid on top and appears to be made of stainless steel. Likely used for waste disposal. Positioned in a bathroom setting near a sink and toilet.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/6bde60d2-9162-246f-8dbf-dbd911924def/17/object_in_frame_000014.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/6bde60d2-9162-246f-8dbf-dbd911924def/17/object_in_frame_000010.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/6bde60d2-9162-246f-8dbf-dbd911924def/17/object_in_frame_000009.png"
+    ]
+}

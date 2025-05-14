@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden chair with a light brown finish and rectangular seat. Features a simple backrest and metal legs. Designed for seating in an office or classroom setting. Positioned among other similar chairs and tables in a meeting room environment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/42/object_in_frame_000192.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/42/object_in_frame_000015.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/42/object_in_frame_000037.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/42/object_in_frame_000029.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/42/object_in_frame_000193.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy black possibly flat-screen television with a rectangular shape. The screen is large and reflective, showing the room's interior. It appears designed for entertainment purposes. Mounted on a wall above a media console with various electronic devices nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/10/object_in_frame_1317.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/10/object_in_frame_2477.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/10/object_in_frame_2606.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/10/object_in_frame_1299.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/10/object_in_frame_1342.png"
+    ]
+}

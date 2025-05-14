@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic office chair with dark gray coloring and a contoured shape. Features a mesh backrest and armrests for ergonomic support. Designed for seating in professional environments. Positioned against a wall near other similar chairs and a table, suggesting a meeting or workspace setup.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0427_00/wall-1/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0427_00/wall-1/object_in_frame_50.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0427_00/wall-1/object_in_frame_46.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0427_00/wall-1/object_in_frame_782.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0427_00/wall-1/object_in_frame_768.png"
+    ]
+}

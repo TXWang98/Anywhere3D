@@ -1,0 +1,10 @@
+{
+    "caption": "\"A black plastic office chair with a mesh backrest and cushioned seat. Features armrests and a five-point wheeled base. Designed for ergonomic seating at desks. Positioned near a computer workstation, trash bin, and whiteboard in an office setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/chair-15/object_in_frame_1034.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/chair-15/object_in_frame_234.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/chair-15/object_in_frame_1036.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/chair-15/object_in_frame_202.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/chair-15/object_in_frame_1060.png"
+    ]
+}

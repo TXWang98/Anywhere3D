@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic container-type object with a dark finish and rectangular shape. The tapered rim suggests it may be designed for storage or transport. Its sturdy build implies durability. Found on a cluttered table alongside papers, a plastic bag, and other miscellaneous items in what appears to be a workshop or storage area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/7/object_in_frame_960.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/7/object_in_frame_1121.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/7/object_in_frame_921.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/7/object_in_frame_928.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/7/object_in_frame_964.png"
+    ]
+}

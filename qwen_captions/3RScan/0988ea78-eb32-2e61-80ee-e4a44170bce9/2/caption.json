@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic container-type object with a light beige color and rounded shape. The tapered rim suggests it could be a small pot or planter. Its smooth surface and compact form indicate it might hold small items or plants. Found on the bathroom floor near a toilet, suggesting it may serve as a decorative or functional item in the space.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/2/object_in_frame_000345.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/2/object_in_frame_000346.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/2/object_in_frame_000344.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/2/object_in_frame_000340.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/2/object_in_frame_000343.png"
+    ]
+}

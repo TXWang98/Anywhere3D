@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic office chair with a white frame and black seat. The backrest features vertical slats for ventilation. Designed for ergonomic seating at desks. Positioned in front of a computer workstation, alongside other similar chairs in an office setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/chair-2/object_in_frame_1794.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/chair-2/object_in_frame_1734.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/chair-2/object_in_frame_1716.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/chair-2/object_in_frame_1767.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/chair-2/object_in_frame_1722.png"
+    ]
+}

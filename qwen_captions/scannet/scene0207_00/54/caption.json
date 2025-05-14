@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with red and white coloring. Rectangular shape with a lid. Appears to be used for storage or holding items. Located on a small table near other household objects in a kitchen area. Inconclusive evidence for its exact function due to limited visibility.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/microwave-54/object_in_frame_495.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/microwave-54/object_in_frame_510.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/microwave-54/object_in_frame_513.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/microwave-54/object_in_frame_771.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/microwave-54/object_in_frame_768.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly ceramic mug with light blue and white coloring. Has a cylindrical shape with a handle. The tapered rim suggests it is designed for drinking beverages. Positioned on a desk near a laptop, printer, and other office supplies, indicating an office or workspace setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/cup-24/object_in_frame_3815.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/cup-24/object_in_frame_1988.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/cup-24/object_in_frame_1939.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/cup-24/object_in_frame_364.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/cup-24/object_in_frame_343.png"
+    ]
+}

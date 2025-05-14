@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a light blue color and rectangular shape. The tapered rim suggests it may be designed for stacking or storage. Its flat surface and lack of handles indicate limited functional affordances. Positioned on a windowsill, surrounded by classroom furniture like desks and chairs.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/3/object_in_frame_000170.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/3/object_in_frame_000167.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/3/object_in_frame_000174.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/3/object_in_frame_000424.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/3/object_in_frame_000171.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a dark blue color and cylindrical shape. The tapered rim suggests it might be a bottle or dispenser. Its placement on a white, slatted shelf within a shower area indicates it's likely used for storing toiletries. Inconclusive evidence for its exact function, but the context implies it's meant for easy access during bathing.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/seat-29/object_in_frame_1047.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/seat-29/object_in_frame_825.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/seat-29/object_in_frame_1098.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/seat-29/object_in_frame_708.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/seat-29/object_in_frame_678.png"
+    ]
+}

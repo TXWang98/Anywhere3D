@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric sofa with a neutral gray color and a rectangular shape. Features cushioned seating and backrests with decorative pillows in yellow and white patterns. Provides comfortable seating for multiple people. Positioned against a wall in a living room setting, adjacent to tiled flooring.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204554/1/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204554/1/object_in_frame_164.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204554/1/object_in_frame_159.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204554/1/object_in_frame_160.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204554/1/object_in_frame_163.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic office chair with black seating and white frame. Features a contoured backrest with vertical slats for ventilation. Designed for ergonomic support during prolonged sitting. Positioned in front of a desk setup with multiple computer monitors, keyboards, and mice.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/chair-0/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/chair-0/object_in_frame_981.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/chair-0/object_in_frame_1041.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/chair-0/object_in_frame_999.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/chair-0/object_in_frame_1017.png"
+    ]
+}

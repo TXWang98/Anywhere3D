@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic door handle with a silver finish and elongated shape. Smooth, cylindrical structure with a slight curve. Likely used for opening the door. Positioned on a blue door within a bathroom setting, near a white shower curtain and towel rack.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0664_00/wall-10/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0664_00/wall-10/object_in_frame_600.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0664_00/wall-10/object_in_frame_608.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0664_00/wall-10/object_in_frame_594.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0664_00/wall-10/object_in_frame_592.png"
+    ]
+}

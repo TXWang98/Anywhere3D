@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly dispenser-type object with a silver finish and rectangular shape. Has a flat surface and visible text. Likely used for dispensing items like soap or paper towels. Mounted on the wall above a toilet in a bathroom stall.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/toilet seat cover dispenser-19/object_in_frame_556.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/toilet seat cover dispenser-19/object_in_frame_574.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/toilet seat cover dispenser-19/object_in_frame_576.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/toilet seat cover dispenser-19/object_in_frame_584.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/toilet seat cover dispenser-19/object_in_frame_588.png"
+    ]
+}

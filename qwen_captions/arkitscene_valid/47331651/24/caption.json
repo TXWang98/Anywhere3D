@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden container-type object with a dark brown finish and rectangular shape. The tapered rim suggests it could be a storage bin or decorative box. Its smooth surface and lack of handles indicate it may not be designed for frequent handling. Positioned on the floor near an entrance, surrounded by household items like rugs and furniture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/24/object_in_frame_1223.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/24/object_in_frame_1218.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/24/object_in_frame_1236.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/24/object_in_frame_1220.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/24/object_in_frame_1239.png"
+    ]
+}

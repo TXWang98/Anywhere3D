@@ -1,0 +1,10 @@
+{
+    "caption": "\"A black possibly pan with a circular shape. The tapered rim suggests it is designed for cooking. It has a smooth surface and appears to be made of metal. Likely used for frying or saut\u00e9ing food. Positioned on a stovetop in a kitchen setting, near other cooking utensils.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125696/8/object_in_frame_278.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125696/8/object_in_frame_283.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125696/8/object_in_frame_281.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125696/8/object_in_frame_280.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125696/8/object_in_frame_279.png"
+    ]
+}

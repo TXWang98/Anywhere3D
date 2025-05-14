@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy black monitor with a rectangular shape. The tapered rim suggests it is designed for desktop use. It has a smooth, reflective surface and appears to be connected via cables. Likely used for viewing content on the keyboard setup. Positioned on a desk alongside a keyboard and other electronic devices in a bedroom setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/monitor-16/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/monitor-16/object_in_frame_1353.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/monitor-16/object_in_frame_1452.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/monitor-16/object_in_frame_87.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/monitor-16/object_in_frame_48.png"
+    ]
+}

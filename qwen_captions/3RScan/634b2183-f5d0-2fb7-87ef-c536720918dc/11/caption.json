@@ -1,0 +1,10 @@
+{
+    "caption": "\"A black plastic chair with a cushioned seat and backrest. The frame is metallic, featuring curved legs and armrests. Designed for ergonomic seating in office or classroom settings. Positioned near a desk with papers and books, suggesting a workspace environment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/11/object_in_frame_000039.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/11/object_in_frame_000050.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/11/object_in_frame_000287.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/11/object_in_frame_000049.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/11/object_in_frame_000038.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with black coloring and irregular shape. The tangled form suggests it may be a coiled cable or hose. Inconclusive evidence for its specific function. Found near storage items like bags, drawers, and a fan in what appears to be a utility room.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/wall-19/object_in_frame_1676.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/wall-19/object_in_frame_312.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/wall-19/object_in_frame_24.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/wall-19/object_in_frame_320.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/wall-19/object_in_frame_16.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric possibly backpack-type object with dark gray and black coloring. Has a rectangular shape with visible straps and compartments. Likely used for carrying personal items. Seen on the floor amidst other belongings like a red bag, plastic bags, and household items in a cluttered room.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/bag-33/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/bag-33/object_in_frame_918.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/bag-33/object_in_frame_1275.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/bag-33/object_in_frame_1206.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/bag-33/object_in_frame_1290.png"
+    ]
+}

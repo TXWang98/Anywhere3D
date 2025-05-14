@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic wall-mounted telephone with beige coloring and a rectangular shape. Features a coiled handset cord and a small keypad area. Designed for hands-free communication in bathrooms. Positioned on the wall near a toilet paper holder and a wooden door, suggesting placement in a restroom setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0702_00/telephone-6/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0702_00/telephone-6/object_in_frame_415.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0702_00/telephone-6/object_in_frame_597.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0702_00/telephone-6/object_in_frame_380.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0702_00/telephone-6/object_in_frame_569.png"
+    ]
+}

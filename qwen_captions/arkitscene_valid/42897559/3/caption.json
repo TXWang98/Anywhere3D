@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic mug with a green hue and cylindrical shape. The tapered rim suggests it is designed for drinking. It appears to have a smooth texture. Likely used for beverages. Positioned on top of a dresser, near other personal care items in a bedroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897559/3/object_in_frame_155.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897559/3/object_in_frame_244.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897559/3/object_in_frame_157.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897559/3/object_in_frame_141.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897559/3/object_in_frame_235.png"
+    ]
+}

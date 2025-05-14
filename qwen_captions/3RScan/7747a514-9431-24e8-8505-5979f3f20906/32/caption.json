@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric-type object with dark blue and white patterns. Irregular, draped shape with soft texture. Likely clothing or a bag. Seen resting on a chair in an office-like setting with desks, chairs, and scattered papers around.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/32/object_in_frame_000259.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/32/object_in_frame_000112.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/32/object_in_frame_000114.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/32/object_in_frame_000113.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/32/object_in_frame_000257.png"
+    ]
+}

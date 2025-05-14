@@ -1,0 +1,10 @@
+{
+    "caption": "1. **Image 1**:  \n\"A glossy paper possibly book with blue and rectangular shape. Has a visible cover design and text. Likely for reading or reference. Sitting on a wooden table in a library setting surrounded by books.\"\n\n2. **Image 2**:  \n\"Inconclusive evidence for the category of the object, but it appears to be a metallic cylindrical container-type object with silver coloring. The tapered rim suggests it could be a canister. Its function is unclear but might be storage-related. Found under a desk near boxes and office supplies.\"\n\n3. **Image 3**:  \n\"A possibly plastic bag-type object with translucent white coloring. Flattened shape and tied closure. Likely used for carrying items. Located under a desk among other storage containers.\"\n\n4. **Image 4**:  \n\"A metallic tool-type object, matte silver with angular grooves. Ambiguous function between wrench or specialized clamp. Seen in an office environment near chairs and desks.\"\n\n5. **Image 5**:  \n\"A cardboard box-type object with brown coloring and rectangular shape. Has printed labels and taped seams. Likely used for storage or transport. Positioned under a desk alongside other boxes.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/box-39/object_in_frame_2328.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/box-39/object_in_frame_600.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/box-39/object_in_frame_608.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/box-39/object_in_frame_684.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/box-39/object_in_frame_744.png"
+    ]
+}

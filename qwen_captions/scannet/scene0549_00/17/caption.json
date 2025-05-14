@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly wooden {generic}-type object with dark brown coloring and rectangular shape. Appears to have a smooth surface and vertical edges. Inconclusive evidence for its function, but it may serve as a decorative or structural element. Positioned against a wall near a seating area with a sofa and a small table.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/doorframe-17/object_in_frame_593.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/doorframe-17/object_in_frame_595.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/doorframe-17/object_in_frame_586.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/doorframe-17/object_in_frame_594.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/doorframe-17/object_in_frame_598.png"
+    ]
+}

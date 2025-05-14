@@ -1,0 +1,10 @@
+{
+    "caption": "\"A stainless steel sink with a rectangular shape and smooth surface. The tapered rim suggests it is designed for efficient water drainage. It has a functional faucet and appears to be part of a kitchen setup, situated next to a countertop with various kitchen items around.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/21/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/21/object_in_frame_233.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/21/object_in_frame_231.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/21/object_in_frame_235.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/21/object_in_frame_634.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with white and blue coloring and a rectangular shape. Features a lid and visible contents inside. Likely used for storage or transport. Positioned on the floor near a chair and other household items in a living room setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/box-40/object_in_frame_270.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/box-40/object_in_frame_268.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/box-40/object_in_frame_246.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/box-40/object_in_frame_266.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/box-40/object_in_frame_256.png"
+    ]
+}

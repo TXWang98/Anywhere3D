@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly pole-type object with a silver finish and elongated cylindrical shape. Smooth surface texture with no visible joints or attachments. Likely serves as a support structure. Positioned upright in the corner of a room, adjacent to a vent and electrical outlet on a beige wall.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/wall-2/object_in_frame_270.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/wall-2/object_in_frame_225.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/wall-2/object_in_frame_246.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/wall-2/object_in_frame_237.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/wall-2/object_in_frame_243.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly ceramic lamp with a beige shade and rounded base. The structure includes a metallic stand with a circular design. Likely used for ambient lighting. Positioned on a round table in a room with colorful wall decorations, including a bulletin board and mural.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/picture-29/object_in_frame_670.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/picture-29/object_in_frame_2995.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/picture-29/object_in_frame_640.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/picture-29/object_in_frame_660.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/picture-29/object_in_frame_2960.png"
+    ]
+}

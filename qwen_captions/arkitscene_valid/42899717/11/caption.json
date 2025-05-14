@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic {generic}-type object with dark coloring and rectangular shape. The structure appears solid and smooth, lacking distinct features or handles. Inconclusive evidence for its function; it may serve as a storage unit or appliance. Positioned in a kitchen setting near a countertop with a microwave and other appliances.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899717/11/object_in_frame_215.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899717/11/object_in_frame_326.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899717/11/object_in_frame_523.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899717/11/object_in_frame_943.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899717/11/object_in_frame_522.png"
+    ]
+}

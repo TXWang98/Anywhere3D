@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white wall section with no distinct features. Inconclusive evidence for any specific object or function. Located adjacent to a kitchen counter with various items like a red container and cleaning tools nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/40/object_in_frame_2638.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/40/object_in_frame_2675.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/40/object_in_frame_2650.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/40/object_in_frame_2712.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/40/object_in_frame_7923.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white possibly wooden drawer unit with a rectangular shape. Features multiple drawers with golden knobs and a smooth surface texture. Likely used for storage purposes. Positioned under a desk, surrounded by various personal items like books, frames, and decorative objects.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897692/6/object_in_frame_1794.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897692/6/object_in_frame_1795.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897692/6/object_in_frame_1735.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897692/6/object_in_frame_1963.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897692/6/object_in_frame_1803.png"
+    ]
+}

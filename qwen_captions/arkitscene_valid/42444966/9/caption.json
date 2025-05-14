@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic container-type object with a dark gray finish and rectangular shape. The tapered rim suggests it could be a storage bin or organizer. Has a smooth surface and appears to have a lid mechanism. Likely used for storing kitchen items. Positioned on top of cabinets in a modern kitchen setting, near other appliances and utensils.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444966/9/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444966/9/object_in_frame_36.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444966/9/object_in_frame_11.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444966/9/object_in_frame_21.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444966/9/object_in_frame_16.png"
+    ]
+}

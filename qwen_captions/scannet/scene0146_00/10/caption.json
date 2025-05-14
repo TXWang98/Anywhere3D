@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic grab bar with a silver finish and elongated cylindrical shape. The smooth, polished surface suggests it is designed for easy gripping. Functions as a support structure for individuals needing assistance. Positioned adjacent to a toilet in a bathroom setting, alongside tiled walls and flooring.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/rail-10/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/rail-10/object_in_frame_326.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/rail-10/object_in_frame_308.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/rail-10/object_in_frame_276.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/rail-10/object_in_frame_146.png"
+    ]
+}

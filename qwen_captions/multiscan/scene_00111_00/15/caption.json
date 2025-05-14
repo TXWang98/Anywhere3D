@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic toilet with a white color and an oval shape. Smooth surface texture with a closed lid. Designed for sanitary waste disposal. Positioned in a bathroom corner with tiled flooring.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/15/object_in_frame_3740.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/15/object_in_frame_3735.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/15/object_in_frame_4287.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/15/object_in_frame_4278.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/15/object_in_frame_4282.png"
+    ]
+}

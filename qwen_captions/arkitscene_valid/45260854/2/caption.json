@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic tool-type object with a dark gray color and rectangular shape. Inconclusive evidence for its exact function, but it appears to have a flat surface and edges that suggest it could be used for some form of manual work or storage. Found in a living room environment near furniture like chairs and a bed, suggesting it might be temporarily placed there.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260854/2/object_in_frame_355.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260854/2/object_in_frame_353.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260854/2/object_in_frame_362.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260854/2/object_in_frame_499.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260854/2/object_in_frame_358.png"
+    ]
+}

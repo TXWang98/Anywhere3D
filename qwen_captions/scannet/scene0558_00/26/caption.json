@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly wooden bookcase with a natural wood finish and rectangular shape. The structure features multiple shelves filled with books of various sizes and colors. Likely used for storing and displaying literature. Positioned against a wall in a room with hardwood flooring, near a round table and armchair.\n\nInconclusive evidence for the exact material due to image resolution, but the tapered rim suggests it could be made of polished wood. While resembling a storage unit, the presence of neatly arranged books indicates its primary function as a bookshelf. Contextually placed in what appears to be a cozy reading area or study space.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0558_00/books-26/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0558_00/books-26/object_in_frame_0.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0558_00/books-26/object_in_frame_591.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0558_00/books-26/object_in_frame_594.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0558_00/books-26/object_in_frame_5.png"
+    ]
+}

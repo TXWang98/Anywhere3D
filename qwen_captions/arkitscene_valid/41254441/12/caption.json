@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic light fixture with a white cover and spherical shape. The structure appears to be suspended from the ceiling by a thin rod. Likely provides ambient lighting for the kitchen area. Positioned centrally above the counter space, surrounded by wooden cabinets and a range hood.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254441/12/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254441/12/object_in_frame_350.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254441/12/object_in_frame_362.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254441/12/object_in_frame_684.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254441/12/object_in_frame_361.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden chair with a dark brown finish and an ergonomic design. The tapered rim suggests it is made for comfortable seating. Features a backrest with vertical slats and a sturdy frame. Likely used for dining or casual seating. Positioned at a kitchen counter, surrounded by various household items like a blue cup and cleaning supplies.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445984/9/object_in_frame_828.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445984/9/object_in_frame_831.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445984/9/object_in_frame_827.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445984/9/object_in_frame_829.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445984/9/object_in_frame_830.png"
+    ]
+}

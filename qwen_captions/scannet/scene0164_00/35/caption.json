@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden possibly cabinet-type object with a light brown color and rectangular shape. The tapered rim suggests it is designed for storage. Inconclusive evidence for its specific function, but likely used for kitchenware storage. Located above a microwave on a kitchen countertop, surrounded by various kitchen items like a Coca-Cola box and cleaning supplies.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/kitchen cabinet-35/object_in_frame_324.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/kitchen cabinet-35/object_in_frame_315.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/kitchen cabinet-35/object_in_frame_312.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/kitchen cabinet-35/object_in_frame_321.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/kitchen cabinet-35/object_in_frame_309.png"
+    ]
+}

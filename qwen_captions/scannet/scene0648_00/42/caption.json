@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric wall art piece with vibrant multicolor floral patterns and a rectangular shape. The densely packed flowers create a textured surface. Likely serves as decorative wall decor. Mounted on a plain wall above a bed with pillows and bedding visible in the foreground.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/wall-42/object_in_frame_2664.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/wall-42/object_in_frame_2676.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/wall-42/object_in_frame_1206.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/wall-42/object_in_frame_2706.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/wall-42/object_in_frame_2694.png"
+    ]
+}

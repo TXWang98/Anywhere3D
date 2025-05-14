@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden bedside table with a natural finish and rectangular shape. Features two drawers and an open shelf below. Likely used for storing personal items and holding a lamp. Positioned next to a bed in a bedroom setting, with various small objects placed on top.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897692/2/object_in_frame_84.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897692/2/object_in_frame_252.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897692/2/object_in_frame_2602.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897692/2/object_in_frame_356.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897692/2/object_in_frame_358.png"
+    ]
+}

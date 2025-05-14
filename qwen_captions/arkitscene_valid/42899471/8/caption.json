@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden chair with a light brown color and rectangular shape. The structure includes vertical slats on the backrest and horizontal supports. Likely used for seating. Positioned near a dining table with a festive centerpiece, in a living room setting with a couch and Christmas tree nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899471/8/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899471/8/object_in_frame_434.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899471/8/object_in_frame_708.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899471/8/object_in_frame_709.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899471/8/object_in_frame_437.png"
+    ]
+}

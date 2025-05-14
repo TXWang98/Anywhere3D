@@ -1,0 +1,10 @@
+{
+    "caption": "A cardboard box with brown coloring and rectangular shape. Has visible printed text and tape sealing. Likely used for storage or moving purposes. Positioned against a wall near a couch and other household items, suggesting a living space in transition or organization.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/box-53/object_in_frame_268.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/box-53/object_in_frame_600.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/box-53/object_in_frame_488.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/box-53/object_in_frame_432.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/box-53/object_in_frame_288.png"
+    ]
+}

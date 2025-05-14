@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white door with a rectangular shape and smooth surface. The door features a standard handle and lock mechanism. It serves as an entrance or exit point within the room. Positioned adjacent to a wall with a light fixture above it, near a dining table and chairs in a well-lit interior space.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/13/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/13/object_in_frame_600.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/13/object_in_frame_29.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/13/object_in_frame_65.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/13/object_in_frame_201.png"
+    ]
+}

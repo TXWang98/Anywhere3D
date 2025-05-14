@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic vase-type object with a light blue color and a flared shape. The tapered rim suggests it is designed for holding flowers or decorative items. While resembling a vase, the presence of water droplets on its surface indicates recent use. Found on a windowsill alongside other plants and gardening tools in a well-lit room.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/23/object_in_frame_2022.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/23/object_in_frame_1487.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/23/object_in_frame_1464.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/23/object_in_frame_1486.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/23/object_in_frame_1478.png"
+    ]
+}

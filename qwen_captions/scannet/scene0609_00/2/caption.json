@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden table with a dark brown finish and rectangular shape. The surface has visible wood grain texture. Designed for dining or socializing. Positioned in a restaurant setting alongside cushioned benches and other similar tables.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0609_00/chair-2/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0609_00/chair-2/object_in_frame_353.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0609_00/chair-2/object_in_frame_325.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0609_00/chair-2/object_in_frame_226.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0609_00/chair-2/object_in_frame_455.png"
+    ]
+}

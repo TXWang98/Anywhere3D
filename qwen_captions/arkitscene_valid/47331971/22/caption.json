@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic container-type object with a light color and cylindrical shape. The tapered rim suggests it might be a vase or a decorative holder. Inconclusive evidence for its exact function, but it could serve as a display item. Found on a shelf near other household items in a living room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/22/object_in_frame_404.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/22/object_in_frame_2113.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/22/object_in_frame_540.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/22/object_in_frame_402.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/22/object_in_frame_2079.png"
+    ]
+}

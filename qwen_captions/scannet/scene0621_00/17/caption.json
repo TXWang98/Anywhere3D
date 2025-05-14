@@ -1,0 +1,10 @@
+{
+    "caption": "A matte blackboard possibly with a dark frame and rectangular shape. The surface appears smooth and uniform, designed for writing and erasing content. Likely used for educational or presentation purposes. Positioned on the wall at the front of a classroom setting, surrounded by desks and chairs arranged in rows.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/blackboard-17/object_in_frame_900.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/blackboard-17/object_in_frame_852.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/blackboard-17/object_in_frame_872.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/blackboard-17/object_in_frame_848.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/blackboard-17/object_in_frame_896.png"
+    ]
+}

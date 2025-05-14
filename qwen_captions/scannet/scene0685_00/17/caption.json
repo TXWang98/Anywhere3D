@@ -1,0 +1,10 @@
+{
+    "caption": "A cardboard box with a light brown color and rectangular shape. The structure appears to be sturdy with visible edges and corners. Likely used for storage or shipping purposes. Positioned on a metal shelving unit alongside other boxes and office supplies in what seems to be a storage room or office environment.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0685_00/box-17/object_in_frame_1191.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0685_00/box-17/object_in_frame_1080.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0685_00/box-17/object_in_frame_1197.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0685_00/box-17/object_in_frame_1104.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0685_00/box-17/object_in_frame_1089.png"
+    ]
+}

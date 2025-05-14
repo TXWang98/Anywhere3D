@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden table with a light brown color and rectangular shape. The surface appears smooth with no visible texture details. Likely used for meetings or presentations. Positioned in a conference room setting, surrounded by chairs and near a whiteboard.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/chair-45/object_in_frame_1996.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/chair-45/object_in_frame_1976.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/chair-45/object_in_frame_2004.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/chair-45/object_in_frame_2120.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/chair-45/object_in_frame_2032.png"
+    ]
+}

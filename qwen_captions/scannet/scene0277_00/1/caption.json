@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric-covered mattress with dark blue coloring and rectangular shape. Has a smooth, slightly wrinkled texture. Designed for sleeping or resting. Positioned on a wooden bed frame in a bedroom setting, near a window and a trash bin.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0277_00/bed-1/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0277_00/bed-1/object_in_frame_384.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0277_00/bed-1/object_in_frame_428.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0277_00/bed-1/object_in_frame_389.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0277_00/bed-1/object_in_frame_441.png"
+    ]
+}

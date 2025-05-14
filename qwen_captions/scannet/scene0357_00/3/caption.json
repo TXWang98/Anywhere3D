@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden door with a light beige color and rectangular shape. The surface appears smooth with a simple handle on the side. Likely functions as an entrance or exit point within a residential setting. Positioned adjacent to a staircase and near a wall-mounted cabinet, suggesting a hallway or entryway area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/wall-3/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/wall-3/object_in_frame_524.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/wall-3/object_in_frame_409.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/wall-3/object_in_frame_539.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/wall-3/object_in_frame_361.png"
+    ]
+}

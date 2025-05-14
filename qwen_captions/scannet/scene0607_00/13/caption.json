@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy ceramic mug with white coloring and a cylindrical shape. Has a comfortable handle and flat base. Made for holding hot drinks. Sitting on a kitchen counter beside other mugs and near a sink area.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0607_00/cup-13/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0607_00/cup-13/object_in_frame_242.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0607_00/cup-13/object_in_frame_238.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0607_00/cup-13/object_in_frame_243.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0607_00/cup-13/object_in_frame_248.png"
+    ]
+}

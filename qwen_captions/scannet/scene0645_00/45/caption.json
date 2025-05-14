@@ -1,0 +1,9 @@
+{
+    "caption": "A fabric armchair with beige upholstery and a cushioned seat. Features a slightly curved backrest and padded armrests. Provides seating comfort in a living room setting. Positioned near a side table with a book and adjacent to a sofa, under warm indoor lighting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/wall-45/object_in_frame_1218.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/wall-45/object_in_frame_1211.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/wall-45/object_in_frame_1204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/wall-45/object_in_frame_1225.png"
+    ]
+}

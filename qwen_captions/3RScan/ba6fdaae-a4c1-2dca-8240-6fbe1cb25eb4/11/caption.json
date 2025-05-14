@@ -1,0 +1,9 @@
+{
+    "caption": "\"A white possibly metallic radiator with a rectangular shape. Has horizontal fins and vertical supports. Likely used for heating. Positioned against a tiled wall, with towels hanging above it.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ba6fdaae-a4c1-2dca-8240-6fbe1cb25eb4/11/object_in_frame_000006.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ba6fdaae-a4c1-2dca-8240-6fbe1cb25eb4/11/object_in_frame_000073.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ba6fdaae-a4c1-2dca-8240-6fbe1cb25eb4/11/object_in_frame_000005.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ba6fdaae-a4c1-2dca-8240-6fbe1cb25eb4/11/object_in_frame_000007.png"
+    ]
+}

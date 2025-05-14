@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a dark color and rectangular shape. The tapered rim suggests it might be designed for stacking or storage. Inconclusive evidence for its exact function, but it appears to be part of an office setup. Found under a desk near shoes and cables, suggesting a workspace environment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/computer tower-24/object_in_frame_2779.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/computer tower-24/object_in_frame_2674.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/computer tower-24/object_in_frame_2730.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/computer tower-24/object_in_frame_2786.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/computer tower-24/object_in_frame_2835.png"
+    ]
+}

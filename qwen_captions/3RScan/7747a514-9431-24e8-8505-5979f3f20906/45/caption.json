@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric container-type object with dark and light mottled patterns. Rounded, irregular shape with soft texture. Likely used for storage or as a cushion. Seen on a bed beside pillows in a bedroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/45/object_in_frame_000099.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/45/object_in_frame_000075.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/45/object_in_frame_000074.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/45/object_in_frame_000098.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/45/object_in_frame_000022.png"
+    ]
+}

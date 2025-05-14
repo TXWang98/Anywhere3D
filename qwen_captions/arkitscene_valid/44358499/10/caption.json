@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric-covered chair with a dark gray color and rectangular shape. The structure includes a cushioned seat and backrest supported by wooden legs. Likely designed for seating at a dining table. Positioned around a white table in a dining area, alongside other similar chairs.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/10/object_in_frame_898.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/10/object_in_frame_508.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/10/object_in_frame_500.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/10/object_in_frame_496.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/10/object_in_frame_504.png"
+    ]
+}

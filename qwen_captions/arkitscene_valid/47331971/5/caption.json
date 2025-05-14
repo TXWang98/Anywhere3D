@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy glass coffee table with a dark brown frame and rectangular shape. The reflective surface shows clear reflections of surrounding objects. Likely serves as a central piece for placing items in a living room setting. Positioned on a patterned rug, surrounded by furniture like sofas and decorative plants.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/5/object_in_frame_2015.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/5/object_in_frame_2210.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/5/object_in_frame_2009.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/5/object_in_frame_1992.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/5/object_in_frame_2001.png"
+    ]
+}

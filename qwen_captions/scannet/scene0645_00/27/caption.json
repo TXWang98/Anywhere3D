@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric possibly cushion-type object with beige coloring and rectangular shape. Appears soft with visible folds and seams. Likely used for seating comfort or decoration. Placed on a glass-top coffee table in a living room setting, near a sofa with pillows and a crumpled white cloth.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/pillow-27/object_in_frame_1379.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/pillow-27/object_in_frame_1463.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/pillow-27/object_in_frame_1400.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/pillow-27/object_in_frame_1470.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/pillow-27/object_in_frame_1491.png"
+    ]
+}

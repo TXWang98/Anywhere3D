@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic tool-type object with a dark color and elongated shape. Has a rectangular form with visible buttons or switches on the surface. Likely used for electronic or mechanical purposes. Found on a table alongside other devices, suggesting a workspace setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0665_00/chair-9/object_in_frame_529.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0665_00/chair-9/object_in_frame_482.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0665_00/chair-9/object_in_frame_523.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0665_00/chair-9/object_in_frame_551.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0665_00/chair-9/object_in_frame_541.png"
+    ]
+}

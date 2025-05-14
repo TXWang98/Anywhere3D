@@ -1,0 +1,8 @@
+{
+    "caption": "\"A white plastic shelf with a simple rectangular shape. The structure consists of two horizontal levels supported by vertical brackets. Likely used for storage or display purposes. Positioned above a small refrigerator in what appears to be a retail showroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/75c259a1-9ca2-2844-973c-adc28f935d5d/17/object_in_frame_000167.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/75c259a1-9ca2-2844-973c-adc28f935d5d/17/object_in_frame_000166.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/75c259a1-9ca2-2844-973c-adc28f935d5d/17/object_in_frame_000165.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A leather bar stool with a light brown color and an upright, cushioned backrest. The seat is padded and rectangular, supported by four dark wooden legs. Designed for seating at a counter or bar. Positioned along a kitchen island in a modern interior setting with tiled flooring and natural light from windows.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0011_00/chair-8/object_in_frame_1710.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0011_00/chair-8/object_in_frame_717.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0011_00/chair-8/object_in_frame_696.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0011_00/chair-8/object_in_frame_1716.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0011_00/chair-8/object_in_frame_813.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic mug with red and white coloring and a cylindrical shape. Has a tapered rim suggesting it's designed for comfortable drinking. Made for holding beverages. Sitting on a kitchen countertop beside a kettle and other kitchen utensils.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/5/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/5/object_in_frame_877.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/5/object_in_frame_905.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/5/object_in_frame_913.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/5/object_in_frame_887.png"
+    ]
+}

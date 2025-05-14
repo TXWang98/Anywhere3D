@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly wooden curtain rod with a light brown color and rectangular shape. Features a smooth surface and horizontal orientation. Likely used for hanging curtains. Positioned above a window with white curtains on either side, set against a neutral wall background.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/26/object_in_frame_6865.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/26/object_in_frame_470.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/26/object_in_frame_434.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/26/object_in_frame_8312.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/26/object_in_frame_425.png"
+    ]
+}

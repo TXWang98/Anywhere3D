@@ -1,0 +1,10 @@
+{
+    "caption": "\"A cardboard box with brown coloring and rectangular shape. Flat top surface and visible shipping label. Likely used for storage or transport. Positioned on a shelf beneath a desk, near cables and other office items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358446/5/object_in_frame_845.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358446/5/object_in_frame_852.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358446/5/object_in_frame_808.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358446/5/object_in_frame_847.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358446/5/object_in_frame_768.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic trash can with white coloring and a rectangular shape. Features a slightly tapered rim and a visible red inner lining. Likely used for waste disposal. Positioned on the floor in a kitchen setting, near cabinets and countertops with various kitchen items around.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/trash can-25/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/trash can-25/object_in_frame_645.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/trash can-25/object_in_frame_640.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/trash can-25/object_in_frame_660.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/trash can-25/object_in_frame_705.png"
+    ]
+}

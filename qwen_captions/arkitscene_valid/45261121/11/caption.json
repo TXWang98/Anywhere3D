@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white possibly container-type object with a rectangular shape. Features multiple drawers and cabinet doors with silver handles. Likely used for storage in a kitchen setting. Positioned under the countertop near a coffee maker and other kitchen appliances.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261121/11/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261121/11/object_in_frame_392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261121/11/object_in_frame_394.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261121/11/object_in_frame_344.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261121/11/object_in_frame_341.png"
+    ]
+}

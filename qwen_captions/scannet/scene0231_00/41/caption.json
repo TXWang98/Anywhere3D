@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric-type object with light blue coloring and irregular shape. Appears crumpled and lacks distinct structural features. Function unclear, potentially a piece of clothing or cloth. Found draped over the back of a wooden chair in a kitchen setting, near a countertop with various items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/chair-41/object_in_frame_2891.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/chair-41/object_in_frame_3521.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/chair-41/object_in_frame_2555.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/chair-41/object_in_frame_3150.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/chair-41/object_in_frame_3535.png"
+    ]
+}

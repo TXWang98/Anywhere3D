@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly refrigerator with a silver finish and rectangular shape. Features double doors with handles and a sleek, modern design. Likely used for food storage. Positioned in a kitchen area adjacent to a beige sofa and near a window with blinds.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897541/8/object_in_frame_355.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897541/8/object_in_frame_370.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897541/8/object_in_frame_373.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897541/8/object_in_frame_356.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897541/8/object_in_frame_372.png"
+    ]
+}

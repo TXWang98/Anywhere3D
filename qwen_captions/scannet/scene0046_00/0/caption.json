@@ -1,0 +1,10 @@
+{
+    "caption": "A framed artwork with a blue and white abstract pattern and rectangular shape. The textured surface suggests a painted canvas within a simple frame. Likely serves as decorative wall art. Positioned above a wooden headboard in a bedroom setting, near a bed with white bedding and a nightstand with various items.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/picture-0/object_in_frame_168.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/picture-0/object_in_frame_136.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/picture-0/object_in_frame_392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/picture-0/object_in_frame_356.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/picture-0/object_in_frame_868.png"
+    ]
+}

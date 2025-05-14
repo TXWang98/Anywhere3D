@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic possibly vase-type object with green foliage and a rounded shape. Has a visible soil base and smooth texture. Likely used for decorative purposes. Placed on a windowsill beside another potted plant in an office setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0591_00/plant-26/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0591_00/plant-26/object_in_frame_252.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0591_00/plant-26/object_in_frame_102.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0591_00/plant-26/object_in_frame_276.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0591_00/plant-26/object_in_frame_256.png"
+    ]
+}

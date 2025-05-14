@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly plastic container-type object with a light beige color and rectangular shape. The tapered rim suggests it might be designed for stacking or storage. Inconclusive evidence for its exact function, but it appears to be placed near a radiator on a wooden floor, possibly in a home setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5630cfdc-12bf-2860-87b7-c7eab95718be/13/object_in_frame_000073.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5630cfdc-12bf-2860-87b7-c7eab95718be/13/object_in_frame_000074.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5630cfdc-12bf-2860-87b7-c7eab95718be/13/object_in_frame_000072.png"
+    ]
+}

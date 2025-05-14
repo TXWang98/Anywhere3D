@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy black office phone with a silver keypad and rectangular shape. Features a small screen and multiple buttons. Designed for professional communication. Positioned on a cluttered desk alongside papers, a glass of water, and computer monitors.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/telephone-18/object_in_frame_534.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/telephone-18/object_in_frame_508.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/telephone-18/object_in_frame_454.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/telephone-18/object_in_frame_490.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/telephone-18/object_in_frame_554.png"
+    ]
+}

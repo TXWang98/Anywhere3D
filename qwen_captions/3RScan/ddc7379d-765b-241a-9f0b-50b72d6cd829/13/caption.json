@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic mug with white coloring and cylindrical shape. The tapered rim suggests it is designed for drinking. Likely used for beverages like coffee or tea. Placed on a bathroom countertop near a sink, surrounded by toiletries and personal care items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/13/object_in_frame_000081.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/13/object_in_frame_000079.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/13/object_in_frame_000082.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/13/object_in_frame_000080.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/13/object_in_frame_000083.png"
+    ]
+}

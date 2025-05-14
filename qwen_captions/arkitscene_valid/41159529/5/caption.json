@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden shelf unit with a dark brown finish and rectangular compartments. The structure features multiple cubbies of varying sizes, designed for displaying small objects. Likely used for decorative or organizational purposes. Mounted on a red wall above a staircase and beside a wooden cabinet.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159529/5/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159529/5/object_in_frame_345.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159529/5/object_in_frame_347.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159529/5/object_in_frame_346.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159529/5/object_in_frame_349.png"
+    ]
+}

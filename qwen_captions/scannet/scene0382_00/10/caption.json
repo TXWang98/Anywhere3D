@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic or metal {generic}-type object with a white color and rectangular shape. The structure includes horizontal slats, suggesting it could be part of a vent or air conditioning unit. Its function appears to be related to airflow regulation. Positioned near the floor against a wall, adjacent to wooden furniture components.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0382_00/radiator-10/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0382_00/radiator-10/object_in_frame_353.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0382_00/radiator-10/object_in_frame_347.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0382_00/radiator-10/object_in_frame_218.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0382_00/radiator-10/object_in_frame_358.png"
+    ]
+}

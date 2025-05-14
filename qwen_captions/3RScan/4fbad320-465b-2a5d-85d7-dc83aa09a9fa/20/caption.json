@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with translucent green coloring and a rectangular shape. The tapered rim suggests it might be designed for pouring or stacking. Its function is inconclusive, but it could be used for storing small items. Placed on a desk near a computer monitor, keyboard, and other office supplies.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/4fbad320-465b-2a5d-85d7-dc83aa09a9fa/20/object_in_frame_000925.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/4fbad320-465b-2a5d-85d7-dc83aa09a9fa/20/object_in_frame_001285.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/4fbad320-465b-2a5d-85d7-dc83aa09a9fa/20/object_in_frame_001287.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/4fbad320-465b-2a5d-85d7-dc83aa09a9fa/20/object_in_frame_001261.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/4fbad320-465b-2a5d-85d7-dc83aa09a9fa/20/object_in_frame_000046.png"
+    ]
+}

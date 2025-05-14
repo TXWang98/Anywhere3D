@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden door with a light brown color and rectangular shape. The surface appears smooth with some visible grain patterns. Likely functions as an entrance or exit to another room. Positioned adjacent to a white wall with horizontal paneling, leading into a space with hardwood flooring.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0277_00/cabinet-5/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0277_00/cabinet-5/object_in_frame_206.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0277_00/cabinet-5/object_in_frame_237.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0277_00/cabinet-5/object_in_frame_250.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0277_00/cabinet-5/object_in_frame_198.png"
+    ]
+}

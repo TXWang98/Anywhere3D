@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic cabinet-type object with a light gray finish and rectangular shape. The structure features clean lines, a smooth surface, and integrated handles. Likely used for storage in the kitchen. Positioned above the stove area, adjacent to a stainless steel range hood.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897508/9/object_in_frame_129.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897508/9/object_in_frame_120.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897508/9/object_in_frame_559.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897508/9/object_in_frame_128.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897508/9/object_in_frame_127.png"
+    ]
+}

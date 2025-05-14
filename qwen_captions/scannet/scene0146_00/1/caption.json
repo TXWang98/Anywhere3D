@@ -1,0 +1,10 @@
+{
+    "caption": "A reflective mirror with a rectangular shape and metallic frame. The flat surface shows clear reflections of the surrounding bathroom fixtures. Serves as a functional element for personal grooming. Positioned above a white sink, adjacent to a soap dispenser and tiled walls in a restroom setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/mirror-1/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/mirror-1/object_in_frame_400.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/mirror-1/object_in_frame_394.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/mirror-1/object_in_frame_402.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/mirror-1/object_in_frame_418.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic tool-type object, matte silver with angular grooves. Ambiguous function between wrench or specialized clamp. Seen in workshop environment near assembly parts.\" \n\nHowever, the green bounding box in the provided images does not contain a tool-type object but rather a bedside table and its contents. Let's reanalyze:\n\n\"A glossy black glass-top bedside table with white drawers and a slightly curved front. The surface holds various items including a lamp, bottles, and other small objects. Likely used for storing personal belongings and providing a convenient surface. Positioned next to a bed with a checkered blanket and striped pillow.\"\n\nThis caption reflects the actual content within the green bounding box across the multiple viewpoints.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/17/object_in_frame_143.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/17/object_in_frame_596.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/17/object_in_frame_6647.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/17/object_in_frame_201.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/17/object_in_frame_5877.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden cabinet with a rich mahogany finish and rectangular shape. Features paneled doors with metallic handles. Likely used for storage in a kitchen setting. Positioned along the countertop, adjacent to a stainless steel refrigerator and microwave.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/kitchen cabinet-65/object_in_frame_2779.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/kitchen cabinet-65/object_in_frame_2471.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/kitchen cabinet-65/object_in_frame_1918.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/kitchen cabinet-65/object_in_frame_3731.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/kitchen cabinet-65/object_in_frame_7.png"
+    ]
+}

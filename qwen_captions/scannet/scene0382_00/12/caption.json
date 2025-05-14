@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly carpeted floor section with dark gray and textured surface. The rectangular shape suggests a defined area. Inconclusive evidence for specific function. Located near furniture like a chair and desk in an indoor setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0382_00/doorframe-12/object_in_frame_515.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0382_00/doorframe-12/object_in_frame_510.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0382_00/doorframe-12/object_in_frame_538.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0382_00/doorframe-12/object_in_frame_516.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0382_00/doorframe-12/object_in_frame_546.png"
+    ]
+}

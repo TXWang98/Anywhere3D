@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden possibly hanger-type object with light brown color and triangular shape. Has a smooth texture and a central hook structure. Likely used for hanging clothes. Positioned on a tiled wall in a bathroom setting, near a towel rack and a shower curtain.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/clothes hanger-23/object_in_frame_1212.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/clothes hanger-23/object_in_frame_1196.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/clothes hanger-23/object_in_frame_1264.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/clothes hanger-23/object_in_frame_1260.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/clothes hanger-23/object_in_frame_1232.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A leather sofa with a rich brown color and a rectangular shape. Features plush cushions, armrests, and a slightly reclined backrest. Designed for comfortable seating. Positioned in a living room setting, surrounded by a coffee table, side table, and decorative items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/3/object_in_frame_2151.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/3/object_in_frame_2471.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/3/object_in_frame_2491.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/3/object_in_frame_2391.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/3/object_in_frame_443.png"
+    ]
+}

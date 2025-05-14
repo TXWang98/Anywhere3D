@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic container-type object with a light blue hue and rounded shape. The tapered rim suggests it could be a small vase or decorative item. Its smooth texture appears glossy. Likely used for holding small items or as an ornament. Positioned on a cluttered desk alongside books, papers, and other office supplies.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/28/object_in_frame_000115.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/28/object_in_frame_000114.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/28/object_in_frame_000121.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/28/object_in_frame_000036.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/28/object_in_frame_000120.png"
+    ]
+}

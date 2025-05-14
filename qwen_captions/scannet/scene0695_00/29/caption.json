@@ -1,0 +1,10 @@
+{
+    "caption": "A cardboard box-type object with brown and printed patterns. Rectangular shape with visible flaps and contents inside. Likely used for storage or transport. Positioned on the floor near a cluttered shelf filled with various items like bottles, papers, and other containers.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/bag-29/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/bag-29/object_in_frame_645.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/bag-29/object_in_frame_1293.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/bag-29/object_in_frame_1299.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/bag-29/object_in_frame_1374.png"
+    ]
+}

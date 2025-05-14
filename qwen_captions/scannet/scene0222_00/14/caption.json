@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with translucent blue coloring and a rectangular shape. Has a lid and appears to be made for storage. Inconclusive evidence for its exact contents. Found on the floor near a desk with books, toiletries, and other personal items scattered around in what seems to be a dorm room setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/desk-14/object_in_frame_1296.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/desk-14/object_in_frame_0.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/desk-14/object_in_frame_108.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/desk-14/object_in_frame_855.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/desk-14/object_in_frame_5121.png"
+    ]
+}

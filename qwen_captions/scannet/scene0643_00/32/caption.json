@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly paper bag-type object with brown coloring and rectangular shape. Appears to have a flat base and open top. Likely used for carrying items. Resting on a wooden chair alongside other objects like a yellow envelope and white cloth in an office setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/bag-32/object_in_frame_747.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/bag-32/object_in_frame_717.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/bag-32/object_in_frame_714.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/bag-32/object_in_frame_684.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/bag-32/object_in_frame_774.png"
+    ]
+}

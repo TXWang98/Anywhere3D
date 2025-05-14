@@ -1,0 +1,10 @@
+{
+    "caption": "1. **Image 1**:  \n\"A metallic possibly container-type object with a reflective silver finish and rectangular shape. The tapered rim suggests it could be a trash bin or storage unit. Its smooth surface and sturdy build imply durability. Positioned in a kitchen setting near cabinets and appliances.\"\n\n2. **Image 2**:  \n\"A metallic trash bin with a polished silver exterior and cylindrical shape. Features a lid mechanism for waste disposal. Likely used for household waste management. Situated on the floor next to a white bucket and shoes, indicating an entryway or utility area.\"\n\n3. **Image 3**:  \n\"A small metallic possibly tool-type object with a dark color and compact shape. Inconclusive evidence for its exact function, but it may serve as a kitchen utensil or accessory. Placed on a countertop amidst other kitchen items like a kettle and decor.\"\n\n4. **Image 4**:  \n\"A metallic trash bin with a shiny silver finish and cylindrical form. Has a hinged lid for opening and closing. Designed for waste collection. Located beside a white bucket and curtain, suggesting placement in a home's utility space.\"\n\n5. **Image 5**:  \n\"A white cabinet with a clean and minimalist design. Rectangular shape with smooth surfaces. Provides storage functionality. Positioned along a wall in a kitchen environment with wooden flooring.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115460/11/object_in_frame_180.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115460/11/object_in_frame_458.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115460/11/object_in_frame_24.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115460/11/object_in_frame_499.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115460/11/object_in_frame_444.png"
+    ]
+}

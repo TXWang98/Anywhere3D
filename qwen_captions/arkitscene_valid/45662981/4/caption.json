@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly fireplace-type object with black and silver coloring and a rectangular shape. Features intricate curved metalwork and a vertical flue structure. Likely designed for heating or decorative purposes. Positioned against a wall in a living room setting, adjacent to a mirror and near a television cabinet.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662981/4/object_in_frame_105.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662981/4/object_in_frame_580.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662981/4/object_in_frame_102.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662981/4/object_in_frame_87.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662981/4/object_in_frame_98.png"
+    ]
+}

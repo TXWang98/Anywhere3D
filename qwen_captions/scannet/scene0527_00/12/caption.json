@@ -1,0 +1,10 @@
+{
+    "caption": "A white bathrobe with a soft fabric texture and a loose, draped shape. Features include long sleeves and a tie belt at the waist. Likely intended for post-bath comfort and warmth. Hanging on a wall hook in a bathroom setting, near a towel and a shower curtain.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0527_00/bathrobe-12/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0527_00/bathrobe-12/object_in_frame_482.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0527_00/bathrobe-12/object_in_frame_513.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0527_00/bathrobe-12/object_in_frame_503.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0527_00/bathrobe-12/object_in_frame_505.png"
+    ]
+}

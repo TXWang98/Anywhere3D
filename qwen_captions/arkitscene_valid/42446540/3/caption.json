@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly upholstered ottoman with a dark gray fabric and rectangular shape. Has a flat top surface and simple wooden legs. Likely used for seating or resting feet. Positioned in a living room setting near a sofa, coffee table, and entertainment center.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/3/object_in_frame_32.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/3/object_in_frame_458.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/3/object_in_frame_101.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/3/object_in_frame_838.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/3/object_in_frame_38.png"
+    ]
+}

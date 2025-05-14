@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy black possibly TV stand with a rectangular shape. Has a flat top surface and open shelving below. Likely used for supporting a television and storing media devices. Positioned against the wall in a living room setting, near a fireplace and surrounded by decorative items like vases and framed pictures.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260925/6/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260925/6/object_in_frame_602.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260925/6/object_in_frame_608.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260925/6/object_in_frame_331.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260925/6/object_in_frame_16.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A white plastic radiator with a vertical slatted design. The structure features evenly spaced fins for heat distribution. Likely used for heating the room. Positioned against the wall near the bed in a bedroom setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0356_00/radiator-13/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0356_00/radiator-13/object_in_frame_336.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0356_00/radiator-13/object_in_frame_1098.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0356_00/radiator-13/object_in_frame_364.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0356_00/radiator-13/object_in_frame_1016.png"
+    ]
+}

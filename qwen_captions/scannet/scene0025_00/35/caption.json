@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with translucent coloring and a rectangular shape. The tapered rim suggests it might be used for storing small items. Inconclusive evidence for its exact function. Found on a cluttered desk alongside various office supplies like bottles, papers, and electronic devices.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/paper towel roll-35/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/paper towel roll-35/object_in_frame_6.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/paper towel roll-35/object_in_frame_1236.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/paper towel roll-35/object_in_frame_942.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/paper towel roll-35/object_in_frame_1245.png"
+    ]
+}

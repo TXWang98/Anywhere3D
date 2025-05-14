@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly wooden tool-type object with a light brown color and elongated shape. The tapered rim suggests it could be a handle or part of a larger implement. Inconclusive evidence for its exact function, but it may be used for manual tasks. Found leaning against a storage unit in an office environment near a desk with a computer and other equipment.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0565_00/tube-38/object_in_frame_529.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0565_00/tube-38/object_in_frame_548.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0565_00/tube-38/object_in_frame_523.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0565_00/tube-38/object_in_frame_520.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0565_00/tube-38/object_in_frame_527.png"
+    ]
+}

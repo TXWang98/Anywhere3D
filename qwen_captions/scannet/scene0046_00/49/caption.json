@@ -1,0 +1,10 @@
+{
+    "caption": "\"A textile pair of sneakers with white and blue coloring and a low-top shape. Features laces and a padded collar. Designed for casual wear or athletic activities. Positioned on the floor near a desk, chair, and other shoes in a room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/shoes-49/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/shoes-49/object_in_frame_2320.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/shoes-49/object_in_frame_1008.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/shoes-49/object_in_frame_980.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/shoes-49/object_in_frame_1016.png"
+    ]
+}

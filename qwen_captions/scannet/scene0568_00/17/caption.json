@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic toy house with vibrant primary colors and a multi-compartment structure. Features various geometric shapes and cutouts on its panels. Likely designed for imaginative play. Mounted on the wall above a child's play area, surrounded by storage bins filled with toys.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0568_00/shelf-17/object_in_frame_742.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0568_00/shelf-17/object_in_frame_748.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0568_00/shelf-17/object_in_frame_746.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0568_00/shelf-17/object_in_frame_738.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0568_00/shelf-17/object_in_frame_700.png"
+    ]
+}

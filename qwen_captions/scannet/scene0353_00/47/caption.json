@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric cap with red coloring and curved shape. Features white text reading 'ST. JOHN'S PREP'. Likely worn as headwear. Hanging on the side of a wooden bunk bed frame in a dorm room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/bed-47/object_in_frame_556.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/bed-47/object_in_frame_508.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/bed-47/object_in_frame_608.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/bed-47/object_in_frame_648.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/bed-47/object_in_frame_636.png"
+    ]
+}

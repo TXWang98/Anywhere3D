@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic container-type object with a dark gray color and cylindrical shape. The tapered rim suggests it could be a trash bin or recycling container. Its smooth surface lacks visible handles or openings. Likely used for waste disposal. Positioned against a red wall near an office door, with chairs and a table in the foreground.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0354_00/trash can-15/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0354_00/trash can-15/object_in_frame_379.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0354_00/trash can-15/object_in_frame_347.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0354_00/trash can-15/object_in_frame_354.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0354_00/trash can-15/object_in_frame_371.png"
+    ]
+}

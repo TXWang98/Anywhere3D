@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly tissue dispenser with a dark gray finish and rectangular shape. Has a flat front panel with a visible slot for dispensing tissues. Likely designed for wall mounting in public restrooms. Positioned on the wall near a grab bar, adjacent to a toilet and other restroom fixtures.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/toilet seat cover dispenser-40/object_in_frame_1296.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/toilet seat cover dispenser-40/object_in_frame_1218.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/toilet seat cover dispenser-40/object_in_frame_1308.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/toilet seat cover dispenser-40/object_in_frame_1335.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/toilet seat cover dispenser-40/object_in_frame_1248.png"
+    ]
+}

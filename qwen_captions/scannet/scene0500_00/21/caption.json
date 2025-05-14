@@ -1,0 +1,10 @@
+{
+    "caption": "A white plastic possibly projector with a rectangular shape and smooth surface. The tapered rim suggests it is designed to focus light or images downward. Likely used for educational presentations. Suspended from the ceiling in a classroom setting, near a chalkboard and wooden furniture.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0500_00/projector-21/object_in_frame_1221.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0500_00/projector-21/object_in_frame_1218.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0500_00/projector-21/object_in_frame_1263.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0500_00/projector-21/object_in_frame_1278.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0500_00/projector-21/object_in_frame_1239.png"
+    ]
+}

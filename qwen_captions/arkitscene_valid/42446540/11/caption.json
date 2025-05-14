@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly upholstered chair with a dark patterned fabric and an ergonomic shape. The high backrest and cushioned seat suggest comfort for extended sitting. Likely designed for relaxation or support in a living space. Positioned near a television and remote controls, indicating use as a viewing chair in a modern living room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/11/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/11/object_in_frame_233.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/11/object_in_frame_184.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/11/object_in_frame_235.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/11/object_in_frame_561.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic remote control with black coloring and rectangular shape. Features multiple buttons and a smooth surface texture. Likely used for operating electronic devices. Placed on a white coffee table in a living room setting, near a sofa with cushions.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bcb0fe0a-4f39-2c70-9d5f-a7263a0180ca/52/object_in_frame_000006.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bcb0fe0a-4f39-2c70-9d5f-a7263a0180ca/52/object_in_frame_000004.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bcb0fe0a-4f39-2c70-9d5f-a7263a0180ca/52/object_in_frame_000002.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bcb0fe0a-4f39-2c70-9d5f-a7263a0180ca/52/object_in_frame_000003.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bcb0fe0a-4f39-2c70-9d5f-a7263a0180ca/52/object_in_frame_000061.png"
+    ]
+}

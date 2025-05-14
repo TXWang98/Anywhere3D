@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric curtain with beige coloring and rectangular shape. Has a soft texture and folds along its length. Likely used for light control and privacy. Positioned on a window frame in a living room setting, near furniture like a sofa and table.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332918/5/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332918/5/object_in_frame_510.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332918/5/object_in_frame_54.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332918/5/object_in_frame_521.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332918/5/object_in_frame_448.png"
+    ]
+}

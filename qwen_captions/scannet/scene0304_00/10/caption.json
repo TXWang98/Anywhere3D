@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric backpack with red and black coloring and a rectangular shape. Features multiple compartments, zippers, and straps. Designed for carrying personal items. Positioned on a blue countertop in what appears to be a postal or storage facility, near rows of parcel lockers.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/backpack-10/object_in_frame_932.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/backpack-10/object_in_frame_510.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/backpack-10/object_in_frame_468.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/backpack-10/object_in_frame_354.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/backpack-10/object_in_frame_298.png"
+    ]
+}

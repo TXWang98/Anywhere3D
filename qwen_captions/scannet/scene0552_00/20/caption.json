@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic toaster with a silver and black color scheme and a rectangular shape. Features a control panel with knobs and slots for bread. Designed for toasting slices of bread. Positioned on a kitchen countertop next to a microwave and a coffee maker, in a modern kitchen setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/toaster oven-20/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/toaster oven-20/object_in_frame_319.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/toaster oven-20/object_in_frame_338.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/toaster oven-20/object_in_frame_333.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/toaster oven-20/object_in_frame_361.png"
+    ]
+}

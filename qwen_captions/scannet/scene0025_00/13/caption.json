@@ -1,0 +1,9 @@
+{
+    "caption": "\"A black office chair with a smooth and matte finish. The ergonomic design includes a cushioned seat and backrest, along with adjustable armrests. Provides comfortable seating for extended periods. Positioned in front of a desk setup with computer monitors, keyboard, and various office supplies.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/office chair-13/object_in_frame_1752.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/office chair-13/object_in_frame_1755.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/office chair-13/object_in_frame_1746.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/office chair-13/object_in_frame_1749.png"
+    ]
+}

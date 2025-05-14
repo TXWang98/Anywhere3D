@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric cushion with dark brown coloring and rectangular shape. Appears soft with visible folds and seams. Likely used for seating comfort. Positioned on a bed alongside striped bedding and white pillows.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/33/object_in_frame_000154.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/33/object_in_frame_000234.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/33/object_in_frame_000235.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/33/object_in_frame_000233.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/33/object_in_frame_000232.png"
+    ]
+}

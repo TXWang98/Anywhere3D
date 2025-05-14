@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic chair with black coloring and ergonomic shape. Has a cushioned seat and backrest with armrests. Designed for office or home use. Positioned in front of a desk with books, papers, and other office supplies around.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/33/object_in_frame_000119.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/33/object_in_frame_000272.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/33/object_in_frame_000032.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/33/object_in_frame_000030.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/33/object_in_frame_000124.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly cardboard box-type object with white and orange coloring. Rectangular shape with visible printed text and barcode. Likely used for packaging or storage. Placed on a dark surface, partially obscured by other items like papers and a towel.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0527_00/table-4/object_in_frame_404.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0527_00/table-4/object_in_frame_415.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0527_00/table-4/object_in_frame_383.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0527_00/table-4/object_in_frame_420.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0527_00/table-4/object_in_frame_251.png"
+    ]
+}

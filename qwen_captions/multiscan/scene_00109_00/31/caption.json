@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric backpack with dark gray and black coloring. Has a structured, rectangular shape with visible straps and compartments. Likely designed for carrying personal items. Placed on a light-colored couch alongside decorative pillows in a living room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/31/object_in_frame_9902.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/31/object_in_frame_5381.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/31/object_in_frame_8969.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/31/object_in_frame_5574.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/31/object_in_frame_8532.png"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "caption": "\"A metallic possibly pipe-type object with a silver color and cylindrical shape. The smooth surface suggests it is made of metal. Likely part of a plumbing or ventilation system. Located on the ceiling, near recessed lighting fixtures.\"\n\n\"A white ceramic toilet with a standard oval shape. Has a flush mechanism and a seat cover. Designed for sanitary use in bathrooms. Positioned against a tiled wall with adjacent plumbing fixtures.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/6bde60d2-9162-246f-8dbf-dbd911924def/6/object_in_frame_000048.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/6bde60d2-9162-246f-8dbf-dbd911924def/6/object_in_frame_000001.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric cushion with a light gray and white pattern. Rectangular shape with soft edges. Appears to be designed for comfort and support. Positioned on a dark gray sofa alongside other cushions, in a living room setting with a side table and decorative items nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/3/object_in_frame_404.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/3/object_in_frame_400.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/3/object_in_frame_409.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/3/object_in_frame_405.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/3/object_in_frame_889.png"
+    ]
+}

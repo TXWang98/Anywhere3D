@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic chair with a light brown seat and backrest. The chair has a simple, ergonomic design with a slightly curved backrest for comfort. It features metal legs that provide stability. Likely intended for seating in casual or office environments. Positioned near a small table with a toaster oven and other items on it, suggesting a break room or similar setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0063_00/chair-4/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0063_00/chair-4/object_in_frame_6.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0063_00/chair-4/object_in_frame_12.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0063_00/chair-4/object_in_frame_20.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0063_00/chair-4/object_in_frame_19.png"
+    ]
+}

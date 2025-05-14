@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white possibly cabinet-type object with a rectangular shape. Features two doors with metallic knobs and a flat top surface. Likely used for storage in a bathroom setting. Positioned beneath a sink, adjacent to tiled flooring and other bathroom fixtures.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331068/3/object_in_frame_652.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331068/3/object_in_frame_655.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331068/3/object_in_frame_656.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331068/3/object_in_frame_661.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331068/3/object_in_frame_663.png"
+    ]
+}

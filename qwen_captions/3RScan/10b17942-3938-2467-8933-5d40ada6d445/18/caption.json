@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly chandelier-type object with a golden hue and intricate design. Features multiple arms extending from a central hub, each holding a light bulb. The structure suggests it is meant for hanging from the ceiling to provide ambient lighting. Positioned centrally in a room with visible walls and doorways in the background.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/10b17942-3938-2467-8933-5d40ada6d445/18/object_in_frame_000040.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/10b17942-3938-2467-8933-5d40ada6d445/18/object_in_frame_000050.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/10b17942-3938-2467-8933-5d40ada6d445/18/object_in_frame_000037.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/10b17942-3938-2467-8933-5d40ada6d445/18/object_in_frame_000036.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/10b17942-3938-2467-8933-5d40ada6d445/18/object_in_frame_000038.png"
+    ]
+}

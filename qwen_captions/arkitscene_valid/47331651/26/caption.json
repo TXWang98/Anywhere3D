@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly glass vase-type object with translucent blue coloring. Fluted body shape and water droplets on surface. Likely floral display container. Found on top of a cabinet with other decorative items nearby.\"\n\nAnalysis:\n- **Category**: The object appears to be a vase, but the lack of visible flowers or plants makes it uncertain.\n- **Attributes**: \n  - Color: Translucent blue\n  - Shape: Fluted body\n  - Structure: Water droplets suggest it may hold water.\n  - Function: Likely used for displaying flowers.\n  - Context: Placed on a cabinet with other decorative items.\n- **Confidence Signals**: \"While resembling a vase, the absence of flowers makes its function inconclusive.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/26/object_in_frame_1191.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/26/object_in_frame_1190.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/26/object_in_frame_1202.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/26/object_in_frame_1199.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/26/object_in_frame_1176.png"
+    ]
+}

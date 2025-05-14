@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden door with a light brown finish and rectangular shape. Features a metallic handle and lock mechanism. Serves as an entrance or exit point. Positioned in a hallway adjacent to trash bins and framed posters on the wall.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/door-23/object_in_frame_824.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/door-23/object_in_frame_866.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/door-23/object_in_frame_844.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/door-23/object_in_frame_858.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/door-23/object_in_frame_820.png"
+    ]
+}

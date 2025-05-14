@@ -1,0 +1,10 @@
+{
+    "caption": "\"A black leather armchair with a sleek and modern design. The chair features a smooth texture and contoured backrest for ergonomic support. It is designed for comfortable seating, likely in a living room or lounge area. Positioned against a wall with other similar chairs nearby, suggesting a coordinated furniture arrangement.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0019_00/chair-23/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0019_00/chair-23/object_in_frame_568.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0019_00/chair-23/object_in_frame_63.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0019_00/chair-23/object_in_frame_49.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0019_00/chair-23/object_in_frame_541.png"
+    ]
+}

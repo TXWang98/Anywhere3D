@@ -1,0 +1,9 @@
+{
+    "caption": "\"A possibly metallic container-type object with a light color and rectangular shape. Inconclusive evidence for its structure or texture details due to blurriness. Functional affordances are unclear. Seen on top of a white cabinet in a bedroom setting, near a bed with pillows.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7633-8d6f-2d13-8e91-8b46e2b70f34/32/object_in_frame_000216.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7633-8d6f-2d13-8e91-8b46e2b70f34/32/object_in_frame_000227.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7633-8d6f-2d13-8e91-8b46e2b70f34/32/object_in_frame_000147.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7633-8d6f-2d13-8e91-8b46e2b70f34/32/object_in_frame_000052.png"
+    ]
+}

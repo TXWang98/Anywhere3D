@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric-type object with light blue coloring and a flat, rectangular shape. Appears to have soft texture and folded edges. Likely used for cushioning or as a decorative throw. Placed on the floor near a rolled-up item and furniture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/pillow-25/object_in_frame_998.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/pillow-25/object_in_frame_524.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/pillow-25/object_in_frame_526.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/pillow-25/object_in_frame_1012.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/pillow-25/object_in_frame_1014.png"
+    ]
+}

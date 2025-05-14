@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly frosted glass window with a rectangular shape. The translucent material diffuses light, creating a soft glow. Likely designed for privacy while allowing natural light to enter. Positioned above a bathroom vanity counter with various toiletries and personal care items nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/window-23/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/window-23/object_in_frame_164.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/window-23/object_in_frame_156.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/window-23/object_in_frame_169.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/window-23/object_in_frame_158.png"
+    ]
+}

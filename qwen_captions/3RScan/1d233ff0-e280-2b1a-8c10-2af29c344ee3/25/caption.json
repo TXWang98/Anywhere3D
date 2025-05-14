@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic sink with off-white coloring and a rectangular shape. Features an integrated faucet and drain. Designed for handwashing and personal hygiene. Positioned against a wall beneath an ornate mirror, adjacent to a toilet and waste bin in a bathroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d233ff0-e280-2b1a-8c10-2af29c344ee3/25/object_in_frame_000192.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d233ff0-e280-2b1a-8c10-2af29c344ee3/25/object_in_frame_000190.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d233ff0-e280-2b1a-8c10-2af29c344ee3/25/object_in_frame_000045.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d233ff0-e280-2b1a-8c10-2af29c344ee3/25/object_in_frame_000047.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d233ff0-e280-2b1a-8c10-2af29c344ee3/25/object_in_frame_000191.png"
+    ]
+}

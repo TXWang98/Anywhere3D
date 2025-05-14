@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy plastic television with a black screen and rectangular shape. The flat panel design and visible cables suggest it's a modern display device. Positioned on a wall-mounted bracket above a bedside table, near a bed with white bedding and a blue blanket.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/tv-53/object_in_frame_132.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/tv-53/object_in_frame_124.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/tv-53/object_in_frame_368.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/tv-53/object_in_frame_160.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/tv-53/object_in_frame_364.png"
+    ]
+}

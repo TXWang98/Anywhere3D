@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white possibly refrigerator with a smooth surface and rectangular shape. Features a door with magnets attached. Likely used for food storage. Positioned in a laundry room setting, adjacent to a washing machine and near cleaning supplies.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/19/object_in_frame_759.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/19/object_in_frame_762.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/19/object_in_frame_764.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/19/object_in_frame_781.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/19/object_in_frame_784.png"
+    ]
+}

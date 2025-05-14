@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden door-type object with a dark brown finish and rectangular shape. The structure includes a handle and hinges, suggesting it's meant for opening and closing. Its function is to separate and connect two spaces. Positioned between a kitchen area with tiled flooring and another room with a different floor texture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/doorframe-36/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/doorframe-36/object_in_frame_0.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/doorframe-36/object_in_frame_159.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/doorframe-36/object_in_frame_21.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/doorframe-36/object_in_frame_738.png"
+    ]
+}

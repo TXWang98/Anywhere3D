@@ -1,0 +1,10 @@
+{
+    "caption": "A transparent glass jug with a green lid and cylindrical shape. The tapered rim suggests it is designed for pouring liquids. Likely used for serving water or other beverages. Sitting on a tray alongside a bottle of water, placed on a dark table in what appears to be a dining area.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0671_00/wall-12/object_in_frame_429.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0671_00/wall-12/object_in_frame_434.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0671_00/wall-12/object_in_frame_428.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0671_00/wall-12/object_in_frame_432.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0671_00/wall-12/object_in_frame_424.png"
+    ]
+}

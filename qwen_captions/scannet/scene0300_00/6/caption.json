@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric-covered chair with a light gray upholstery and an upright backrest. The chair has a simple, rectangular seat cushion and dark wooden legs. Designed for seating comfort in indoor environments. Positioned at a wooden desk with a blue backpack resting on it, suggesting a workspace or study area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0300_00/table-6/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0300_00/table-6/object_in_frame_400.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0300_00/table-6/object_in_frame_614.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0300_00/table-6/object_in_frame_376.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0300_00/table-6/object_in_frame_554.png"
+    ]
+}

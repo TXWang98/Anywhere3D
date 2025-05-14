@@ -1,0 +1,10 @@
+{
+    "caption": "\"A plastic container-type object with white coloring and a rectangular shape. Has a smooth surface with ridged edges and a flat lid. Likely used for storage or transport of items. Positioned against a wall near a cardboard box in what appears to be a storage area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0684_00/plastic containers-6/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0684_00/plastic containers-6/object_in_frame_92.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0684_00/plastic containers-6/object_in_frame_540.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0684_00/plastic containers-6/object_in_frame_104.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0684_00/plastic containers-6/object_in_frame_48.png"
+    ]
+}

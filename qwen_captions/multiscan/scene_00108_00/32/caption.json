@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic stainless steel refrigerator with a reflective surface and rectangular shape. Features sleek vertical handles and a smooth, polished texture. Designed for food storage and preservation. Positioned in a kitchen setting, adjacent to a white kettle and other appliances on a countertop.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/32/object_in_frame_3360.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/32/object_in_frame_4295.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/32/object_in_frame_2660.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/32/object_in_frame_2670.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/32/object_in_frame_2717.png"
+    ]
+}

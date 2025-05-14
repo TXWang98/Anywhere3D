@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy LCD television with a black frame and rectangular shape. Has a sleek, flat-panel design with visible stand supports. Likely used for entertainment purposes. Positioned on a light wooden media console beneath a shelf holding various items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/15/object_in_frame_000728.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/15/object_in_frame_000600.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/15/object_in_frame_000599.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/15/object_in_frame_000731.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/15/object_in_frame_000729.png"
+    ]
+}

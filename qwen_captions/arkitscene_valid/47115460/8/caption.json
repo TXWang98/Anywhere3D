@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic vase-type object with a light green hue and an elongated, slightly tapered shape. The textured surface suggests decorative patterns. Likely used as a floral display or ornamental piece. Positioned on the windowsill amidst other plants and kitchenware in a well-lit room.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115460/8/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115460/8/object_in_frame_187.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115460/8/object_in_frame_151.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115460/8/object_in_frame_68.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115460/8/object_in_frame_19.png"
+    ]
+}

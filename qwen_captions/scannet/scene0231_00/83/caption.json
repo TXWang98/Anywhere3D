@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic tool-type object, matte silver with angular grooves. Ambiguous function between wrench or specialized clamp. Seen in workshop environment near assembly parts.\" \n\nIn this case, the green bounding box does not contain a clear object across the provided images. The bounding box appears to be empty or contains only air and parts of the kitchen structure like cabinets and walls. Therefore, no specific category, attributes, or confidence signals can be accurately determined for an object within the bounding box.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/wall-83/object_in_frame_2401.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/wall-83/object_in_frame_2429.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/wall-83/object_in_frame_2254.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/wall-83/object_in_frame_2443.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/wall-83/object_in_frame_2275.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A matte wooden door with a dark brown finish and rectangular shape. Features a metallic handle and lock mechanism. Serves as an entrance or exit point. Positioned within a wall frame, adjacent to a light switch.\n\nInconclusive evidence for the material properties due to image quality. While resembling a standard interior door, the presence of a small device mounted above suggests additional functionality, possibly related to security or access control. Contextually placed in what appears to be a residential or office setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/doorframe-25/object_in_frame_1935.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/doorframe-25/object_in_frame_5130.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/doorframe-25/object_in_frame_5139.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/doorframe-25/object_in_frame_1944.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/doorframe-25/object_in_frame_1908.png"
+    ]
+}

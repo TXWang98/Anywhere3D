@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a translucent appearance and irregular shape. Inconclusive evidence for its function, but it may be used for storage or as a decorative item. Found on a wooden ledge above a bookshelf filled with books, suggesting a home or library setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0558_00/window-32/object_in_frame_242.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0558_00/window-32/object_in_frame_240.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0558_00/window-32/object_in_frame_239.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0558_00/window-32/object_in_frame_243.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0558_00/window-32/object_in_frame_241.png"
+    ]
+}

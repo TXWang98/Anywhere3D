@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly mail locker-type object with a neutral gray color and rectangular shape. Features a grid of small compartments with individual locks. Likely used for storing and distributing mail or packages. Positioned in an indoor setting, adjacent to similar lockers and near a counter with a blue surface.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/mailboxes-0/object_in_frame_132.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/mailboxes-0/object_in_frame_252.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/mailboxes-0/object_in_frame_240.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/mailboxes-0/object_in_frame_166.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/mailboxes-0/object_in_frame_172.png"
+    ]
+}

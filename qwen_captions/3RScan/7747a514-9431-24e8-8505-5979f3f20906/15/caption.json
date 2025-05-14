@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric garment-type object with dark and light patterns. Irregular shape with folds and seams. Likely worn as clothing. Seen draped over a chair in an office-like setting with a desk, computer monitor, and other office supplies nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/15/object_in_frame_000259.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/15/object_in_frame_000123.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/15/object_in_frame_000126.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/15/object_in_frame_000127.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/15/object_in_frame_000122.png"
+    ]
+}

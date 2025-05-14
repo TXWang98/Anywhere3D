@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric-type object with orange coloring and a flat, rectangular shape. Appears to be draped over an unseen structure. Likely used as a cover or decorative item. Seen in a living space near a couch with various items like pillows and clothing around.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/doorframe-21/object_in_frame_1340.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/doorframe-21/object_in_frame_1328.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/doorframe-21/object_in_frame_1356.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/doorframe-21/object_in_frame_1424.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/doorframe-21/object_in_frame_1436.png"
+    ]
+}

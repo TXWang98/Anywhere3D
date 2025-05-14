@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy plastic tablet case with black and red coloring and a rectangular shape. Has a smooth, matte finish with visible edges and corners. Likely designed to protect and carry a tablet. Positioned on a wooden desk alongside various office supplies and electronic devices.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/book-34/object_in_frame_867.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/book-34/object_in_frame_972.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/book-34/object_in_frame_1653.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/book-34/object_in_frame_708.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/book-34/object_in_frame_1656.png"
+    ]
+}

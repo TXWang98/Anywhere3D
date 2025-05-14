@@ -1,0 +1,9 @@
+{
+    "caption": "\"A possibly plastic container-type object with a translucent appearance and cylindrical shape. The tapered rim suggests it could be a cup or small vase. Inconclusive evidence for its exact function, but it may hold small items or serve as a decorative piece. Found on a bedside table near a lamp and other personal items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/00d42bed-778d-2ac6-86a7-0e0e5f5f5660/28/object_in_frame_000192.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/00d42bed-778d-2ac6-86a7-0e0e5f5f5660/28/object_in_frame_000190.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/00d42bed-778d-2ac6-86a7-0e0e5f5f5660/28/object_in_frame_000194.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/00d42bed-778d-2ac6-86a7-0e0e5f5f5660/28/object_in_frame_000148.png"
+    ]
+}

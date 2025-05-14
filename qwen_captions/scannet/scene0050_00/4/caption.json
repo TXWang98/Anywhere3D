@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden armchair with floral upholstery and a rectangular shape. Features padded seat and backrest with intricate floral patterns in shades of pink, green, and beige. Designed for comfortable seating. Positioned on a zebra-patterned rug near a leather sofa and a window with glass panels.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/chair-4/object_in_frame_3703.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/chair-4/object_in_frame_3353.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/chair-4/object_in_frame_231.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/chair-4/object_in_frame_3283.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/chair-4/object_in_frame_3325.png"
+    ]
+}

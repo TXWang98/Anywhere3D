@@ -1,0 +1,10 @@
+{
+    "caption": "A framed artwork with abstract green and white patterns. The rectangular shape is enclosed in a white frame with a smooth texture. Likely serves as decorative wall art. Positioned on an interior wall near a staircase with wooden railings.\n\nConfidence Signals:\n- \"The rectangular shape and white frame suggest it is a piece of wall art.\"\n- \"While resembling an abstract painting, the presence of green and white patterns indicates a natural or landscape theme.\"\n- \"Inconclusive evidence for its specific artistic style due to the abstract nature.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/8/object_in_frame_13537.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/8/object_in_frame_13530.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/8/object_in_frame_12291.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/8/object_in_frame_13527.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/8/object_in_frame_13538.png"
+    ]
+}

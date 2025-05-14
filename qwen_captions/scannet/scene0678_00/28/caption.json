@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with white coloring and a rectangular shape. Features a grid-like pattern on its sides. Likely used for storing or transporting items. Positioned on a countertop in a laundry room setting, surrounded by folded towels and other laundry-related objects.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/wall-28/object_in_frame_1392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/wall-28/object_in_frame_1596.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/wall-28/object_in_frame_1428.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/wall-28/object_in_frame_1624.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/wall-28/object_in_frame_1420.png"
+    ]
+}

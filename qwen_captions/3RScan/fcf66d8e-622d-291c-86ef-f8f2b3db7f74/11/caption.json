@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a translucent appearance and rectangular shape. The tapered rim suggests it may be designed for stacking or storage. Inconclusive evidence for its exact function, but it could be used for holding small items. Positioned on a TV stand alongside other electronic devices and media in a living room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/11/object_in_frame_000006.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/11/object_in_frame_000016.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/11/object_in_frame_000003.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/11/object_in_frame_000005.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/11/object_in_frame_000009.png"
+    ]
+}

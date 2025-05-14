@@ -1,0 +1,10 @@
+{
+    "caption": "\"A stainless steel refrigerator with a brushed metallic finish and rectangular shape. Features two doors with sleek handles and a freezer compartment on top. Designed for food storage and preservation. Positioned in a kitchen setting, adjacent to cabinets and a countertop.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0063_00/refrigerator-14/object_in_frame_529.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0063_00/refrigerator-14/object_in_frame_482.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0063_00/refrigerator-14/object_in_frame_484.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0063_00/refrigerator-14/object_in_frame_223.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0063_00/refrigerator-14/object_in_frame_230.png"
+    ]
+}

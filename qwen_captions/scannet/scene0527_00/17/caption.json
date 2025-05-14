@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic container-type object with a reflective surface and cylindrical shape. The tapered rim suggests it may be designed for holding or dispensing items. Inconclusive evidence for its exact function, but it could serve as a storage vessel. Positioned on a shelf within a bathroom setting, near a sink and other bathroom fixtures.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0527_00/cabinet-17/object_in_frame_84.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0527_00/cabinet-17/object_in_frame_136.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0527_00/cabinet-17/object_in_frame_79.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0527_00/cabinet-17/object_in_frame_141.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0527_00/cabinet-17/object_in_frame_121.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric bolster-type object with dark brown coloring and cylindrical shape. Appears to have a smooth texture. Likely used for lumbar support or decorative purposes. Positioned at the head of a bed, surrounded by white pillows and bedding in a bedroom setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/pillow-67/object_in_frame_168.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/pillow-67/object_in_frame_0.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/pillow-67/object_in_frame_3073.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/pillow-67/object_in_frame_2996.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/pillow-67/object_in_frame_2989.png"
+    ]
+}

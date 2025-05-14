@@ -1,0 +1,10 @@
+{
+    "caption": "A matte black possibly container-type object with a cylindrical shape. The tapered rim suggests it could be a trash bin or storage container. Its smooth surface and sturdy structure imply durability. Likely used for waste disposal or storage purposes. Positioned on the floor near a backpack, jacket, and another bin with a plastic liner, in what appears to be an indoor setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/trash can-34/object_in_frame_1778.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/trash can-34/object_in_frame_952.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/trash can-34/object_in_frame_3528.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/trash can-34/object_in_frame_875.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/trash can-34/object_in_frame_1764.png"
+    ]
+}

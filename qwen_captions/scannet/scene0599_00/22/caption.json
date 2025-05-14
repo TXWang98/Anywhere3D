@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy wooden table with a rich brown color and an elongated rectangular shape. The surface is smooth with visible wood grain patterns. Designed for dining or meeting purposes. Positioned in a room with matching wooden chairs arranged around it, near a wall outlet and window.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/chair-22/object_in_frame_1698.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/chair-22/object_in_frame_1692.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/chair-22/object_in_frame_1668.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/chair-22/object_in_frame_1704.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/chair-22/object_in_frame_1674.png"
+    ]
+}

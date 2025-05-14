@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly fabric lampshade with a light beige color and conical shape. The textured surface suggests a woven material. Likely serves as a diffuser for the lamp's light. Positioned on a bedside table in a dimly lit bedroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/00d42bed-778d-2ac6-86a7-0e0e5f5f5660/34/object_in_frame_000194.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/00d42bed-778d-2ac6-86a7-0e0e5f5f5660/34/object_in_frame_000193.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/00d42bed-778d-2ac6-86a7-0e0e5f5f5660/34/object_in_frame_000022.png"
+    ]
+}

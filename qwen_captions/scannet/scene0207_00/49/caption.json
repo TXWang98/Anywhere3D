@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly paper towel roll with white color and cylindrical shape. Appears to have a cardboard core and perforated edges. Likely used for cleaning or drying purposes. Positioned on a cluttered desk near other household items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/paper towel roll-49/object_in_frame_1392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/paper towel roll-49/object_in_frame_99.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/paper towel roll-49/object_in_frame_120.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/paper towel roll-49/object_in_frame_117.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/paper towel roll-49/object_in_frame_1368.png"
+    ]
+}

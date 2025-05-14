@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric backpack with red and black coloring and a rectangular shape. Features multiple compartments, zippers, and straps. Likely used for carrying personal items. Placed on top of a blue cabinet in an indoor setting with tiled floors and storage units in the background.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/cabinet-9/object_in_frame_932.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/cabinet-9/object_in_frame_524.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/cabinet-9/object_in_frame_954.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/cabinet-9/object_in_frame_930.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/cabinet-9/object_in_frame_198.png"
+    ]
+}

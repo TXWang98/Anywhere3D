@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden cabinet with a dark brown finish and rectangular shape. Features a single door with a metallic handle and a drawer above it. Likely used for storage in the kitchen. Positioned between a refrigerator and a stove, with a countertop above it holding various kitchen items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0149_00/kitchen cabinet-4/object_in_frame_932.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0149_00/kitchen cabinet-4/object_in_frame_8.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0149_00/kitchen cabinet-4/object_in_frame_34.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0149_00/kitchen cabinet-4/object_in_frame_970.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0149_00/kitchen cabinet-4/object_in_frame_162.png"
+    ]
+}

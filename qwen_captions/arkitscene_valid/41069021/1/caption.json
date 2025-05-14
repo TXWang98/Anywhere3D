@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric cushion with a floral pattern and square shape. Features a bold black background with yellow and white flower designs. Likely used for seating comfort or decoration. Placed on a dark leather sofa in a living room setting, alongside another similar cushion.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/1/object_in_frame_1379.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/1/object_in_frame_1326.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/1/object_in_frame_1735.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/1/object_in_frame_1472.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/1/object_in_frame_1300.png"
+    ]
+}

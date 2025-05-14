@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic tool-type object, matte silver with angular grooves. Ambiguous function between wrench or specialized clamp. Seen in workshop environment near assembly parts.\n\n---\n\nUpon analyzing the provided images and focusing on the green bounding box across multiple viewpoints, it appears that the object within the bounding box is a door handle. Here's the detailed caption following the specified template:\n\n\"A metallic possibly door handle with silver coloring and elongated shape. Has a smooth surface and a curved design for ergonomic grip. Functions as a mechanism to open and close doors. Located on a wooden door in a bathroom setting, adjacent to a toilet and other bathroom fixtures.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/shower curtain-22/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/shower curtain-22/object_in_frame_222.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/shower curtain-22/object_in_frame_2190.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/shower curtain-22/object_in_frame_216.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/shower curtain-22/object_in_frame_198.png"
+    ]
+}

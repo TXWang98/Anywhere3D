@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric jacket-type object with dark blue coloring and folded shape. Appears soft and slightly crumpled. Likely worn for warmth or protection. Placed on a brown chair in an office-like setting, near a filing cabinet and bookshelf.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/jacket-19/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/jacket-19/object_in_frame_918.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/jacket-19/object_in_frame_903.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/jacket-19/object_in_frame_723.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/jacket-19/object_in_frame_774.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic tray-type object with a teal color and rectangular shape. Has a smooth, slightly glossy surface with raised edges. Likely used for carrying or organizing items. Positioned on the edge of a countertop in what appears to be a kitchen or laboratory setting, near other equipment and containers.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0412_00/folded table-26/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0412_00/folded table-26/object_in_frame_291.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0412_00/folded table-26/object_in_frame_1002.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0412_00/folded table-26/object_in_frame_294.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0412_00/folded table-26/object_in_frame_201.png"
+    ]
+}

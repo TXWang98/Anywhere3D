@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic vase-type object with a reflective silver surface and a flared shape. The tapered rim suggests it may be designed for holding flowers or decorative purposes. While resembling a vase, the presence of black speckles adds an artistic touch. Inconclusive evidence for its function as a container. Found on a countertop in a laundry room setting, near washing machines and dryers.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/clothes dryers-9/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/clothes dryers-9/object_in_frame_2040.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/clothes dryers-9/object_in_frame_2048.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/clothes dryers-9/object_in_frame_2108.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/clothes dryers-9/object_in_frame_904.png"
+    ]
+}

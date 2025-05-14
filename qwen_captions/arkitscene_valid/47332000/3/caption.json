@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy ceramic sink with white coloring and rectangular shape. Smooth surface with a central drain and faucet fixtures. Designed for handwashing and personal hygiene. Positioned in a bathroom setting, accompanied by a soap dispenser and green sponge nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332000/3/object_in_frame_404.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332000/3/object_in_frame_400.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332000/3/object_in_frame_388.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332000/3/object_in_frame_389.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332000/3/object_in_frame_396.png"
+    ]
+}

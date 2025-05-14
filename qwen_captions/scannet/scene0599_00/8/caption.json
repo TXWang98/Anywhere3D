@@ -1,0 +1,9 @@
+{
+    "caption": "A possibly plastic container-type object with a translucent appearance and rectangular shape. The tapered rim suggests it may be designed for stacking or easy pouring. Inconclusive evidence for its specific function, but it could be used for storage or waste disposal. Seen on the floor near a doorway, partially obscured by a door frame.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/floor-8/object_in_frame_1023.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/floor-8/object_in_frame_1014.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/floor-8/object_in_frame_1017.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/floor-8/object_in_frame_1020.png"
+    ]
+}

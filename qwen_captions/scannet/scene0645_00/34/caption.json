@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric-covered wall-mounted lamp with a cream-colored shade and conical shape. The tapered rim suggests it is designed to direct light downward. Likely used for ambient lighting in the room. Positioned above a cushioned armchair, near a window with curtains.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/lamp-34/object_in_frame_854.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/lamp-34/object_in_frame_903.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/lamp-34/object_in_frame_896.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/lamp-34/object_in_frame_889.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/lamp-34/object_in_frame_819.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic game controller with black and white coloring and ergonomic shape. Has multiple buttons and a central joystick. Designed for interactive gaming. Placed on a TV stand beside other electronic devices in a living room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899679/6/object_in_frame_155.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899679/6/object_in_frame_136.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899679/6/object_in_frame_971.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899679/6/object_in_frame_140.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899679/6/object_in_frame_977.png"
+    ]
+}

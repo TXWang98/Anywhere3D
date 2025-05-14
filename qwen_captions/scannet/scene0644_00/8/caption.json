@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white possibly metallic cabinet with a rectangular shape. Features smooth surfaces and a hinged door. Likely used for storage in an office setting. Positioned near a desk, computer monitors, and a whiteboard.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/cabinet-8/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/cabinet-8/object_in_frame_6.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/cabinet-8/object_in_frame_45.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/cabinet-8/object_in_frame_1305.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/cabinet-8/object_in_frame_813.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a translucent green lid and rectangular shape. The body appears to be gray with visible labels or stickers. Likely used for storage or waste segregation. Positioned under a table in what seems to be a kitchen or utility area, near other bins and a sink.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0412_00/recycling bin-16/object_in_frame_1047.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0412_00/recycling bin-16/object_in_frame_510.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0412_00/recycling bin-16/object_in_frame_1071.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0412_00/recycling bin-16/object_in_frame_402.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0412_00/recycling bin-16/object_in_frame_357.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A plastic lecture chair with black coloring and a rectangular shape. Features an attached wooden writing surface. Designed for classroom seating. Positioned in rows within a lecture hall environment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0257_00/chair-14/object_in_frame_534.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0257_00/chair-14/object_in_frame_524.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0257_00/chair-14/object_in_frame_468.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0257_00/chair-14/object_in_frame_536.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0257_00/chair-14/object_in_frame_504.png"
+    ]
+}

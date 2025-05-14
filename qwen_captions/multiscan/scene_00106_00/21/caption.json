@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a yellow and brown color pattern. Cylindrical shape with a tapered rim suggests it might be a bottle or jar. The presence of wires indicates it could be an electronic device or charger. Inconclusive evidence for its exact function. Placed on a bed near pillows and bedding in a bedroom setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/21/object_in_frame_5781.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/21/object_in_frame_1184.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/21/object_in_frame_1284.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/21/object_in_frame_1224.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/21/object_in_frame_1204.png"
+    ]
+}

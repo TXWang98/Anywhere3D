@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy poster-type object with vibrant colors and rectangular shape. Features a tropical beach scene with palm trees and blue skies. Likely serves as decorative wall art. Positioned above a dark gray couch in a living space, near shelves holding various items and boxes stacked nearby.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/calendar-26/object_in_frame_1676.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/calendar-26/object_in_frame_1672.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/calendar-26/object_in_frame_1668.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/calendar-26/object_in_frame_276.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/calendar-26/object_in_frame_1712.png"
+    ]
+}

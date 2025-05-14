@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic baby bouncer with a brown and white cushion. The seat has a contoured shape for infant support. Likely designed for soothing and entertaining babies. Positioned in a dimly lit room near a wooden cabinet and other furniture.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/16/object_in_frame_968.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/16/object_in_frame_1723.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/16/object_in_frame_145.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/16/object_in_frame_1704.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/16/object_in_frame_769.png"
+    ]
+}

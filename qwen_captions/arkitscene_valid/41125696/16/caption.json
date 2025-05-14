@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic vase-type object with a neutral beige tone and an elongated, slightly tapered shape. The smooth surface and rounded opening suggest it could be used for decorative purposes or as a container for flowers. It is placed on a glass table surrounded by other decorative items like spherical ornaments, indicating a dining or living room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125696/16/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125696/16/object_in_frame_989.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125696/16/object_in_frame_980.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125696/16/object_in_frame_1022.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125696/16/object_in_frame_983.png"
+    ]
+}

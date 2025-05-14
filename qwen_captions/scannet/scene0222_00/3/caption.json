@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden door with a dark brown finish and rectangular panel design. The tapered rim suggests it is designed for smooth opening and closing. Functions as an entrance to a closet filled with hanging clothes on racks. Positioned adjacent to a shelf holding various personal care items in what appears to be a bedroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/door-3/object_in_frame_3294.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/door-3/object_in_frame_3321.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/door-3/object_in_frame_4572.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/door-3/object_in_frame_4428.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/door-3/object_in_frame_2529.png"
+    ]
+}

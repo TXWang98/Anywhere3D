@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly fabric container-type object with a dark, mottled pattern and irregular shape. Appears soft and flexible with no rigid structure. Likely used for storage or as a decorative item. Seen on a bed with pillows and bedding in a bedroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/47/object_in_frame_000099.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/47/object_in_frame_000098.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/47/object_in_frame_000076.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy plastic chair with dark gray coloring and ergonomic shape. Has a mesh backrest and armrests for comfort. Designed for office seating. Positioned around a beige table in a meeting room setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0494_00/table-4/object_in_frame_84.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0494_00/table-4/object_in_frame_72.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0494_00/table-4/object_in_frame_85.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0494_00/table-4/object_in_frame_585.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0494_00/table-4/object_in_frame_578.png"
+    ]
+}

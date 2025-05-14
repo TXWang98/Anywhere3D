@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic {generic}-type object with a silver tone and elongated rectangular shape. Appears to have a smooth, flat surface with no distinct structural features. Inconclusive evidence for its function, but it may be part of a ceiling fixture or ventilation system. Positioned on the ceiling near blue curtains in an indoor setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/39/object_in_frame_000392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/39/object_in_frame_000391.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/39/object_in_frame_000474.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/39/object_in_frame_000473.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/39/object_in_frame_000475.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric curtain with light beige coloring and a vertical, elongated shape. Features soft folds and a textured surface. Serves as a window covering. Positioned next to a window with wooden panels and near a stack of colorful boxes on a shelf.\n\nConfidence Signals:\n- The vertical orientation and soft folds suggest it is a curtain.\n- The light beige color and texture are typical for window coverings.\n- Its placement next to the window confirms its function as a curtain.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/25/object_in_frame_549.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/25/object_in_frame_5670.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/25/object_in_frame_1291.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/25/object_in_frame_1363.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/25/object_in_frame_561.png"
+    ]
+}

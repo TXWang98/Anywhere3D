@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic chair with white and black fabric draped over it. The chair has a simple, utilitarian design with a flat seat and backrest. It appears to be used for seating. Positioned in front of a desk cluttered with papers and office supplies, suggesting an office or workspace setting.\n\n\"A plastic chair with white and black fabric draped over it. Simple, utilitarian design with a flat seat and backrest. Used for seating. Positioned in front of a desk cluttered with papers and office supplies, suggesting an office or workspace setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/14/object_in_frame_3847.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/14/object_in_frame_7433.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/14/object_in_frame_3472.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/14/object_in_frame_7518.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/14/object_in_frame_3501.png"
+    ]
+}

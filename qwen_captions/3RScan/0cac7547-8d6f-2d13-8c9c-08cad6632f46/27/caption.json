@@ -1,0 +1,9 @@
+{
+    "caption": "\"A possibly ceramic mug with white coloring and cylindrical shape. Has a handle and appears to have a flat base. Likely used for drinking beverages. Seen on a table in a dining area, surrounded by chairs and other tableware.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/27/object_in_frame_000298.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/27/object_in_frame_000297.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/27/object_in_frame_000259.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/27/object_in_frame_000169.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic hand dryer with a gray and white color scheme. Rectangular shape with a curved front panel. Mounted on the wall, likely for drying hands after washing. Positioned next to a sink in a bathroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/bathroom stall-2/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/bathroom stall-2/object_in_frame_72.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/bathroom stall-2/object_in_frame_88.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/bathroom stall-2/object_in_frame_344.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/bathroom stall-2/object_in_frame_216.png"
+    ]
+}

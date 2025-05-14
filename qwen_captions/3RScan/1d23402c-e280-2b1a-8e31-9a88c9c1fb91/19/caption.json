@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic container-type object with a dark finish and rectangular shape. Features horizontal slats across its body. Inconclusive evidence for its function, but it may serve as storage or ventilation. Positioned on the floor near furniture in what appears to be an indoor setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d23402c-e280-2b1a-8e31-9a88c9c1fb91/19/object_in_frame_000260.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d23402c-e280-2b1a-8e31-9a88c9c1fb91/19/object_in_frame_000094.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d23402c-e280-2b1a-8e31-9a88c9c1fb91/19/object_in_frame_000050.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d23402c-e280-2b1a-8e31-9a88c9c1fb91/19/object_in_frame_000043.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d23402c-e280-2b1a-8e31-9a88c9c1fb91/19/object_in_frame_000052.png"
+    ]
+}

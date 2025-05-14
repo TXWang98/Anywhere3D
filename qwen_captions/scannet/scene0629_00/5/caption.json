@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic inversion table with a dark blue and black color scheme. Features a padded surface and metal frame structure. Designed for back pain relief through inversion therapy. Positioned against a wall in a home environment, near a keyboard and other household items.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/object-5/object_in_frame_1996.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/object-5/object_in_frame_2000.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/object-5/object_in_frame_488.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/object-5/object_in_frame_292.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/object-5/object_in_frame_444.png"
+    ]
+}

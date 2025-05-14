@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly paper container-type object with white coloring and rectangular shape. Appears to have a smooth texture and folded edges. Likely used for holding small items or as packaging. Positioned on a shelf among various books and stationery items in what seems to be a bookstore setting. Inconclusive evidence for its exact purpose due to the lack of visible contents or labels.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-44/object_in_frame_867.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-44/object_in_frame_843.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-44/object_in_frame_846.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-44/object_in_frame_870.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-44/object_in_frame_873.png"
+    ]
+}

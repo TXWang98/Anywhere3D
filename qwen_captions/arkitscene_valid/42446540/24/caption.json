@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white possibly container-type object with a rectangular shape. The tapered rim suggests it could be a storage bin or organizer. It has a smooth surface and appears to have a lid mechanism. Likely used for storing kitchen items. Positioned on top of a cabinet in a modern kitchen setting, near other cabinets and appliances.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/24/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/24/object_in_frame_278.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/24/object_in_frame_362.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/24/object_in_frame_276.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/24/object_in_frame_264.png"
+    ]
+}

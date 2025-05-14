@@ -1,0 +1,10 @@
+{
+    "caption": "A matte white possibly lampshade with a cylindrical shape. The tapered rim suggests it is designed to diffuse light evenly. Likely part of a ceiling-mounted lighting fixture. Positioned above a sewing workspace, near curtains and other crafting tools.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0256_00/lamp-1/object_in_frame_180.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0256_00/lamp-1/object_in_frame_170.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0256_00/lamp-1/object_in_frame_144.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0256_00/lamp-1/object_in_frame_148.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0256_00/lamp-1/object_in_frame_190.png"
+    ]
+}

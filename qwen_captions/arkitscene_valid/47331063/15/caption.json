@@ -1,0 +1,10 @@
+{
+    "caption": "\"A stainless steel oven with a digital display and rectangular shape. Features a towel hanging on the handle. Used for baking and cooking. Positioned in a kitchen setting, surrounded by cabinets and countertops.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/15/object_in_frame_898.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/15/object_in_frame_400.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/15/object_in_frame_606.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/15/object_in_frame_662.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/15/object_in_frame_396.png"
+    ]
+}

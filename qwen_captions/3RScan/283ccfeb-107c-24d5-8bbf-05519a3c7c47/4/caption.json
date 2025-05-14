@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly plastic container-type object with white coloring and rectangular shape. The tapered rim suggests it may be a lid or part of a larger assembly. Inconclusive evidence for its function, but it could be used for storage or as a component in a device. Seen in an indoor environment near what appears to be structural elements like beams or panels.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/283ccfeb-107c-24d5-8bbf-05519a3c7c47/4/object_in_frame_000284.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/283ccfeb-107c-24d5-8bbf-05519a3c7c47/4/object_in_frame_000286.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/283ccfeb-107c-24d5-8bbf-05519a3c7c47/4/object_in_frame_000285.png"
+    ]
+}

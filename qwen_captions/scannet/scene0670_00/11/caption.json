@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic stand mixer with a silver bowl and a compact, rectangular shape. Features a sturdy base and a visible mixing attachment. Likely used for baking tasks such as kneading dough or whipping cream. Positioned on the kitchen countertop near other appliances like a rice cooker and a knife block.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/kitchenaid mixer-11/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/kitchenaid mixer-11/object_in_frame_315.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/kitchenaid mixer-11/object_in_frame_145.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/kitchenaid mixer-11/object_in_frame_335.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/kitchenaid mixer-11/object_in_frame_2665.png"
+    ]
+}

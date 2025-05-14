@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a green hue and rectangular shape. Inconclusive evidence for its structure or texture details due to limited visibility. Its function is ambiguous, potentially for storage. Found on the floor near a shelf filled with various items and clothing.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/shoes-22/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/shoes-22/object_in_frame_30.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/shoes-22/object_in_frame_157.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/shoes-22/object_in_frame_91.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/shoes-22/object_in_frame_5.png"
+    ]
+}

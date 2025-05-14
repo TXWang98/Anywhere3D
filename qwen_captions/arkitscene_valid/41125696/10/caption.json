@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with red coloring and rectangular shape. Appears to have a lid or cap on top. Likely used for storing food items. Located in a kitchen cabinet above the countertop, near other kitchen appliances.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125696/10/object_in_frame_129.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125696/10/object_in_frame_132.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125696/10/object_in_frame_131.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125696/10/object_in_frame_134.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125696/10/object_in_frame_136.png"
+    ]
+}

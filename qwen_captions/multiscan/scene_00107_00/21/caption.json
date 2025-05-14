@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy ceramic sink with white coloring and a rectangular shape. Features a chrome faucet with a single handle for water control. Designed for washing hands and face. Positioned on a bathroom countertop with various toiletries nearby, including a soap dispenser and a glass cup.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/21/object_in_frame_10480.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/21/object_in_frame_10454.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/21/object_in_frame_10763.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/21/object_in_frame_10505.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/21/object_in_frame_10548.png"
+    ]
+}

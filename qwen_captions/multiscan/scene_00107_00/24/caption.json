@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic sink with white coloring and a rectangular shape. Smooth surface with rounded edges and a central drain. Designed for handwashing and personal hygiene. Positioned on a countertop in a bathroom setting, near a towel and other toiletries.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/24/object_in_frame_524.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/24/object_in_frame_605.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/24/object_in_frame_891.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/24/object_in_frame_646.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/24/object_in_frame_768.png"
+    ]
+}

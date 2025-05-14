@@ -1,0 +1,10 @@
+{
+    "caption": "A woven basket-type object with earthy tones and a cylindrical shape. Contains green foliage, suggesting it's used as a planter. Mounted on top of a dispenser unit in a restroom setting, near sinks and hygiene supplies.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0086_00/plant-4/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0086_00/plant-4/object_in_frame_72.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0086_00/plant-4/object_in_frame_586.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0086_00/plant-4/object_in_frame_596.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0086_00/plant-4/object_in_frame_624.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic container-type object with earthy tones and a rounded shape. The tapered rim suggests it could be a small pot or vase. Its smooth texture and compact size indicate it might be used for storing small items or as a decorative piece. Found on a cluttered shelf alongside other household objects like bottles and boxes, suggesting a storage or utility area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/12/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/12/object_in_frame_2069.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/12/object_in_frame_157.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/12/object_in_frame_148.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/12/object_in_frame_2070.png"
+    ]
+}

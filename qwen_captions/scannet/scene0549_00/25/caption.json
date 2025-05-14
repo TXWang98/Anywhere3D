@@ -1,0 +1,10 @@
+{
+    "caption": "A leather sofa with a deep green color and a rectangular shape. The couch features three cushioned seats and armrests on both sides. Designed for seating multiple people comfortably. Positioned against a wall in a lounge setting, surrounded by chairs and a coffee table.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/wall-25/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/wall-25/object_in_frame_72.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/wall-25/object_in_frame_12.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/wall-25/object_in_frame_53.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/wall-25/object_in_frame_115.png"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "caption": "\"A metallic possibly radiator-type object with a light gray color and rectangular shape. Features horizontal ridges along its surface. Likely used for heating purposes. Partially covered by a light blue towel, situated against a tiled wall in what appears to be a bathroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/3/object_in_frame_000317.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/3/object_in_frame_000303.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/3/object_in_frame_000304.png"
+    ]
+}

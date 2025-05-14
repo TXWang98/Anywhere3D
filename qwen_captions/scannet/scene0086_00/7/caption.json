@@ -1,0 +1,10 @@
+{
+    "caption": "A ceramic toilet with white coloring and a standard bowl shape. Features a chrome flush valve on top. Designed for waste disposal. Positioned within a bathroom stall, adjacent to a toilet paper dispenser mounted on the wall.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0086_00/toilet-7/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0086_00/toilet-7/object_in_frame_934.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0086_00/toilet-7/object_in_frame_954.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0086_00/toilet-7/object_in_frame_870.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0086_00/toilet-7/object_in_frame_860.png"
+    ]
+}

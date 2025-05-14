@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden possibly cabinet-type object with a light brown finish and rectangular shape. Features vertical panels and a smooth surface texture. Likely used for storage purposes. Positioned adjacent to a kitchen area, near a table with a smartphone on it.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/9/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/9/object_in_frame_973.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/9/object_in_frame_1151.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/9/object_in_frame_977.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/9/object_in_frame_1149.png"
+    ]
+}

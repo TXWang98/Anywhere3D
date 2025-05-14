@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic toilet paper dispenser with a silver finish and rectangular shape. Has a hinged cover and visible roll of white paper inside. Designed for easy access and replacement in public restrooms. Mounted on the wall above a grab bar, near a toilet and other restroom fixtures.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0086_00/toilet paper dispenser-21/object_in_frame_1034.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0086_00/toilet paper dispenser-21/object_in_frame_1096.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0086_00/toilet paper dispenser-21/object_in_frame_1128.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0086_00/toilet paper dispenser-21/object_in_frame_1050.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0086_00/toilet paper dispenser-21/object_in_frame_1054.png"
+    ]
+}

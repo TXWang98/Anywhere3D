@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white cabinet with a rectangular shape and smooth surface. Features two doors with vertical handles. Likely used for storage in the kitchen. Positioned below a countertop, adjacent to a sink and near other kitchen appliances.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897521/8/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897521/8/object_in_frame_6.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897521/8/object_in_frame_12.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897521/8/object_in_frame_13.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897521/8/object_in_frame_195.png"
+    ]
+}

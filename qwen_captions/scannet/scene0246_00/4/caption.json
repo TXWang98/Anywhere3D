@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic lampshade with white coloring and a rectangular shape. The tapered rim suggests it is designed to diffuse light evenly. Likely part of a floor lamp for ambient lighting. Positioned near a chair and a desk in a room setting, with red curtains and other furniture visible in the background.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/lamp-4/object_in_frame_224.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/lamp-4/object_in_frame_236.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/lamp-4/object_in_frame_220.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/lamp-4/object_in_frame_20.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/lamp-4/object_in_frame_256.png"
+    ]
+}

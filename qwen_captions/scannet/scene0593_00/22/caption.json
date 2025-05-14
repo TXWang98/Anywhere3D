@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy plastic printer with white and blue coloring and a rectangular shape. Has multiple functional panels and paper trays. Designed for document printing and scanning. Positioned on top of a green cabinet in an office setting, near a standing fan and other office equipment.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0593_00/printer-22/object_in_frame_534.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0593_00/printer-22/object_in_frame_537.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0593_00/printer-22/object_in_frame_558.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0593_00/printer-22/object_in_frame_552.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0593_00/printer-22/object_in_frame_528.png"
+    ]
+}

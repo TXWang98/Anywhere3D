@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic mug with white coloring and a cylindrical shape. The tapered rim suggests it is designed for drinking. It appears to have a handle, though not fully visible. Likely used for beverages. Placed on a wooden table in a dining area with chairs and other tables around.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/21/object_in_frame_000260.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/21/object_in_frame_000301.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/21/object_in_frame_000261.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/21/object_in_frame_000417.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/21/object_in_frame_000415.png"
+    ]
+}

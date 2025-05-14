@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly heater-type object with a white finish and rectangular shape. Features horizontal slats across the front. Likely designed for space heating. Positioned against a wall near a pool table in a recreational room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0618_00/radiator-19/object_in_frame_529.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0618_00/radiator-19/object_in_frame_587.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0618_00/radiator-19/object_in_frame_484.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0618_00/radiator-19/object_in_frame_499.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0618_00/radiator-19/object_in_frame_541.png"
+    ]
+}

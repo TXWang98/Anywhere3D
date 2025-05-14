@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden possibly tray-type object with a light brown color and elongated oval shape. Smooth surface with visible wood grain texture. Likely used for serving or holding items. Positioned on the floor near a sofa, with cushions and a blanket in the background.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/3/object_in_frame_000260.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/3/object_in_frame_000271.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/3/object_in_frame_000261.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/3/object_in_frame_000250.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/3/object_in_frame_000249.png"
+    ]
+}

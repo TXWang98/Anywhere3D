@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic chair with red upholstery and a rectangular backrest. The structure includes armrests and a metal frame base. Likely designed for seating in office or meeting environments. Positioned around a conference table alongside other similar chairs.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0655_00/office chair-4/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0655_00/office chair-4/object_in_frame_580.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0655_00/office chair-4/object_in_frame_586.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0655_00/office chair-4/object_in_frame_388.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0655_00/office chair-4/object_in_frame_172.png"
+    ]
+}

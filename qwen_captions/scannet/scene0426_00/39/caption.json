@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a translucent appearance and rectangular shape. Inconclusive evidence for its specific function, but it may be used for storage. Found beneath a desk in a bedroom setting, near a bed with white bedding and a red pillow.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/monitor-39/object_in_frame_1392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/monitor-39/object_in_frame_1395.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/monitor-39/object_in_frame_1452.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/monitor-39/object_in_frame_1302.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/monitor-39/object_in_frame_1290.png"
+    ]
+}

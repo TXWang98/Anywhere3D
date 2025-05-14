@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic trash can with a dark color and cylindrical shape. Has a smooth surface and a slightly tapered top. Likely used for waste disposal. Positioned in the corner of a room near a door, surrounded by chairs and tables.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0196_00/trash can-22/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0196_00/trash can-22/object_in_frame_1137.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0196_00/trash can-22/object_in_frame_45.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0196_00/trash can-22/object_in_frame_1005.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0196_00/trash can-22/object_in_frame_1149.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric lampshade with beige coloring and cylindrical shape. Features a smooth texture and tapered rim. Likely designed for diffusing light from an interior bulb. Positioned atop a metallic lamp base on a white dresser, near other household items like a tissue box.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/28/object_in_frame_000048.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/28/object_in_frame_000045.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/28/object_in_frame_000047.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/28/object_in_frame_000043.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/28/object_in_frame_000046.png"
+    ]
+}

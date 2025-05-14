@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy black television with a rectangular shape. Flat screen and slim profile design. Likely for entertainment purposes. Mounted on the wall above a wooden stand with various items like a speaker and a bottle placed below it.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445966/5/object_in_frame_1069.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445966/5/object_in_frame_1062.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445966/5/object_in_frame_1056.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445966/5/object_in_frame_1063.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445966/5/object_in_frame_1077.png"
+    ]
+}

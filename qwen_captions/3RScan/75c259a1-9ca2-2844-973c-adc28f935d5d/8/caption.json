@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden dresser with a dark brown finish and rectangular shape. Features multiple drawers with silver knobs. Likely used for storing clothing or personal items. Positioned against a wall in what appears to be a bedroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/75c259a1-9ca2-2844-973c-adc28f935d5d/8/object_in_frame_000048.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/75c259a1-9ca2-2844-973c-adc28f935d5d/8/object_in_frame_000047.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/75c259a1-9ca2-2844-973c-adc28f935d5d/8/object_in_frame_000050.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/75c259a1-9ca2-2844-973c-adc28f935d5d/8/object_in_frame_000043.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/75c259a1-9ca2-2844-973c-adc28f935d5d/8/object_in_frame_000046.png"
+    ]
+}

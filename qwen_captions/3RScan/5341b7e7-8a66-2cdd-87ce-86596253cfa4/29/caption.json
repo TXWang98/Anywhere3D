@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic vase-type object with a light green color and rounded, bulbous shape. The tapered rim suggests it may be designed for holding flowers or decorative purposes. Its smooth surface and glossy finish indicate careful craftsmanship. Inconclusive evidence for its exact function, but it appears to be part of a decorative arrangement on a glass table surrounded by other small objects like stones and plants.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/29/object_in_frame_000108.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/29/object_in_frame_000107.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/29/object_in_frame_000091.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/29/object_in_frame_000075.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/29/object_in_frame_000110.png"
+    ]
+}

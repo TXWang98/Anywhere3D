@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly wooden hanger-type object with a light brown color and elongated shape. Has a smooth surface and a hook at one end. Likely used for hanging clothes. Positioned on the top shelf of an open closet, alongside other hangers and a jacket hanging from it.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/closet rod-35/object_in_frame_1392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/closet rod-35/object_in_frame_1365.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/closet rod-35/object_in_frame_1383.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/closet rod-35/object_in_frame_1368.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/closet rod-35/object_in_frame_1377.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly leather sofa with beige coloring and a rectangular shape. Features cushioned armrests and backrest. Likely designed for seating multiple people. Positioned in a living room setting near a wooden floor, radiator, and a white spherical object.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331266/9/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331266/9/object_in_frame_15.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331266/9/object_in_frame_423.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331266/9/object_in_frame_420.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331266/9/object_in_frame_22.png"
+    ]
+}

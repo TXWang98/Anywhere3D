@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy plastic mug with bright red coloring and a cylindrical shape. Has a smooth surface and a flat base. Made for holding beverages. Sitting on a white vanity table near a mirror, in a bathroom setting with visible toiletries and storage items around.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/wall-35/object_in_frame_360.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/wall-35/object_in_frame_368.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/wall-35/object_in_frame_392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/wall-35/object_in_frame_356.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/wall-35/object_in_frame_388.png"
+    ]
+}

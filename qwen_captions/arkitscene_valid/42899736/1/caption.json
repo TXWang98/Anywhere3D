@@ -1,0 +1,10 @@
+{
+    "caption": "\"A soft fabric pillow with green and white patterns and a rectangular shape. Features subtle texture details. Provides comfort and support for resting. Positioned on a bed alongside other pillows and bedding in a bedroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899736/1/object_in_frame_180.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899736/1/object_in_frame_759.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899736/1/object_in_frame_716.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899736/1/object_in_frame_758.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899736/1/object_in_frame_181.png"
+    ]
+}

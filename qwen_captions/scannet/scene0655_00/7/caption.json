@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic cup with a white color and cylindrical shape. The tapered rim suggests it is designed for drinking. Likely disposable, given its material and context. Placed on a conference table surrounded by chairs and cables in a meeting room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0655_00/office chair-7/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0655_00/office chair-7/object_in_frame_50.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0655_00/office chair-7/object_in_frame_46.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0655_00/office chair-7/object_in_frame_76.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0655_00/office chair-7/object_in_frame_98.png"
+    ]
+}

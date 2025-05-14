@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden cabinet with a light brown finish and rectangular shape. Features glass-paneled doors framed by wood trim. Likely used for storage or display purposes. Positioned above a television in a living room setting, adjacent to other furniture pieces.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/8/object_in_frame_176.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/8/object_in_frame_174.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/8/object_in_frame_177.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/8/object_in_frame_173.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/8/object_in_frame_536.png"
+    ]
+}

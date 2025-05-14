@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy ceramic bathtub with white coloring and an oval shape. Smooth, curved interior with a drain at the bottom. Designed for bathing purposes. Positioned against a yellow wall in a bathroom setting.\"\n\n\"A possibly plastic container-type object with beige coloring and cylindrical shape. Rounded top and visible lid. Likely used for storage or as a decorative item. Located on a wooden floor near a door and other household items.\"\n\n\"A glossy ceramic bathtub with white coloring and an oval shape. Smooth, curved interior with a drain at the bottom. Designed for bathing purposes. Positioned against a yellow wall in a bathroom setting, with sunflowers nearby.\"\n\n\"A possibly plastic container-type object with beige coloring and cylindrical shape. Rounded top and visible lid. Likely used for storage or as a decorative item. Located on a wooden floor near a door and other household items, with a scale in front.\"\n\n\"A glossy ceramic bathtub with white coloring and an oval shape. Smooth, curved interior with a drain at the bottom. Designed for bathing purposes. Positioned against a yellow wall in a bathroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115473/3/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115473/3/object_in_frame_6.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115473/3/object_in_frame_746.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115473/3/object_in_frame_65.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115473/3/object_in_frame_923.png"
+    ]
+}

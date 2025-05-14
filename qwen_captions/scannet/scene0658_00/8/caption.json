@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly storage rack with silver coloring and rectangular shape. Features multiple horizontal shelves with a grid-like texture. Likely used for organizing and storing items. Positioned inside an open closet space, adjacent to sliding doors and near another room entrance.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/cabinet-8/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/cabinet-8/object_in_frame_400.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/cabinet-8/object_in_frame_403.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/cabinet-8/object_in_frame_393.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/cabinet-8/object_in_frame_481.png"
+    ]
+}

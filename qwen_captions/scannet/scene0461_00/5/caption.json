@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric armchair with light beige upholstery and a rectangular shape. Features soft cushions and a sturdy frame. Designed for comfortable seating. Positioned against a wall in a minimalist room setup, alongside another similar chair and a small side table.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0461_00/floor-5/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0461_00/floor-5/object_in_frame_0.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0461_00/floor-5/object_in_frame_14.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0461_00/floor-5/object_in_frame_85.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0461_00/floor-5/object_in_frame_420.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric backpack with dark brown and black coloring and a rectangular shape. Features multiple straps and compartments. Likely used for carrying personal items. Positioned on top of a white cabinet in an office setting, surrounded by cables, papers, and other desk accessories.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/messenger bag-37/object_in_frame_1392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/messenger bag-37/object_in_frame_1242.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/messenger bag-37/object_in_frame_1236.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/messenger bag-37/object_in_frame_1410.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/messenger bag-37/object_in_frame_1260.png"
+    ]
+}

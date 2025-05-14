@@ -1,0 +1,9 @@
+{
+    "caption": "\"A possibly ceramic container-type object with a light blue tint and rectangular shape. The tapered rim suggests it could be a small pot or planter. Its smooth surface and compact structure imply it might hold small items or plants. Found on a wooden shelf alongside neatly folded towels in what appears to be a bathroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/33/object_in_frame_000069.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/33/object_in_frame_000078.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/33/object_in_frame_000073.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/33/object_in_frame_000070.png"
+    ]
+}

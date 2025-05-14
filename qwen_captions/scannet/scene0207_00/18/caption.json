@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic toilet with white coloring and a standard shape. Features a tank, bowl, and seat with hinges. Designed for personal hygiene use. Positioned in a bathroom setting near a sink, cabinet, and cleaning tools.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/toilet-18/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/toilet-18/object_in_frame_1059.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/toilet-18/object_in_frame_1038.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/toilet-18/object_in_frame_1050.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/toilet-18/object_in_frame_1053.png"
+    ]
+}

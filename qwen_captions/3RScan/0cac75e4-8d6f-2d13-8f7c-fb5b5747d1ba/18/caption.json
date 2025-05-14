@@ -1,0 +1,7 @@
+{
+    "caption": "\"A possibly ceramic vase-type object with a light green hue and a flared shape. The tapered rim suggests it may be designed for holding flowers or decorative purposes. While resembling a vase, the presence of water droplets on its surface indicates recent use or cleaning. Found in a garden setting near brick pathways and other potted plants.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac75e4-8d6f-2d13-8f7c-fb5b5747d1ba/18/object_in_frame_000189.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac75e4-8d6f-2d13-8f7c-fb5b5747d1ba/18/object_in_frame_000161.png"
+    ]
+}

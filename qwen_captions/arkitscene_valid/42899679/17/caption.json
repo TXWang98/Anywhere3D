@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric jacket-type object with a beige color and puffy shape. Appears to have a quilted texture and hood feature. Likely used for warmth and outdoor activities. Seen draped over the back of a chair in a living room setting, near a coffee table and sofa.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899679/17/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899679/17/object_in_frame_34.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899679/17/object_in_frame_63.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899679/17/object_in_frame_829.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899679/17/object_in_frame_26.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden architectural feature with a dark brown color and rectangular shape. The structure has layered horizontal panels and smooth texture. Likely serves as a decorative or functional element above the window. Positioned directly above a glass window, framing the view of the night sky.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/24/object_in_frame_400.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/24/object_in_frame_6789.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/24/object_in_frame_425.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/24/object_in_frame_6802.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/24/object_in_frame_6820.png"
+    ]
+}

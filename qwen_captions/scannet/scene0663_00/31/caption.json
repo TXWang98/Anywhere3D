@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly paper poster with a white background and colorful images. Features multiple rows of small photographs and text sections. Likely an informational or artistic display. Positioned on the floor near a desk with various items and cables around it.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/poster-31/object_in_frame_1296.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/poster-31/object_in_frame_1228.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/poster-31/object_in_frame_1276.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/poster-31/object_in_frame_1256.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/poster-31/object_in_frame_1300.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric pillow with white coloring and rectangular shape. Appears soft and smooth in texture. Likely used for sleeping support. Positioned on a bed with a wooden frame in a bedroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ebc42041-82a4-2113-8583-cc8c1be818b3/30/object_in_frame_000019.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ebc42041-82a4-2113-8583-cc8c1be818b3/30/object_in_frame_000211.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ebc42041-82a4-2113-8583-cc8c1be818b3/30/object_in_frame_000021.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ebc42041-82a4-2113-8583-cc8c1be818b3/30/object_in_frame_000020.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ebc42041-82a4-2113-8583-cc8c1be818b3/30/object_in_frame_000000.png"
+    ]
+}

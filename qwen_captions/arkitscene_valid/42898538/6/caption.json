@@ -1,0 +1,10 @@
+{
+    "caption": "\"A soft fabric possibly towel-type object with off-white coloring and rectangular shape. Appears loosely folded with visible texture of knitwear. Likely used for drying or as a hand towel. Placed on a cushioned stool near a wooden vanity table with various toiletries.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898538/6/object_in_frame_750.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898538/6/object_in_frame_707.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898538/6/object_in_frame_705.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898538/6/object_in_frame_769.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898538/6/object_in_frame_706.png"
+    ]
+}

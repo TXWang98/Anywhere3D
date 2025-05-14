@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly refrigerator with a white finish and rectangular shape. Features a single door with a horizontal handle and a small shelf inside. Likely used for food storage. Positioned in a kitchen setting near a doorway and adjacent to a countertop.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261121/4/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261121/4/object_in_frame_602.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261121/4/object_in_frame_409.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261121/4/object_in_frame_402.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261121/4/object_in_frame_424.png"
+    ]
+}

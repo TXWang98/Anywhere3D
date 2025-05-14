@@ -1,0 +1,9 @@
+{
+    "caption": "\"A possibly wooden container-type object with light brown coloring and rectangular shape. Appears to have a simple, flat structure with no visible handles or lids. Likely used for storage or as part of a larger furniture piece. Positioned on a wooden shelf against a wall, near other similar objects.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/36/object_in_frame_000155.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/36/object_in_frame_000154.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/36/object_in_frame_000156.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/36/object_in_frame_000153.png"
+    ]
+}

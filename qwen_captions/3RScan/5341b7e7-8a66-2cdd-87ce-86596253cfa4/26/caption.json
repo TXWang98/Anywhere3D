@@ -1,0 +1,9 @@
+{
+    "caption": "\"A possibly ceramic container-type object with a light brown hue and rounded shape. The tapered rim suggests it could be a small pot or cup. It has a smooth texture and appears to have a hollow interior. Likely used for storage or as a decorative item. Found inside a plastic basket on a shelf, surrounded by other household items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/26/object_in_frame_000181.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/26/object_in_frame_000180.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/26/object_in_frame_000189.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/26/object_in_frame_000187.png"
+    ]
+}

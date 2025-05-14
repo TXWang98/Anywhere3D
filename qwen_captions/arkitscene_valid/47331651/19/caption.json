@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white-painted wooden chair with a floral-patterned cushion and a simple, rounded backrest. The legs are straight and slightly tapered. Designed for seating at a dining table. Positioned near a kitchen counter with various items like bottles and a green kettle visible in the background.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/19/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/19/object_in_frame_434.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/19/object_in_frame_428.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/19/object_in_frame_406.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/19/object_in_frame_424.png"
+    ]
+}

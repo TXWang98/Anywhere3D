@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic sink with white coloring and a rectangular shape. Features a smooth, glossy surface with a central faucet and dual handles for water control. Designed for handwashing and hygiene purposes. Positioned in a bathroom setting, adjacent to a wall-mounted soap dispenser and a trash bin below.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0139_00/sink-24/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0139_00/sink-24/object_in_frame_80.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0139_00/sink-24/object_in_frame_34.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0139_00/sink-24/object_in_frame_82.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0139_00/sink-24/object_in_frame_48.png"
+    ]
+}

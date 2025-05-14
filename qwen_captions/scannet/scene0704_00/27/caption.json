@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy plastic water dispenser with a white and silver color scheme. Features a tall, cylindrical shape with a curved front panel and a spout area for dispensing water. The presence of large water jugs nearby suggests its function as a hydration station. Positioned in a break room setting, surrounded by storage boxes and a trash bin.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0704_00/water cooler-27/object_in_frame_1996.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0704_00/water cooler-27/object_in_frame_2000.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0704_00/water cooler-27/object_in_frame_2008.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0704_00/water cooler-27/object_in_frame_2036.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0704_00/water cooler-27/object_in_frame_2020.png"
+    ]
+}

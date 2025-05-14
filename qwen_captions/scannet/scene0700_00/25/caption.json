@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a light gray color and rectangular shape. Features a lid that appears to be slightly ajar. The structure suggests it could be used for storage or organization. Inconclusive evidence for its specific function, but it seems designed to hold small items. Positioned on a shelf alongside various office supplies like sticky notes and tape rolls, indicating an office or workspace setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/container-25/object_in_frame_35.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/container-25/object_in_frame_1057.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/container-25/object_in_frame_980.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/container-25/object_in_frame_483.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/container-25/object_in_frame_70.png"
+    ]
+}

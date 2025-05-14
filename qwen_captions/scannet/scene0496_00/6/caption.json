@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy wooden conference table with a rich brown color and elongated rectangular shape. Features sturdy metal legs and a smooth surface. Designed for meetings and collaborative work. Positioned in the center of a well-lit room surrounded by office chairs and near windows with blinds.\"\n\n\"A possibly plastic trash can-type object, translucent blue with a cylindrical shape. Has a flexible bag liner and an open top. Likely used for waste disposal. Located near the wall in a meeting room setting with other furniture around.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/chair-6/object_in_frame_224.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/chair-6/object_in_frame_220.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/chair-6/object_in_frame_1100.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/chair-6/object_in_frame_1074.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/chair-6/object_in_frame_1054.png"
+    ]
+}

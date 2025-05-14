@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic trash can with a translucent white liner and cylindrical shape. The smooth surface suggests it's designed for easy cleaning. Likely used for waste disposal. Positioned on the floor next to another trash bin and near a filing cabinet containing papers and cables.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/trash can-4/object_in_frame_84.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/trash can-4/object_in_frame_2205.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/trash can-4/object_in_frame_490.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/trash can-4/object_in_frame_546.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/trash can-4/object_in_frame_938.png"
+    ]
+}

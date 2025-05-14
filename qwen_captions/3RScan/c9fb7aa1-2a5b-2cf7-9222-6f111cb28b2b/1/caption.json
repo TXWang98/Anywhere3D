@@ -1,0 +1,9 @@
+{
+    "caption": "\"A fabric armchair with light blue upholstery and a cushioned shape. Features a slightly curved backrest and padded armrests. Designed for comfortable seating. Positioned in a living room setting, surrounded by decorative items like plants and books.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c9fb7aa1-2a5b-2cf7-9222-6f111cb28b2b/1/object_in_frame_000086.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c9fb7aa1-2a5b-2cf7-9222-6f111cb28b2b/1/object_in_frame_000060.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c9fb7aa1-2a5b-2cf7-9222-6f111cb28b2b/1/object_in_frame_000083.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c9fb7aa1-2a5b-2cf7-9222-6f111cb28b2b/1/object_in_frame_000085.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic vase-type object with white coloring and a flared shape. The tapered rim suggests it may be designed for holding flowers or decorative items. While resembling a vase, the presence of nearby decorative elements like a small tree-like ornament implies its use as part of an aesthetic arrangement. Found on top of a light-colored dresser alongside other decorative objects in a bedroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac758d-8d6f-2d13-8d21-9133668b4d7d/5/object_in_frame_000229.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac758d-8d6f-2d13-8d21-9133668b4d7d/5/object_in_frame_000231.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac758d-8d6f-2d13-8d21-9133668b4d7d/5/object_in_frame_000232.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac758d-8d6f-2d13-8d21-9133668b4d7d/5/object_in_frame_000230.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac758d-8d6f-2d13-8d21-9133668b4d7d/5/object_in_frame_000104.png"
+    ]
+}

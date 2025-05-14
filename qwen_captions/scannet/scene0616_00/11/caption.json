@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic chair with a dark blue color and ergonomic shape. Features a mesh backrest and armrests. Designed for comfortable seating in an office or classroom setting. Positioned near a wooden chair and a round table, with a colorful mural on the wall in the background.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/chair-11/object_in_frame_1625.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/chair-11/object_in_frame_1455.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/chair-11/object_in_frame_2950.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/chair-11/object_in_frame_625.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/chair-11/object_in_frame_1380.png"
+    ]
+}

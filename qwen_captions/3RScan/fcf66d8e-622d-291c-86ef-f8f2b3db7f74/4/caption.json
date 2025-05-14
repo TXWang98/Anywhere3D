@@ -1,0 +1,9 @@
+{
+    "caption": "\"A possibly wooden {generic}-type object with a dark brown color and rectangular shape. The tapered rim suggests it could be a decorative panel or part of a shelving unit. Its flat surface and lack of visible handles indicate it is not designed for direct interaction. Positioned on a wall above a couch, near other household items like cushions and a lamp.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/4/object_in_frame_000167.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/4/object_in_frame_000166.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/4/object_in_frame_000164.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/4/object_in_frame_000165.png"
+    ]
+}

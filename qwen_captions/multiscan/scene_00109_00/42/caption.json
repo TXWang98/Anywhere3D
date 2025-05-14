@@ -1,0 +1,10 @@
+{
+    "caption": "\"A transparent glass window with a white frame and rectangular shape. The window provides a view of greenery outside. Likely designed for natural light and ventilation. Positioned in a room corner, adjacent to a beige wall and wooden slats.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/42/object_in_frame_408.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/42/object_in_frame_144.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/42/object_in_frame_614.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/42/object_in_frame_6477.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/42/object_in_frame_638.png"
+    ]
+}

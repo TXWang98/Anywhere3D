@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with white and red coloring and a rectangular shape. Features a hinged lid and handle on the side. Likely used for storage or transportation of items. Positioned near a window, with a bed and other furniture visible in the background.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/33/object_in_frame_000192.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/33/object_in_frame_000156.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/33/object_in_frame_000147.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/33/object_in_frame_000146.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/33/object_in_frame_000152.png"
+    ]
+}

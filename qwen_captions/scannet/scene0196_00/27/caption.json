@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic chair with black and mesh-like texture. The structure features a perforated backrest and seat, supported by metallic legs with casters. Likely designed for office or meeting room seating. Positioned around a white table in a conference room setting, alongside other similar chairs and a trash bin near the wall.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0196_00/folded chair-27/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0196_00/folded chair-27/object_in_frame_18.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0196_00/folded chair-27/object_in_frame_954.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0196_00/folded chair-27/object_in_frame_993.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0196_00/folded chair-27/object_in_frame_963.png"
+    ]
+}

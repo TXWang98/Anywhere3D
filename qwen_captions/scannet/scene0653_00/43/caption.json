@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy plastic monitor with a black screen and rectangular shape. The flat base and thin profile suggest it is designed for desktop use. Likely used for computer tasks. Positioned on a desk alongside office supplies and storage boxes in a professional workspace setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/monitor-43/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/monitor-43/object_in_frame_702.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/monitor-43/object_in_frame_1056.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/monitor-43/object_in_frame_684.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/monitor-43/object_in_frame_522.png"
+    ]
+}

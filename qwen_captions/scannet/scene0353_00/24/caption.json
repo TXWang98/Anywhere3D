@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic frisbee-type object with a purple color and circular shape. Smooth surface texture with embossed design details. Likely used for recreational throwing games. Hanging on the wall in a dorm room setting, near posters and shelves containing various items.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/decoration-24/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/decoration-24/object_in_frame_368.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/decoration-24/object_in_frame_352.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/decoration-24/object_in_frame_376.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/decoration-24/object_in_frame_64.png"
+    ]
+}

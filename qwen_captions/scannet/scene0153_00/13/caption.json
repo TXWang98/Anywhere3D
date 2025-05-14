@@ -1,0 +1,10 @@
+{
+    "caption": "A ceramic toilet paper holder with a white finish and cylindrical shape. Has a simple, functional design for holding a roll of toilet paper. Positioned on the floor next to the toilet in a bathroom setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0153_00/toilet paper-13/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0153_00/toilet paper-13/object_in_frame_0.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0153_00/toilet paper-13/object_in_frame_45.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0153_00/toilet paper-13/object_in_frame_59.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0153_00/toilet paper-13/object_in_frame_70.png"
+    ]
+}

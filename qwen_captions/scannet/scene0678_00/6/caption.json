@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric-type object with white coloring and irregular shape. Appears soft and crumpled. Likely used for laundry purposes. Placed on a countertop in a laundry room setting, surrounded by washing machines and dryers.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/clothing-6/object_in_frame_180.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/clothing-6/object_in_frame_1960.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/clothing-6/object_in_frame_240.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/clothing-6/object_in_frame_2064.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/clothing-6/object_in_frame_256.png"
+    ]
+}

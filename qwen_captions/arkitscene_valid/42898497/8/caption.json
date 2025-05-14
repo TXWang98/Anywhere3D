@@ -1,0 +1,10 @@
+{
+    "caption": "\"A leather ottoman with a rich brown color and rectangular shape. Smooth texture with visible stitching along the edges. Provides seating or footrest functionality. Positioned on a carpeted floor near a wooden side table holding various items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/8/object_in_frame_3532.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/8/object_in_frame_3418.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/8/object_in_frame_3538.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/8/object_in_frame_3767.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/8/object_in_frame_3510.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric sofa with muted gray tones and a rectangular shape. Features multiple patterned cushions in floral and abstract designs. Provides seating for relaxation or socializing. Positioned against a wall in a living room setting, surrounded by a coffee table, decorative items, and other furniture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260905/1/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260905/1/object_in_frame_426.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260905/1/object_in_frame_257.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260905/1/object_in_frame_646.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260905/1/object_in_frame_264.png"
+    ]
+}

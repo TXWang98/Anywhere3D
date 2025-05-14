@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic sink with white coloring and a rectangular shape. Features two faucets and a central drain. Designed for handwashing. Mounted on a tiled wall in a bathroom setting, adjacent to a soap dispenser and below a mirror.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/sink-11/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/sink-11/object_in_frame_80.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/sink-11/object_in_frame_12.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/sink-11/object_in_frame_74.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/sink-11/object_in_frame_22.png"
+    ]
+}

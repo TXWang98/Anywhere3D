@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric possibly clothing-type object with dark and varied colors. Irregular shape with folds and creases. Appears to be a mix of garments, including what looks like a jacket or coat. Likely used for personal wear. Piled on a sofa in a living room setting, surrounded by other household items like a backpack and side table.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/clothing-38/object_in_frame_270.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/clothing-38/object_in_frame_282.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/clothing-38/object_in_frame_1668.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/clothing-38/object_in_frame_585.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/clothing-38/object_in_frame_279.png"
+    ]
+}

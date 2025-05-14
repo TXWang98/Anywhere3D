@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric bath mat with a light gray and white pattern. Rectangular shape with a textured surface. Provides slip resistance on tiled floors. Positioned near the edge of a bathtub in a bathroom setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/28/object_in_frame_6597.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/28/object_in_frame_6665.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/28/object_in_frame_6616.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/28/object_in_frame_6528.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/28/object_in_frame_6607.png"
+    ]
+}

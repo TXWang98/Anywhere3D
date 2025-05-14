@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic electric toothbrush with white and blue coloring and a rectangular shape. Has a visible power cord and button interface. Likely used for oral hygiene. Placed on a bathroom countertop near other toiletries like soap and bottles.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/toothbrush-21/object_in_frame_270.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/toothbrush-21/object_in_frame_234.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/toothbrush-21/object_in_frame_237.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/toothbrush-21/object_in_frame_261.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/toothbrush-21/object_in_frame_264.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic chair with dark gray coloring and a rectangular backrest. Has a simple, utilitarian design with no visible armrests. Likely used for seating in a classroom or meeting room. Positioned around a table in a room with blackboards and additional chairs.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/wall-15/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/wall-15/object_in_frame_900.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/wall-15/object_in_frame_896.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/wall-15/object_in_frame_908.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/wall-15/object_in_frame_920.png"
+    ]
+}

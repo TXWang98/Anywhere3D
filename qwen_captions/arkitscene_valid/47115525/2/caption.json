@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric possibly sofa with beige and patterned attributes. Rounded armrests and cushioned seating. Provides comfortable seating for multiple people. Positioned against a wall in a living room setting, near a coffee table with flowers and magazines.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115525/2/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115525/2/object_in_frame_0.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115525/2/object_in_frame_79.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115525/2/object_in_frame_447.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115525/2/object_in_frame_70.png"
+    ]
+}

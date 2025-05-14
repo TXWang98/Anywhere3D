@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic {generic}-type object with a dark color and elongated shape. Appears to be part of a ceiling fixture, potentially a lighting component or support structure. The tapered rim suggests it could be an integrated light bar. Functional affordances are unclear but likely related to illumination. Positioned on the ceiling in what seems to be an office environment, near blue curtains and shelves.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/35/object_in_frame_000392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/35/object_in_frame_000395.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/35/object_in_frame_000476.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/35/object_in_frame_000477.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/35/object_in_frame_000393.png"
+    ]
+}

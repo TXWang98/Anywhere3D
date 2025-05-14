@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy ceramic bathtub with white coloring and elongated rectangular shape. Smooth, curved edges and a flat base. Designed for bathing purposes. Positioned against tiled walls in a bathroom setting, with a towel hanging nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125760/4/object_in_frame_270.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125760/4/object_in_frame_459.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125760/4/object_in_frame_385.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125760/4/object_in_frame_388.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125760/4/object_in_frame_258.png"
+    ]
+}

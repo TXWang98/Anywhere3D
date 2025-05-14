@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic vase-type object with dark coloring and a flared shape. The tapered rim suggests it could be used for holding flowers. While resembling a vase, the presence of water droplets indicates recent use or cleaning. Found on a windowsill alongside other potted plants and gardening tools.\"\n\n\"A glossy ceramic mug with deep blue coloring and rounded shape. Has a comfortable handle and flat base. Made for holding hot drinks. Sitting beside a coffee maker and jar of beans on a kitchen counter.\"\n\n\"A metallic tool-type object, matte silver with angular grooves. Ambiguous function between wrench or specialized clamp. Seen in workshop environment near assembly parts.\"\n\n\"A possibly glass vase-type object with translucent amber coloring. Fluted body shape and water droplets on surface. Likely floral display container. Found on windowsill with plants and pruning shears nearby.\"\n\n\"Inconclusive evidence for the category of this object. Appears to be a metallic tool-type object with a complex structure and various components. Possibly part of a larger machine or equipment. Located in an industrial setting with other machinery around.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/16/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/16/object_in_frame_1468.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/16/object_in_frame_1509.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/16/object_in_frame_469.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/16/object_in_frame_1472.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with light blue coloring and a cylindrical shape. Has a tapered rim suggesting it might be a cup or small pitcher. The presence of a lid indicates it could be used for storing or serving liquids. Found on a wooden table in a dining area, near chairs and a backpack.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0578_00/wall-3/object_in_frame_792.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0578_00/wall-3/object_in_frame_790.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0578_00/wall-3/object_in_frame_788.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0578_00/wall-3/object_in_frame_794.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0578_00/wall-3/object_in_frame_786.png"
+    ]
+}

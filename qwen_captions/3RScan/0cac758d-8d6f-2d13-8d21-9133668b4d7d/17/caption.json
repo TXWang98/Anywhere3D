@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic tool-type object with a matte silver finish and rectangular shape. Features a circular dial and several buttons on its surface. Likely used for electronic or mechanical adjustments. Positioned on a shelf alongside books, plants, and other small items in what appears to be a workspace or study area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac758d-8d6f-2d13-8d21-9133668b4d7d/17/object_in_frame_000308.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac758d-8d6f-2d13-8d21-9133668b4d7d/17/object_in_frame_000312.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac758d-8d6f-2d13-8d21-9133668b4d7d/17/object_in_frame_000292.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac758d-8d6f-2d13-8d21-9133668b4d7d/17/object_in_frame_000289.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac758d-8d6f-2d13-8d21-9133668b4d7d/17/object_in_frame_000294.png"
+    ]
+}

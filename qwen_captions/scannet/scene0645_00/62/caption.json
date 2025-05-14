@@ -1,0 +1,10 @@
+{
+    "caption": "A soft fabric pillow with white coloring and rectangular shape. Appears to have a smooth texture. Provides head support for resting or sleeping. Positioned against the headboard of a bed, alongside other pillows and bedding items in a bedroom setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/pillow-62/object_in_frame_224.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/pillow-62/object_in_frame_350.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/pillow-62/object_in_frame_266.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/pillow-62/object_in_frame_280.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/pillow-62/object_in_frame_448.png"
+    ]
+}

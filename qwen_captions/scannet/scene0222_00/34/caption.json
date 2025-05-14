@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic trash can with blue coloring and cylindrical shape. Has a slightly tapered rim and visible branding. Likely used for waste disposal. Positioned on the floor near a desk, drawers, and other miscellaneous items like bottles and a stuffed toy.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/trash can-34/object_in_frame_1323.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/trash can-34/object_in_frame_234.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/trash can-34/object_in_frame_1566.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/trash can-34/object_in_frame_1503.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/trash can-34/object_in_frame_189.png"
+    ]
+}

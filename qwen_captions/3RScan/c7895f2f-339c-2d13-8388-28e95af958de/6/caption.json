@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden cabinet with a dark gray top and light brown panel. The tapered rim suggests it may be designed for storage. Features a single drawer and a larger door with a handle. Likely used for organizing items. Positioned against a wall with patterned wallpaper, near a window with curtains.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c7895f2f-339c-2d13-8388-28e95af958de/6/object_in_frame_000213.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c7895f2f-339c-2d13-8388-28e95af958de/6/object_in_frame_000221.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c7895f2f-339c-2d13-8388-28e95af958de/6/object_in_frame_000220.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c7895f2f-339c-2d13-8388-28e95af958de/6/object_in_frame_000214.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c7895f2f-339c-2d13-8388-28e95af958de/6/object_in_frame_000212.png"
+    ]
+}

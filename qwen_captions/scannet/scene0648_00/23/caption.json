@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic possibly vase-type object with a terracotta color and rounded shape. Has a smooth surface and appears to be empty. Likely used for decorative purposes or as a plant holder. Positioned on a shelf above a bed, surrounded by books and other personal items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/shelf-23/object_in_frame_2334.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/shelf-23/object_in_frame_1212.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/shelf-23/object_in_frame_1278.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/shelf-23/object_in_frame_1224.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/shelf-23/object_in_frame_2652.png"
+    ]
+}

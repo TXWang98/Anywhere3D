@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric window covering with white coloring and rectangular shape. Appears to be a light-blocking blind or curtain. Likely used for controlling light and privacy. Positioned over a window in a dining area with wooden chairs and a table nearby.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/window-14/object_in_frame_495.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/window-14/object_in_frame_492.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/window-14/object_in_frame_558.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/window-14/object_in_frame_561.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/window-14/object_in_frame_489.png"
+    ]
+}

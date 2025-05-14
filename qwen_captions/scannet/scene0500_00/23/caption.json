@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly glass window with translucent coloring and rectangular shape. The structure includes horizontal blinds partially covering the opening. Likely provides natural light and ventilation. Positioned on a wall in a meeting room setting, surrounded by wooden chairs and tables.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0500_00/window-23/object_in_frame_567.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0500_00/window-23/object_in_frame_1461.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0500_00/window-23/object_in_frame_1485.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0500_00/window-23/object_in_frame_585.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0500_00/window-23/object_in_frame_1506.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric upholstered armchair with beige and patterned texture. The chair has a rounded backrest, tufted upholstery, and wooden legs. Designed for comfortable seating. Positioned near a window with curtains in a living room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662981/7/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662981/7/object_in_frame_582.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662981/7/object_in_frame_79.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662981/7/object_in_frame_927.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662981/7/object_in_frame_133.png"
+    ]
+}

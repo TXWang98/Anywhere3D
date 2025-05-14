@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric sofa with dark brown upholstery and a rectangular shape. Features a woven texture on the sides and cushioned seating. Designed for comfortable seating. Positioned against a wooden-paneled wall, adjacent to another similar sofa and near a small table.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0559_00/wall-2/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0559_00/wall-2/object_in_frame_47.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0559_00/wall-2/object_in_frame_71.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0559_00/wall-2/object_in_frame_141.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0559_00/wall-2/object_in_frame_98.png"
+    ]
+}

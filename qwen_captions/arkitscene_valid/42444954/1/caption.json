@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic toilet with white coloring and a standard shape. Features a tank at the back and a seat cover. Designed for sanitary waste disposal. Positioned adjacent to a bathtub in a bathroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444954/1/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444954/1/object_in_frame_458.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444954/1/object_in_frame_414.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444954/1/object_in_frame_413.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444954/1/object_in_frame_411.png"
+    ]
+}

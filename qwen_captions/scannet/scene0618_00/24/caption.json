@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly stool-type object with a dark gray color and cylindrical shape. Has a simple, utilitarian design with a flat top surface and four supporting legs. Likely used for seating or as a support structure. Positioned near a pool table in a recreational room setting, alongside other similar stools and chairs.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0618_00/table-24/object_in_frame_529.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0618_00/table-24/object_in_frame_548.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0618_00/table-24/object_in_frame_500.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0618_00/table-24/object_in_frame_496.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0618_00/table-24/object_in_frame_505.png"
+    ]
+}

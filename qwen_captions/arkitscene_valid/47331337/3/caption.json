@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly rubber duck-type object with yellow coloring and rounded shape. Smooth texture with minimal structural features. Likely a bath toy. Floating in the sink near the faucet.\"\n\n\"A glossy ceramic sink with white coloring and oval shape. Has a smooth basin and curved edges. Made for washing hands and face. Positioned under a mirror with toiletries nearby.\"\n\n\"Inconclusive evidence for the category of the object in the green bounding box. Appears to be part of a white cabinet with metallic handles. The material seems to be painted wood or laminate. Possibly a storage unit in a bathroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331337/3/object_in_frame_324.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331337/3/object_in_frame_320.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331337/3/object_in_frame_286.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331337/3/object_in_frame_298.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331337/3/object_in_frame_321.png"
+    ]
+}

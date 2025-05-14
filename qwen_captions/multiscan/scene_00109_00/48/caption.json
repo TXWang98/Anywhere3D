@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric cushion with gray and yellow stripes and a rectangular shape. Features a soft texture and decorative design. Serves as a comfortable and aesthetic accent piece. Placed on a light-colored sofa, accompanied by other cushions and near luggage items in a room setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/48/object_in_frame_6190.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/48/object_in_frame_5348.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/48/object_in_frame_8087.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/48/object_in_frame_7525.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/48/object_in_frame_7602.png"
+    ]
+}

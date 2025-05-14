@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric decorative pillow with white and black coloring and a circular design. The pillow features a speedometer-like graphic on its surface. Likely serves as an aesthetic accent piece. Placed on a vibrant orange sofa alongside other patterned cushions in a modern living room setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0518_00/pillow-18/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0518_00/pillow-18/object_in_frame_512.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0518_00/pillow-18/object_in_frame_518.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0518_00/pillow-18/object_in_frame_490.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0518_00/pillow-18/object_in_frame_502.png"
+    ]
+}

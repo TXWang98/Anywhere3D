@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy black office chair with a contoured shape. Features a mesh backrest and armrests. Designed for ergonomic seating at a desk. Positioned in front of a wooden desk within a dorm room setting, near a bunk bed and shelving unit.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0193_00/desk-8/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0193_00/desk-8/object_in_frame_415.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0193_00/desk-8/object_in_frame_423.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0193_00/desk-8/object_in_frame_483.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0193_00/desk-8/object_in_frame_481.png"
+    ]
+}

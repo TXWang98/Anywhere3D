@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden dining table with a natural wood finish and rectangular shape. The surface has a smooth texture with visible grain patterns. Designed for seating multiple people, as evidenced by the surrounding chairs. Positioned in a dining area with wallpapered walls and windows providing natural light.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115550/1/object_in_frame_932.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115550/1/object_in_frame_510.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115550/1/object_in_frame_946.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115550/1/object_in_frame_405.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115550/1/object_in_frame_939.png"
+    ]
+}

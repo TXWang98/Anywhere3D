@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden cabinet with a light brown finish and rectangular shape. Features two drawers with horizontal handles and a smooth surface texture. Likely used for storage in a bathroom setting. Positioned beneath a sink, adjacent to cleaning supplies and toiletries.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898818/2/object_in_frame_310.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898818/2/object_in_frame_303.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898818/2/object_in_frame_302.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898818/2/object_in_frame_305.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898818/2/object_in_frame_311.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A matte black possibly mini-fridge with a rectangular shape. The structure features two distinct sections, likely indicating separate compartments. It appears designed for storing food or beverages. Positioned on the floor near a blue trash bin and some scattered items, suggesting a casual indoor setting like a dorm room or small kitchen area.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/mini fridge-33/object_in_frame_180.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/mini fridge-33/object_in_frame_1476.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/mini fridge-33/object_in_frame_1593.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/mini fridge-33/object_in_frame_171.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/mini fridge-33/object_in_frame_189.png"
+    ]
+}

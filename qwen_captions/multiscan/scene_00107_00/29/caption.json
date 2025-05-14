@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with white coloring and cylindrical shape. Has a flat top and appears to be empty. Likely used for storing small items. Found on a metal shelf alongside other bathroom products like mouthwash and razors.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/29/object_in_frame_11695.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/29/object_in_frame_11507.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/29/object_in_frame_12038.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/29/object_in_frame_11736.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/29/object_in_frame_12017.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric possibly shoe-type object with muted gray and beige tones. The shape is consistent with a casual sneaker, featuring a rounded toe box and low-cut design. The visible laces and textured upper suggest it's designed for everyday wear. Positioned on the floor near a wooden desk, surrounded by personal items like a water bottle and headphones.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/shoes-32/object_in_frame_2475.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/shoes-32/object_in_frame_4797.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/shoes-32/object_in_frame_3078.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/shoes-32/object_in_frame_5067.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/shoes-32/object_in_frame_4788.png"
+    ]
+}

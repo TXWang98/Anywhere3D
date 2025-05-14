@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric-covered chair with a dark patterned upholstery and a rectangular shape. The seat and backrest have a checkered design, and the frame appears to be metallic. Likely designed for seating in an office or meeting room environment. Positioned near a table and another similar chair, suggesting a collaborative workspace setup.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/chair-23/object_in_frame_408.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/chair-23/object_in_frame_426.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/chair-23/object_in_frame_423.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/chair-23/object_in_frame_420.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/chair-23/object_in_frame_393.png"
+    ]
+}

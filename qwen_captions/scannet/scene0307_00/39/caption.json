@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden chair with a green cloth draped over it. The chair has a simple, sturdy structure with four legs and a backrest. It appears to be used for seating. Positioned near a shelf filled with various containers and items, suggesting a storage or utility room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/wall-39/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/wall-39/object_in_frame_174.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/wall-39/object_in_frame_753.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/wall-39/object_in_frame_141.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/wall-39/object_in_frame_744.png"
+    ]
+}

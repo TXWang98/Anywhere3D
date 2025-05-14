@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy plastic computer tower with a beige and gray color scheme. Rectangular shape with a slightly tapered front panel. Features various ports and buttons on the front face. Likely serves as the central processing unit for the desktop setup. Positioned under a desk alongside a monitor, keyboard, and mouse in an office environment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/monitor-22/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/monitor-22/object_in_frame_96.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/monitor-22/object_in_frame_1293.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/monitor-22/object_in_frame_1299.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/monitor-22/object_in_frame_975.png"
+    ]
+}

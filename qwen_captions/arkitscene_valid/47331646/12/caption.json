@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden drawer unit with a light brown finish and rectangular shape. Features three horizontal drawers with metallic handles. Likely used for storage. Positioned against the wall near a window with sheer curtains, adjacent to a table with decorative items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/12/object_in_frame_1270.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/12/object_in_frame_1062.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/12/object_in_frame_1098.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/12/object_in_frame_1078.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/12/object_in_frame_1231.png"
+    ]
+}

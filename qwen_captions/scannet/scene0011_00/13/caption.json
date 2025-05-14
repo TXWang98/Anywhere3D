@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic container-type object with a reflective surface and rectangular shape. The tapered rim suggests it might be designed for pouring or serving. Inconclusive evidence for its exact function, but it appears to be placed on a countertop near dining chairs in what looks like a kitchen or dining area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0011_00/chair-13/object_in_frame_828.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0011_00/chair-13/object_in_frame_822.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0011_00/chair-13/object_in_frame_846.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0011_00/chair-13/object_in_frame_801.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0011_00/chair-13/object_in_frame_780.png"
+    ]
+}

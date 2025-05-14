@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly ceramic container-type object with light blue coloring and a cylindrical shape. Has a smooth texture and appears to have a hollow interior. Likely used for holding small items like cotton balls or q-tips. Found on a bathroom countertop near other toiletries and personal care products.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/cup-19/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/cup-19/object_in_frame_225.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/cup-19/object_in_frame_191.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/cup-19/object_in_frame_149.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/cup-19/object_in_frame_256.png"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "caption": "A light wood possibly table with a natural finish and rectangular shape. The flat surface and straight edges suggest it is designed for dining or meeting purposes. Positioned in a room setting surrounded by matching chairs with blue cushions.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0665_00/wall-24/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0665_00/wall-24/object_in_frame_0.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0665_00/wall-24/object_in_frame_1.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0665_00/wall-24/object_in_frame_2.png"
+    ]
+}

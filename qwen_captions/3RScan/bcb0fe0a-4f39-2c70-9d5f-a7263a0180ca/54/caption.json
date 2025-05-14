@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric cushion with white and gray patterns and a rectangular shape. Features soft texture and decorative design. Likely used for seating comfort. Placed on a dark sofa in a living room setting, near a coffee table and wall decor.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bcb0fe0a-4f39-2c70-9d5f-a7263a0180ca/54/object_in_frame_000054.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bcb0fe0a-4f39-2c70-9d5f-a7263a0180ca/54/object_in_frame_000050.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bcb0fe0a-4f39-2c70-9d5f-a7263a0180ca/54/object_in_frame_000060.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bcb0fe0a-4f39-2c70-9d5f-a7263a0180ca/54/object_in_frame_000055.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bcb0fe0a-4f39-2c70-9d5f-a7263a0180ca/54/object_in_frame_000058.png"
+    ]
+}

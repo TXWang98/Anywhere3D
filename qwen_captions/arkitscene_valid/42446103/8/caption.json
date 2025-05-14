@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden possibly cabinet-type object with a natural brown finish and rectangular shape. Features panelled doors and a sturdy frame. Likely used for storage in the kitchen. Positioned beneath the countertop, adjacent to other kitchen appliances and utensils.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/8/object_in_frame_689.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/8/object_in_frame_701.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/8/object_in_frame_793.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/8/object_in_frame_1074.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/8/object_in_frame_777.png"
+    ]
+}

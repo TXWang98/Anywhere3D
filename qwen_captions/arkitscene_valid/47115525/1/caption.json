@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric sofa with beige upholstery and a rectangular shape. Features plush cushions and a flat, wide seating area. Designed for comfortable lounging. Positioned against a wall in a living room setting, accompanied by decorative pillows and a coffee table with flowers.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115525/1/object_in_frame_310.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115525/1/object_in_frame_307.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115525/1/object_in_frame_240.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115525/1/object_in_frame_247.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115525/1/object_in_frame_309.png"
+    ]
+}

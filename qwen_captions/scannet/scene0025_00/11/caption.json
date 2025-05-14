@@ -1,0 +1,10 @@
+{
+    "caption": "A white metallic shelving unit with a rectangular shape. The structure features multiple horizontal shelves and vertical supports. Likely used for storage of various office supplies and documents. Positioned against a wall in an office setting, near a door and a couch with a cushion.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/shelf-11/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/shelf-11/object_in_frame_756.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/shelf-11/object_in_frame_660.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/shelf-11/object_in_frame_669.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/shelf-11/object_in_frame_1506.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wax candle with a creamy yellow color and cylindrical shape. Smooth texture with a slightly rounded top. Likely used for lighting or decoration. Positioned on a windowsill, framed by sheer white curtains with red accents, in a cluttered room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/curtain-12/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/curtain-12/object_in_frame_96.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/curtain-12/object_in_frame_71.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/curtain-12/object_in_frame_104.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/curtain-12/object_in_frame_38.png"
+    ]
+}

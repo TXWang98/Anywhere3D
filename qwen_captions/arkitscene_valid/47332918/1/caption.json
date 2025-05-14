@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric bedsheet with vibrant pink coloring and rectangular shape. Smooth texture with slight wrinkles. Likely used for bedding purposes. Positioned on a bed frame in a bedroom setting, accompanied by pillows and other bedding items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332918/1/object_in_frame_129.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332918/1/object_in_frame_95.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332918/1/object_in_frame_303.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332918/1/object_in_frame_339.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332918/1/object_in_frame_158.png"
+    ]
+}

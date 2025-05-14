@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white plastic washing machine with a circular front door and rectangular shape. Features digital controls and a coin slot on the top panel. Designed for laundry tasks. Positioned in a row of similar machines within a laundromat setting, near a folding table with clothes.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/washing machines-10/object_in_frame_1340.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/washing machines-10/object_in_frame_1080.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/washing machines-10/object_in_frame_1036.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/washing machines-10/object_in_frame_1012.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/washing machines-10/object_in_frame_1016.png"
+    ]
+}

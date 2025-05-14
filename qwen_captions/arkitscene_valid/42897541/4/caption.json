@@ -1,0 +1,10 @@
+{
+    "caption": "\"A soft leather sofa with beige coloring and a rectangular shape. Features cushioned armrests, backrest, and seat cushions with plaid-patterned throw pillows. Designed for comfortable seating. Positioned against a window with vertical blinds in a living room setting, near a patterned rug and decorative items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897541/4/object_in_frame_310.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897541/4/object_in_frame_317.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897541/4/object_in_frame_325.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897541/4/object_in_frame_320.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897541/4/object_in_frame_321.png"
+    ]
+}

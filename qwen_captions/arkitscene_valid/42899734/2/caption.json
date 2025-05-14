@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden nightstand with a light brown finish and rectangular shape. Features a single drawer with a metallic handle. Likely used for storing small personal items. Positioned beside a bed, with a lamp on top and a window nearby in a bedroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899734/2/object_in_frame_328.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899734/2/object_in_frame_319.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899734/2/object_in_frame_394.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899734/2/object_in_frame_333.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899734/2/object_in_frame_361.png"
+    ]
+}

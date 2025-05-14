@@ -1,0 +1,9 @@
+{
+    "caption": "\"A white possibly table-type object with a rectangular shape. Appears to have a flat surface and straight edges. Likely used for supporting items or as furniture. Positioned on a marble floor near other household objects like a couch.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/6bde608b-9162-246f-8d16-901b429b2563/5/object_in_frame_000027.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/6bde608b-9162-246f-8d16-901b429b2563/5/object_in_frame_000036.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/6bde608b-9162-246f-8d16-901b429b2563/5/object_in_frame_000083.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/6bde608b-9162-246f-8d16-901b429b2563/5/object_in_frame_000035.png"
+    ]
+}

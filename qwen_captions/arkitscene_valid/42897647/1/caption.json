@@ -1,0 +1,10 @@
+{
+    "caption": "\"A soft fabric couch with a vibrant red color and rectangular shape. Features plush cushions and armrests. Likely used for seating and relaxation. Positioned against a wall in a living room setting, accompanied by decorative pillows and framed pictures above.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897647/1/object_in_frame_297.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897647/1/object_in_frame_377.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897647/1/object_in_frame_299.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897647/1/object_in_frame_383.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897647/1/object_in_frame_376.png"
+    ]
+}

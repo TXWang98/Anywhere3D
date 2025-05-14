@@ -1,0 +1,10 @@
+{
+    "caption": "\"A black office chair with a cushioned seat and backrest. Features five-star base with casters for mobility. Designed for ergonomic seating at desks. Positioned near a sofa with clothes and a laptop on a nearby table.\"\n\n\"A black office chair with a cushioned seat and backrest. Features five-star base with casters for mobility. Designed for ergonomic seating at desks. Positioned near a sofa with clothes and a laptop on a nearby table.\"\n\n\"A black office chair with a cushioned seat and backrest. Features five-star base with casters for mobility. Designed for ergonomic seating at desks. Positioned near a sofa with clothes and a laptop on a nearby table.\"\n\n\"A black office chair with a cushioned seat and backrest. Features five-star base with casters for mobility. Designed for ergonomic seating at desks. Positioned near a sofa with clothes and a laptop on a nearby table.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/chair-11/object_in_frame_1392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/chair-11/object_in_frame_234.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/chair-11/object_in_frame_240.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/chair-11/object_in_frame_1704.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/chair-11/object_in_frame_207.png"
+    ]
+}

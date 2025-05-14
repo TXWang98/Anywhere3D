@@ -1,0 +1,10 @@
+{
+    "caption": "\"A plastic trash can with blue coloring and a rectangular shape. Has a smooth surface and an open top lined with a transparent plastic bag. Designed for waste disposal. Positioned on the floor near a wall corner, adjacent to another similar container.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/trash can-1/object_in_frame_845.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/trash can-1/object_in_frame_220.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/trash can-1/object_in_frame_890.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/trash can-1/object_in_frame_875.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/trash can-1/object_in_frame_265.png"
+    ]
+}

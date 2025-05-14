@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic container-type object with a white color and cylindrical shape. Appears to have a smooth texture and a flat top surface. The tapered rim suggests it could be used for holding small items or as a decorative piece. Found on a bedside table in a bedroom setting, near a bed and electrical outlets.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261185/3/object_in_frame_328.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261185/3/object_in_frame_319.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261185/3/object_in_frame_338.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261185/3/object_in_frame_331.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261185/3/object_in_frame_341.png"
+    ]
+}

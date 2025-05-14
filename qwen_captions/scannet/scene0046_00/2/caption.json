@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy ceramic bathtub with white coloring and a rectangular shape. Features smooth, curved edges and a built-in faucet system. Designed for bathing purposes. Positioned within a tiled bathroom setting, adjacent to a sink and toilet.\n\nThe object in the green bounding box is consistently identified as a bathtub across multiple viewpoints. The attributes remain consistent: white color, glossy material, rectangular shape with smooth edges, and presence of a faucet system. The functional affordance is clearly for bathing. Contextually, it is placed within a bathroom environment, surrounded by typical fixtures like a sink and toilet. The confidence in categorizing this object as a bathtub is high due to its distinct features and placement.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/bathtub-2/object_in_frame_1340.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/bathtub-2/object_in_frame_1648.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/bathtub-2/object_in_frame_1580.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/bathtub-2/object_in_frame_1344.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/bathtub-2/object_in_frame_1612.png"
+    ]
+}

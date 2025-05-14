@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy white refrigerator with a smooth surface and rectangular shape. Features two doors, one above the other, with a visible handle on each. Designed for food storage. Positioned in a kitchen setting next to cabinets and a stove.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0488_00/refrigerator-1/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0488_00/refrigerator-1/object_in_frame_156.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0488_00/refrigerator-1/object_in_frame_79.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0488_00/refrigerator-1/object_in_frame_352.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0488_00/refrigerator-1/object_in_frame_592.png"
+    ]
+}

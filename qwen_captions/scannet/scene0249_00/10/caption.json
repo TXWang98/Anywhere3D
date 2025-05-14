@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic chair with light gray coloring and a rectangular seat. The structure includes armrests and metal legs. Likely designed for seating in an office or meeting room environment. Positioned near other chairs, suggesting a communal space setup.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/stack of chairs-10/object_in_frame_1676.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/stack of chairs-10/object_in_frame_2208.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/stack of chairs-10/object_in_frame_500.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/stack of chairs-10/object_in_frame_440.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/stack of chairs-10/object_in_frame_504.png"
+    ]
+}

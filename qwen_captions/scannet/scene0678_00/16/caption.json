@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic storage container with translucent white coloring and a rectangular shape. Features multiple drawers with visible handles. Likely used for organizing small items. Positioned on top of a microwave in a laundry room setting, surrounded by bags and other household items.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/wall-16/object_in_frame_1676.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/wall-16/object_in_frame_1384.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/wall-16/object_in_frame_1660.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/wall-16/object_in_frame_1368.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/wall-16/object_in_frame_1644.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden coffee table with a glass top and rectangular shape. Features ornate carved legs and a sturdy frame. Serves as a central surface for placing items. Positioned in front of a sofa, with a cushion and bag placed on top.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/coffee table-30/object_in_frame_1379.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/coffee table-30/object_in_frame_1456.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/coffee table-30/object_in_frame_1386.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/coffee table-30/object_in_frame_1428.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/coffee table-30/object_in_frame_1372.png"
+    ]
+}

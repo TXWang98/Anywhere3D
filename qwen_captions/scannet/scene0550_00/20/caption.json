@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic toilet with white coloring and a compact shape. Features a black seat and lid, along with a flush mechanism on the wall. Designed for personal hygiene use. Positioned in a bathroom setting with a shower curtain, window, and air conditioning unit nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/bathroom stall-20/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/bathroom stall-20/object_in_frame_180.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/bathroom stall-20/object_in_frame_168.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/bathroom stall-20/object_in_frame_210.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/bathroom stall-20/object_in_frame_174.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden container-type object with a reddish-brown hue and rectangular shape. The tapered rim suggests it could be a decorative box or storage unit. Its smooth surface and lack of visible handles indicate it may not be designed for frequent opening. Likely serves as an ornamental piece. Positioned near the center of the room, surrounded by furniture like a sofa and coffee table.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260905/9/object_in_frame_328.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260905/9/object_in_frame_96.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260905/9/object_in_frame_87.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260905/9/object_in_frame_405.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260905/9/object_in_frame_311.png"
+    ]
+}

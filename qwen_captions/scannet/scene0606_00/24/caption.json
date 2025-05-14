@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly wooden container-type object with a dark brown color and rectangular shape. The tapered rim suggests it might be designed for storage or display purposes. Inconclusive evidence for its exact function, but it appears to be placed on the floor near a couch in a living room setting, surrounded by furniture and household items.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/coffee table-24/object_in_frame_824.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/coffee table-24/object_in_frame_796.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/coffee table-24/object_in_frame_872.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/coffee table-24/object_in_frame_764.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/coffee table-24/object_in_frame_856.png"
+    ]
+}

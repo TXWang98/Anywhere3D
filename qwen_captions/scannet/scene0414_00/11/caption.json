@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic chair with black coloring and a rectangular shape. Features a slatted backrest and armrests. Designed for seating in office or meeting environments. Positioned near a table and other chairs in a conference room setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0414_00/chair-11/object_in_frame_567.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0414_00/chair-11/object_in_frame_548.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0414_00/chair-11/object_in_frame_576.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0414_00/chair-11/object_in_frame_572.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0414_00/chair-11/object_in_frame_541.png"
+    ]
+}

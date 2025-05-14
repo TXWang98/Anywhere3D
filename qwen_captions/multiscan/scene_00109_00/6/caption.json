@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly wooden shelf with a light beige color and horizontal slats. The structure appears to be part of a wall-mounted unit. Inconclusive evidence for its specific function, but it may serve as a decorative or storage element. Positioned adjacent to a television mounted on the wall, with visible cables and a small table below.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/6/object_in_frame_15028.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/6/object_in_frame_11603.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/6/object_in_frame_15023.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/6/object_in_frame_11593.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/6/object_in_frame_15033.png"
+    ]
+}

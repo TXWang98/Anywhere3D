@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden cabinet-type object with a light brown finish and rectangular shape. The tapered rim suggests it may be part of a kitchen storage unit. Features vertical panels and a smooth surface texture. Likely used for storing kitchen items. Positioned above the countertop in a kitchen setting, adjacent to other cabinets and appliances.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254441/13/object_in_frame_932.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254441/13/object_in_frame_645.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254441/13/object_in_frame_660.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254441/13/object_in_frame_346.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254441/13/object_in_frame_258.png"
+    ]
+}

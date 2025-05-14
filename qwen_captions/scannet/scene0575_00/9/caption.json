@@ -1,0 +1,10 @@
+{
+    "caption": "A black plastic chair with a green seat and backrest. The chair has a contoured design with armrests and a five-pointed base with wheels. It is designed for ergonomic seating in an office environment. Positioned around a conference table alongside other similar chairs, suggesting a meeting or collaborative workspace setup.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/office chair-9/object_in_frame_2264.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/office chair-9/object_in_frame_2104.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/office chair-9/object_in_frame_2112.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/office chair-9/object_in_frame_2236.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/office chair-9/object_in_frame_2232.png"
+    ]
+}

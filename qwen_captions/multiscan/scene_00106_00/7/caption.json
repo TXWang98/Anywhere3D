@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy white mouse with a smooth, rounded shape. The ergonomic design suggests it is made for comfortable handling. Likely used for computer navigation. Positioned on a desk near a tablet and other office supplies.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/7/object_in_frame_3454.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/7/object_in_frame_3050.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/7/object_in_frame_2883.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/7/object_in_frame_3290.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/7/object_in_frame_3263.png"
+    ]
+}

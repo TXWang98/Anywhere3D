@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly paper-covered book with red and white coloring and rectangular shape. The edges appear slightly worn, suggesting frequent handling. Likely contains written content for reading or reference. Positioned on a shelf among other books in what appears to be a bookstore or library setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-63/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-63/object_in_frame_156.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-63/object_in_frame_240.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-63/object_in_frame_705.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-63/object_in_frame_171.png"
+    ]
+}

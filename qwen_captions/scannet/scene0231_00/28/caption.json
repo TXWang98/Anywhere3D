@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic chair with a dark color and ergonomic shape. Has a cushioned seat and backrest with visible armrests. Likely designed for office or study use. Positioned in front of a cluttered desk surrounded by books, papers, and other office supplies.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/office chair-28/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/office chair-28/object_in_frame_119.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/office chair-28/object_in_frame_3241.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/office chair-28/object_in_frame_1050.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/office chair-28/object_in_frame_133.png"
+    ]
+}

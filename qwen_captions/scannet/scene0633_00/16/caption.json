@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white wooden crib with a clean and simple design. Features vertical slats forming the sides and a flat base. Designed for infant sleeping, ensuring safety and comfort. Positioned in a nursery corner, adjacent to a wardrobe and near a small side table holding baby essentials.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0633_00/crib-16/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0633_00/crib-16/object_in_frame_1082.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0633_00/crib-16/object_in_frame_150.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0633_00/crib-16/object_in_frame_1078.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0633_00/crib-16/object_in_frame_444.png"
+    ]
+}

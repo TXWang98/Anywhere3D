@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with translucent white coloring and a cylindrical shape. The tapered rim suggests it might be a cup or tumbler. While resembling a drinking vessel, the presence of a lid indicates potential use for storage or transport. Found on a cluttered desk alongside a laptop, headphones, and various personal items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/shelf-44/object_in_frame_824.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/shelf-44/object_in_frame_796.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/shelf-44/object_in_frame_2280.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/shelf-44/object_in_frame_876.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/shelf-44/object_in_frame_780.png"
+    ]
+}

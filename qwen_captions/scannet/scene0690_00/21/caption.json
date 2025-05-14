@@ -1,0 +1,9 @@
+{
+    "caption": "\"A possibly wooden frame-type object with a light brown color and rectangular shape. The structure appears to be part of a larger piece of furniture, likely a cabinet or shelving unit. Inconclusive evidence for its specific function, but it seems to serve as an architectural element. Positioned above a glass-fronted cabinet filled with books and documents.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0690_00/wall-21/object_in_frame_589.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0690_00/wall-21/object_in_frame_591.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0690_00/wall-21/object_in_frame_592.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0690_00/wall-21/object_in_frame_590.png"
+    ]
+}

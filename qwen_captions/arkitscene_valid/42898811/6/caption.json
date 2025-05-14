@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic stainless steel sink with a shiny silver finish and rectangular shape. Features a smooth, polished surface with a central drain and faucet attachment. Designed for washing dishes and hands. Positioned in a kitchen setting, surrounded by laundry detergent boxes and cleaning supplies.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898811/6/object_in_frame_245.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898811/6/object_in_frame_242.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898811/6/object_in_frame_253.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898811/6/object_in_frame_259.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898811/6/object_in_frame_264.png"
+    ]
+}

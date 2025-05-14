@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic chair armrest with a neutral gray color and rectangular shape. Smooth surface texture with slight curvature for ergonomic support. Likely designed to provide comfort during seated work. Positioned on the side of an office chair, adjacent to a desk with various items like a keyboard and mouse.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/computer tower-27/object_in_frame_1676.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/computer tower-27/object_in_frame_96.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/computer tower-27/object_in_frame_108.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/computer tower-27/object_in_frame_160.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/computer tower-27/object_in_frame_1580.png"
+    ]
+}

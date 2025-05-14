@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic possibly vase-type object with white coloring and a cylindrical shape. Has a tapered rim suggesting it could be used for holding flowers or decorative purposes. The presence of greenery inside supports its use as a floral display container. Positioned on a wooden surface alongside other household items like a laptop and papers.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bcb0fe0a-4f39-2c70-9d5f-a7263a0180ca/50/object_in_frame_000066.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bcb0fe0a-4f39-2c70-9d5f-a7263a0180ca/50/object_in_frame_000091.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bcb0fe0a-4f39-2c70-9d5f-a7263a0180ca/50/object_in_frame_000173.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bcb0fe0a-4f39-2c70-9d5f-a7263a0180ca/50/object_in_frame_000067.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bcb0fe0a-4f39-2c70-9d5f-a7263a0180ca/50/object_in_frame_000174.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly trash can with a silver finish and rectangular shape. Features a black plastic liner inside. Designed for waste disposal. Mounted on a tiled wall in a restroom setting, near a paper towel dispenser and an electrical outlet.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/wall-16/object_in_frame_1158.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/wall-16/object_in_frame_1190.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/wall-16/object_in_frame_1184.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/wall-16/object_in_frame_1198.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/wall-16/object_in_frame_1168.png"
+    ]
+}

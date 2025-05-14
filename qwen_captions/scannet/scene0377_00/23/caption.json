@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly boiler-type object with a dark blue and black color scheme. The structure features a rectangular body with various pipes and valves attached. It appears to be part of a heating or water system, given the surrounding plumbing. Positioned in a utility room setting, near a chair and storage shelves. \n\nConfidence Signals:\n- \"The presence of multiple connected pipes suggests its role in fluid transport.\"\n- \"While resembling a boiler, the lack of visible controls makes its exact function inconclusive.\"\n- \"Inconclusive evidence for its specific capacity due to limited visibility of internal components.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0377_00/wall-23/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0377_00/wall-23/object_in_frame_0.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0377_00/wall-23/object_in_frame_37.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0377_00/wall-23/object_in_frame_218.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0377_00/wall-23/object_in_frame_287.png"
+    ]
+}

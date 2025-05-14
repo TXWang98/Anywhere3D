@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly glass container-type object with a translucent appearance and rectangular shape. The tapered rim suggests it could be used for storing or serving liquids. Inconclusive evidence for its exact function, but it may serve as a storage vessel. Found inside a kitchen cabinet alongside other containers.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/10/object_in_frame_884.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/10/object_in_frame_891.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/10/object_in_frame_888.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/10/object_in_frame_875.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/10/object_in_frame_869.png"
+    ]
+}

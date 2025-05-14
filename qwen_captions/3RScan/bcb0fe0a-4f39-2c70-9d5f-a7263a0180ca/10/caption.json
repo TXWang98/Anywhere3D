@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly glass vase-type object with translucent amber coloring and a fluted body shape. The tapered rim suggests it could be used for floral arrangements. While resembling a vase, the presence of water droplets on its surface indicates recent use or cleaning. Found on a kitchen countertop near a microwave and other kitchen appliances.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bcb0fe0a-4f39-2c70-9d5f-a7263a0180ca/10/object_in_frame_000077.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bcb0fe0a-4f39-2c70-9d5f-a7263a0180ca/10/object_in_frame_000068.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bcb0fe0a-4f39-2c70-9d5f-a7263a0180ca/10/object_in_frame_000079.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bcb0fe0a-4f39-2c70-9d5f-a7263a0180ca/10/object_in_frame_000075.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bcb0fe0a-4f39-2c70-9d5f-a7263a0180ca/10/object_in_frame_000078.png"
+    ]
+}

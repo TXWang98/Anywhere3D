@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with black coloring and a rectangular shape. Has a flat top surface and visible cables attached. Likely used for storing or organizing electronic components. Found on the floor near a chair and table in an indoor setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/vacuum cleaner-2/object_in_frame_2345.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/vacuum cleaner-2/object_in_frame_1190.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/vacuum cleaner-2/object_in_frame_1175.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/vacuum cleaner-2/object_in_frame_2190.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/vacuum cleaner-2/object_in_frame_2100.png"
+    ]
+}

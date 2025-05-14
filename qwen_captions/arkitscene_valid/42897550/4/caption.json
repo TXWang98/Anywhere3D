@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a translucent white appearance and a rectangular shape. The tapered rim suggests it may be designed for pouring or dispensing contents. Inconclusive evidence for its exact function, but it could serve as a storage bin or part of a larger appliance. Seen inside what appears to be a larger enclosure, possibly a refrigerator or freezer compartment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897550/4/object_in_frame_8.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897550/4/object_in_frame_10.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897550/4/object_in_frame_15.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897550/4/object_in_frame_14.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897550/4/object_in_frame_11.png"
+    ]
+}

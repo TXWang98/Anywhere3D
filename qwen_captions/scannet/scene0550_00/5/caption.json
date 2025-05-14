@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic toilet with white and black coloring and a compact shape. Features a rounded bowl, a black seat and lid, and a flush mechanism on the back. Designed for sanitary waste disposal. Positioned in a small bathroom space with tiled walls and a visible trash bin nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/toilet-5/object_in_frame_2328.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/toilet-5/object_in_frame_2742.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/toilet-5/object_in_frame_24.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/toilet-5/object_in_frame_2412.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/toilet-5/object_in_frame_2214.png"
+    ]
+}

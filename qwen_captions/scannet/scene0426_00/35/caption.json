@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy black television with a rectangular shape. The flat screen and slim profile suggest modern design. Likely used for entertainment purposes. Positioned on top of a light-colored dresser in a room setting, surrounded by various household items like a remote control and boxes.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/tv-35/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/tv-35/object_in_frame_645.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/tv-35/object_in_frame_663.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/tv-35/object_in_frame_519.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/tv-35/object_in_frame_522.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A leather armchair with a light beige color and a rounded, cushioned shape. Features rolled arms and decorative nailhead trim along the edges. Provides comfortable seating for relaxation or reading. Positioned in a library setting, surrounded by bookshelves, tables, and other seating arrangements.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0690_00/armchair-18/object_in_frame_328.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0690_00/armchair-18/object_in_frame_252.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0690_00/armchair-18/object_in_frame_302.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0690_00/armchair-18/object_in_frame_276.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0690_00/armchair-18/object_in_frame_251.png"
+    ]
+}

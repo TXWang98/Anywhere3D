@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly marble fireplace with white coloring and rectangular shape. Features intricate green and gold decorative panels on the facade. Likely serves as a central heating element and aesthetic focal point. Positioned against a dark blue wall, flanked by a wardrobe and television, within a bedroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662942/6/object_in_frame_129.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662942/6/object_in_frame_136.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662942/6/object_in_frame_484.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662942/6/object_in_frame_485.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662942/6/object_in_frame_493.png"
+    ]
+}

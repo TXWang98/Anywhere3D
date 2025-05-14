@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic container-type object with a light beige or off-white color and a cylindrical shape. The tapered rim suggests it could be a small vase or decorative holder. It has a smooth texture and appears to have a hollow interior. Likely used for holding small items or as a decorative piece. Positioned on the countertop near a sink, surrounded by bathroom fixtures like faucets and storage cabinets.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/28/object_in_frame_000081.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/28/object_in_frame_000084.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/28/object_in_frame_000082.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/28/object_in_frame_000080.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/28/object_in_frame_000083.png"
+    ]
+}

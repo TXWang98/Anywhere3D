@@ -1,0 +1,10 @@
+{
+    "caption": "\"A stainless steel sink with a rectangular shape and smooth, reflective surface. The tapered rim suggests it is designed for easy cleaning and water containment. It appears to be integrated into the countertop, providing a seamless look. Positioned in a kitchen setting, surrounded by various items like soap dispensers and utensils on the counter.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662921/17/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662921/17/object_in_frame_959.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662921/17/object_in_frame_242.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662921/17/object_in_frame_914.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662921/17/object_in_frame_1063.png"
+    ]
+}

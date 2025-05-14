@@ -1,0 +1,7 @@
+{
+    "caption": "\"A possibly {generic}-type object with inconclusive color and shape. Inconclusive evidence for material or structural details. Functional affordances are unclear. Contextually placed near a ceiling corner, with no surrounding objects providing additional context.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/10b17942-3938-2467-8933-5d40ada6d445/15/object_in_frame_000096.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/10b17942-3938-2467-8933-5d40ada6d445/15/object_in_frame_000001.png"
+    ]
+}

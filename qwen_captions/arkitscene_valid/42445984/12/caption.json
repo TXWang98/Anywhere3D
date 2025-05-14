@@ -1,0 +1,10 @@
+{
+    "caption": "\"A woven wicker basket with natural beige coloring and rectangular shape. Features a sturdy handle and open weave texture. Likely used for storage or carrying items. Positioned on a wooden chair in a dining area, near a radiator and framed artwork on the wall.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445984/12/object_in_frame_328.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445984/12/object_in_frame_336.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445984/12/object_in_frame_338.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445984/12/object_in_frame_764.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445984/12/object_in_frame_330.png"
+    ]
+}

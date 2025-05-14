@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic showerhead with a silver finish and rounded shape. Features multiple water outlet holes on its surface. Designed for delivering water in a shower setting. Mounted on a tiled wall within a bathroom environment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/33/object_in_frame_9168.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/33/object_in_frame_8143.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/33/object_in_frame_9160.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/33/object_in_frame_9205.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/33/object_in_frame_8151.png"
+    ]
+}

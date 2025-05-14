@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy black possibly speaker-type object with a rectangular shape. The tapered rim suggests it might be designed for audio output. While resembling a speaker, the presence of cables connected to it supports this function. Positioned on a desk near a computer monitor and other office supplies, indicating its use in an office environment.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/wall-36/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/wall-36/object_in_frame_225.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/wall-36/object_in_frame_1161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/wall-36/object_in_frame_1194.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/wall-36/object_in_frame_189.png"
+    ]
+}

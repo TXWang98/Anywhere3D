@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white dishwasher with a smooth and clean surface and a rectangular shape. Features control buttons and a handle on the front panel. Designed for washing dishes. Positioned under the countertop in a kitchen setting, adjacent to a sink and refrigerator.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0488_00/kitchen cabinet-5/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0488_00/kitchen cabinet-5/object_in_frame_92.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0488_00/kitchen cabinet-5/object_in_frame_46.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0488_00/kitchen cabinet-5/object_in_frame_521.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0488_00/kitchen cabinet-5/object_in_frame_579.png"
+    ]
+}

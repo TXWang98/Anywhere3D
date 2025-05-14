@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden chair-type object with a light beige and dark brown color scheme. Features a rectangular backrest and four tapered legs. The structure suggests it is designed for seating. Positioned under a dining table in a living room setting, surrounded by other furniture like sofas and decorative items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331266/4/object_in_frame_670.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331266/4/object_in_frame_47.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331266/4/object_in_frame_698.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331266/4/object_in_frame_76.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331266/4/object_in_frame_700.png"
+    ]
+}

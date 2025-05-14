@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic vase-type object with dark coloring and a slender, elongated shape. The tapered rim suggests it may be designed for holding flowers or decorative purposes. While resembling a vase, the presence of intricate patterns hints at ornamental use. Found on a side table in a living room setting, near a sofa and framed artwork.\"\n\n\"A fabric cushion with beige tones and a rectangular shape. Soft texture and padded structure. Likely used for seating comfort. Positioned on the floor against a wall, adjacent to a patterned rug.\"\n\n\"A metallic radiator with white coloring and a flat, panelled shape. Horizontal grooves along its surface. Functions as a heating unit. Mounted on a wall beneath a window, with string lights above and a framed picture nearby.\"\n\n\"A possibly wooden furniture piece with light brown coloring and a rectangular shape. Smooth surface and sturdy structure. Likely serves as a base or support. Located on the floor near a doorway, part of an indoor residential environment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897541/3/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897541/3/object_in_frame_225.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897541/3/object_in_frame_240.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897541/3/object_in_frame_266.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897541/3/object_in_frame_1.png"
+    ]
+}

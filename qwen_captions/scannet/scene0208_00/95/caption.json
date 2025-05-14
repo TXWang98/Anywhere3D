@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a mix of colors and rectangular shape. The structure appears to have multiple compartments or sections. Likely used for organizing small items. Found on a shelf amidst various books and other objects in what seems to be a library or bookstore setting. Inconclusive evidence for its exact function due to the blurred image quality.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-95/object_in_frame_1500.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-95/object_in_frame_1554.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-95/object_in_frame_1497.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-95/object_in_frame_1548.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-95/object_in_frame_1542.png"
+    ]
+}

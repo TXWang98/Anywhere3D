@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric container-type object with a brown and beige pattern. Irregular shape with soft, textured surface. Likely used for storage or as a decorative item. Placed on the floor near a black case and other items in a room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/283ccfeb-107c-24d5-8bbf-05519a3c7c47/24/object_in_frame_000177.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/283ccfeb-107c-24d5-8bbf-05519a3c7c47/24/object_in_frame_000147.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/283ccfeb-107c-24d5-8bbf-05519a3c7c47/24/object_in_frame_000167.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/283ccfeb-107c-24d5-8bbf-05519a3c7c47/24/object_in_frame_000142.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/283ccfeb-107c-24d5-8bbf-05519a3c7c47/24/object_in_frame_000148.png"
+    ]
+}

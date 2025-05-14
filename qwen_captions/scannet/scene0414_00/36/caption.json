@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic chair with black coloring and a rectangular shape. Has armrests and a cushioned seat. Likely designed for seating in an office or waiting area. Positioned against a wall near a wooden cabinet and other similar chairs.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0414_00/wall-36/object_in_frame_129.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0414_00/wall-36/object_in_frame_126.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0414_00/wall-36/object_in_frame_137.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0414_00/wall-36/object_in_frame_135.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0414_00/wall-36/object_in_frame_110.png"
+    ]
+}

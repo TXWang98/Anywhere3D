@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic tool-type object, matte silver with angular grooves. Ambiguous function between wrench or specialized clamp. Seen in workshop environment near assembly parts.\" \n\nHowever, upon analyzing the provided images, it appears that the green bounding box does not consistently enclose a single object across all viewpoints. Instead, it seems to encompass different areas of the room, including doorways and empty spaces. Therefore, no specific object can be confidently identified within the bounding box.\n\nGiven this inconsistency, a more accurate caption would be:\n\n\"Inconclusive evidence for a specific object within the green bounding box across multiple viewpoints. The box appears to enclose various areas such as doorways and empty spaces rather than a consistent item. No definitive category, attributes, or functional affordances can be determined from the provided images.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/doorframe-76/object_in_frame_2534.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/doorframe-76/object_in_frame_3059.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/doorframe-76/object_in_frame_2828.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/doorframe-76/object_in_frame_2562.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/doorframe-76/object_in_frame_3045.png"
+    ]
+}

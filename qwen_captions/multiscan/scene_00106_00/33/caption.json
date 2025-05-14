@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic tool-type object with a red color and elongated shape. Appears to have a handle and a flat, rectangular end. Likely used for gripping or prying. Found on a cluttered wooden surface alongside various household items like jars and boxes. Inconclusive evidence for its exact function due to limited visibility.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/33/object_in_frame_5422.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/33/object_in_frame_5348.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/33/object_in_frame_9415.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/33/object_in_frame_5198.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/33/object_in_frame_9489.png"
+    ]
+}

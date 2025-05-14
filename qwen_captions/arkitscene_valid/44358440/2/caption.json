@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy black possibly monitor-type object with a rectangular shape. Smooth surface and thin bezels. Likely used for computer display. Positioned on a desk surrounded by office supplies and personal items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358440/2/object_in_frame_328.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358440/2/object_in_frame_345.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358440/2/object_in_frame_403.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358440/2/object_in_frame_349.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358440/2/object_in_frame_70.png"
+    ]
+}

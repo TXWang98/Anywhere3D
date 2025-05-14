@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric lampshade with white coloring and a cylindrical shape. The tapered rim suggests it is designed to diffuse light evenly. Likely part of a bedside lamp setup. Positioned above a nightstand between two beds in a hotel room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/lamp-38/object_in_frame_960.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/lamp-38/object_in_frame_1145.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/lamp-38/object_in_frame_970.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/lamp-38/object_in_frame_1005.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/lamp-38/object_in_frame_1030.png"
+    ]
+}

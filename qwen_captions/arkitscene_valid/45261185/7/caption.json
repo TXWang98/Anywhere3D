@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly glass vase-type object with translucent coloring and a fluted body shape. The tapered rim suggests it could be used for floral arrangements. Inconclusive evidence for its exact function due to the lack of visible contents or context. Found on a windowsill, with no surrounding objects clearly visible in the image.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261185/7/object_in_frame_549.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261185/7/object_in_frame_550.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261185/7/object_in_frame_240.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261185/7/object_in_frame_247.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261185/7/object_in_frame_243.png"
+    ]
+}

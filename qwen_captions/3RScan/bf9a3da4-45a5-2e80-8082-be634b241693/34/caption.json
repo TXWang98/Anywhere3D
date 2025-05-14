@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden container-type object with a light brown color and rectangular shape. The tapered rim suggests it may be designed for storage or transport. Its flat top and open sides indicate it could hold items securely. Positioned on a shelf among stacked boxes in what appears to be a storage area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3da4-45a5-2e80-8082-be634b241693/34/object_in_frame_000155.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3da4-45a5-2e80-8082-be634b241693/34/object_in_frame_000302.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3da4-45a5-2e80-8082-be634b241693/34/object_in_frame_000153.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3da4-45a5-2e80-8082-be634b241693/34/object_in_frame_000088.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3da4-45a5-2e80-8082-be634b241693/34/object_in_frame_000303.png"
+    ]
+}

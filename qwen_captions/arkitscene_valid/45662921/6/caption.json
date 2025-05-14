@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden stool with a light brown finish and cylindrical shape. The seat is circular and flat, supported by four slender legs that taper slightly towards the bottom. Designed for seating at a counter or bar. Positioned along a kitchen island with other similar stools nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662921/6/object_in_frame_366.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662921/6/object_in_frame_377.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662921/6/object_in_frame_347.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662921/6/object_in_frame_364.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662921/6/object_in_frame_358.png"
+    ]
+}

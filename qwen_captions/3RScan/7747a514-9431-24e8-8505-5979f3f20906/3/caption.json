@@ -1,0 +1,7 @@
+{
+    "caption": "\"A possibly {generic}-type object with inconclusive color and shape. Inconclusive evidence for structure or texture details. Functional affordances are unclear. Contextually placed near a blue cabinet, framed artwork, and a wooden door in an indoor setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/3/object_in_frame_000154.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/3/object_in_frame_000156.png"
+    ]
+}

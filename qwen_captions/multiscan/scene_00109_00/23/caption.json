@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy plastic suitcase with silver coloring and a rectangular shape. Features a textured, wavy pattern on the surface and a retractable handle. Designed for travel and storage of personal items. Positioned upright on a patterned carpet in a living room setting, near a couch and another piece of luggage.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/23/object_in_frame_6105.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/23/object_in_frame_7455.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/23/object_in_frame_5343.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/23/object_in_frame_6432.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/23/object_in_frame_5915.png"
+    ]
+}

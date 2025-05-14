@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric bedspread with light blue coloring and a quilted pattern. Features a soft texture and padded structure. Serves as bedding for warmth and comfort. Positioned on a bed frame within a bedroom setting, surrounded by bedside tables and decorative items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446104/1/object_in_frame_77.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446104/1/object_in_frame_716.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446104/1/object_in_frame_725.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446104/1/object_in_frame_776.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446104/1/object_in_frame_774.png"
+    ]
+}

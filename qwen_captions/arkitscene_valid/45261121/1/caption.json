@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden kitchen island with a light brown surface and rectangular shape. Features open shelving below for storage. Serves as a central workspace in the kitchen. Positioned near cooking appliances and surrounded by bar stools.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261121/1/object_in_frame_270.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261121/1/object_in_frame_96.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261121/1/object_in_frame_246.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261121/1/object_in_frame_323.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261121/1/object_in_frame_110.png"
+    ]
+}

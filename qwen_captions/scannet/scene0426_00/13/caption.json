@@ -1,0 +1,10 @@
+{
+    "caption": "A soft fabric possibly blanket-type object with light gray and white striped patterns. Appears crumpled and loosely draped. Likely used for warmth or comfort. Positioned on a bed alongside pillows, near a window with blinds.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/wall-13/object_in_frame_1191.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/wall-13/object_in_frame_1182.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/wall-13/object_in_frame_1179.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/wall-13/object_in_frame_1197.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/wall-13/object_in_frame_1194.png"
+    ]
+}

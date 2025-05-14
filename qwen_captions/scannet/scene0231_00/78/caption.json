@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric possibly couch-type object with a patterned design and rectangular shape. Features cushioned seating and backrest. Likely used for sitting or lounging. Positioned in a living room setting, surrounded by other furniture like chairs and tables.\n\n---\n\n\"A fabric possibly couch-type object with a patterned design and rectangular shape. Features cushioned seating and backrest. Likely used for sitting or lounging. Positioned in a living room setting, surrounded by other furniture like chairs and tables.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/couch-78/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/couch-78/object_in_frame_3052.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/couch-78/object_in_frame_833.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/couch-78/object_in_frame_3234.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/couch-78/object_in_frame_3080.png"
+    ]
+}

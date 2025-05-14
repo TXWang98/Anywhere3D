@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden bedside table with a light gray finish and rectangular shape. Features two drawers with metallic handles and a flat top surface. Likely used for storing small personal items and supporting bedside lamps. Positioned next to a bed in a bedroom setting, with a copper lamp placed on top.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125718/3/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125718/3/object_in_frame_379.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125718/3/object_in_frame_488.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125718/3/object_in_frame_395.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125718/3/object_in_frame_411.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy white possibly container-type object with a rectangular shape. The tapered rim suggests it could be a storage bin or organizer. Smooth surface and clean edges. Likely used for storing kitchen items. Positioned on a shelf above the countertop in a kitchen setting, near other cabinets and appliances.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115460/5/object_in_frame_328.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115460/5/object_in_frame_312.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115460/5/object_in_frame_87.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115460/5/object_in_frame_333.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115460/5/object_in_frame_211.png"
+    ]
+}

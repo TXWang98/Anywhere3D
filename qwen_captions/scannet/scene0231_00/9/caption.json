@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic tool-type object, dark in color with an elongated shape. Inconclusive evidence for its specific function due to limited visibility. Appears to be leaning against a wall near a doorway. Found in a living room setting with furniture and household items around.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/lamp base-9/object_in_frame_4116.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/lamp base-9/object_in_frame_4130.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/lamp base-9/object_in_frame_644.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/lamp base-9/object_in_frame_875.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/lamp base-9/object_in_frame_1505.png"
+    ]
+}

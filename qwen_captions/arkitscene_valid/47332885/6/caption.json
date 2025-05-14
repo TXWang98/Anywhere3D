@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden possibly cabinet-type object with a light brown finish and rectangular shape. Features two doors with simple handles and a flat top surface. Likely used for storage purposes. Positioned against the wall in a bedroom setting, near a bed with colorful bedding and other furniture items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332885/6/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332885/6/object_in_frame_95.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332885/6/object_in_frame_137.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332885/6/object_in_frame_163.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332885/6/object_in_frame_118.png"
+    ]
+}

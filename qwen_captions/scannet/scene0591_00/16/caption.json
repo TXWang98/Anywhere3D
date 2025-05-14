@@ -1,0 +1,10 @@
+{
+    "caption": "A soft fabric pillow with bright yellow coloring and a rectangular shape. Smooth texture with no visible seams or patterns. Provides comfort and support when seated. Placed on a dark-colored couch alongside an orange pillow in a casual indoor setting, possibly a living room or office lounge area.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0591_00/pillow-16/object_in_frame_898.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0591_00/pillow-16/object_in_frame_524.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0591_00/pillow-16/object_in_frame_816.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0591_00/pillow-16/object_in_frame_848.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0591_00/pillow-16/object_in_frame_836.png"
+    ]
+}

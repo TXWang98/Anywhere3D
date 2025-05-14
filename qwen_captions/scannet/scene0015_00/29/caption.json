@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric-covered chair with a blue and white patterned upholstery. The seat has a cushioned design with a slightly curved backrest. Appears to be designed for comfortable seating in an office or meeting room setting. Positioned near other similar chairs around a table, suggesting a collaborative workspace environment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/chair-29/object_in_frame_1047.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/chair-29/object_in_frame_1122.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/chair-29/object_in_frame_1056.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/chair-29/object_in_frame_1185.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/chair-29/object_in_frame_195.png"
+    ]
+}

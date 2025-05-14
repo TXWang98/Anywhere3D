@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden cabinet with a dark brown finish and rectangular shape. Features vertical paneling and a flat countertop. Likely used for storage in a kitchen setting. Positioned against a wall near an electrical outlet, with keys hanging nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/1/object_in_frame_1047.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/1/object_in_frame_602.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/1/object_in_frame_1056.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/1/object_in_frame_1050.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/1/object_in_frame_1060.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic toilet with white coloring and a rounded, elongated shape. Smooth surface texture with a slightly tapered rim suggesting ergonomic design for seating. Primarily functions as a sanitary fixture for waste disposal. Positioned in a bathroom setting with tiled flooring and wall-mounted plumbing visible nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/9/object_in_frame_000363.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/9/object_in_frame_000366.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/9/object_in_frame_000231.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/9/object_in_frame_000361.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/9/object_in_frame_000368.png"
+    ]
+}

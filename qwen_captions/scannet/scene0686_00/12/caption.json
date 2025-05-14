@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic hand dryer with a dark gray finish and rectangular shape. Has a sleek, modern design with a smooth surface. Designed for drying hands in public restrooms. Mounted on a tiled wall next to a waste bin and electrical outlet.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/paper towel dispenser-12/object_in_frame_1166.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/paper towel dispenser-12/object_in_frame_1170.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/paper towel dispenser-12/object_in_frame_1162.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/paper towel dispenser-12/object_in_frame_1168.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/paper towel dispenser-12/object_in_frame_1164.png"
+    ]
+}

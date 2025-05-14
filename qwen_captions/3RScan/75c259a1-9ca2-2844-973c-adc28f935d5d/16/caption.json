@@ -1,0 +1,10 @@
+{
+    "caption": "\"A stainless steel sink with a brushed metallic finish and rectangular shape. Features a grid-like draining section with parallel bars. Designed for washing dishes and food preparation. Positioned within a kitchen setting, adjacent to cabinetry and flooring.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/75c259a1-9ca2-2844-973c-adc28f935d5d/16/object_in_frame_000138.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/75c259a1-9ca2-2844-973c-adc28f935d5d/16/object_in_frame_000123.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/75c259a1-9ca2-2844-973c-adc28f935d5d/16/object_in_frame_000140.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/75c259a1-9ca2-2844-973c-adc28f935d5d/16/object_in_frame_000122.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/75c259a1-9ca2-2844-973c-adc28f935d5d/16/object_in_frame_000136.png"
+    ]
+}

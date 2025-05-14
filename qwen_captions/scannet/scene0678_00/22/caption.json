@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly fire extinguisher-type object with silver and reflective surfaces. Cylindrical shape with a tapered nozzle. The presence of a hose and pressure gauge suggests it's designed for emergency use. Positioned near an exit sign in a laundry room setting, surrounded by washing machines and a counter with folded towels.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/doorframe-22/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/doorframe-22/object_in_frame_1212.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/doorframe-22/object_in_frame_1036.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/doorframe-22/object_in_frame_1148.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/doorframe-22/object_in_frame_996.png"
+    ]
+}

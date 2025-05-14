@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with translucent coloring and rectangular shape. The structure appears hollow with smooth, flat surfaces. Likely used for storage or as a lightweight box. Found on a table in a classroom setting, surrounded by chairs and desks.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/84/object_in_frame_000338.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/84/object_in_frame_000311.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/84/object_in_frame_000003.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/84/object_in_frame_000291.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/84/object_in_frame_000286.png"
+    ]
+}

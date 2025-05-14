@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden table with a medium brown color and rectangular shape. The surface has visible wood grain texture. Likely used for dining or social gatherings. Positioned in a restaurant setting, surrounded by chairs and other tables.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0609_00/table-5/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0609_00/table-5/object_in_frame_509.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0609_00/table-5/object_in_frame_423.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0609_00/table-5/object_in_frame_503.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0609_00/table-5/object_in_frame_471.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A stainless steel oven with a black and silver color scheme and rectangular shape. Features control knobs on the top panel and a glass door with a handle. Designed for baking and cooking. Positioned in a kitchen setting, adjacent to white cabinets and a countertop.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898521/6/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898521/6/object_in_frame_182.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898521/6/object_in_frame_191.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898521/6/object_in_frame_205.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898521/6/object_in_frame_203.png"
+    ]
+}

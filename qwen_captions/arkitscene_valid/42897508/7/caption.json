@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly cabinet-type object with a silver finish and rectangular shape. The structure includes a door with a handle, suggesting storage functionality. Likely used for kitchen storage. Positioned above a stove area, adjacent to other kitchen appliances and cabinetry.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897508/7/object_in_frame_567.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897508/7/object_in_frame_568.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897508/7/object_in_frame_101.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897508/7/object_in_frame_514.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897508/7/object_in_frame_494.png"
+    ]
+}

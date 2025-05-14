@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic {generic}-type object with a dark finish and rectangular shape. The tapered rim suggests it could be a container or appliance component. Inconclusive evidence for its exact function, but it appears to have a smooth surface and clean edges. Positioned on the kitchen counter near other appliances and utensils.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899679/22/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899679/22/object_in_frame_492.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899679/22/object_in_frame_565.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899679/22/object_in_frame_562.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899679/22/object_in_frame_578.png"
+    ]
+}

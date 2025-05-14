@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly container-type object with a perforated pattern and rectangular shape. The structure features a mesh-like texture on its panels. Likely used for storage or partitioning in an office setting. Positioned as part of a cubicle setup, surrounded by desks and office supplies.\"\n\nConfidence signals:\n- \"The perforated design suggests it could be a functional divider.\"\n- \"While resembling a storage unit, the presence of mesh panels indicates ventilation or aesthetic purposes.\"\n- \"Inconclusive evidence for its exact function due to limited contextual clues.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/6/object_in_frame_000919.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/6/object_in_frame_000057.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/6/object_in_frame_000347.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/6/object_in_frame_000927.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/6/object_in_frame_000866.png"
+    ]
+}

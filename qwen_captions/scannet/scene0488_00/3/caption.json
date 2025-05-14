@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white microwave with a rectangular shape and smooth surface. Has a digital display and control panel on the right side. Used for heating and cooking food. Positioned above a stove in a kitchen setting, surrounded by cabinets and a countertop.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0488_00/kitchen cabinets-3/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0488_00/kitchen cabinets-3/object_in_frame_212.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0488_00/kitchen cabinets-3/object_in_frame_150.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0488_00/kitchen cabinets-3/object_in_frame_139.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0488_00/kitchen cabinets-3/object_in_frame_203.png"
+    ]
+}

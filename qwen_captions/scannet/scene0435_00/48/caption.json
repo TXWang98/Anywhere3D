@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric suitcase-type object with dark coloring and rectangular shape. Appears to have a soft, flexible structure. Likely used for storing and transporting clothes or personal items. Positioned on the floor near a bed in a hotel room setting, with other luggage and clothing visible nearby.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/backpack-48/object_in_frame_750.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/backpack-48/object_in_frame_825.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/backpack-48/object_in_frame_725.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/backpack-48/object_in_frame_820.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/backpack-48/object_in_frame_755.png"
+    ]
+}

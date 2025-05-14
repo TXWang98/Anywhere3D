@@ -1,0 +1,9 @@
+{
+    "caption": "\"A possibly plastic chair-type object with a light brown color and curved shape. The structure includes a backrest and seat connected by a central support. Likely designed for seating in an office or classroom setting. Positioned along a long table, surrounded by other similar chairs.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/89/object_in_frame_000338.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/89/object_in_frame_000289.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/89/object_in_frame_000290.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/89/object_in_frame_000286.png"
+    ]
+}

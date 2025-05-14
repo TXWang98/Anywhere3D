@@ -1,0 +1,10 @@
+{
+    "caption": "\"A black leather chaise lounge with a sleek and elongated shape. Features a smooth texture and a slightly raised backrest. Provides a comfortable seating or lounging surface. Positioned in a cozy corner of the room, near a window with curtains and a clothing rack holding garments.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0652_00/curtain-21/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0652_00/curtain-21/object_in_frame_178.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0652_00/curtain-21/object_in_frame_246.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0652_00/curtain-21/object_in_frame_186.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0652_00/curtain-21/object_in_frame_162.png"
+    ]
+}

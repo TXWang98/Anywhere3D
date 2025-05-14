@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic laptop with a silver body and black keyboard. The tapered rim suggests it is designed for portability and ease of use. It features a flat base and a screen that can be tilted for optimal viewing. Made for computing tasks, it is placed on a wooden desk alongside headphones and other personal items, indicating a workspace setup in a bedroom environment.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/laptop-30/object_in_frame_900.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/laptop-30/object_in_frame_894.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/laptop-30/object_in_frame_3498.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/laptop-30/object_in_frame_888.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/laptop-30/object_in_frame_876.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A soft fabric pillow with light gray coloring and rectangular shape. Smooth texture with subtle stitching details. Provides comfort and support for resting. Positioned on a bed alongside other pillows and bedding in a bedroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7633-8d6f-2d13-8e91-8b46e2b70f34/42/object_in_frame_000216.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7633-8d6f-2d13-8e91-8b46e2b70f34/42/object_in_frame_000217.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7633-8d6f-2d13-8e91-8b46e2b70f34/42/object_in_frame_000211.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7633-8d6f-2d13-8e91-8b46e2b70f34/42/object_in_frame_000214.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7633-8d6f-2d13-8e91-8b46e2b70f34/42/object_in_frame_000176.png"
+    ]
+}

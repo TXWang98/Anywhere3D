@@ -1,0 +1,10 @@
+{
+    "caption": "\"A soft fabric cushion with gray and white geometric patterns and a rectangular shape. Features a quilted texture for added comfort. Likely used as a decorative or supportive pillow. Positioned on the floor near a chair, surrounded by various items like shoes and storage containers.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/cushion-41/object_in_frame_5247.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/cushion-41/object_in_frame_4302.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/cushion-41/object_in_frame_3096.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/cushion-41/object_in_frame_3483.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/cushion-41/object_in_frame_3357.png"
+    ]
+}

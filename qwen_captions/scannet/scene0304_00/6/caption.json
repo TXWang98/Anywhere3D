@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly locker-type object with a silver and black color scheme. Features a grid-like pattern of small compartments with individual locks. Likely used for secure storage in a public or institutional setting. Positioned along a wall in what appears to be a hallway, near a trash bin and a blue surface with a red bag on it. The uniform arrangement suggests a communal space like a school or office.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/wall-6/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/wall-6/object_in_frame_972.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/wall-6/object_in_frame_362.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/wall-6/object_in_frame_1022.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/wall-6/object_in_frame_1016.png"
+    ]
+}

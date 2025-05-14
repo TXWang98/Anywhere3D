@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy whiteboard with various colored markings and a rectangular shape. Features multiple diagrams and notes in different colors. Used for brainstorming or presentations. Positioned on a wall near shelves and office supplies.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/whiteboard-15/object_in_frame_2084.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/whiteboard-15/object_in_frame_2076.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/whiteboard-15/object_in_frame_2080.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/whiteboard-15/object_in_frame_1808.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/whiteboard-15/object_in_frame_768.png"
+    ]
+}

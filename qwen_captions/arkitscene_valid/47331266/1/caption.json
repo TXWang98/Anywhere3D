@@ -1,0 +1,10 @@
+{
+    "caption": "\"A polished wooden dining table with a dark brown finish and rectangular shape. Features sturdy legs and a smooth surface. Serves as a central piece for meals and gatherings. Positioned in a dining area with chairs around it, a vase of flowers on top, and adjacent to a hallway leading to other rooms.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331266/1/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331266/1/object_in_frame_633.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331266/1/object_in_frame_628.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331266/1/object_in_frame_597.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331266/1/object_in_frame_599.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric sofa with dark gray upholstery and a rectangular shape. Features cushioned seating and backrest with light wooden legs. Provides comfortable seating for multiple people. Positioned in a living room setting, adjacent to another similar sofa and near a person lounging on it.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/couch-26/object_in_frame_498.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/couch-26/object_in_frame_512.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/couch-26/object_in_frame_640.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/couch-26/object_in_frame_662.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/couch-26/object_in_frame_654.png"
+    ]
+}

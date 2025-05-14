@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden table with a light brown finish and rectangular shape. The surface is smooth with visible wood grain texture. Designed for dining or meeting purposes. Positioned in a room surrounded by blue cushioned chairs, suggesting a communal or office setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0665_00/table-15/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0665_00/table-15/object_in_frame_50.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0665_00/table-15/object_in_frame_24.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0665_00/table-15/object_in_frame_59.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0665_00/table-15/object_in_frame_38.png"
+    ]
+}

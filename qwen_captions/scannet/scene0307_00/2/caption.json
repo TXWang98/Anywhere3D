@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white possibly door with a frosted glass window and rectangular shape. Has a metallic handle and lock mechanism. Likely serves as an entrance or exit point. Positioned in a laundry room setting, adjacent to a washing machine and cleaning supplies.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/door-2/object_in_frame_1794.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/door-2/object_in_frame_501.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/door-2/object_in_frame_1611.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/door-2/object_in_frame_1671.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/door-2/object_in_frame_489.png"
+    ]
+}

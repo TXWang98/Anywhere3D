@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly leather chair with a brown color and rectangular shape. Features a padded backrest and seat, supported by dark wooden legs. Likely designed for seating at dining tables. Positioned around a table in a dining area with other chairs and a TV mounted on the wall.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0011_00/chair-5/object_in_frame_1581.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0011_00/chair-5/object_in_frame_1578.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0011_00/chair-5/object_in_frame_1584.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0011_00/chair-5/object_in_frame_1563.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0011_00/chair-5/object_in_frame_1143.png"
+    ]
+}

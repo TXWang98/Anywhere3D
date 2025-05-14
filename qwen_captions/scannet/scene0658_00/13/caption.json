@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic sliding door with a neutral beige color and rectangular shape. The door has a smooth surface and a simple handle. It appears to be part of a storage unit, as it is adjacent to metal shelving units inside the closet. Positioned in an indoor setting, likely a residential or office space, near another doorway leading to another room.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/wall-13/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/wall-13/object_in_frame_400.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/wall-13/object_in_frame_403.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/wall-13/object_in_frame_412.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/wall-13/object_in_frame_437.png"
+    ]
+}

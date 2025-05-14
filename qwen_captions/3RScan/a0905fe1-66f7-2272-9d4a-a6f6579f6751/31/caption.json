@@ -1,0 +1,7 @@
+{
+    "caption": "\"A possibly metallic {generic}-type object with a light beige or off-white color and a complex, faceted shape. The structure features multiple angular panels connected by dark lines, suggesting a modular design. Inconclusive evidence for its function, though it may be part of a larger assembly or decorative piece. Seen in an abstract environment with similar objects around, indicating a collection or display setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a0905fe1-66f7-2272-9d4a-a6f6579f6751/31/object_in_frame_000119.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a0905fe1-66f7-2272-9d4a-a6f6579f6751/31/object_in_frame_000118.png"
+    ]
+}

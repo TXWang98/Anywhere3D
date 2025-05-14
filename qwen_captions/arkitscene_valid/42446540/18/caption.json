@@ -1,0 +1,10 @@
+{
+    "caption": "### Image 1:\n\"A possibly metallic tool-type object with a dark color and elongated shape. Angular grooves and ridges suggest specialized functionality. Inconclusive evidence for exact purpose, but likely used for mechanical tasks. Seen in a living room environment near furniture.\"\n\n---\n\n### Image 2:\n\"A stainless steel gas stove with a reflective surface and rectangular shape. Features multiple burners and control knobs. Designed for cooking purposes. Positioned on a kitchen countertop with tiled backsplash.\"\n\n---\n\n### Image 3:\n\"A stainless steel oven with a glossy finish and rectangular shape. Has a door with a glass panel and handle. Used for baking and roasting. Located below the stovetop in a kitchen setting.\"\n\n---\n\n### Image 4:\n\"A stainless steel oven with a glossy finish and rectangular shape. Has a door with a glass panel and handle. Used for baking and roasting. Located below the stovetop in a kitchen setting.\"\n\n---\n\n### Image 5:\n\"A possibly fabric-covered chair with a patterned design and cushioned seat. The tapered rim suggests it is designed for comfort. Likely used for seating. Found in a dining area surrounded by other chairs and a table.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/18/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/18/object_in_frame_677.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/18/object_in_frame_685.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/18/object_in_frame_723.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/18/object_in_frame_251.png"
+    ]
+}

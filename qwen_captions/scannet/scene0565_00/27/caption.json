@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic scanner with a dark gray and white color scheme. Rectangular shape with a flat top surface and visible buttons. The presence of a blue light suggests it is powered on. Likely used for digitizing documents or images. Positioned on a desk next to a computer monitor, keyboard, and other office supplies in a cluttered workspace environment.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0565_00/scanner-27/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0565_00/scanner-27/object_in_frame_524.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0565_00/scanner-27/object_in_frame_145.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0565_00/scanner-27/object_in_frame_585.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0565_00/scanner-27/object_in_frame_554.png"
+    ]
+}

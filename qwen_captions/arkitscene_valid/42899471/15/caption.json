@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic possibly mug-type object with a light beige color and cylindrical shape. The tapered rim suggests it is designed for drinking. It appears to have a smooth texture. Likely used for serving beverages. Placed on the kitchen counter near a sink and other kitchen items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899471/15/object_in_frame_529.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899471/15/object_in_frame_884.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899471/15/object_in_frame_526.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899471/15/object_in_frame_876.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899471/15/object_in_frame_520.png"
+    ]
+}

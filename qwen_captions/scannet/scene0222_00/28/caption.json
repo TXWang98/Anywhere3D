@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic sliding door with a neutral beige color and rectangular shape. Features horizontal blinds covering the glass panels. Likely used for room partitioning or access to an outdoor area. Positioned adjacent to a bed with blue bedding and near a wooden nightstand with various items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/window-28/object_in_frame_2862.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/window-28/object_in_frame_2853.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/window-28/object_in_frame_2421.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/window-28/object_in_frame_2394.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/window-28/object_in_frame_2889.png"
+    ]
+}

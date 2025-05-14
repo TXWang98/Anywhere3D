@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a light brown color and rectangular shape. The structure appears to have a woven texture, suggesting it might be a basket or bin. Its function is likely for storage or carrying items. It is placed on top of a stack of various objects in what seems to be a cluttered storage area, surrounded by boxes and other miscellaneous items. Inconclusive evidence for its exact purpose due to the surrounding disarray.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/cabinet-0/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/cabinet-0/object_in_frame_610.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/cabinet-0/object_in_frame_614.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/cabinet-0/object_in_frame_1078.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/cabinet-0/object_in_frame_1120.png"
+    ]
+}

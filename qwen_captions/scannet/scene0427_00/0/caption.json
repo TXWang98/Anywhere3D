@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic trash can with a light gray interior and dark gray exterior. Rectangular shape with a slightly tapered opening. The presence of a liner suggests it's designed for waste disposal. Positioned near an office chair and a door, indicating placement in a workspace environment.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0427_00/trash can-0/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0427_00/trash can-0/object_in_frame_350.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0427_00/trash can-0/object_in_frame_1012.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0427_00/trash can-0/object_in_frame_316.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0427_00/trash can-0/object_in_frame_340.png"
+    ]
+}

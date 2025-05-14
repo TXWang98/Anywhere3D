@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric-covered bed with light blue and white patterns. Rectangular shape with a slightly raised headboard. Features a soft, textured blanket draped over it. Likely used for sleeping or resting. Positioned against a wall in a bedroom setting, near a wooden nightstand and dresser.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898581/2/object_in_frame_1920.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898581/2/object_in_frame_702.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898581/2/object_in_frame_746.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898581/2/object_in_frame_769.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898581/2/object_in_frame_691.png"
+    ]
+}

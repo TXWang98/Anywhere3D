@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly drawer-type object with a silver finish and rectangular shape. Features a simple handle and smooth surface texture. Likely used for storage purposes. Positioned below a countertop in a kitchen setting, adjacent to other cabinetry and appliances.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898811/5/object_in_frame_689.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898811/5/object_in_frame_698.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898811/5/object_in_frame_705.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898811/5/object_in_frame_648.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898811/5/object_in_frame_695.png"
+    ]
+}

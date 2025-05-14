@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic floor lamp with a sleek silver finish and cylindrical shape. The tapered rim suggests it is designed for directing light downwards. Likely used for ambient or task lighting in a room. Positioned near storage boxes and a clothing rack, indicating placement in a utility or living space.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0256_00/stand-13/object_in_frame_742.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0256_00/stand-13/object_in_frame_756.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0256_00/stand-13/object_in_frame_732.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0256_00/stand-13/object_in_frame_344.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0256_00/stand-13/object_in_frame_760.png"
+    ]
+}

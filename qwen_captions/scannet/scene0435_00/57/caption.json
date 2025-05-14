@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic container-type object with a dark color and cylindrical shape. The tapered rim suggests it could be a cup or small vase. While resembling a decorative item, the presence of what appears to be a handle hints at functional use. Inconclusive evidence for its exact purpose. Found on a desk near a lamp and framed artwork, suggesting an indoor setting like an office or study area.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/picture-57/object_in_frame_1625.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/picture-57/object_in_frame_410.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/picture-57/object_in_frame_400.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/picture-57/object_in_frame_395.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/picture-57/object_in_frame_1600.png"
+    ]
+}

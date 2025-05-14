@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with light gray coloring and a rounded, tapered shape. The textured interior suggests it may be designed for holding or washing items. Its placement inside the sink indicates it might be used for cleaning purposes. Seen in a kitchen environment near a faucet and other household items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662970/8/object_in_frame_593.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662970/8/object_in_frame_633.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662970/8/object_in_frame_491.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662970/8/object_in_frame_514.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662970/8/object_in_frame_494.png"
+    ]
+}

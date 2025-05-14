@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric cushion-type object with a neutral gray tone and rectangular shape. Appears to have a soft texture and is part of a larger sofa structure. Likely used for seating comfort. Positioned on a couch in a living room setting, near a patterned tablecloth and other household items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/30/object_in_frame_000054.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/30/object_in_frame_000106.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/30/object_in_frame_000127.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/30/object_in_frame_000067.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/30/object_in_frame_000176.png"
+    ]
+}

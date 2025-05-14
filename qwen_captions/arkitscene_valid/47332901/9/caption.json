@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden possibly container-type object with light brown coloring and rectangular shape. Features a simple flat surface and vertical edges. Likely used for storage or as part of furniture. Positioned above a kitchen counter, near a stove with pots and pans.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332901/9/object_in_frame_193.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332901/9/object_in_frame_510.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332901/9/object_in_frame_513.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332901/9/object_in_frame_190.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332901/9/object_in_frame_505.png"
+    ]
+}

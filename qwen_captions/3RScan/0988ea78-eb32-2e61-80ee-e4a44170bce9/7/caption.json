@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly fabric towel with muted gray and green coloring. Rectangular shape with visible folds and hanging loops. Likely used for drying hands or body. Positioned on a bathroom wall near a toilet paper holder.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/7/object_in_frame_000260.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/7/object_in_frame_000259.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/7/object_in_frame_000258.png"
+    ]
+}

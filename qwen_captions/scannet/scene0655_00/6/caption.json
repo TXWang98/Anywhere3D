@@ -1,0 +1,10 @@
+{
+    "caption": "\"A plastic chair with bright yellow coloring and a contoured shape. Features armrests and a textured seat for comfort. Designed for seating in office or classroom settings. Positioned against a wall near other chairs, suggesting a meeting or educational environment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0655_00/office chair-6/object_in_frame_270.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0655_00/office chair-6/object_in_frame_233.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0655_00/office chair-6/object_in_frame_257.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0655_00/office chair-6/object_in_frame_261.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0655_00/office chair-6/object_in_frame_289.png"
+    ]
+}

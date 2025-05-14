@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic chair with black coloring and a rectangular backrest. The structure includes armrests and a cushioned seat. Likely designed for seating in an office or classroom setting. Positioned near other chairs and tables in a meeting room environment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/chair-8/object_in_frame_1884.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/chair-8/object_in_frame_1932.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/chair-8/object_in_frame_1844.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/chair-8/object_in_frame_708.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/chair-8/object_in_frame_856.png"
+    ]
+}

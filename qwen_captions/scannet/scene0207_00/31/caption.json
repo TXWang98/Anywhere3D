@@ -1,0 +1,10 @@
+{
+    "caption": "1. **Image 1 and Image 3**:  \n\"A metallic possibly mug with a silver finish and cylindrical shape. The tapered rim suggests it is designed for drinking. Likely made for holding beverages. Positioned on a cluttered table alongside other kitchen items.\"\n\n2. **Image 2 and Image 5**:  \n\"A dark-colored possibly container-type object with an indistinct shape. Inconclusive evidence for its function, but it appears to be small and handheld. Found near a chair in a living room setting with clothing and furniture around.\"\n\n3. **Image 4**:  \n\"A translucent possibly plastic container with a light color and rectangular shape. Appears to have a lid or cover. Likely used for storage. Placed on a desk surrounded by office supplies and a laptop.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/shoes-31/object_in_frame_1392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/shoes-31/object_in_frame_225.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/shoes-31/object_in_frame_1386.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/shoes-31/object_in_frame_153.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/shoes-31/object_in_frame_216.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden door with a light brown color and rectangular shape. The surface appears smooth with vertical paneling. Likely functions as an entrance or exit. Positioned in a corner of a room, adjacent to a white wall and near a sink and soap dispenser.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/wall-17/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/wall-17/object_in_frame_610.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/wall-17/object_in_frame_644.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/wall-17/object_in_frame_562.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/wall-17/object_in_frame_522.png"
+    ]
+}

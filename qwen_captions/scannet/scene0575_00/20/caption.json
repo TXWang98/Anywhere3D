@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic tool-type object with a silver color and cylindrical shape. The tapered rim suggests it could be a specialized component or connector. Inconclusive evidence for its exact function, but it may relate to audio-visual equipment. Positioned on the edge of a mounted screen in a conference room setting, near cables and a control panel.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/camera-20/object_in_frame_1884.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/camera-20/object_in_frame_460.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/camera-20/object_in_frame_300.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/camera-20/object_in_frame_292.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/camera-20/object_in_frame_444.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A matte concrete coffee table with a light gray color and rectangular shape. Has a flat surface and simple, sturdy legs. Serves as a central piece for placing items. Positioned between two brown leather sofas in a living room setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/coffee table-9/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/coffee table-9/object_in_frame_92.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/coffee table-9/object_in_frame_1124.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/coffee table-9/object_in_frame_1110.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/coffee table-9/object_in_frame_634.png"
+    ]
+}

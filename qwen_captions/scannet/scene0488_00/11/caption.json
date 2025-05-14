@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy ceramic dishwasher with a white and rectangular shape. Has a control panel on the front and a slightly protruding door handle. Designed for cleaning dishes efficiently. Positioned under the countertop between cabinets in a kitchen setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0488_00/kitchen counter-11/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0488_00/kitchen counter-11/object_in_frame_524.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0488_00/kitchen counter-11/object_in_frame_88.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0488_00/kitchen counter-11/object_in_frame_23.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0488_00/kitchen counter-11/object_in_frame_22.png"
+    ]
+}

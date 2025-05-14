@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden bookshelf with a dark brown finish and rectangular shape. Has multiple shelves filled with books of varying sizes and colors. Likely used for storing educational materials. Positioned against the wall near a chalkboard in a classroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/bookshelf-19/object_in_frame_1884.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/bookshelf-19/object_in_frame_512.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/bookshelf-19/object_in_frame_2080.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/bookshelf-19/object_in_frame_1824.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/bookshelf-19/object_in_frame_2088.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic stand-type object with a dark finish and rectangular shape. Has a flat base and vertical support structure. Likely used for holding signs or displays. Positioned near a signboard that reads 'Madrid High Performance Center' on a tiled floor.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/6bde608b-9162-246f-8d16-901b429b2563/9/object_in_frame_000066.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/6bde608b-9162-246f-8d16-901b429b2563/9/object_in_frame_000068.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/6bde608b-9162-246f-8d16-901b429b2563/9/object_in_frame_000075.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/6bde608b-9162-246f-8d16-901b429b2563/9/object_in_frame_000067.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/6bde608b-9162-246f-8d16-901b429b2563/9/object_in_frame_000069.png"
+    ]
+}

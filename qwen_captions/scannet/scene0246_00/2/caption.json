@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric chandelier with white and spherical shape. Features numerous radiating petal-like structures creating a textured appearance. Likely designed for ambient lighting in residential spaces. Positioned above a bed in a bedroom setting, surrounded by furniture like a nightstand and wardrobe.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/light-2/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/light-2/object_in_frame_36.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/light-2/object_in_frame_92.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/light-2/object_in_frame_76.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/light-2/object_in_frame_64.png"
+    ]
+}

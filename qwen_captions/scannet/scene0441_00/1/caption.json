@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic door with a white surface and rectangular shape. Has a simple latch mechanism and a small hook. Likely serves as an entrance or exit. Positioned in a tiled room, adjacent to a trash bin and near a wall-mounted dispenser.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0441_00/wall-1/object_in_frame_270.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0441_00/wall-1/object_in_frame_312.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0441_00/wall-1/object_in_frame_295.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0441_00/wall-1/object_in_frame_380.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0441_00/wall-1/object_in_frame_298.png"
+    ]
+}

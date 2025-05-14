@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden {generic}-type object with a dark brown color and rectangular shape. The tapered rim suggests it might be a piece of furniture, potentially a cabinet or shelving unit. It has vertical lines that could indicate doors or drawers. Its function is unclear but may serve as storage. Positioned in a bedroom setting near a bed and window.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069046/3/object_in_frame_1177.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069046/3/object_in_frame_1150.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069046/3/object_in_frame_1178.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069046/3/object_in_frame_1115.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069046/3/object_in_frame_1153.png"
+    ]
+}

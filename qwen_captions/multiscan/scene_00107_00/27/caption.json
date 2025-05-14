@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy black possibly electric toothbrush with a sleek and ergonomic shape. The tapered handle suggests ease of grip. Likely used for oral hygiene. Positioned on a bathroom countertop near other personal care items like a soap dispenser and glass cup.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/27/object_in_frame_10541.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/27/object_in_frame_236.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/27/object_in_frame_559.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/27/object_in_frame_10649.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/27/object_in_frame_214.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white plastic chair with a simple design and five-star base. The seat and backrest are smooth and rounded, providing basic ergonomic support. Likely used for seating at desks or tables. Positioned under a wooden desk in an office-like setting, surrounded by typical workspace items like a printer and storage containers.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445026/5/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445026/5/object_in_frame_465.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445026/5/object_in_frame_183.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445026/5/object_in_frame_499.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445026/5/object_in_frame_189.png"
+    ]
+}

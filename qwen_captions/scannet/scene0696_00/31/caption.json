@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic {generic}-type object with dark coloring and rectangular shape. Appears to have a smooth surface and vertical ridges. Inconclusive evidence for its function, but it may be part of an electronic device or storage unit. Positioned on top of a wooden cabinet in a cluttered room filled with various items like books, papers, and household objects.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/object-31/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/object-31/object_in_frame_482.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/object-31/object_in_frame_540.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/object-31/object_in_frame_562.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/object-31/object_in_frame_554.png"
+    ]
+}

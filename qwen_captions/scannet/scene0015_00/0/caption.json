@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic container-type object with a silver and translucent appearance. Cylindrical shape with a slightly tapered rim suggests it could be a small cup or canister. The smooth surface reflects light, indicating a polished finish. Likely used for holding small items or beverages. Positioned on a wooden table in a meeting room setting, surrounded by chairs and other tables.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/chair-0/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/chair-0/object_in_frame_1761.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/chair-0/object_in_frame_108.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/chair-0/object_in_frame_1005.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/chair-0/object_in_frame_1764.png"
+    ]
+}

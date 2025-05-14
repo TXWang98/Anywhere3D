@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly glass vase-type object with dark, reflective coloring and a cylindrical shape. The tapered rim suggests it may be designed for holding flowers or decorative purposes. While resembling a vase, the presence of what appears to be a black cable inside introduces ambiguity about its function. Inconclusive evidence for its use as a purely decorative item. Found on a wooden table surrounded by various objects like boxes and tools in a workshop-like setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261142/10/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261142/10/object_in_frame_336.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261142/10/object_in_frame_338.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261142/10/object_in_frame_344.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261142/10/object_in_frame_298.png"
+    ]
+}

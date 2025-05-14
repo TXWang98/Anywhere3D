@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly fabric-type object with dark coloring and irregular shape. Appears crumpled and lacks distinct structural features. Function is unclear but may be clothing or a bag. Located near a wooden door and tiled floor, partially obscured by other items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3df5-45a5-2e80-82c1-b108dc9a3fbe/22/object_in_frame_000149.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3df5-45a5-2e80-82c1-b108dc9a3fbe/22/object_in_frame_000029.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3df5-45a5-2e80-82c1-b108dc9a3fbe/22/object_in_frame_000161.png"
+    ]
+}

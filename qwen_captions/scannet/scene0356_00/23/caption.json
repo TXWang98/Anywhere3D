@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly wooden door with a brown color and rectangular shape. The structure appears solid with no visible handles or locks from this angle. Inconclusive evidence for its function, but likely serves as an entrance or exit. Positioned adjacent to a light-colored wall and near a drawer unit in what seems to be an indoor setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0356_00/door-23/object_in_frame_534.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0356_00/door-23/object_in_frame_570.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0356_00/door-23/object_in_frame_540.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0356_00/door-23/object_in_frame_536.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0356_00/door-23/object_in_frame_592.png"
+    ]
+}

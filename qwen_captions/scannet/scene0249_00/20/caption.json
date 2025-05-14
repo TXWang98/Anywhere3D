@@ -1,0 +1,10 @@
+{
+    "caption": "A translucent plastic trash can with a white interior and cylindrical shape. The smooth surface and open top suggest it is designed for waste disposal. Positioned under a desk in an office setting, near other furniture like chairs and tables.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/wall-20/object_in_frame_32.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/wall-20/object_in_frame_1968.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/wall-20/object_in_frame_1964.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/wall-20/object_in_frame_44.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/wall-20/object_in_frame_1972.png"
+    ]
+}

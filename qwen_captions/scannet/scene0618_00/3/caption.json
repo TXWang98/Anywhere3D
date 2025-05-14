@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly stool-type object with a light brown seat and cylindrical shape. Features a single central leg with a circular base for stability. Likely designed for seating at elevated surfaces like bars or counters. Positioned near a pool table in a recreational room setting, alongside other similar stools around a small round table.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0618_00/chair-3/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0618_00/chair-3/object_in_frame_187.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0618_00/chair-3/object_in_frame_150.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0618_00/chair-3/object_in_frame_238.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0618_00/chair-3/object_in_frame_203.png"
+    ]
+}

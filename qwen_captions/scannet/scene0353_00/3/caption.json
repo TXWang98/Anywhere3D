@@ -1,0 +1,10 @@
+{
+    "caption": "A black office chair with a dark fabric and ergonomic shape. Features armrests, a cushioned seat, and a backrest with adjustable height. Designed for prolonged sitting comfort. Positioned in front of a cluttered desk with various items like laptops and headphones around it.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/chair-3/object_in_frame_740.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/chair-3/object_in_frame_788.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/chair-3/object_in_frame_732.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/chair-3/object_in_frame_2212.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/chair-3/object_in_frame_768.png"
+    ]
+}

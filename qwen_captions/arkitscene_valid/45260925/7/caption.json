@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic vase-type object with a light green hue and a cylindrical shape. The tapered rim suggests it may be designed for holding flowers or decorative purposes. While resembling a vase, the presence of a small opening at the top hints at potential functional affordances like pouring or serving. It is placed on a mantelpiece alongside other decorative items such as framed pictures and a lamp, contributing to an elegant living room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260925/7/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260925/7/object_in_frame_72.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260925/7/object_in_frame_88.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260925/7/object_in_frame_68.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260925/7/object_in_frame_411.png"
+    ]
+}

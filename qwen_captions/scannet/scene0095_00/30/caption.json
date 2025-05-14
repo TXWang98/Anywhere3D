@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden chair with a light brown finish and a simple, ergonomic design. The chair has a slightly curved backrest and a flat seat. It is designed for comfortable seating at a desk. Positioned along a row of desks in what appears to be a computer lab or classroom setting, surrounded by other similar chairs and desktop computers.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0095_00/chair-30/object_in_frame_898.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0095_00/chair-30/object_in_frame_886.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0095_00/chair-30/object_in_frame_660.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0095_00/chair-30/object_in_frame_562.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0095_00/chair-30/object_in_frame_554.png"
+    ]
+}

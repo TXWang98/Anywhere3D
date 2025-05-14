@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric-covered cushion-type object with a muted gray and white pattern. Square shape with visible seams and soft texture. Likely used for seating or decoration. Placed on the floor near a wicker plant stand, radiator, and books in a cozy indoor setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/3/object_in_frame_549.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/3/object_in_frame_548.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/3/object_in_frame_543.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/3/object_in_frame_539.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/3/object_in_frame_554.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly ceramic soap dispenser with a white and translucent appearance. The tapered rim suggests it is designed for dispensing liquid. Its cylindrical shape and smooth texture indicate a functional design for easy cleaning. Likely used for holding hand soap or lotion. Positioned on the bathroom sink, near the faucet and other toiletries.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/object-33/object_in_frame_864.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/object-33/object_in_frame_1484.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/object-33/object_in_frame_1564.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/object-33/object_in_frame_1632.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/object-33/object_in_frame_1628.png"
+    ]
+}

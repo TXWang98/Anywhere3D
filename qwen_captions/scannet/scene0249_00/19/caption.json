@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic trash can with a light gray color and cylindrical shape. Has a simple, smooth surface with no visible structural features. Likely used for waste disposal. Positioned near the corner of a room with chairs and tables arranged in a meeting setup.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/wall-19/object_in_frame_404.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/wall-19/object_in_frame_460.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/wall-19/object_in_frame_436.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/wall-19/object_in_frame_440.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/wall-19/object_in_frame_412.png"
+    ]
+}

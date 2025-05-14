@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric pillow with dark coloring and rectangular shape. Appears soft and plush with no visible structural features. Likely used for comfort or decoration. Positioned on a bed alongside other pillows and bedding in a bedroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7633-8d6f-2d13-8e91-8b46e2b70f34/43/object_in_frame_000216.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7633-8d6f-2d13-8e91-8b46e2b70f34/43/object_in_frame_000215.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7633-8d6f-2d13-8e91-8b46e2b70f34/43/object_in_frame_000209.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7633-8d6f-2d13-8e91-8b46e2b70f34/43/object_in_frame_000175.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7633-8d6f-2d13-8e91-8b46e2b70f34/43/object_in_frame_000226.png"
+    ]
+}

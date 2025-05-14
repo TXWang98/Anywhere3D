@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden possibly cabinet-type object with dark brown coloring and rectangular shape. Features vertical panels and silver handles. Likely used for storage. Positioned above a kitchen counter with various items like jars, bottles, and appliances nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0149_00/kitchen cabinet-25/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0149_00/kitchen cabinet-25/object_in_frame_326.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0149_00/kitchen cabinet-25/object_in_frame_362.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0149_00/kitchen cabinet-25/object_in_frame_320.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0149_00/kitchen cabinet-25/object_in_frame_358.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly glass speaker-type object with a translucent dome and black base. The tapered rim suggests it is designed for audio output. Likely functions as a smart speaker or sound system. Positioned on a wooden table in a modern living room setting, near chairs and a patterned carpet.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/14/object_in_frame_14097.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/14/object_in_frame_15626.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/14/object_in_frame_14045.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/14/object_in_frame_15678.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/14/object_in_frame_15574.png"
+    ]
+}

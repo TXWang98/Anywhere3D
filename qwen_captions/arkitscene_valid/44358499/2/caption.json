@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden table with a light brown color and rectangular shape. The structure includes a flat top surface supported by four legs. Likely used for placing items or as a decorative piece. Positioned in a living room setting near a sofa, with no other objects directly on it.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/2/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/2/object_in_frame_156.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/2/object_in_frame_385.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/2/object_in_frame_388.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/2/object_in_frame_162.png"
+    ]
+}

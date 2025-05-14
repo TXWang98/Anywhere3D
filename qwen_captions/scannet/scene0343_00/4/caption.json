@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy paper price tag with yellow coloring and rectangular shape. Displays black text on a bright background. Likely used for product pricing information. Positioned above utility carts in a retail display area.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0343_00/sign-4/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0343_00/sign-4/object_in_frame_460.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0343_00/sign-4/object_in_frame_414.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0343_00/sign-4/object_in_frame_432.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0343_00/sign-4/object_in_frame_418.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A cardboard box with white and blue coloring and a rectangular shape. Features printed text and images on its surface. Likely used for packaging and storage. Positioned against a wall in a room, near a table with various items like a water bottle and a bag.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/hamper-19/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/hamper-19/object_in_frame_1122.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/hamper-19/object_in_frame_891.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/hamper-19/object_in_frame_771.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/hamper-19/object_in_frame_813.png"
+    ]
+}

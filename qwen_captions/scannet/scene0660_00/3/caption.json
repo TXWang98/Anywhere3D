@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic chair with a dark color and rounded shape. Has a smooth, cushioned seat and backrest with visible contours. Likely designed for seating comfort. Positioned under a table in what appears to be an office or meeting room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0660_00/chair-3/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0660_00/chair-3/object_in_frame_319.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0660_00/chair-3/object_in_frame_597.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0660_00/chair-3/object_in_frame_376.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0660_00/chair-3/object_in_frame_579.png"
+    ]
+}

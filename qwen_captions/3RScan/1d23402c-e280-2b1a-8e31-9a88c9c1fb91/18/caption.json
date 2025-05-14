@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric lampshade with beige coloring and a cylindrical shape. The tapered rim suggests it is designed to diffuse light evenly. It appears to be attached to a vertical pole, likely part of a floor lamp. Positioned in a corner against patterned wallpaper, creating a warm ambiance.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d23402c-e280-2b1a-8e31-9a88c9c1fb91/18/object_in_frame_000081.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d23402c-e280-2b1a-8e31-9a88c9c1fb91/18/object_in_frame_000084.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d23402c-e280-2b1a-8e31-9a88c9c1fb91/18/object_in_frame_000079.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d23402c-e280-2b1a-8e31-9a88c9c1fb91/18/object_in_frame_000082.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d23402c-e280-2b1a-8e31-9a88c9c1fb91/18/object_in_frame_000080.png"
+    ]
+}

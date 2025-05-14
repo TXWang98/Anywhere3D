@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic container-type object with a reddish hue and rectangular shape. The tapered rim suggests it may be used for storage or as a decorative piece. Its placement on the kitchen counter, near other containers and appliances, indicates a functional role in the kitchen environment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/19/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/19/object_in_frame_206.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/19/object_in_frame_614.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/19/object_in_frame_226.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/19/object_in_frame_264.png"
+    ]
+}

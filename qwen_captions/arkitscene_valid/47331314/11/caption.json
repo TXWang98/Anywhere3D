@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic exercise bike seat with black coloring and ergonomic shape. The tapered rim suggests it is designed for comfort during workouts. Attached to the frame of an exercise bike, indicating its function as a seating component. Positioned in a home environment near a couch and framed pictures on the wall.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331314/11/object_in_frame_480.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331314/11/object_in_frame_439.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331314/11/object_in_frame_479.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331314/11/object_in_frame_455.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331314/11/object_in_frame_453.png"
+    ]
+}

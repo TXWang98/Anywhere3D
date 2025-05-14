@@ -1,0 +1,10 @@
+{
+    "caption": "\"A soft fabric bed with white and light blue striped bedding. The rectangular shape features a flat surface with slightly raised edges. Likely designed for sleeping or resting. Positioned centrally in the room, surrounded by pillows and a bedside table with various items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0652_00/bed-0/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0652_00/bed-0/object_in_frame_482.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0652_00/bed-0/object_in_frame_540.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0652_00/bed-0/object_in_frame_412.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0652_00/bed-0/object_in_frame_424.png"
+    ]
+}

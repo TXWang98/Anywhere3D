@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly vending machine with a dark and reflective surface. Rectangular shape with multiple compartments and illuminated display. Likely for dispensing snacks and beverages. Positioned against the wall in a laundry room setting, near washing machines and storage bins.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/vending machine-34/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/vending machine-34/object_in_frame_1752.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/vending machine-34/object_in_frame_500.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/vending machine-34/object_in_frame_440.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/vending machine-34/object_in_frame_1724.png"
+    ]
+}

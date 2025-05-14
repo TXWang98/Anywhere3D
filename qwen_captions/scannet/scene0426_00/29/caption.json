@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric pillow with light gray coloring and rectangular shape. Appears soft and slightly textured. Likely used for head support during sleep. Positioned against a beige wall, resting on a bed with a brown cushion and white bedding.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/wall-29/object_in_frame_1047.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/wall-29/object_in_frame_1062.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/wall-29/object_in_frame_1041.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/wall-29/object_in_frame_1056.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/wall-29/object_in_frame_1068.png"
+    ]
+}

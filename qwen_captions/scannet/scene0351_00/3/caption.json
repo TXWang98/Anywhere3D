@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric office chair with dark blue upholstery and a structured, ergonomic design. Features adjustable armrests and a cushioned seat. Designed for prolonged sitting comfort. Positioned near a desk cluttered with books, papers, and computer peripherals in an office setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0351_00/chair-3/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0351_00/chair-3/object_in_frame_1018.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0351_00/chair-3/object_in_frame_1010.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0351_00/chair-3/object_in_frame_44.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0351_00/chair-3/object_in_frame_26.png"
+    ]
+}

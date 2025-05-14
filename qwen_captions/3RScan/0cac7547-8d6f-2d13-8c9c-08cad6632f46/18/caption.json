@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly leather booth-type object with a rich brown color and rectangular shape. The padded surface and backrest suggest seating comfort. Likely designed for dining or lounging. Positioned along the wall in what appears to be a restaurant setting, surrounded by tables and chairs.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/18/object_in_frame_000298.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/18/object_in_frame_000297.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/18/object_in_frame_000223.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/18/object_in_frame_000225.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/18/object_in_frame_000258.png"
+    ]
+}

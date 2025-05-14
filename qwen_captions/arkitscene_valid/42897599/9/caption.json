@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly rice cooker with a brushed silver finish and cylindrical shape. The tapered rim suggests it is designed for easy serving. It has a digital control panel and a lid that likely seals the contents. Positioned on a kitchen countertop near other appliances like a microwave and oven, indicating its use in meal preparation.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/9/object_in_frame_1270.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/9/object_in_frame_1136.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/9/object_in_frame_1355.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/9/object_in_frame_1368.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/9/object_in_frame_1290.png"
+    ]
+}

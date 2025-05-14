@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy black leather office chair with a dark brown hue and ergonomic shape. Features padded armrests, a cushioned seat, and a five-point base with wheels. Designed for comfortable seating during work sessions. Positioned around a wooden conference table in a professional setting, alongside other chairs and computer equipment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0314_00/table-6/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0314_00/table-6/object_in_frame_460.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0314_00/table-6/object_in_frame_177.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0314_00/table-6/object_in_frame_447.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0314_00/table-6/object_in_frame_443.png"
+    ]
+}

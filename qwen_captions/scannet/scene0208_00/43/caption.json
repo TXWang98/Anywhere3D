@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly paper sign-type object with white coloring and rectangular shape. Appears to have printed text, though details are unclear. Likely serves as a label or informational marker. Positioned on a bookshelf amidst various books and board games in what seems to be a library or game store setting. Inconclusive evidence for its exact purpose due to the lack of visible text.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-43/object_in_frame_867.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-43/object_in_frame_834.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-43/object_in_frame_840.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-43/object_in_frame_849.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-43/object_in_frame_837.png"
+    ]
+}

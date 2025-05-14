@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly wooden coffee table with a light beige surface and rectangular shape. The edges appear smooth, and the structure includes visible legs supporting the tabletop. Likely serves as a central piece for placing items or drinks. Positioned in a living room setting between two armchairs, with a patterned carpet underneath.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0690_00/coffee table-12/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0690_00/coffee table-12/object_in_frame_187.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0690_00/coffee table-12/object_in_frame_157.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0690_00/coffee table-12/object_in_frame_166.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0690_00/coffee table-12/object_in_frame_162.png"
+    ]
+}

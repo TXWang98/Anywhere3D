@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with translucent blue coloring and a rounded rectangular shape. The tapered rim suggests it might be designed for easy pouring or access. Its function is inconclusive, but it could be used for storage or waste disposal. Found under a desk in an office setting, near other furniture like chairs and tables.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/wall-2/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/wall-2/object_in_frame_58.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/wall-2/object_in_frame_71.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/wall-2/object_in_frame_53.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/wall-2/object_in_frame_64.png"
+    ]
+}

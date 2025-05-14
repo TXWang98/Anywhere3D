@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly upholstered armchair with red cushioning and a rounded backrest. Features ornate wooden frame with curved armrests and tapered legs. Likely designed for seating comfort. Positioned against a tiled wall, adjacent to another similar chair.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d233ff0-e280-2b1a-8c10-2af29c344ee3/11/object_in_frame_000117.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d233ff0-e280-2b1a-8c10-2af29c344ee3/11/object_in_frame_000128.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d233ff0-e280-2b1a-8c10-2af29c344ee3/11/object_in_frame_000122.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d233ff0-e280-2b1a-8c10-2af29c344ee3/11/object_in_frame_000203.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d233ff0-e280-2b1a-8c10-2af29c344ee3/11/object_in_frame_000124.png"
+    ]
+}

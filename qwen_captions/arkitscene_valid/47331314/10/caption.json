@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden possibly door-type object with a medium brown color and rectangular shape. Features vertical grooves and a smooth surface texture. Likely serves as an entrance or storage compartment. Positioned in an indoor setting, adjacent to other similar panels.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331314/10/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331314/10/object_in_frame_58.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331314/10/object_in_frame_74.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331314/10/object_in_frame_76.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331314/10/object_in_frame_73.png"
+    ]
+}

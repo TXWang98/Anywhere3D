@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric pillow with striped blue and yellow coloring and rectangular shape. Appears soft and cushioned. Likely used for head support during sleep. Positioned on a bed with a green checkered bedspread, near a wooden nightstand with various items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/20/object_in_frame_5868.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/20/object_in_frame_6591.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/20/object_in_frame_5972.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/20/object_in_frame_5920.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/20/object_in_frame_1033.png"
+    ]
+}

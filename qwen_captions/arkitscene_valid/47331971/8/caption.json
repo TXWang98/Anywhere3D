@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic container-type object with a reddish hue and cylindrical shape. The tapered rim suggests it might be a small vase or candle holder. Its smooth texture and compact size indicate it could serve decorative purposes. Placed on a fireplace mantel alongside other ornaments, contributing to the room's aesthetic.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/8/object_in_frame_2449.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/8/object_in_frame_2441.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/8/object_in_frame_2435.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/8/object_in_frame_1217.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/8/object_in_frame_1225.png"
+    ]
+}

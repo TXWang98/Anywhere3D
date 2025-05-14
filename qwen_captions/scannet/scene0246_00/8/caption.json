@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden shoe rack with a light brown color and vertical orientation. Has multiple tiers for storing shoes. The structure appears sturdy and designed for efficient space use. Positioned against a wall in an entryway, near framed artwork and a coat hanger.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/wall-8/object_in_frame_2264.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/wall-8/object_in_frame_2248.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/wall-8/object_in_frame_2236.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/wall-8/object_in_frame_2300.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/wall-8/object_in_frame_2228.png"
+    ]
+}

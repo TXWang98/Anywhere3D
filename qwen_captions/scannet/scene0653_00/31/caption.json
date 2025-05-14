@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy black desktop computer with a rectangular shape. The tower has a sleek design with visible ports and buttons on the front panel. Likely used for computing tasks. Positioned on a desk alongside a monitor, keyboard, and mouse in an office setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/monitor-31/object_in_frame_3156.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/monitor-31/object_in_frame_2826.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/monitor-31/object_in_frame_2760.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/monitor-31/object_in_frame_2844.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/monitor-31/object_in_frame_3054.png"
+    ]
+}

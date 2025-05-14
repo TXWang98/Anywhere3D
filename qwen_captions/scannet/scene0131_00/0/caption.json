@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden desk with a light brown finish and rectangular shape. Features multiple compartments and shelves. Serves as a workspace for office tasks. Positioned against a wall with decorative elements like framed pictures and posters nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0131_00/shelf-0/object_in_frame_529.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0131_00/shelf-0/object_in_frame_509.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0131_00/shelf-0/object_in_frame_597.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0131_00/shelf-0/object_in_frame_521.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0131_00/shelf-0/object_in_frame_497.png"
+    ]
+}

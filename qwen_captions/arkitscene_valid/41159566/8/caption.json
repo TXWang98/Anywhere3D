@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic possibly vase-type object with earthy terracotta coloring and cylindrical shape. Has a slightly tapered rim suggesting it could hold flowers or plants. Likely used as a decorative item. Placed on the floor near a wicker basket and surrounded by books and framed pictures in a cozy living room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/8/object_in_frame_1581.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/8/object_in_frame_234.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/8/object_in_frame_687.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/8/object_in_frame_425.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/8/object_in_frame_579.png"
+    ]
+}

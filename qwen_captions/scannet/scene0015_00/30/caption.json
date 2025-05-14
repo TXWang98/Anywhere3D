@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric-covered chair with a blue and white checkered pattern and an ergonomic design. The cushioned seat and backrest suggest comfort for extended sitting. Likely intended for office or meeting room use. Positioned around a table alongside other similar chairs in a professional setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/chair-30/object_in_frame_1794.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/chair-30/object_in_frame_1152.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/chair-30/object_in_frame_1773.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/chair-30/object_in_frame_261.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/chair-30/object_in_frame_1119.png"
+    ]
+}

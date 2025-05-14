@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a light blue color and rectangular shape. The structure appears to have a flat top and sides, suggesting it could be used for storage or display purposes. Inconclusive evidence for its exact function. Found on a wall-mounted shelf alongside other similar containers in what seems to be an office or classroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/wall-1/object_in_frame_1132.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/wall-1/object_in_frame_1122.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/wall-1/object_in_frame_1128.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/wall-1/object_in_frame_1104.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/wall-1/object_in_frame_1108.png"
+    ]
+}

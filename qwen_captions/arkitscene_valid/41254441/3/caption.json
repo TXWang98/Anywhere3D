@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic trash can with a dark gray color and cylindrical shape. Features a foot pedal mechanism for lid opening. Likely used for waste disposal. Positioned near the entrance of a kitchen area, adjacent to wooden cabinets.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254441/3/object_in_frame_932.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254441/3/object_in_frame_621.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254441/3/object_in_frame_601.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254441/3/object_in_frame_623.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254441/3/object_in_frame_729.png"
+    ]
+}

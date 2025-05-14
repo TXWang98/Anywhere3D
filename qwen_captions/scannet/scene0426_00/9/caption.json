@@ -1,0 +1,10 @@
+{
+    "caption": "A black Yonex sports bag with white and green accents, rectangular in shape. Features a prominent brand logo and appears to be made of durable fabric. Likely designed for carrying sports equipment. Positioned on the floor near a chair and other household items, suggesting a casual indoor setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/object-9/object_in_frame_948.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/object-9/object_in_frame_843.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/object-9/object_in_frame_816.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/object-9/object_in_frame_945.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/object-9/object_in_frame_813.png"
+    ]
+}

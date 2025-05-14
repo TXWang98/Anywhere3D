@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden study cubicle with light brown coloring and rectangular shape. Features a flat desk surface, vertical partitions, and an upper shelf. Designed for individual workspaces. Positioned in a row alongside other similar cubicles in a shared office or library setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0665_00/desk-29/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0665_00/desk-29/object_in_frame_353.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0665_00/desk-29/object_in_frame_362.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0665_00/desk-29/object_in_frame_235.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0665_00/desk-29/object_in_frame_298.png"
+    ]
+}

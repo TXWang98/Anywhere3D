@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plush toy-type object with yellow coloring and rounded shape. Soft texture and small size suggest it is a decorative item. Likely intended for aesthetic appeal or as a child's plaything. Placed on the floor near a couch in a living room setting, surrounded by furniture and other household items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204578/2/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204578/2/object_in_frame_178.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204578/2/object_in_frame_55.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204578/2/object_in_frame_104.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204578/2/object_in_frame_110.png"
+    ]
+}

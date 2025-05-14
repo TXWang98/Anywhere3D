@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic stool with orange seating and cylindrical shape. Has a metallic base with supporting legs. Likely used for seating at the table. Positioned near a wall-mounted TV and another similar stool in what appears to be a casual meeting or lounge area.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0647_00/stool-8/object_in_frame_593.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0647_00/stool-8/object_in_frame_571.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0647_00/stool-8/object_in_frame_576.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0647_00/stool-8/object_in_frame_584.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0647_00/stool-8/object_in_frame_592.png"
+    ]
+}

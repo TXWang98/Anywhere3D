@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic tool-type object with a dark color and elongated shape. Angular grooves and ridges suggest a specialized design. Inconclusive evidence for its exact function, but it may be used for mechanical tasks. Found on the floor near a table leg in what appears to be an indoor setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/00d42bed-778d-2ac6-86a7-0e0e5f5f5660/53/object_in_frame_000356.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/00d42bed-778d-2ac6-86a7-0e0e5f5f5660/53/object_in_frame_000321.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/00d42bed-778d-2ac6-86a7-0e0e5f5f5660/53/object_in_frame_000355.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/00d42bed-778d-2ac6-86a7-0e0e5f5f5660/53/object_in_frame_000167.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/00d42bed-778d-2ac6-86a7-0e0e5f5f5660/53/object_in_frame_000320.png"
+    ]
+}

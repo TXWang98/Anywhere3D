@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic toilet with white coloring and a compact shape. Features a standard tank and bowl design with a closed lid. Used for personal hygiene purposes. Positioned in a bathroom corner, adjacent to tiled walls and a wooden floor.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899699/4/object_in_frame_297.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899699/4/object_in_frame_303.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899699/4/object_in_frame_290.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899699/4/object_in_frame_479.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899699/4/object_in_frame_305.png"
+    ]
+}

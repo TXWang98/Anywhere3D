@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy black laptop with a silver keyboard and rectangular shape. The screen displays a colorful image, suggesting multimedia functionality. Positioned on a wooden table alongside another monitor and office supplies, indicating a workspace setup.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0314_00/lamp-12/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0314_00/lamp-12/object_in_frame_233.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0314_00/lamp-12/object_in_frame_597.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0314_00/lamp-12/object_in_frame_259.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0314_00/lamp-12/object_in_frame_397.png"
+    ]
+}

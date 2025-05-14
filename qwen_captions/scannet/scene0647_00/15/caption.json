@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy black possibly monitor with a rectangular shape. Flat and smooth surface. Likely used for displaying visual content. Mounted on the wall above a small table with orange stools in what appears to be a casual meeting or lounge area.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0647_00/tv-15/object_in_frame_593.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0647_00/tv-15/object_in_frame_595.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0647_00/tv-15/object_in_frame_597.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0647_00/tv-15/object_in_frame_596.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0647_00/tv-15/object_in_frame_594.png"
+    ]
+}

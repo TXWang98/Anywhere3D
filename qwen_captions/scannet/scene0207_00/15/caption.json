@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly cardboard box-type object with a muted brown color and rectangular shape. Appears to have a slightly open lid revealing contents inside. Likely used for storage or transport. Positioned on top of other boxes within a cluttered closet space, surrounded by various household items and clothing. \n\nInconclusive evidence for its exact purpose due to the obscured view of its contents.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/shelf-15/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/shelf-15/object_in_frame_459.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/shelf-15/object_in_frame_474.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/shelf-15/object_in_frame_444.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/shelf-15/object_in_frame_477.png"
+    ]
+}

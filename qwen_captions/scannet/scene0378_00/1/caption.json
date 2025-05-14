@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a light gray color and rectangular shape. The tapered rim suggests it could be a lid or part of a larger assembly. Inconclusive evidence for its specific function, but it appears to be placed on top of a printer in an office setting, surrounded by papers and office supplies.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/cabinet-1/object_in_frame_240.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/cabinet-1/object_in_frame_186.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/cabinet-1/object_in_frame_135.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/cabinet-1/object_in_frame_243.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/cabinet-1/object_in_frame_189.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly showerhead with a silver finish and cylindrical shape. Features a curved arm extending from the wall. Likely designed for directing water flow in a shower. Positioned above a tiled shower area with a glass door, adjacent to a bathtub.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115473/5/object_in_frame_35.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115473/5/object_in_frame_703.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115473/5/object_in_frame_46.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115473/5/object_in_frame_1094.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115473/5/object_in_frame_700.png"
+    ]
+}

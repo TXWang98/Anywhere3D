@@ -1,0 +1,10 @@
+{
+    "caption": "A matte black table with a smooth surface and rectangular shape. The edges are slightly rounded, and the surface appears flat and even. Likely used for meetings or collaborative work. Positioned in a classroom setting surrounded by chairs and near a chalkboard.\n\nConfidence Signals:\n- \"The flat surface and rectangular shape suggest it is designed for writing or placing objects.\"\n- \"While resembling a typical classroom table, the presence of multiple chairs around it indicates its use for group activities.\"\n- \"Inconclusive evidence for specific material properties due to image resolution.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/table-2/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/table-2/object_in_frame_852.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/table-2/object_in_frame_848.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/table-2/object_in_frame_908.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/table-2/object_in_frame_912.png"
+    ]
+}

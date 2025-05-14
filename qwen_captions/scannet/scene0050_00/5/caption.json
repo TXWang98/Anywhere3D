@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy black laptop with a matte silver base and rectangular shape. Features a full keyboard, trackpad, and visible ports. Designed for computing tasks. Positioned on a cluttered desk surrounded by water bottles, a phone, and various office supplies.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/desk-5/object_in_frame_3815.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/desk-5/object_in_frame_3787.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/desk-5/object_in_frame_3871.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/desk-5/object_in_frame_3731.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/desk-5/object_in_frame_2030.png"
+    ]
+}

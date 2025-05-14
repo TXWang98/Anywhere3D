@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly ceramic vase-type object with a light beige and subtle floral pattern. The tapered rim suggests it is designed for holding flowers. While resembling a vase, the presence of water droplets on its surface indicates recent use or cleaning. Likely used as a decorative item in a living space. Found on a kitchen counter near other household items like a coffee maker and jar of beans.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/10/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/10/object_in_frame_72.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/10/object_in_frame_63.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/10/object_in_frame_107.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/10/object_in_frame_121.png"
+    ]
+}

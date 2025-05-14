@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic vase-type object with a pink hue and cylindrical shape. The tapered rim suggests it may be designed for holding flowers or decorative purposes. Inconclusive evidence for its exact function, but it appears to be placed on top of a wooden dresser in a bedroom setting, surrounded by furniture like a bed and chair.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260854/5/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260854/5/object_in_frame_458.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260854/5/object_in_frame_150.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260854/5/object_in_frame_217.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260854/5/object_in_frame_455.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic bottle with white and blue labeling and a rectangular shape. The pump dispenser suggests it is designed for dispensing liquid products. Likely used for personal care or hygiene purposes. Positioned on the bathroom countertop near the sink, alongside other grooming items like brushes and soap dishes.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/bottle-18/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/bottle-18/object_in_frame_30.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/bottle-18/object_in_frame_474.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/bottle-18/object_in_frame_21.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/bottle-18/object_in_frame_48.png"
+    ]
+}

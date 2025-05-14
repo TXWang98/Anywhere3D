@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly kettle-type object with a silver finish and rounded shape. Features a handle and spout, suggesting it is designed for boiling water. Likely used for making tea or coffee. Positioned on a gas stove in a kitchen setting, surrounded by other cookware and utensils.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/4/object_in_frame_824.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/4/object_in_frame_825.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/4/object_in_frame_812.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/4/object_in_frame_881.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/4/object_in_frame_819.png"
+    ]
+}

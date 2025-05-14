@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white ceramic toilet paper holder with a cylindrical shape. Has a smooth surface and a horizontal bar for holding toilet paper rolls. Designed for easy access to toilet paper. Mounted on the wall beside a toilet in a bathroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d233ff0-e280-2b1a-8c10-2af29c344ee3/29/object_in_frame_000227.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d233ff0-e280-2b1a-8c10-2af29c344ee3/29/object_in_frame_000095.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d233ff0-e280-2b1a-8c10-2af29c344ee3/29/object_in_frame_000226.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d233ff0-e280-2b1a-8c10-2af29c344ee3/29/object_in_frame_000063.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d233ff0-e280-2b1a-8c10-2af29c344ee3/29/object_in_frame_000196.png"
+    ]
+}

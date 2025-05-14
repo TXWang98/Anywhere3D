@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly dishwasher with a brushed silver finish and rectangular shape. Features a smooth, flat front panel with horizontal lines. Likely designed for cleaning dishes. Positioned below the countertop in a kitchen setting, adjacent to an oven and stove.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899717/14/object_in_frame_463.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899717/14/object_in_frame_458.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899717/14/object_in_frame_454.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899717/14/object_in_frame_461.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899717/14/object_in_frame_455.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic possibly mug with white and black spotted pattern. Rounded cylindrical shape with a tapered rim suggesting it could be for drinking. Appears to have a handle, though not fully visible. Placed on a table near other household items like coasters and furniture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a0905fe1-66f7-2272-9d4a-a6f6579f6751/27/object_in_frame_000155.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a0905fe1-66f7-2272-9d4a-a6f6579f6751/27/object_in_frame_000169.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a0905fe1-66f7-2272-9d4a-a6f6579f6751/27/object_in_frame_000032.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a0905fe1-66f7-2272-9d4a-a6f6579f6751/27/object_in_frame_000030.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a0905fe1-66f7-2272-9d4a-a6f6579f6751/27/object_in_frame_000033.png"
+    ]
+}

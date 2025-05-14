@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden toy storage unit with a light brown finish and rectangular shape. Features multiple compartments and shelves for organizing toys. Designed for storing and displaying children's playthings. Positioned against the wall in a child's playroom, near a colorful play mat and other toys.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0568_00/shelf-19/object_in_frame_670.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0568_00/shelf-19/object_in_frame_796.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0568_00/shelf-19/object_in_frame_746.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0568_00/shelf-19/object_in_frame_676.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0568_00/shelf-19/object_in_frame_678.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic faucet with a polished chrome finish and a sleek, modern design. Features a single lever handle for controlling water flow and temperature. Positioned above a white ceramic sink in a bathroom setting. Surrounded by typical bathroom items like soap dispensers and a mirror.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/25/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/25/object_in_frame_10465.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/25/object_in_frame_10526.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/25/object_in_frame_153.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/25/object_in_frame_1014.png"
+    ]
+}

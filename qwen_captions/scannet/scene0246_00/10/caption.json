@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white dresser with a smooth surface and rectangular shape. Features multiple drawers with horizontal handles. Designed for storage of clothing or personal items. Positioned against the wall in a bedroom setting, near a bed with pillows and a nightstand with a lamp.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/dresser-10/object_in_frame_84.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/dresser-10/object_in_frame_2124.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/dresser-10/object_in_frame_112.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/dresser-10/object_in_frame_104.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/dresser-10/object_in_frame_504.png"
+    ]
+}

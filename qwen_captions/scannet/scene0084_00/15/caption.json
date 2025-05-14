@@ -1,0 +1,8 @@
+{
+    "caption": "A metallic possibly shower curtain rod with silver coloring and elongated shape. Has a smooth, cylindrical structure with evenly spaced rings for holding the curtain. Functions as a support for hanging a shower curtain. Positioned above the shower area, spanning across the tiled wall.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/ceiling-15/object_in_frame_747.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/ceiling-15/object_in_frame_750.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/ceiling-15/object_in_frame_753.png"
+    ]
+}

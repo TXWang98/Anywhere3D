@@ -1,0 +1,10 @@
+{
+    "caption": "\"A transparent glass window with a reflective surface and rectangular shape. The window has a white frame and is divided into two sections. It allows natural light to enter the building while providing a view of the outside. Positioned on the exterior wall of a house, adjacent to siding panels.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/8/object_in_frame_689.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/8/object_in_frame_703.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/8/object_in_frame_696.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/8/object_in_frame_247.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/8/object_in_frame_636.png"
+    ]
+}

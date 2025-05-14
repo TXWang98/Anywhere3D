@@ -1,0 +1,10 @@
+{
+    "caption": "A cardboard box with brown and green coloring and a rectangular shape. The stacked arrangement suggests multiple boxes of varying sizes. Likely used for storage or shipping purposes. Positioned against a wall near a set of drawers and a chair in an indoor setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0278_00/boxes-7/object_in_frame_404.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0278_00/boxes-7/object_in_frame_415.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0278_00/boxes-7/object_in_frame_394.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0278_00/boxes-7/object_in_frame_380.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0278_00/boxes-7/object_in_frame_375.png"
+    ]
+}

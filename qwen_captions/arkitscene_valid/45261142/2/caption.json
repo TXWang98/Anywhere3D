@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white possibly washing machine with a circular door and rectangular shape. Features control knobs and a digital display panel. Likely used for laundry tasks. Positioned in a living room corner near a green armchair, cushions, and a vase of flowers.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261142/2/object_in_frame_105.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261142/2/object_in_frame_95.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261142/2/object_in_frame_109.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261142/2/object_in_frame_111.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261142/2/object_in_frame_107.png"
+    ]
+}

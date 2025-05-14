@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic lamp-type object with a dark finish and rectangular shape. The tapered rim suggests it could be a shade holder. Its structure appears solid, likely designed for mounting on a wall. While resembling a light fixture, the presence of no visible bulb or wiring makes its function inconclusive. Positioned above an armchair in a cozy living space, near a window with curtains.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/window-42/object_in_frame_854.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/window-42/object_in_frame_833.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/window-42/object_in_frame_721.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/window-42/object_in_frame_945.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/window-42/object_in_frame_637.png"
+    ]
+}

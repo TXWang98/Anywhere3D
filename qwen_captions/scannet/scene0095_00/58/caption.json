@@ -1,0 +1,10 @@
+{
+    "caption": "A whiteboard with a metallic frame and smooth surface. The rectangular shape is flat and expansive, designed for writing or displaying information. Likely used for educational or meeting purposes. Positioned on the wall in an office setting with desks, chairs, and computers nearby.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0095_00/wall-58/object_in_frame_670.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0095_00/wall-58/object_in_frame_600.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0095_00/wall-58/object_in_frame_608.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0095_00/wall-58/object_in_frame_684.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0095_00/wall-58/object_in_frame_592.png"
+    ]
+}

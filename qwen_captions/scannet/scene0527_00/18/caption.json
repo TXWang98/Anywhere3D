@@ -1,0 +1,10 @@
+{
+    "caption": "A framed picture with a white border and rectangular shape. The image within the frame appears to be a photograph or artwork, though details are unclear. Likely serves as wall decor. Mounted on a tiled bathroom wall above a small table holding various items like a jar and papers.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0527_00/picture-18/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0527_00/picture-18/object_in_frame_50.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0527_00/picture-18/object_in_frame_71.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0527_00/picture-18/object_in_frame_97.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0527_00/picture-18/object_in_frame_48.png"
+    ]
+}

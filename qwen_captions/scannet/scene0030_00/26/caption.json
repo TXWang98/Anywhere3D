@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden bookshelf with a dark brown finish and rectangular shape. Has multiple shelves for storage. Likely used for organizing books and documents. Positioned against the wall near a window with blinds, surrounded by stacked papers and folders on a nearby table.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/window-26/object_in_frame_1756.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/window-26/object_in_frame_1792.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/window-26/object_in_frame_1784.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/window-26/object_in_frame_2036.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/window-26/object_in_frame_2032.png"
+    ]
+}

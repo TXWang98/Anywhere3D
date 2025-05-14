@@ -1,0 +1,9 @@
+{
+    "caption": "\"A possibly plastic container-type object with translucent green coloring and cylindrical shape. The tapered rim suggests it may be a cup or small vase. Inconclusive evidence for its exact function, but it could hold liquids or small items. Placed on a windowsill alongside other similar objects in a domestic setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/26/object_in_frame_000050.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/26/object_in_frame_000052.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/26/object_in_frame_000051.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/26/object_in_frame_000053.png"
+    ]
+}

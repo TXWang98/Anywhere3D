@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with blue and yellow coloring. Irregular shape with a coiled structure and flexible texture. Likely used for storage or as part of a mechanical setup. Found in a workshop environment near tools and equipment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3da4-45a5-2e80-8082-be634b241693/6/object_in_frame_000229.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3da4-45a5-2e80-8082-be634b241693/6/object_in_frame_000037.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3da4-45a5-2e80-8082-be634b241693/6/object_in_frame_000030.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3da4-45a5-2e80-8082-be634b241693/6/object_in_frame_000051.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3da4-45a5-2e80-8082-be634b241693/6/object_in_frame_000031.png"
+    ]
+}

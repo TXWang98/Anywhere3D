@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly paper stack with yellow coloring and rectangular shape. The edges appear slightly uneven, suggesting multiple sheets. Likely used for note-taking or distribution in an educational setting. Positioned on a desk near other classroom materials like books and boxes.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/box-41/object_in_frame_1996.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/box-41/object_in_frame_524.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/box-41/object_in_frame_1940.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/box-41/object_in_frame_2164.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/box-41/object_in_frame_2056.png"
+    ]
+}

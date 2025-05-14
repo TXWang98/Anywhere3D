@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic toilet with white coloring and a standard elongated bowl shape. Features a flush tank integrated at the back and a smooth, glossy surface. Designed for sanitary waste disposal. Positioned in a bathroom setting alongside a sink, mirror, and towel rack.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261182/1/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261182/1/object_in_frame_6.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261182/1/object_in_frame_439.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261182/1/object_in_frame_51.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261182/1/object_in_frame_7.png"
+    ]
+}

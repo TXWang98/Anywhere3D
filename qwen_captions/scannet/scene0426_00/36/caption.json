@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy black keyboard with white keys and a rectangular shape. Features multiple buttons and a display screen. Designed for musical input and performance. Positioned on a desk between two computer monitors, near a bed and storage containers.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/keyboard piano-36/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/keyboard piano-36/object_in_frame_1353.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/keyboard piano-36/object_in_frame_1452.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/keyboard piano-36/object_in_frame_1338.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/keyboard piano-36/object_in_frame_1359.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic lamp base with a dark brown color and cylindrical shape. The tapered rim suggests it may be designed to hold a lampshade securely. Its sturdy structure implies stability for supporting the weight of a light fixture. Positioned on a wooden table alongside other household items like a phone and cables, indicating its use in a home setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/00d42bed-778d-2ac6-86a7-0e0e5f5f5660/27/object_in_frame_000150.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/00d42bed-778d-2ac6-86a7-0e0e5f5f5660/27/object_in_frame_000190.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/00d42bed-778d-2ac6-86a7-0e0e5f5f5660/27/object_in_frame_000180.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/00d42bed-778d-2ac6-86a7-0e0e5f5f5660/27/object_in_frame_000189.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/00d42bed-778d-2ac6-86a7-0e0e5f5f5660/27/object_in_frame_000152.png"
+    ]
+}

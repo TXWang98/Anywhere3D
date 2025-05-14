@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly inflatable air mattress with dark blue coloring and rectangular shape. Features a grid pattern of circular indentations on its surface. Likely designed for temporary sleeping arrangements. Positioned upright against a wall in a room, near a folding chair and other household items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/wall-26/object_in_frame_1920.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/wall-26/object_in_frame_212.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/wall-26/object_in_frame_220.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/wall-26/object_in_frame_1952.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/wall-26/object_in_frame_256.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly glass vase-type object with translucent coloring and a fluted body shape. The tapered rim suggests it could be used for floral arrangements. While resembling a vase, the presence of water droplets on its surface indicates recent use or cleaning. Found on a table near a red sofa in a living room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897647/14/object_in_frame_355.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897647/14/object_in_frame_326.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897647/14/object_in_frame_325.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897647/14/object_in_frame_346.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897647/14/object_in_frame_358.png"
+    ]
+}

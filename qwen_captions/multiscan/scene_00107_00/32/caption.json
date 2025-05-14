@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy plastic toilet brush holder with white coloring and a cylindrical shape. Has a narrow opening for the brush handle. Designed to store a toilet brush for cleaning. Positioned on the floor next to a toilet in a bathroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/32/object_in_frame_2726.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/32/object_in_frame_3674.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/32/object_in_frame_3334.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/32/object_in_frame_2499.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/32/object_in_frame_6095.png"
+    ]
+}

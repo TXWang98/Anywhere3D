@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden slatted panel with a light brown color and rectangular shape. The horizontal slats create a uniform texture. Likely serves as an acoustic or decorative wall feature. Positioned above a desk with a laptop in front of it.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0598_00/blinds-1/object_in_frame_593.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0598_00/blinds-1/object_in_frame_595.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0598_00/blinds-1/object_in_frame_597.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0598_00/blinds-1/object_in_frame_596.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0598_00/blinds-1/object_in_frame_594.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic trash can with a light gray color and cylindrical shape. The tapered rim suggests it is designed for easy disposal of waste. It appears to have a smooth surface and an open top. Likely used for collecting general office waste. Positioned near a storage shelf filled with bottled beverages, in an office environment with desks and chairs around.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/trash can-28/object_in_frame_1392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/trash can-28/object_in_frame_1371.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/trash can-28/object_in_frame_1356.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/trash can-28/object_in_frame_1410.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/trash can-28/object_in_frame_744.png"
+    ]
+}

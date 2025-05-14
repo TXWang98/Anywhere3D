@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy black smartphone with a sleek rectangular shape. The device has a smooth surface and rounded edges. Likely used for communication and multimedia purposes. Positioned on a cluttered desk alongside papers, cables, and other office supplies.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/6/object_in_frame_2433.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/6/object_in_frame_2777.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/6/object_in_frame_3043.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/6/object_in_frame_2961.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/6/object_in_frame_2494.png"
+    ]
+}

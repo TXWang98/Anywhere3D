@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly glass vase-type object with translucent coloring and a flared shape. The tapered rim suggests it is designed to hold flowers. While resembling a vase, the presence of yellow tulips confirms its use as a floral display container. Found on a wooden coffee table surrounded by decorative items like a small sculpture and books in a living room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115525/3/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115525/3/object_in_frame_152.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115525/3/object_in_frame_145.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115525/3/object_in_frame_238.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115525/3/object_in_frame_446.png"
+    ]
+}

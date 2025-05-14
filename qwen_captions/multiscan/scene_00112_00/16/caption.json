@@ -1,0 +1,10 @@
+{
+    "caption": "A black plastic bag with a crumpled and irregular shape. Appears to be filled with various items. Likely used for waste disposal or storage. Found on the floor near cardboard boxes and other household items, suggesting a temporary storage area or a space in transition.\n\n\"A black plastic bag with a crumpled and irregular shape. Appears to be filled with various items. Likely used for waste disposal or storage. Found on the floor near cardboard boxes and other household items, suggesting a temporary storage area or a space in transition.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/16/object_in_frame_5114.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/16/object_in_frame_5098.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/16/object_in_frame_4814.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/16/object_in_frame_4716.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/16/object_in_frame_4431.png"
+    ]
+}

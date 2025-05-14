@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly container-type object with a reflective silver surface and rectangular shape. The tapered rim suggests it could be a pot or pan lid. Its flat top and smooth texture indicate it's designed for covering cookware. Inconclusive evidence for its exact function, but it appears to be placed on the kitchen counter near other cooking appliances like a rice cooker and stand mixer.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/window-7/object_in_frame_2615.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/window-7/object_in_frame_2145.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/window-7/object_in_frame_2590.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/window-7/object_in_frame_2155.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/window-7/object_in_frame_2170.png"
+    ]
+}

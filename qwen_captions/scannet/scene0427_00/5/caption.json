@@ -1,0 +1,10 @@
+{
+    "caption": "A black mesh office chair with a dark gray cushion and ergonomic shape. Features a breathable mesh backrest and adjustable armrests. Designed for prolonged sitting comfort in an office setting. Positioned near a round table with a light wood frame, situated in a workspace environment.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0427_00/chair-5/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0427_00/chair-5/object_in_frame_1082.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0427_00/chair-5/object_in_frame_958.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0427_00/chair-5/object_in_frame_276.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0427_00/chair-5/object_in_frame_288.png"
+    ]
+}

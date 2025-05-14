@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic keyboard with black coloring and rectangular shape. Has a standard QWERTY layout and function keys. Made for typing input on computers. Positioned in front of monitors on desks in an office setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/keyboard-38/object_in_frame_1794.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/keyboard-38/object_in_frame_1602.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/keyboard-38/object_in_frame_1566.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/keyboard-38/object_in_frame_1614.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/keyboard-38/object_in_frame_1587.png"
+    ]
+}

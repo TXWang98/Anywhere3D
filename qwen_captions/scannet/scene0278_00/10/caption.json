@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a green and white color scheme and cylindrical shape. Features a lid and appears to be stacked. Likely used for storage or waste management. Positioned near a shredder and another similar container in an office environment.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0278_00/chair-10/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0278_00/chair-10/object_in_frame_492.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0278_00/chair-10/object_in_frame_500.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0278_00/chair-10/object_in_frame_483.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0278_00/chair-10/object_in_frame_489.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic vent-type object with white coloring and rectangular shape. Features a central circular grille and layered edges. Likely serves as an air circulation or heating unit. Positioned at the base of a wall, adjacent to wooden flooring.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444946/4/object_in_frame_404.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444946/4/object_in_frame_400.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444946/4/object_in_frame_403.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444946/4/object_in_frame_395.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444946/4/object_in_frame_396.png"
+    ]
+}

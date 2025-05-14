@@ -1,0 +1,10 @@
+{
+    "caption": "\"A matte rubber possibly exercise ball with vibrant green coloring and spherical shape. Smooth texture with no visible seams or structural features. Likely used for fitness activities. Positioned on the floor in an office-like setting, near furniture and a whiteboard.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/4fbad320-465b-2a5d-85d7-dc83aa09a9fa/21/object_in_frame_000481.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/4fbad320-465b-2a5d-85d7-dc83aa09a9fa/21/object_in_frame_000800.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/4fbad320-465b-2a5d-85d7-dc83aa09a9fa/21/object_in_frame_000674.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/4fbad320-465b-2a5d-85d7-dc83aa09a9fa/21/object_in_frame_000136.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/4fbad320-465b-2a5d-85d7-dc83aa09a9fa/21/object_in_frame_000134.png"
+    ]
+}

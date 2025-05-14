@@ -1,0 +1,7 @@
+{
+    "caption": "\"A possibly fabric pillow with red and black patterns. Rectangular shape with soft texture. Likely used for comfort or decoration. Placed on a bed with white bedding and other pillows nearby.\"\n\n\"Inconclusive evidence for the object in the first image; it appears as an indistinct area with no clear features. Possibly a shadow or blurred section of the room.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/00d42bed-778d-2ac6-86a7-0e0e5f5f5660/8/object_in_frame_000438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/00d42bed-778d-2ac6-86a7-0e0e5f5f5660/8/object_in_frame_000282.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric garment-type object with dark coloration and draped shape. Appears soft and flexible. Likely worn as outerwear or part of a suit. Hanging in a closet alongside other clothing items on hangers.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445029/5/object_in_frame_582.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445029/5/object_in_frame_587.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445029/5/object_in_frame_589.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445029/5/object_in_frame_586.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445029/5/object_in_frame_584.png"
+    ]
+}

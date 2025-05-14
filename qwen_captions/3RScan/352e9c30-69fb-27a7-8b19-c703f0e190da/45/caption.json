@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic container-type object with a light gray color and rectangular shape. The tapered rim suggests it could be a tall, narrow bin or storage unit. Its smooth surface and simple design indicate a functional purpose, potentially for waste disposal or storage. Positioned against a dark blue wall in an indoor setting, near a dining area with a table, chairs, and decorative items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/45/object_in_frame_000335.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/45/object_in_frame_000081.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/45/object_in_frame_000332.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/45/object_in_frame_000331.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/45/object_in_frame_000334.png"
+    ]
+}

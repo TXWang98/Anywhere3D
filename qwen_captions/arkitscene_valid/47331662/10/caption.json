@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric-covered chair with green and white floral patterns. Rounded backrest and cushioned seat. Wooden legs provide structural support. Likely used for seating at a desk or table. Positioned near a wooden desk with papers and books, in what appears to be a home office or study area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331662/10/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331662/10/object_in_frame_359.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331662/10/object_in_frame_428.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331662/10/object_in_frame_432.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331662/10/object_in_frame_444.png"
+    ]
+}

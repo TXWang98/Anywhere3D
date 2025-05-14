@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden table with a natural brown finish and rectangular shape. The surface has visible wood grain texture. Likely used for dining or work purposes. Positioned in a retail environment, surrounded by chairs and other furniture items.\n\nConfidence Signals:\n- \"The flat, expansive surface suggests it is designed for activities requiring ample space.\"\n- \"While resembling a typical dining table, the presence of price tags indicates it is in a showroom setting.\"\n- \"Inconclusive evidence for specific functional enhancements beyond its primary use as a table.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0343_00/table-3/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0343_00/table-3/object_in_frame_702.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0343_00/table-3/object_in_frame_660.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0343_00/table-3/object_in_frame_782.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0343_00/table-3/object_in_frame_774.png"
+    ]
+}

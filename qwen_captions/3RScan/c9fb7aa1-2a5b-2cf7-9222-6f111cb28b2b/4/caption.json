@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric upholstered armchair with light gray coloring and a cushioned shape. Features padded armrests, a slightly reclined backrest, and ornate golden legs. Designed for comfortable seating. Positioned on an intricate rug in a formal room setting with wooden furniture and decorative elements nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c9fb7aa1-2a5b-2cf7-9222-6f111cb28b2b/4/object_in_frame_000002.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c9fb7aa1-2a5b-2cf7-9222-6f111cb28b2b/4/object_in_frame_000001.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c9fb7aa1-2a5b-2cf7-9222-6f111cb28b2b/4/object_in_frame_000032.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c9fb7aa1-2a5b-2cf7-9222-6f111cb28b2b/4/object_in_frame_000003.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c9fb7aa1-2a5b-2cf7-9222-6f111cb28b2b/4/object_in_frame_000036.png"
+    ]
+}

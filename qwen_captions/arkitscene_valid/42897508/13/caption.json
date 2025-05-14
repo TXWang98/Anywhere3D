@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric container-type object with pink and white patterns. Appears to have a soft, flexible structure with an irregular shape. Likely used for storage or carrying items. Seen on a person's lap in a casual indoor setting, near furniture like chairs and tables.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897508/13/object_in_frame_621.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897508/13/object_in_frame_622.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897508/13/object_in_frame_619.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897508/13/object_in_frame_620.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897508/13/object_in_frame_623.png"
+    ]
+}

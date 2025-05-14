@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a light beige color and rectangular shape. The tapered rim suggests it might be a lid or part of a larger assembly. Its flat surface and lack of distinct features make its function inconclusive, though it could be used for storage or as a cover. Found on a table in what appears to be a classroom setting, surrounded by chairs and desks.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/64/object_in_frame_000234.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/64/object_in_frame_000233.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/64/object_in_frame_000116.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/64/object_in_frame_000250.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/64/object_in_frame_000074.png"
+    ]
+}

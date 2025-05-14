@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic vase-type object with a neutral beige tone and rounded, slightly tapered shape. The smooth surface and subtle texture suggest a decorative purpose. Likely used as a centerpiece for floral arrangements or aesthetic display. Positioned on a glass dining table surrounded by modern chairs in a contemporary dining room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125696/13/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125696/13/object_in_frame_989.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125696/13/object_in_frame_982.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125696/13/object_in_frame_985.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125696/13/object_in_frame_991.png"
+    ]
+}

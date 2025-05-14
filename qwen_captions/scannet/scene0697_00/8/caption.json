@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with white and multicolored patterns. Irregular shape with various textures and structural features. Likely used for storing small items or toys. Found on the floor near scattered objects, suggesting a casual placement in a living space. Inconclusive evidence for its exact function due to the lack of clear handles or openings.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/door-8/object_in_frame_2264.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/door-8/object_in_frame_2248.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/door-8/object_in_frame_2260.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/door-8/object_in_frame_684.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/door-8/object_in_frame_680.png"
+    ]
+}

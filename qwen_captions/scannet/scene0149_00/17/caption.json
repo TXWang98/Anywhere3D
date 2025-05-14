@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy black glass table with a smooth surface and rectangular shape. The edges are sharp and well-defined, reflecting light and surrounding objects. Likely serves as a dining or work surface. Positioned in a kitchen setting, adjacent to a chair and near a countertop with various items like a paper towel roll and books.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0149_00/table-17/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0149_00/table-17/object_in_frame_470.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0149_00/table-17/object_in_frame_468.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0149_00/table-17/object_in_frame_402.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0149_00/table-17/object_in_frame_522.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A matte poster with black and white coloring and rectangular shape. Features a grayscale image of people, possibly from a film or event. Likely serves as wall decor. Positioned on the wall above two armchairs in a casual indoor setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/picture-26/object_in_frame_750.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/picture-26/object_in_frame_2790.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/picture-26/object_in_frame_2820.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/picture-26/object_in_frame_2810.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/picture-26/object_in_frame_2785.png"
+    ]
+}

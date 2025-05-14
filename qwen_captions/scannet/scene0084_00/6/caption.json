@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic soap dispenser with a dark gray color and rectangular shape. Has a smooth surface and a lever mechanism. Likely used for dispensing liquid soap. Mounted on the wall above a sink in a bathroom setting, near other hygiene items like toothbrushes and cups.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/toilet paper-6/object_in_frame_933.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/toilet paper-6/object_in_frame_1011.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/toilet paper-6/object_in_frame_1008.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/toilet paper-6/object_in_frame_1002.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/toilet paper-6/object_in_frame_1005.png"
+    ]
+}

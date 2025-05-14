@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with white coloring and a rectangular shape. Appears to have a smooth surface and a small protrusion on one side. Likely used for storing or dispensing items. Located on a wall-mounted shelf near a telephone in what seems to be an office or utility room setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0221_00/towel-50/object_in_frame_6.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0221_00/towel-50/object_in_frame_10.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0221_00/towel-50/object_in_frame_1.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0221_00/towel-50/object_in_frame_19.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0221_00/towel-50/object_in_frame_7.png"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "caption": "\"A possibly fabric-type object with a neutral beige color and flat, rectangular shape. Smooth texture with no distinct structural features. Likely serves as a covering or cushioning material. Positioned on a surface in an indoor setting, with minimal surrounding context.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/2/object_in_frame_000216.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/2/object_in_frame_000223.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/2/object_in_frame_000224.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/2/object_in_frame_000222.png"
+    ]
+}

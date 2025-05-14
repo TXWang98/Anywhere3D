@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden coffee table with a natural brown finish and rectangular shape. Features a flat top surface and sturdy legs with decorative slats underneath. Serves as a central piece for placing items like books, papers, and tools. Positioned in a living room setting near a leather sofa and surrounded by various household objects.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/7/object_in_frame_2345.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/7/object_in_frame_2673.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/7/object_in_frame_2269.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/7/object_in_frame_3838.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/7/object_in_frame_1153.png"
+    ]
+}

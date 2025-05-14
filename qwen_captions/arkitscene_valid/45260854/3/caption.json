@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with white coloring and a rectangular shape. Has a lid and appears to be slightly translucent. Likely used for storage or organization. Positioned on the floor near a bed, with bedding and other household items in the surrounding area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260854/3/object_in_frame_615.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260854/3/object_in_frame_249.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260854/3/object_in_frame_617.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260854/3/object_in_frame_261.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260854/3/object_in_frame_264.png"
+    ]
+}

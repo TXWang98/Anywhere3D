@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden armchair with light gray upholstery and a rectangular shape. Features ornate golden legs and armrests. Likely designed for comfortable seating. Positioned on an intricate patterned rug in a cozy living room setting, surrounded by bookshelves and other furniture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c9fb7aa1-2a5b-2cf7-9222-6f111cb28b2b/3/object_in_frame_000102.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c9fb7aa1-2a5b-2cf7-9222-6f111cb28b2b/3/object_in_frame_000004.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c9fb7aa1-2a5b-2cf7-9222-6f111cb28b2b/3/object_in_frame_000101.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c9fb7aa1-2a5b-2cf7-9222-6f111cb28b2b/3/object_in_frame_000008.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c9fb7aa1-2a5b-2cf7-9222-6f111cb28b2b/3/object_in_frame_000104.png"
+    ]
+}

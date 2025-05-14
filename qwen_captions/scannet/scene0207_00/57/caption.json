@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly soap dispenser with a silver finish and cylindrical shape. Has a pump mechanism on top. Likely used for dispensing liquid soap. Positioned on the bathroom sink counter near a roll of toilet paper and other toiletries.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/sink-57/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/sink-57/object_in_frame_1059.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/sink-57/object_in_frame_1041.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/sink-57/object_in_frame_1050.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/sink-57/object_in_frame_1053.png"
+    ]
+}

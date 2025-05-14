@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with translucent green coloring and a rectangular shape. The tapered rim suggests it may be designed for stacking or storage. Inconclusive evidence for its exact function, but it appears to be part of an organized shelving unit in what looks like a workshop or garage setting, surrounded by various tools and supplies.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ad408c83-84db-2095-8aa4-924f966af2dc/14/object_in_frame_000011.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ad408c83-84db-2095-8aa4-924f966af2dc/14/object_in_frame_000008.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ad408c83-84db-2095-8aa4-924f966af2dc/14/object_in_frame_000010.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ad408c83-84db-2095-8aa4-924f966af2dc/14/object_in_frame_000012.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ad408c83-84db-2095-8aa4-924f966af2dc/14/object_in_frame_000009.png"
+    ]
+}

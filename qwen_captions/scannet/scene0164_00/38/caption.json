@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic water bottle with a clear body and blue cap. Cylindrical shape with slight tapering towards the top. The presence of liquid inside suggests it is used for drinking. Positioned on a kitchen countertop near a sink, dish soap, and other kitchen items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/object-38/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/object-38/object_in_frame_1557.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/object-38/object_in_frame_1518.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/object-38/object_in_frame_1521.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/object-38/object_in_frame_636.png"
+    ]
+}

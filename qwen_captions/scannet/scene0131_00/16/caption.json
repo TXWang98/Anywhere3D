@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a neutral color and rectangular shape. Inconclusive evidence for specific structural details due to blurriness. Likely used for storage or organization. Found on a shelf in an office setting, surrounded by various items like bottles and papers.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0131_00/wall-16/object_in_frame_515.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0131_00/wall-16/object_in_frame_510.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0131_00/wall-16/object_in_frame_484.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0131_00/wall-16/object_in_frame_485.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0131_00/wall-16/object_in_frame_483.png"
+    ]
+}

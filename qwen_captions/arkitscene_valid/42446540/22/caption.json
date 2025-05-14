@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white possibly cabinet-type object with a rectangular shape. Features horizontal handles and a flat top surface. Likely used for storage in a kitchen setting. Positioned along the wall, adjacent to other kitchen appliances and counters.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/22/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/22/object_in_frame_379.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/22/object_in_frame_257.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/22/object_in_frame_349.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/22/object_in_frame_819.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white possibly container-type object with a rectangular shape. Has a smooth surface and a small yellow label attached. Likely used for storage or organization. Positioned under a countertop in what appears to be a kitchen setting, near cooking utensils and appliances.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a0905fe1-66f7-2272-9d4a-a6f6579f6751/5/object_in_frame_000094.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a0905fe1-66f7-2272-9d4a-a6f6579f6751/5/object_in_frame_000084.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a0905fe1-66f7-2272-9d4a-a6f6579f6751/5/object_in_frame_000086.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a0905fe1-66f7-2272-9d4a-a6f6579f6751/5/object_in_frame_000087.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a0905fe1-66f7-2272-9d4a-a6f6579f6751/5/object_in_frame_000037.png"
+    ]
+}

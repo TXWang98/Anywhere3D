@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric towel-type object with dark coloring and rectangular shape. Appears soft and slightly wrinkled. Likely used for drying or decoration. Hanging on a shower rod beside a white curtain in a bathroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0153_00/towel-20/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0153_00/towel-20/object_in_frame_199.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0153_00/towel-20/object_in_frame_200.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0153_00/towel-20/object_in_frame_202.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0153_00/towel-20/object_in_frame_198.png"
+    ]
+}

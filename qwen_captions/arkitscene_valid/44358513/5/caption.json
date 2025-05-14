@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic vase-type object with a dark brown color and cylindrical shape. The tapered rim suggests it may be designed for holding flowers or decorative purposes. While resembling a vase, the presence of a plant nearby supports this function. Found on the floor beside a potted plant in a living room setting with furniture like a sofa and chair around.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358513/5/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358513/5/object_in_frame_535.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358513/5/object_in_frame_433.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358513/5/object_in_frame_536.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358513/5/object_in_frame_541.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy black all-in-one desktop computer with a rectangular shape. Features a sleek, thin profile and integrated stand. Designed for desktop computing tasks. Positioned on a white desk alongside a keyboard, mouse, and another similar computer in an office setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0598_00/monitor-2/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0598_00/monitor-2/object_in_frame_470.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0598_00/monitor-2/object_in_frame_500.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0598_00/monitor-2/object_in_frame_395.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0598_00/monitor-2/object_in_frame_455.png"
+    ]
+}

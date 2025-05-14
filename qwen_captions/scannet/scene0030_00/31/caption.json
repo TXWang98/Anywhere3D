@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden bookshelf with a light brown finish and rectangular shape. Features multiple horizontal shelves filled with books of various sizes and colors. Serves as a storage unit for reading materials. Positioned against a wall near a window, with cardboard boxes and other furniture in the surrounding area.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/wall-31/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/wall-31/object_in_frame_900.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/wall-31/object_in_frame_908.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/wall-31/object_in_frame_920.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/wall-31/object_in_frame_904.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy plastic suitcase with a vibrant green color and rectangular shape. Features a smooth surface with visible wheels and a handle slot. Designed for travel and storage of personal items. Positioned on the floor near a bed and chair in a hotel room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/24/object_in_frame_10860.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/24/object_in_frame_10388.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/24/object_in_frame_7302.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/24/object_in_frame_10314.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/24/object_in_frame_11004.png"
+    ]
+}

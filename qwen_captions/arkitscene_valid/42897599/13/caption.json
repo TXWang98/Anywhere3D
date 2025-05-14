@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white plastic dish rack with a rectangular shape. Features multiple slots and a grid-like structure for draining water. Designed to hold dishes and utensils while drying. Positioned on the kitchen countertop near the sink, surrounded by cleaning supplies and plants.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/13/object_in_frame_1549.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/13/object_in_frame_1544.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/13/object_in_frame_1545.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/13/object_in_frame_1499.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/13/object_in_frame_1506.png"
+    ]
+}

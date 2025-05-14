@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic soap dish with a light beige color and a shallow, rectangular shape. The textured surface suggests it's designed to hold small items like bars of soap. Its placement on the bathroom countertop near the sink indicates its use for hygiene purposes. Inconclusive evidence for its exact material due to image resolution.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/soap dish-75/object_in_frame_3878.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/soap dish-75/object_in_frame_3885.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/soap dish-75/object_in_frame_3934.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/soap dish-75/object_in_frame_3871.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/soap dish-75/object_in_frame_3864.png"
+    ]
+}

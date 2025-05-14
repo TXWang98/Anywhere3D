@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric-covered bed-type object with a multicolored pattern and rectangular shape. The structure includes a mattress, pillows, and bedding. Likely used for sleeping or resting. Positioned in a bedroom setting alongside furniture like desks, chairs, and storage units.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332885/1/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332885/1/object_in_frame_307.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332885/1/object_in_frame_117.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332885/1/object_in_frame_68.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332885/1/object_in_frame_298.png"
+    ]
+}

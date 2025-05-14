@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a dark color and rectangular shape. Inconclusive evidence for its structure or texture details. Its function is unclear but may be used for storage. Found under a desk in an office environment, near cables and other equipment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/4fbad320-465b-2a5d-85d7-dc83aa09a9fa/38/object_in_frame_000772.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/4fbad320-465b-2a5d-85d7-dc83aa09a9fa/38/object_in_frame_001011.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/4fbad320-465b-2a5d-85d7-dc83aa09a9fa/38/object_in_frame_001176.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/4fbad320-465b-2a5d-85d7-dc83aa09a9fa/38/object_in_frame_000935.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/4fbad320-465b-2a5d-85d7-dc83aa09a9fa/38/object_in_frame_000773.png"
+    ]
+}

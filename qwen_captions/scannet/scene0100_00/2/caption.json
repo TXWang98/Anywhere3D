@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic possibly soap dispenser with a translucent white color and an oval shape. Has a rounded body with a narrow neck and a pump mechanism on top. Likely used for dispensing liquid soap. Positioned near the sink on a bathroom countertop, surrounded by toiletries like toothbrushes and bottles.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/sink-2/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/sink-2/object_in_frame_252.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/sink-2/object_in_frame_257.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/sink-2/object_in_frame_261.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/sink-2/object_in_frame_198.png"
+    ]
+}

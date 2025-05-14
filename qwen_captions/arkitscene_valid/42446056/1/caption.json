@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric-covered chair with black upholstery and a wooden frame. The seat cushion is rectangular, and the backrest is slightly angled. Appears designed for seating comfort. Positioned in a room setting with toys and household items nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446056/1/object_in_frame_529.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446056/1/object_in_frame_449.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446056/1/object_in_frame_679.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446056/1/object_in_frame_496.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446056/1/object_in_frame_505.png"
+    ]
+}

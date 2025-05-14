@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic chair with a light gray seat and backrest. The chair has a simple, utilitarian design with armrests and metal legs. Likely intended for seating in an office or meeting room environment. Positioned near other similar chairs around a long table, suggesting a conference or classroom setting.\n\nInconclusive evidence for the material due to image quality, but the structure suggests it is designed for comfortable seating in a professional context.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/stack of chairs-11/object_in_frame_1676.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/stack of chairs-11/object_in_frame_656.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/stack of chairs-11/object_in_frame_1668.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/stack of chairs-11/object_in_frame_388.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/stack of chairs-11/object_in_frame_2192.png"
+    ]
+}

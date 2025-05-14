@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly drying rack with a silver finish and rectangular shape. Features multiple horizontal bars forming a grid structure. Likely used for hanging clothes or towels to dry. Positioned in a utility room near shelves filled with various household items and cleaning supplies.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/drying rack-12/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/drying rack-12/object_in_frame_252.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/drying rack-12/object_in_frame_1452.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/drying rack-12/object_in_frame_870.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/drying rack-12/object_in_frame_819.png"
+    ]
+}

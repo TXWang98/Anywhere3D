@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with green and translucent coloring. Rectangular shape with a slightly tapered rim suggests it could be a food storage container. The presence of a lid indicates its function for preserving contents. Located in a kitchen sink area, surrounded by other dishware and cleaning supplies.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662921/18/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662921/18/object_in_frame_934.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662921/18/object_in_frame_910.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662921/18/object_in_frame_930.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662921/18/object_in_frame_1070.png"
+    ]
+}

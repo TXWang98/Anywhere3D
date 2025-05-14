@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric-covered sofa with a light beige and patterned appearance. Rectangular shape with cushioned seating and backrest. Provides comfortable seating for multiple people. Positioned centrally in a living room, surrounded by a fireplace, television, and other furniture pieces.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663149/1/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663149/1/object_in_frame_8.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663149/1/object_in_frame_24.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663149/1/object_in_frame_39.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663149/1/object_in_frame_7.png"
+    ]
+}

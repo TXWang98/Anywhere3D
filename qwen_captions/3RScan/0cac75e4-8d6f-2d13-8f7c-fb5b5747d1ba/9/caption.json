@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic container-type object with a dark finish and rectangular shape. The tapered rim suggests it could be a storage bin or drawer. Inconclusive evidence for its exact function, but it appears to have a smooth surface and simple design. Positioned on a wooden cabinet in what looks like a kitchen setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac75e4-8d6f-2d13-8f7c-fb5b5747d1ba/9/object_in_frame_000015.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac75e4-8d6f-2d13-8f7c-fb5b5747d1ba/9/object_in_frame_000016.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac75e4-8d6f-2d13-8f7c-fb5b5747d1ba/9/object_in_frame_000017.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac75e4-8d6f-2d13-8f7c-fb5b5747d1ba/9/object_in_frame_000014.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac75e4-8d6f-2d13-8f7c-fb5b5747d1ba/9/object_in_frame_000013.png"
+    ]
+}

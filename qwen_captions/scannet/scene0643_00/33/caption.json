@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plush tiger-type object with orange and black stripes. The shape is soft and rounded, with visible ears and a tail. Likely a decorative or comfort item. Positioned on top of a stack of papers and books near a desk setup with various office supplies and personal items around.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/tissue box-33/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/tissue box-33/object_in_frame_1734.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/tissue box-33/object_in_frame_891.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/tissue box-33/object_in_frame_1614.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/tissue box-33/object_in_frame_939.png"
+    ]
+}

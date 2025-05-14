@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy white sewing machine with a compact and functional design. Features multiple dials and buttons for various stitching options. Used for garment creation and textile work. Positioned on a clean, organized desk alongside fabric rolls and tools in a well-lit workspace.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0256_00/curtain-9/object_in_frame_132.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0256_00/curtain-9/object_in_frame_170.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0256_00/curtain-9/object_in_frame_144.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0256_00/curtain-9/object_in_frame_148.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0256_00/curtain-9/object_in_frame_216.png"
+    ]
+}

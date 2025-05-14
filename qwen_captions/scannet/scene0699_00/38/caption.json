@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly wooden hanger-type object with a light brown color and triangular shape. The structure appears to have notches or grooves along its edges. Likely used for hanging clothes or other items. Positioned on a shelf within a closet, alongside a jacket hanging from another hanger and various storage items below.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/clothes hangers-38/object_in_frame_1392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/clothes hangers-38/object_in_frame_1371.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/clothes hangers-38/object_in_frame_1356.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/clothes hangers-38/object_in_frame_1374.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/clothes hangers-38/object_in_frame_1347.png"
+    ]
+}

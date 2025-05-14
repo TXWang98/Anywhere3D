@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic bottle with a dark brown color and cylindrical shape. The tapered rim suggests it may be designed for pouring. It appears to have a white cap and some labeling, though details are unclear. Likely used for storing liquids such as syrup or sauce. Positioned on top of a cabinet alongside other glass containers in a kitchen setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/object-46/object_in_frame_1710.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/object-46/object_in_frame_1713.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/object-46/object_in_frame_1692.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/object-46/object_in_frame_1707.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/object-46/object_in_frame_1695.png"
+    ]
+}

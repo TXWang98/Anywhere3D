@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly trash can with a silver finish and cylindrical shape. Features a smooth surface with a slightly tapered top. Likely used for waste disposal. Positioned on the bathroom floor near the toilet and bathtub.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/trash can-77/object_in_frame_3185.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/trash can-77/object_in_frame_3983.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/trash can-77/object_in_frame_4032.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/trash can-77/object_in_frame_3178.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/trash can-77/object_in_frame_3962.png"
+    ]
+}

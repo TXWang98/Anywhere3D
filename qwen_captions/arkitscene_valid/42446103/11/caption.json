@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic vase-type object with a light color and flared shape. The tapered rim suggests it may be designed for holding flowers. While resembling a vase, the presence of nearby floral arrangements supports this function. Found on a kitchen island surrounded by various items like fruit bowls and decorative pieces.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/11/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/11/object_in_frame_1096.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/11/object_in_frame_1101.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/11/object_in_frame_68.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/11/object_in_frame_700.png"
+    ]
+}

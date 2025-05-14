@@ -1,0 +1,10 @@
+{
+    "caption": "A translucent plastic bag-type object with white and green coloring. Appears to have a rectangular shape with some contents inside, possibly food items. The structure is flexible and semi-transparent. Likely used for storage or carrying items. Found on the floor near clothing and other household objects in a cluttered room.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/bag-34/object_in_frame_1296.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/bag-34/object_in_frame_1242.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/bag-34/object_in_frame_1236.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/bag-34/object_in_frame_1278.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/bag-34/object_in_frame_1239.png"
+    ]
+}

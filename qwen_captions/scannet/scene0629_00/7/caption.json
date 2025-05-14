@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden possibly side table with a dark brown finish and rectangular shape. Has a flat top surface and slender legs. Likely used for displaying decorative items. Positioned near an air mattress and a wall-mounted floral arrangement, suggesting a temporary living setup or guest area.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/end table-7/object_in_frame_1676.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/end table-7/object_in_frame_96.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/end table-7/object_in_frame_12.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/end table-7/object_in_frame_1388.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/end table-7/object_in_frame_1408.png"
+    ]
+}

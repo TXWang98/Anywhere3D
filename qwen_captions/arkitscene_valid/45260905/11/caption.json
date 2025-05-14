@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric-covered armchair with a golden-brown hue and an upholstered design. The chair features a high backrest, padded armrests, and a cushioned seat. It appears to be designed for comfortable seating. Positioned in a cozy living room setting, surrounded by decorative pillows, a side table with a lamp, and houseplants nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260905/11/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260905/11/object_in_frame_152.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260905/11/object_in_frame_347.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260905/11/object_in_frame_163.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260905/11/object_in_frame_158.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy black possibly TV stand with a rectangular shape. Features multiple compartments and a smooth surface. Likely designed for supporting a television and storing media devices. Positioned in a living room corner near a white armchair and illuminated by wall-mounted lights.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899717/5/object_in_frame_824.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899717/5/object_in_frame_757.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899717/5/object_in_frame_831.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899717/5/object_in_frame_776.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899717/5/object_in_frame_774.png"
+    ]
+}

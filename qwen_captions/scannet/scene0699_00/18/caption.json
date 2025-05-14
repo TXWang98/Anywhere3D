@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic lampshade with a white color and rectangular shape. The structure appears to be attached to a slender pole, suggesting it is part of a floor lamp. Its function is likely to diffuse light in the room. Positioned near a bed with a patterned blanket and adjacent to a window with an air conditioning unit.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/door-18/object_in_frame_1605.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/door-18/object_in_frame_1557.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/door-18/object_in_frame_1629.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/door-18/object_in_frame_276.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/door-18/object_in_frame_201.png"
+    ]
+}

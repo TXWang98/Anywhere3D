@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly paper-type object with white coloring and rectangular shape. Appears flat and thin. Likely informational or decorative material. Positioned on the glass surface of a wooden cabinet, reflecting light from above.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0690_00/book-4/object_in_frame_567.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0690_00/book-4/object_in_frame_595.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0690_00/book-4/object_in_frame_500.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0690_00/book-4/object_in_frame_496.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0690_00/book-4/object_in_frame_579.png"
+    ]
+}

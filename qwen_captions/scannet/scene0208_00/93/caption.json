@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly paper-covered book with vibrant multicolor patterns and rectangular shape. The edges appear slightly worn, suggesting frequent handling. Likely intended for children's entertainment or educational purposes. Positioned on a shelf among other books and activity materials in what appears to be a bookstore or library section dedicated to children's items.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-93/object_in_frame_1500.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-93/object_in_frame_1497.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-93/object_in_frame_1524.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-93/object_in_frame_1542.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-93/object_in_frame_1503.png"
+    ]
+}

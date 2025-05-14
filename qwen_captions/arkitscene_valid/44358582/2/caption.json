@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic container-type object with a dark brown color and cylindrical shape. The tapered rim suggests it could be a small pot or decorative item. Its smooth surface reflects light, indicating a polished finish. Likely used for storage or as an ornamental piece. Positioned on a bedside table alongside a glass of water, a notebook, and other personal items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358582/2/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358582/2/object_in_frame_225.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358582/2/object_in_frame_231.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358582/2/object_in_frame_280.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358582/2/object_in_frame_264.png"
+    ]
+}

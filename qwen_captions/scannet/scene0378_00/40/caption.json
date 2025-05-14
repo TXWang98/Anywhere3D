@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric office chair with teal upholstery and a contoured shape. Features padded armrests and a five-point wheeled base. Designed for ergonomic seating in workspaces. Positioned near desks cluttered with papers, keyboards, and other office supplies.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/office chair-40/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/office chair-40/object_in_frame_1713.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/office chair-40/object_in_frame_54.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/office chair-40/object_in_frame_39.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/office chair-40/object_in_frame_288.png"
+    ]
+}

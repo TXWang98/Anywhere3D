@@ -1,0 +1,10 @@
+{
+    "caption": "\"A modern armchair with light beige upholstery and a sleek, minimalist design. The chair features clean lines and a sturdy metal frame. Provides comfortable seating for relaxation or conversation. Positioned near a sofa adorned with patterned cushions in a well-lit living room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/12/object_in_frame_6459.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/12/object_in_frame_1123.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/12/object_in_frame_4324.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/12/object_in_frame_1374.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/12/object_in_frame_1639.png"
+    ]
+}

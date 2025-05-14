@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a translucent green color and rectangular shape. The tapered rim suggests it could be a lid or part of a larger storage unit. Its smooth surface lacks distinct structural features. Inconclusive evidence for its function, but it may be used for storing small items. Found on top of a children's play table alongside toys and art supplies in a brightly lit room.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446056/7/object_in_frame_2916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446056/7/object_in_frame_2737.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446056/7/object_in_frame_2924.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446056/7/object_in_frame_2902.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446056/7/object_in_frame_2915.png"
+    ]
+}

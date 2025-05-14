@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric ottoman-type object with beige coloring and a rectangular shape. Appears to have a soft, cushioned surface. Likely used as seating or footrest. Positioned near a wall in a living room setting, adjacent to a framed picture and a patterned rug.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897566/11/object_in_frame_465.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897566/11/object_in_frame_466.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897566/11/object_in_frame_469.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897566/11/object_in_frame_483.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897566/11/object_in_frame_471.png"
+    ]
+}

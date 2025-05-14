@@ -1,0 +1,10 @@
+{
+    "caption": "\"A weathered wooden bench with a light brown color and slatted design. The bench has a simple, sturdy metal frame supporting the seat. Likely used for outdoor seating. Positioned on a balcony with a glass railing and concrete tiles nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/20/object_in_frame_7107.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/20/object_in_frame_7152.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/20/object_in_frame_7137.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/20/object_in_frame_6909.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/20/object_in_frame_7272.png"
+    ]
+}

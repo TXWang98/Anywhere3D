@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly wooden bookshelf with a natural brown color and rectangular shape. The structure features multiple horizontal shelves for holding books. Likely used for organizing and displaying literature. Positioned along the wall in a bookstore setting, surrounded by other bookshelves and reading materials.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/book rack-15/object_in_frame_783.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/book rack-15/object_in_frame_825.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/book rack-15/object_in_frame_801.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/book rack-15/object_in_frame_819.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/book rack-15/object_in_frame_795.png"
+    ]
+}

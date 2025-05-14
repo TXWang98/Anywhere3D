@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy black flat-screen monitor with a rectangular shape. The screen is currently off, displaying a dark surface. Mounted on the wall above a power outlet. Likely used for presentations or video conferencing. Positioned in a meeting room setting with chairs and a table containing various items like cables and documents.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/tv-19/object_in_frame_1884.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/tv-19/object_in_frame_2340.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/tv-19/object_in_frame_2184.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/tv-19/object_in_frame_2300.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/tv-19/object_in_frame_256.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic tool-type object, matte silver with angular grooves. Inconclusive evidence for its exact function, but it may be a wrench or specialized clamp. Seen in a workshop environment near assembly parts and other tools.\"\n\n---\n\n\"A possibly glass vase-type object with translucent amber coloring. Fluted body shape and water droplets on surface. Likely floral display container. Found on windowsill with plants and pruning shears nearby.\"\n\n---\n\n\"A possibly plastic container-type object, light blue with rounded edges. The tapered rim suggests it could be a lid or part of a larger storage unit. Functional affordances are unclear. Located in a room with furniture and a person seated nearby.\"\n\n---\n\n\"A possibly metallic tool-type object, matte silver with angular grooves. Ambiguous function between wrench or specialized clamp. Seen in a workshop environment near assembly parts and other tools.\"\n\n---\n\n\"A possibly glass vase-type object with translucent amber coloring. Fluted body shape and water droplets on surface. Likely floral display container. Found on windowsill with plants and pruning shears nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897508/15/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897508/15/object_in_frame_15.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897508/15/object_in_frame_619.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897508/15/object_in_frame_617.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897508/15/object_in_frame_16.png"
+    ]
+}

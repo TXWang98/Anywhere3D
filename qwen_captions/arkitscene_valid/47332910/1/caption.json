@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white ceramic bathtub with a smooth, glossy finish and rectangular shape. Features include a drain at the bottom and a faucet fixture on one side. Designed for bathing purposes. Positioned in a bathroom setting alongside a sink and cabinet.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332910/1/object_in_frame_224.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332910/1/object_in_frame_50.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332910/1/object_in_frame_221.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332910/1/object_in_frame_91.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332910/1/object_in_frame_389.png"
+    ]
+}

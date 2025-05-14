@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly ceramic vase-type object with a neutral beige color and a rounded, slightly tapered shape. The smooth surface suggests it may be glazed. Likely used as a decorative item or for holding flowers. Positioned on a side table near the wall, adjacent to framed artwork.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/22/object_in_frame_000006.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/22/object_in_frame_000005.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/22/object_in_frame_000000.png"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "caption": "\"A wooden possibly door-type object with a natural brown color and rectangular shape. The tapered rim suggests it may be part of a cabinet or closet. Appears to have hinges on one side, indicating its function as an opening mechanism. Contextually placed in what seems to be a cluttered room with various items like boxes and containers around.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ad408c83-84db-2095-8aa4-924f966af2dc/2/object_in_frame_000079.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ad408c83-84db-2095-8aa4-924f966af2dc/2/object_in_frame_000078.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ad408c83-84db-2095-8aa4-924f966af2dc/2/object_in_frame_000080.png"
+    ]
+}

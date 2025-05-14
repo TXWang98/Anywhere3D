@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic oven-type object with black and silver coloring and rectangular shape. Has a visible door with a handle and control knobs on the front panel. Likely used for baking or cooking food. Positioned within a kitchen setting, surrounded by countertops, cabinets, and other appliances.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663175/7/object_in_frame_366.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663175/7/object_in_frame_368.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663175/7/object_in_frame_191.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663175/7/object_in_frame_223.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663175/7/object_in_frame_369.png"
+    ]
+}

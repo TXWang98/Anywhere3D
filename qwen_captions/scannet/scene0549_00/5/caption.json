@@ -1,0 +1,10 @@
+{
+    "caption": "A glass vase with clear and reflective properties. The tapered rim suggests it is designed for holding flowers. It has a fluted body shape with vertical grooves, enhancing its decorative appeal. Likely used as a floral display container. Positioned on a round wooden table in a living room setting, surrounded by furniture including a blue sofa and patterned armchair.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/end table-5/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/end table-5/object_in_frame_353.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/end table-5/object_in_frame_347.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/end table-5/object_in_frame_354.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/end table-5/object_in_frame_367.png"
+    ]
+}

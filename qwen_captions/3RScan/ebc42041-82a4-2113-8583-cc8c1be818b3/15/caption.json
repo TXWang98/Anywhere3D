@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly frosted glass lampshade with off-white coloring and a cylindrical shape. The tapered rim suggests it is designed to diffuse light evenly. It appears to be part of a ceiling-mounted fixture, suspended by a visible cord. Located in an indoor setting with wooden beams and other structural elements in the background.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ebc42041-82a4-2113-8583-cc8c1be818b3/15/object_in_frame_000298.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ebc42041-82a4-2113-8583-cc8c1be818b3/15/object_in_frame_000325.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ebc42041-82a4-2113-8583-cc8c1be818b3/15/object_in_frame_000160.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ebc42041-82a4-2113-8583-cc8c1be818b3/15/object_in_frame_000343.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ebc42041-82a4-2113-8583-cc8c1be818b3/15/object_in_frame_000296.png"
+    ]
+}

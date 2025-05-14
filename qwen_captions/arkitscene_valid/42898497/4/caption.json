@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly glass bottle-type object with a dark red hue and cylindrical shape. The tapered rim suggests it could be a wine or liquor bottle. Its smooth surface reflects light, indicating a polished finish. Likely used for storing beverages. Positioned on a small wooden side table near a lamp in a living room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/4/object_in_frame_2151.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/4/object_in_frame_2411.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/4/object_in_frame_3581.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/4/object_in_frame_3552.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/4/object_in_frame_3589.png"
+    ]
+}

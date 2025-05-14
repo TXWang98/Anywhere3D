@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy black suitcase with a hard shell and rectangular shape. Features multiple zippers and a telescoping handle. Designed for travel and storage of personal items. Positioned on a wooden table in a living room setting, near a sofa and chair.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/13/object_in_frame_4271.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/13/object_in_frame_2112.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/13/object_in_frame_2479.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/13/object_in_frame_6438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/13/object_in_frame_4396.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with translucent coloring and a rectangular shape. The structure includes a lid and appears to have compartments inside. Likely used for storing bathroom items. Found on the edge of a bathtub, near other containers and toiletries in a bathroom setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0693_00/object-25/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0693_00/object-25/object_in_frame_796.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0693_00/object-25/object_in_frame_720.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0693_00/object-25/object_in_frame_676.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0693_00/object-25/object_in_frame_836.png"
+    ]
+}

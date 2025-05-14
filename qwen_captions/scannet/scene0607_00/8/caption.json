@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic stool with a black seat and angular legs. The frame is silver with a rectangular structure. Likely designed for seating at a table. Positioned under a wooden table in what appears to be an indoor setting, alongside other similar stools.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0607_00/chair-8/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0607_00/chair-8/object_in_frame_41.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0607_00/chair-8/object_in_frame_24.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0607_00/chair-8/object_in_frame_39.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0607_00/chair-8/object_in_frame_7.png"
+    ]
+}

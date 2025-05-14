@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden dining table with a light brown finish and rectangular shape. The surface appears smooth with visible wood grain texture. Likely used for meals or gatherings. Positioned in a dining area surrounded by chairs with green upholstery, near a window with bamboo-patterned wallpaper.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115550/4/object_in_frame_932.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115550/4/object_in_frame_895.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115550/4/object_in_frame_946.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115550/4/object_in_frame_896.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115550/4/object_in_frame_950.png"
+    ]
+}

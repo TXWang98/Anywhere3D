@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic possibly mug with multicolored patterns and a cylindrical shape. Features a handle on one side and a flat base. Likely used for drinking beverages. Placed on a shelf within a cabinet alongside other mugs and decorative items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444966/17/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444966/17/object_in_frame_1055.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444966/17/object_in_frame_997.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444966/17/object_in_frame_1086.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444966/17/object_in_frame_1060.png"
+    ]
+}

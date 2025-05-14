@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric-covered armchair with a patterned beige and brown upholstery. The chair has a cushioned seat and backrest, with visible wear on the fabric. Likely used for seating in a living space. Positioned against a wall near a cluttered shelf filled with various items like boxes and bags.\n\n\"A fabric-covered armchair with beige and brown patterns. Cushioned seat and backrest show signs of use. Likely serves as seating furniture. Located against a wall near a storage shelf.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/object-7/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/object-7/object_in_frame_722.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/object-7/object_in_frame_846.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/object-7/object_in_frame_848.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/object-7/object_in_frame_688.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic vent with white coloring and a rectangular shape. Features horizontal slats for airflow. Functions as an air circulation outlet. Positioned on the ceiling near a shower curtain in a bathroom setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0702_00/picture-10/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0702_00/picture-10/object_in_frame_206.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0702_00/picture-10/object_in_frame_200.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0702_00/picture-10/object_in_frame_202.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0702_00/picture-10/object_in_frame_195.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic chair-type object with a light gray seat and backrest. The structure includes armrests and a metal frame. Likely designed for seating in an office or meeting room. Positioned near other chairs and a blue recycling bin, suggesting a communal workspace setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/wall-31/object_in_frame_1676.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/wall-31/object_in_frame_1672.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/wall-31/object_in_frame_2280.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/wall-31/object_in_frame_2200.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/wall-31/object_in_frame_1740.png"
+    ]
+}

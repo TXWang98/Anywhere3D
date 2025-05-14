@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic oven mitt with bright yellow coloring and a flat, rectangular shape. Appears to have a textured grip surface. Likely used for handling hot cookware. Hanging on the handle of an oven in a modern kitchen setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897508/6/object_in_frame_529.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897508/6/object_in_frame_518.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897508/6/object_in_frame_86.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897508/6/object_in_frame_94.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897508/6/object_in_frame_489.png"
+    ]
+}

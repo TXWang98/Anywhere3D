@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly wooden table-type object with a worn brown surface and rectangular shape. The edges show signs of wear and scratches. Likely used for dining or work purposes. Positioned in a kitchen-like environment near a sink, trash bins, and other furniture.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0412_00/trash can-14/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0412_00/trash can-14/object_in_frame_1062.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0412_00/trash can-14/object_in_frame_192.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0412_00/trash can-14/object_in_frame_1071.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0412_00/trash can-14/object_in_frame_1113.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric sofa with dark gray upholstery and a rectangular shape. Features multiple cushions and a flat, cushioned ottoman extension. Designed for seating multiple people comfortably. Positioned in a living room setting with a coffee table, decorative pillows, and a festive Christmas tree in the background.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/1/object_in_frame_328.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/1/object_in_frame_326.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/1/object_in_frame_841.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/1/object_in_frame_329.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/1/object_in_frame_569.png"
+    ]
+}

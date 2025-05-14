@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric backpack with black coloring and a rectangular shape. Features multiple compartments and straps. Likely used for carrying personal items. Positioned on a chair in an office setting, near other bags and office furniture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/backpack-5/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/backpack-5/object_in_frame_3206.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/backpack-5/object_in_frame_3395.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/backpack-5/object_in_frame_1841.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/backpack-5/object_in_frame_1862.png"
+    ]
+}

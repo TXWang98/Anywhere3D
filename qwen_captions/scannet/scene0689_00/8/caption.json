@@ -1,0 +1,10 @@
+{
+    "caption": "A black plastic chair with a matte finish and ergonomic shape. Features a cushioned seat and backrest with a five-point wheeled base. Designed for office seating. Positioned near a wooden desk in an indoor workspace setting, adjacent to a red wall and electrical outlets.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0689_00/chair-8/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0689_00/chair-8/object_in_frame_319.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0689_00/chair-8/object_in_frame_290.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0689_00/chair-8/object_in_frame_344.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0689_00/chair-8/object_in_frame_298.png"
+    ]
+}

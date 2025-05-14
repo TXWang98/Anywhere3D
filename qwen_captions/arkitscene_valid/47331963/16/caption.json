@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric cushion-type object with dark brown coloring and rectangular shape. Appears soft and plush, conforming to the chair's contours. Likely serves as a seating comfort accessory. Positioned on white dining chairs surrounding a round table in a well-lit room.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/16/object_in_frame_1676.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/16/object_in_frame_1810.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/16/object_in_frame_1817.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/16/object_in_frame_1963.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/16/object_in_frame_1742.png"
+    ]
+}

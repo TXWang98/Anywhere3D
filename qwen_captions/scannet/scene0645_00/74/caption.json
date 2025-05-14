@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic sink with off-white coloring and a rectangular shape. Features a smooth, glossy surface with a central drain and faucet handles on either side. Designed for handwashing and personal hygiene. Positioned on a marble countertop in a bathroom setting, accompanied by soap dishes and toiletries.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/sink-74/object_in_frame_3878.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/sink-74/object_in_frame_3885.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/sink-74/object_in_frame_3955.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/sink-74/object_in_frame_3871.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/sink-74/object_in_frame_3913.png"
+    ]
+}

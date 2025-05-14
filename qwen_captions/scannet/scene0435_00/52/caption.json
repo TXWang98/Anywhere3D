@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic tool-type object, matte black with a rectangular shape. Has a single visible handle and a flat surface. Inconclusive evidence for its specific function, but it may be used for storage or as part of a larger appliance. Found in a hotel room environment near a bed, chair, and desk area.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/mini fridge-52/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/mini fridge-52/object_in_frame_580.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/mini fridge-52/object_in_frame_1760.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/mini fridge-52/object_in_frame_500.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/mini fridge-52/object_in_frame_5.png"
+    ]
+}

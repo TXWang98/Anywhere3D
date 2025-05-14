@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly paperboard sombrero with vibrant multicolor patterns and a wide brim. Features decorative trim along the edge. Likely used for festive occasions or as a costume accessory. Positioned on top of a coat rack alongside jackets, near storage bins and framed artwork in a home setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/picture-41/object_in_frame_180.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/picture-41/object_in_frame_192.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/picture-41/object_in_frame_1473.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/picture-41/object_in_frame_177.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/picture-41/object_in_frame_1470.png"
+    ]
+}

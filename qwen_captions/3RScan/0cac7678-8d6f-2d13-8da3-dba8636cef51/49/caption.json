@@ -1,0 +1,9 @@
+{
+    "caption": "\"A possibly ceramic vase-type object with a white color and cylindrical shape. The tapered rim suggests it may be designed for holding flowers or decorative purposes. While resembling a vase, the presence of surrounding greenery indicates it might be part of an indoor plant arrangement. Found on a shelf alongside other plants and decor items in what appears to be a living space.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/49/object_in_frame_000081.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/49/object_in_frame_000084.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/49/object_in_frame_000083.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/49/object_in_frame_000085.png"
+    ]
+}

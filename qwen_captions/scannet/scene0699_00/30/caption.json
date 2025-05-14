@@ -1,0 +1,10 @@
+{
+    "caption": "A black hairbrush with a dark handle and rectangular shape. The bristles are densely packed and appear to be made of synthetic material. Designed for grooming and styling hair. Positioned on a wooden table alongside personal items like a water bottle, small containers, and electronic devices.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/hair brush-30/object_in_frame_534.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/hair brush-30/object_in_frame_537.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/hair brush-30/object_in_frame_558.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/hair brush-30/object_in_frame_657.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/hair brush-30/object_in_frame_522.png"
+    ]
+}

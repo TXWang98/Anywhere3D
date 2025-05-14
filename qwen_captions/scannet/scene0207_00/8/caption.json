@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden bookshelf with a light brown finish and rectangular shape. Features multiple shelves of varying depths. Likely used for storage and display of books, toys, and other items. Positioned against a wall near a window, with various objects like a blue bag and furniture in the surrounding area.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/rack-8/object_in_frame_1794.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/rack-8/object_in_frame_1779.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/rack-8/object_in_frame_192.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/rack-8/object_in_frame_1758.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/rack-8/object_in_frame_195.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic container-type object with a light beige color and cylindrical shape. The tapered rim suggests it could be a small vase or decorative holder. Its smooth texture and compact size indicate it might be used for storing small items or as an ornamental piece. Placed on a wooden surface, surrounded by other household items like books and furniture in a living room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c7895f2f-339c-2d13-8388-28e95af958de/47/object_in_frame_000229.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c7895f2f-339c-2d13-8388-28e95af958de/47/object_in_frame_000231.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c7895f2f-339c-2d13-8388-28e95af958de/47/object_in_frame_000099.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c7895f2f-339c-2d13-8388-28e95af958de/47/object_in_frame_000142.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c7895f2f-339c-2d13-8388-28e95af958de/47/object_in_frame_000160.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric backpack with purple and green coloring and a rectangular shape. Features multiple compartments and straps. Likely used for carrying personal items. Positioned on the floor near a bed, desk, and storage drawers in a bedroom setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/dresser-28/object_in_frame_3126.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/dresser-28/object_in_frame_2850.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/dresser-28/object_in_frame_3168.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/dresser-28/object_in_frame_3174.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/dresser-28/object_in_frame_2844.png"
+    ]
+}

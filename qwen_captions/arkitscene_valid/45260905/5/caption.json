@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic vase-type object with a glossy finish and vibrant pink floral arrangement. The tapered rim suggests it is designed for holding flowers. While resembling a decorative piece, the presence of flowers indicates its use as a floral display container. Situated on a wooden shelf alongside books and other ornaments in a cozy living room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260905/5/object_in_frame_736.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260905/5/object_in_frame_702.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260905/5/object_in_frame_160.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260905/5/object_in_frame_732.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260905/5/object_in_frame_186.png"
+    ]
+}

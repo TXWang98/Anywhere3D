@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic chair with a dark brown color and an ergonomic shape. The structure includes armrests and a cushioned seat. Likely designed for office use. Positioned in front of a desk surrounded by books, papers, and a computer monitor.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/bookshelf-37/object_in_frame_1296.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/bookshelf-37/object_in_frame_1326.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/bookshelf-37/object_in_frame_1464.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/bookshelf-37/object_in_frame_1458.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/bookshelf-37/object_in_frame_1776.png"
+    ]
+}

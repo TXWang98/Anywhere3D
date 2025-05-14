@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a light blue color and rectangular shape. The tapered rim suggests it might be designed for stacking or easy pouring. Its small size and placement on the table indicate it could be used for holding small items like writing utensils or office supplies. Found on a conference table surrounded by chairs, cables, and other office materials in a meeting room setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0655_00/chair-21/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0655_00/chair-21/object_in_frame_386.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0655_00/chair-21/object_in_frame_209.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0655_00/chair-21/object_in_frame_354.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0655_00/chair-21/object_in_frame_5.png"
+    ]
+}

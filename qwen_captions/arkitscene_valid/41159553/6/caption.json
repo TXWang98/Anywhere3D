@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden bookshelf with a light brown finish and rectangular shape. Features multiple cubby compartments for storage. Likely used for organizing books and other items. Positioned against a wall near a window, with curtains partially drawn and various objects stored inside.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159553/6/object_in_frame_968.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159553/6/object_in_frame_6.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159553/6/object_in_frame_1205.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159553/6/object_in_frame_320.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159553/6/object_in_frame_1192.png"
+    ]
+}

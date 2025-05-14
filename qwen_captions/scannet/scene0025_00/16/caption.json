@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden storage unit with a light beige finish and rectangular shape. Features multiple compartments and shelves for organizing items. Likely used for storing office supplies and documents. Positioned against the wall near a desk setup with a computer, keyboard, and various office tools.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/cabinet-16/object_in_frame_1221.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/cabinet-16/object_in_frame_1212.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/cabinet-16/object_in_frame_1242.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/cabinet-16/object_in_frame_1209.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/cabinet-16/object_in_frame_1230.png"
+    ]
+}

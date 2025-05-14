@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden door-type object with a light beige color and rectangular shape. Features a vertical panel design and a visible handle on the right side. Likely serves as an entrance or closet door. Positioned adjacent to a white dresser in a room with a fireplace and television.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662942/7/object_in_frame_165.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662942/7/object_in_frame_495.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662942/7/object_in_frame_491.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662942/7/object_in_frame_163.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662942/7/object_in_frame_493.png"
+    ]
+}

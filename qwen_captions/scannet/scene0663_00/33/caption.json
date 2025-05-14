@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric-covered chair with a patterned gray seat and backrest. The chair has a slightly reclined posture and is draped with red and green clothing items. Likely used for seating in an office or workspace environment. Positioned near a desk with various objects like bottles and papers, suggesting a casual work area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/chair-33/object_in_frame_1132.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/chair-33/object_in_frame_1096.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/chair-33/object_in_frame_1128.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/chair-33/object_in_frame_1192.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/chair-33/object_in_frame_1208.png"
+    ]
+}

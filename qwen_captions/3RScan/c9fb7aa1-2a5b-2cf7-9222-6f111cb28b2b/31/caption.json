@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly glass vase-type object with translucent coloring. Fluted body shape and water droplets on surface. Likely floral display container. Found on a coffee table alongside magazines, a remote control, and decorative items in a living room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c9fb7aa1-2a5b-2cf7-9222-6f111cb28b2b/31/object_in_frame_000042.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c9fb7aa1-2a5b-2cf7-9222-6f111cb28b2b/31/object_in_frame_000081.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c9fb7aa1-2a5b-2cf7-9222-6f111cb28b2b/31/object_in_frame_000079.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c9fb7aa1-2a5b-2cf7-9222-6f111cb28b2b/31/object_in_frame_000060.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c9fb7aa1-2a5b-2cf7-9222-6f111cb28b2b/31/object_in_frame_000058.png"
+    ]
+}

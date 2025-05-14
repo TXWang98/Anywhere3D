@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a muted orange hue and rounded, shallow shape. The smooth surface lacks distinct structural features. Its function is unclear but may serve as a storage or decorative item. Positioned on a small table surrounded by papers and other miscellaneous items in what appears to be an office or home workspace.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/6/object_in_frame_404.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/6/object_in_frame_526.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/6/object_in_frame_499.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/6/object_in_frame_367.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/6/object_in_frame_397.png"
+    ]
+}

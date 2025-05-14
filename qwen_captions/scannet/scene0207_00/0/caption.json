@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a dark color and rectangular shape. The structure appears to have a lid or cover, suggesting it's designed for storage. Inconclusive evidence for its specific function, but it could be used for organizing small items. Positioned near a bed in what seems to be a bedroom setting, with other household objects like a tissue box and bedding nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/nightstand-0/object_in_frame_390.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/nightstand-0/object_in_frame_378.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/nightstand-0/object_in_frame_96.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/nightstand-0/object_in_frame_387.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/nightstand-0/object_in_frame_384.png"
+    ]
+}

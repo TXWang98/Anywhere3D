@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden possibly door-type object with a medium brown color and rectangular shape. Features vertical paneling and a metallic handle. Likely serves as an entrance or closure for the cabinet. Positioned adjacent to shelves containing various items within what appears to be a storage area.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/36/object_in_frame_8959.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/36/object_in_frame_8956.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/36/object_in_frame_8954.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/36/object_in_frame_3688.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/36/object_in_frame_8962.png"
+    ]
+}

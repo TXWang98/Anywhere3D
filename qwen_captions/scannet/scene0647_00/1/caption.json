@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric-covered booth with blue and patterned upholstery. Features a curved backrest and cushioned seating. Provides a comfortable space for dining or socializing. Positioned against the wall, adjacent to a small table and near a ping pong table in a recreational area.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0647_00/couch-1/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0647_00/couch-1/object_in_frame_470.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0647_00/couch-1/object_in_frame_275.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0647_00/couch-1/object_in_frame_349.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0647_00/couch-1/object_in_frame_411.png"
+    ]
+}

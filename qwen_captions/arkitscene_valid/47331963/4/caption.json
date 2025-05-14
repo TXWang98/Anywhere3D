@@ -1,0 +1,10 @@
+{
+    "caption": "\"A stainless steel oven with a sleek silver finish and rectangular shape. Features a glass door, control knobs on top, and a handle for opening. Designed for baking and cooking. Positioned in a kitchen setting with cabinets and countertops surrounding it.\"\n\n\"A possibly ceramic container-type object with white coloring and cylindrical shape. Has a narrow neck and wider base. Likely used for holding utensils or as a decorative item. Found on a dining table near chairs and other tableware.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/4/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/4/object_in_frame_1734.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/4/object_in_frame_347.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/4/object_in_frame_352.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/4/object_in_frame_1732.png"
+    ]
+}

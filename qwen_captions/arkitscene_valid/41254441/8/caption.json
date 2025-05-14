@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly container-type object with a dark gray color and rectangular shape. The tapered rim suggests it could be a lid or part of a larger appliance. Its flat surface and lack of handles indicate it may not be designed for direct handling. Inconclusive evidence for its exact function, but it appears to be placed on a kitchen countertop near other appliances like a microwave and sink.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254441/8/object_in_frame_932.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254441/8/object_in_frame_621.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254441/8/object_in_frame_620.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254441/8/object_in_frame_380.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254441/8/object_in_frame_626.png"
+    ]
+}

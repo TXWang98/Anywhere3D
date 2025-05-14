@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly container-type object with a silver finish and rectangular shape. The tapered rim suggests it might be designed for dispensing or storing items. Its smooth surface and sturdy build imply durability. Likely used for holding kitchen supplies or utensils. Positioned on the countertop near other kitchen appliances like a coffee maker and refrigerator in a modern kitchen setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0063_00/microwave-0/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0063_00/microwave-0/object_in_frame_379.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0063_00/microwave-0/object_in_frame_409.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0063_00/microwave-0/object_in_frame_395.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0063_00/microwave-0/object_in_frame_441.png"
+    ]
+}

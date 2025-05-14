@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric garment-type object with dark coloration and irregular shape. Appears to be draped over a hook or similar structure. Inconclusive evidence for specific function, but likely used for clothing storage or display. Located in a domestic setting near wooden cabinetry and framed artwork on the wall.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/20/object_in_frame_310.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/20/object_in_frame_312.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/20/object_in_frame_314.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/20/object_in_frame_304.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/20/object_in_frame_309.png"
+    ]
+}

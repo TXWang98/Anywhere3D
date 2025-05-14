@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric sofa with beige upholstery and a rectangular shape. Features a simple, cushioned design with wooden armrests. Likely used for seating in a waiting or lounge area. Positioned against a wall near informational posters and a printer on a small table.\n\nConfidence Signals:\n- The rectangular shape and cushioned appearance suggest it is a sofa.\n- The presence of a backpack indicates it is used for seating.\n- Its placement near informational materials implies a public or office setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0593_00/wall-14/object_in_frame_1710.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0593_00/wall-14/object_in_frame_1713.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0593_00/wall-14/object_in_frame_855.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0593_00/wall-14/object_in_frame_1704.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0593_00/wall-14/object_in_frame_1707.png"
+    ]
+}

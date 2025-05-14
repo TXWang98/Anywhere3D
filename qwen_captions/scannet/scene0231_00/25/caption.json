@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic floor lamp with a sleek silver finish and an elongated cylindrical shape. The tapered rim suggests it is designed for efficient light distribution. Likely provides ambient lighting in the room. Positioned near a window with blinds, surrounded by furniture including armchairs and a sofa in a living space setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/window-25/object_in_frame_1610.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/window-25/object_in_frame_2555.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/window-25/object_in_frame_3269.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/window-25/object_in_frame_1617.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/window-25/object_in_frame_3276.png"
+    ]
+}

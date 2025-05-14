@@ -1,0 +1,9 @@
+{
+    "caption": "\"A ceramic toilet with white coloring and a standard bowl shape. Has a flush mechanism on top and a water tank behind. Designed for sanitary waste disposal. Positioned in a bathroom corner near a door and a gray bath mat.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261185/8/object_in_frame_567.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261185/8/object_in_frame_568.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261185/8/object_in_frame_565.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261185/8/object_in_frame_566.png"
+    ]
+}

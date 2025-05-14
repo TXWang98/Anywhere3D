@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric sofa with dark brown upholstery and a rectangular shape. Features a woven texture on the sides and a flat base. Designed for seating multiple people. Positioned against a decorative wall with artistic elements, adjacent to another similar sofa and a green ottoman in a cozy lounge setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0559_00/wall-1/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0559_00/wall-1/object_in_frame_41.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0559_00/wall-1/object_in_frame_54.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0559_00/wall-1/object_in_frame_59.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0559_00/wall-1/object_in_frame_7.png"
+    ]
+}

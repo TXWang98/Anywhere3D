@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy leather sofa with dark brown coloring and a rectangular shape. Features cushioned seating, armrests, and wooden legs. Designed for comfortable seating. Positioned in a living room setting near a window, radiator, and other furniture like a speaker and TV.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254441/1/object_in_frame_898.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254441/1/object_in_frame_510.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254441/1/object_in_frame_540.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254441/1/object_in_frame_519.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254441/1/object_in_frame_114.png"
+    ]
+}

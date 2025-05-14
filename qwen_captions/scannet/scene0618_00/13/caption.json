@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly structural column-type object with off-white coloring and rectangular shape. Smooth surface texture and solid base. Likely serves as a support structure. Positioned near a pool table and bar seating area in a recreational room.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0618_00/column-13/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0618_00/column-13/object_in_frame_80.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0618_00/column-13/object_in_frame_150.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0618_00/column-13/object_in_frame_148.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0618_00/column-13/object_in_frame_98.png"
+    ]
+}

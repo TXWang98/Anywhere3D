@@ -1,0 +1,9 @@
+{
+    "caption": "\"A possibly ceramic container-type object with white coloring and a cylindrical shape. The tapered rim suggests it could be a small vase or decorative holder. It has a smooth texture and appears to have a hollow interior. Likely used for holding small items or as a decorative piece. Placed on a wooden table near a potted plant, in a well-lit indoor setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a644cb8e-0ee5-2f66-9c91-1db77b5a8f96/20/object_in_frame_000026.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a644cb8e-0ee5-2f66-9c91-1db77b5a8f96/20/object_in_frame_000023.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a644cb8e-0ee5-2f66-9c91-1db77b5a8f96/20/object_in_frame_000025.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a644cb8e-0ee5-2f66-9c91-1db77b5a8f96/20/object_in_frame_000024.png"
+    ]
+}

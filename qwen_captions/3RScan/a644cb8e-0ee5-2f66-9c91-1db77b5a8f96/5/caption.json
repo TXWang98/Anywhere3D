@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric mat-type object with dark gray color and rectangular shape. Has a textured surface with visible fibers. Likely used for cushioning or protection. Positioned on top of a wooden bench in an indoor setting, near tiled flooring.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a644cb8e-0ee5-2f66-9c91-1db77b5a8f96/5/object_in_frame_000090.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a644cb8e-0ee5-2f66-9c91-1db77b5a8f96/5/object_in_frame_000091.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a644cb8e-0ee5-2f66-9c91-1db77b5a8f96/5/object_in_frame_000088.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a644cb8e-0ee5-2f66-9c91-1db77b5a8f96/5/object_in_frame_000089.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a644cb8e-0ee5-2f66-9c91-1db77b5a8f96/5/object_in_frame_000092.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric-covered ottoman with a beige and textured appearance. The rectangular shape features soft, padded surfaces and subtle stitching details. Likely used as a footrest or additional seating. Positioned in front of an armchair within a cozy living room setting, near a sofa and side table.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/ottoman-46/object_in_frame_1141.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/ottoman-46/object_in_frame_1169.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/ottoman-46/object_in_frame_1113.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/ottoman-46/object_in_frame_966.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/ottoman-46/object_in_frame_1001.png"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "caption": "\"A fabric curtain with beige and brown coloring and a rectangular shape. Pleated texture and hanging folds. Likely used for window covering or room division. Positioned along a wall, partially obscuring a window.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/2/object_in_frame_000256.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/2/object_in_frame_000257.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/2/object_in_frame_000258.png"
+    ]
+}

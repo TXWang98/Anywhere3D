@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric backpack with maroon coloring and a structured shape. Features multiple compartments and zippers. Likely used for carrying personal items or school supplies. Placed on an office chair in a meeting room setting, surrounded by other chairs and a whiteboard.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0169_00/chair-3/object_in_frame_324.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0169_00/chair-3/object_in_frame_1533.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0169_00/chair-3/object_in_frame_1518.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0169_00/chair-3/object_in_frame_1515.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0169_00/chair-3/object_in_frame_1506.png"
+    ]
+}

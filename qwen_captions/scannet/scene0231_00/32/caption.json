@@ -1,0 +1,10 @@
+{
+    "caption": "The provided images do not contain a clearly identifiable object within the green bounding box that can be analyzed for category, attributes, and confidence signals. The bounding box appears to enclose empty space or parts of the room without distinct objects. Therefore, it is not possible to generate a caption as requested. If you have another image with a specific object in the green bounding box, please provide it, and I will be happy to analyze it.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/wall-32/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/wall-32/object_in_frame_182.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/wall-32/object_in_frame_1071.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/wall-32/object_in_frame_1022.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/wall-32/object_in_frame_1099.png"
+    ]
+}

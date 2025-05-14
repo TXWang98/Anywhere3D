@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly showerhead with a silver finish and elongated shape. Features a curved arm extending from the wall. Designed for directing water flow in a bathroom setting. Positioned adjacent to a white shower curtain and tiled walls, indicating a typical shower area installation.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/wall-45/object_in_frame_1676.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/wall-45/object_in_frame_1752.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/wall-45/object_in_frame_1696.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/wall-45/object_in_frame_1720.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/wall-45/object_in_frame_1684.png"
+    ]
+}

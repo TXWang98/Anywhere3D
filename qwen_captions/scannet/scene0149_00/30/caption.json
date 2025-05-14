@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric shopping bag with white coloring and a rectangular shape. Features red branding on the side. Likely used for carrying groceries or personal items. Positioned on the floor near a kitchen counter, with a trash bin and other household items in the background.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0149_00/bag-30/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0149_00/bag-30/object_in_frame_610.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0149_00/bag-30/object_in_frame_644.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0149_00/bag-30/object_in_frame_646.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0149_00/bag-30/object_in_frame_592.png"
+    ]
+}

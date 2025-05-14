@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly tissue dispenser-type object with a silver finish and rectangular shape. Has a smooth surface and a slot for dispensing tissues. Likely used for providing toilet paper in a restroom setting. Located on the wall next to a toilet, with grab bars visible nearby.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0441_00/wall-3/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0441_00/wall-3/object_in_frame_6.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0441_00/wall-3/object_in_frame_12.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0441_00/wall-3/object_in_frame_20.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0441_00/wall-3/object_in_frame_19.png"
+    ]
+}

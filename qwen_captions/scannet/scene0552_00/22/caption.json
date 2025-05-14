@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic soap dispenser with a white and light blue color scheme. Has a rectangular shape with a rounded top and a pump mechanism. Likely used for dispensing hand soap. Positioned on the countertop near a sink, next to a coffee maker and toaster oven in a kitchen setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/soap dispenser-22/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/soap dispenser-22/object_in_frame_359.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/soap dispenser-22/object_in_frame_373.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/soap dispenser-22/object_in_frame_395.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/soap dispenser-22/object_in_frame_358.png"
+    ]
+}

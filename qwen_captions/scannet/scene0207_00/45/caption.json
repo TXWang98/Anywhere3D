@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly kettle-type object with a reflective silver surface and a rounded, bulbous shape. The tapered rim suggests it is designed for pouring liquids. Likely used for boiling water. Positioned on a stovetop in a kitchen setting, near other cooking utensils and appliances.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/kitchen cabinets-45/object_in_frame_711.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/kitchen cabinets-45/object_in_frame_687.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/kitchen cabinets-45/object_in_frame_675.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/kitchen cabinets-45/object_in_frame_705.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/kitchen cabinets-45/object_in_frame_684.png"
+    ]
+}

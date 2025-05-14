@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric backpack with dark coloring and a rectangular shape. Features multiple compartments and straps. Likely used for carrying personal items. Positioned on the floor near a suitcase and other travel-related objects in what appears to be a hotel room or similar setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/backpack-19/object_in_frame_948.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/backpack-19/object_in_frame_956.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/backpack-19/object_in_frame_884.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/backpack-19/object_in_frame_1064.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/backpack-19/object_in_frame_952.png"
+    ]
+}

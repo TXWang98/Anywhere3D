@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric possibly bedsheet-type object with white coloring and flat rectangular shape. Smooth texture with slight wrinkles. Likely used for bedding. Positioned on a bed frame in a bedroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ebc42041-82a4-2113-8583-cc8c1be818b3/16/object_in_frame_000422.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ebc42041-82a4-2113-8583-cc8c1be818b3/16/object_in_frame_000268.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ebc42041-82a4-2113-8583-cc8c1be818b3/16/object_in_frame_000211.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ebc42041-82a4-2113-8583-cc8c1be818b3/16/object_in_frame_000204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ebc42041-82a4-2113-8583-cc8c1be818b3/16/object_in_frame_000267.png"
+    ]
+}

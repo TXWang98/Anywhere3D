@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly metallic tool-type object with a matte silver finish and elongated rectangular shape. Angular grooves along its surface suggest specialized functionality, though the exact purpose is unclear. Inconclusive evidence for its use, but it appears to be situated in an environment that could be a workshop or similar setting, near other potential tools or equipment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331337/5/object_in_frame_222.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331337/5/object_in_frame_221.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331337/5/object_in_frame_223.png"
+    ]
+}

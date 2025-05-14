@@ -1,0 +1,10 @@
+{
+    "caption": "A soft fabric pillow with yellow and gray colors and a rectangular shape. Features a striped pattern on one side and a solid color on the other. Likely used for comfort and decoration. Placed on a chair in a living room setting, near another chair and a window.\n\nA soft fabric pillow with yellow and gray colors and a rectangular shape. Features a striped pattern on one side and a solid color on the other. Likely used for comfort and decoration. Placed on a chair in a living room setting, near another chair and a window.\n\nA possibly plastic suitcase with black coloring and a rectangular shape. Has wheels and a handle for easy transportation. Designed for storing and carrying personal items. Positioned on a wooden table in a room with a couch and a green folder nearby.\n\nA soft fabric pillow with yellow coloring and a square shape. Appears plush and comfortable. Likely used for comfort and decoration. Placed on a chair in a living room setting, near a window with a view of greenery outside.\n\nA soft fabric pillow with yellow and gray colors and a rectangular shape. Features a striped pattern on one side and a solid color on the other. Likely used for comfort and decoration. Placed on a chair in a living room setting, near another chair and a window.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/38/object_in_frame_1581.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/38/object_in_frame_2069.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/38/object_in_frame_4269.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/38/object_in_frame_2275.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/38/object_in_frame_3186.png"
+    ]
+}

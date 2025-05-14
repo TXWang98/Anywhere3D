@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric banner-type object with muted gray coloring and rectangular shape. Features the word 'COOKING' in a stylized font. Likely serves as a section divider or label in a bookstore. Positioned above a shelf filled with cookbooks and culinary-related items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/wall-14/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/wall-14/object_in_frame_222.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/wall-14/object_in_frame_1527.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/wall-14/object_in_frame_1521.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/wall-14/object_in_frame_213.png"
+    ]
+}

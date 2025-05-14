@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with white coloring and a rectangular shape. The tapered rim suggests it may be designed for easy pouring or dispensing. Inconclusive evidence for its exact function, but it could be used for storing small items. Found on a bathroom shelf alongside other personal care products like a bottle of orange liquid.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/bottle-28/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/bottle-28/object_in_frame_126.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/bottle-28/object_in_frame_117.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/bottle-28/object_in_frame_927.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/bottle-28/object_in_frame_798.png"
+    ]
+}

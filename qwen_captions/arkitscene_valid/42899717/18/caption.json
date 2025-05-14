@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly cabinet-type object with a dark gray finish and rectangular shape. Features smooth, flat panels with subtle reflections indicating a polished surface. Likely used for storage in a kitchen setting. Positioned above a countertop with various kitchen utensils and appliances visible below.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899717/18/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899717/18/object_in_frame_439.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899717/18/object_in_frame_440.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899717/18/object_in_frame_446.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899717/18/object_in_frame_444.png"
+    ]
+}

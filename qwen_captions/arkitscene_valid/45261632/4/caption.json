@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric-covered bed with white and light blue bedding, featuring a rectangular shape. The bed has a low-profile frame and visible mattress contours. Likely used for sleeping. Positioned against a wall in a bedroom setting, near a window with teal curtains and framed artwork on the wall.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261632/4/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261632/4/object_in_frame_6.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261632/4/object_in_frame_88.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261632/4/object_in_frame_97.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261632/4/object_in_frame_5.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic vase-type object with a dark reddish-brown hue and a rounded, slightly tapered shape. The textured surface suggests a handcrafted finish. Likely used as a decorative item or for holding flowers. Placed on a glass-top coffee table surrounded by greenery and other decorative elements in a living room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c9fb7aa1-2a5b-2cf7-9222-6f111cb28b2b/29/object_in_frame_000042.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c9fb7aa1-2a5b-2cf7-9222-6f111cb28b2b/29/object_in_frame_000091.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c9fb7aa1-2a5b-2cf7-9222-6f111cb28b2b/29/object_in_frame_000041.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c9fb7aa1-2a5b-2cf7-9222-6f111cb28b2b/29/object_in_frame_000040.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c9fb7aa1-2a5b-2cf7-9222-6f111cb28b2b/29/object_in_frame_000082.png"
+    ]
+}

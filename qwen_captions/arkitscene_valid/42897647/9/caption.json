@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with white coloring and rectangular shape. Has a flat top surface and appears to be lightweight. Likely used for storage or as a makeshift table. Positioned on the floor near furniture, cables, and other household items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897647/9/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897647/9/object_in_frame_1011.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897647/9/object_in_frame_765.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897647/9/object_in_frame_874.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897647/9/object_in_frame_869.png"
+    ]
+}

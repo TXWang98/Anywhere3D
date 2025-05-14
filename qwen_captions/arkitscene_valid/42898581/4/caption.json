@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden dresser with a light brown finish and rectangular shape. Features multiple drawers with round knobs. Provides storage space for clothing or personal items. Positioned against the wall in a bedroom setting, near a bed and bedside table.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898581/4/object_in_frame_1676.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898581/4/object_in_frame_2964.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898581/4/object_in_frame_1804.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898581/4/object_in_frame_2961.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898581/4/object_in_frame_1718.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric cushion-type object with vibrant red and orange patterns. Irregular, starburst-like shape with layered texture. Likely decorative or functional seating support. Placed on a patterned sofa alongside other cushions in a living room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/2/object_in_frame_404.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/2/object_in_frame_410.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/2/object_in_frame_108.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/2/object_in_frame_413.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/2/object_in_frame_361.png"
+    ]
+}

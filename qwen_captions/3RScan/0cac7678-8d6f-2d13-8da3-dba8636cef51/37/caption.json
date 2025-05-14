@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic container-type object with dark coloring and rectangular shape. Has a simple, boxy structure with no visible handles or lids. Inconclusive evidence for its function, but it may be used for storage. Positioned near a wooden beam in what appears to be an indoor setting with white walls and ceiling lights.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/37/object_in_frame_000119.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/37/object_in_frame_000274.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/37/object_in_frame_000121.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/37/object_in_frame_000273.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/37/object_in_frame_000122.png"
+    ]
+}

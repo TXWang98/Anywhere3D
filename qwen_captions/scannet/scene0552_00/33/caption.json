@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with white and translucent coloring. Cylindrical shape with a slightly tapered rim suggests it could be a cup or small bucket. The smooth texture indicates a utilitarian design. Likely used for storage or as a disposable container. Found on the floor near a green bucket and a cardboard box in an office setting with desks and chairs around.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/bucket-33/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/bucket-33/object_in_frame_178.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/bucket-33/object_in_frame_157.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/bucket-33/object_in_frame_153.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/bucket-33/object_in_frame_181.png"
+    ]
+}

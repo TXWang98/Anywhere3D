@@ -1,0 +1,10 @@
+{
+    "caption": "A white plastic keyboard with a rectangular shape. Flat and compact design with visible keys. Used for typing on computers. Positioned in front of an iMac monitor on a desk, alongside a mouse.\n\n(Note: The object is clearly identifiable as a keyboard across all viewpoints.)",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0598_00/keyboard-15/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0598_00/keyboard-15/object_in_frame_312.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0598_00/keyboard-15/object_in_frame_423.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0598_00/keyboard-15/object_in_frame_406.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0598_00/keyboard-15/object_in_frame_313.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white plastic grab bar with a smooth surface and elongated rectangular shape. The horizontal orientation and sturdy attachment to the wall suggest it is designed for support and safety. Positioned adjacent to a toilet in a bathroom setting, likely intended to assist individuals with mobility challenges.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/towel-20/object_in_frame_1132.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/towel-20/object_in_frame_1096.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/towel-20/object_in_frame_1036.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/towel-20/object_in_frame_1072.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/towel-20/object_in_frame_1120.png"
+    ]
+}

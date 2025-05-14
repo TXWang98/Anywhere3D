@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly container-type object with a silver finish and rectangular shape. Has a smooth surface and appears to have a lid or opening mechanism. Likely used for storage or serving. Positioned on a kitchen countertop near other utensils and appliances.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446038/3/object_in_frame_84.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446038/3/object_in_frame_426.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446038/3/object_in_frame_79.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446038/3/object_in_frame_427.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446038/3/object_in_frame_122.png"
+    ]
+}

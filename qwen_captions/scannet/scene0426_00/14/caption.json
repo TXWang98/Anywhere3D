@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden window blind with light brown slats and rectangular shape. The horizontal arrangement of the slats allows for adjustable light control. Likely used to regulate natural light and provide privacy. Positioned above a bed with red bedding in a bedroom setting, adjacent to a desk with a keyboard and monitor.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/window-14/object_in_frame_1323.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/window-14/object_in_frame_1182.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/window-14/object_in_frame_1326.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/window-14/object_in_frame_1320.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/window-14/object_in_frame_1329.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic elevator door with a brushed silver finish and rectangular shape. The smooth surface and vertical lines suggest a modern design. Likely functions as an entrance to an elevator shaft. Positioned adjacent to a beige armchair and a patterned rug in a well-lit indoor space.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0316_00/doorframe-11/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0316_00/doorframe-11/object_in_frame_170.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0316_00/doorframe-11/object_in_frame_137.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0316_00/doorframe-11/object_in_frame_153.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0316_00/doorframe-11/object_in_frame_146.png"
+    ]
+}

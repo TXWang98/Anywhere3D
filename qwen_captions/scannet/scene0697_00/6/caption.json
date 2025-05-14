@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic remote control with black coloring and rectangular shape. Has multiple buttons and a smooth surface. Likely used for operating electronic devices. Found on top of a wooden nightstand alongside other remotes, a lamp, and tissue box.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/nightstand-6/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/nightstand-6/object_in_frame_1328.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/nightstand-6/object_in_frame_20.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/nightstand-6/object_in_frame_188.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/nightstand-6/object_in_frame_172.png"
+    ]
+}

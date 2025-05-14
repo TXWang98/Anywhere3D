@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic clock with a white face and circular shape. The black numbers and hands are clearly visible. Designed for timekeeping. Mounted on a wall in an office setting, near a window with blinds and computer monitors below.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/clock-24/object_in_frame_3330.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/clock-24/object_in_frame_3336.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/clock-24/object_in_frame_3354.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/clock-24/object_in_frame_3372.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/clock-24/object_in_frame_3348.png"
+    ]
+}

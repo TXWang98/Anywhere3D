@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy plastic keyboard with black keys and a rectangular shape. Features a standard QWERTY layout with visible function keys. Designed for typing input on computers. Positioned on a wooden desk alongside a laptop, mug, and various office supplies.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/keyboard-21/object_in_frame_1794.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/keyboard-21/object_in_frame_1437.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/keyboard-21/object_in_frame_1494.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/keyboard-21/object_in_frame_1458.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/keyboard-21/object_in_frame_1434.png"
+    ]
+}

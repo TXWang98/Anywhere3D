@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly storage cabinet with a gray finish and rectangular shape. Features smooth surfaces and simple handles. Likely used for storing kitchen items. Positioned above the countertop in a kitchen setting, near a sink and various kitchen appliances.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662970/6/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662970/6/object_in_frame_50.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662970/6/object_in_frame_29.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662970/6/object_in_frame_59.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662970/6/object_in_frame_22.png"
+    ]
+}

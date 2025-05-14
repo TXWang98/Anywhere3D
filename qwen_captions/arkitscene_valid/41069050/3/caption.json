@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white ceramic bathtub with a smooth, glossy finish and a rectangular shape. The tapered rim suggests it is designed for comfortable bathing. It features a built-in faucet and drain system. Positioned in a bathroom setting, surrounded by tiled walls and accompanied by a towel rack and sink.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069050/3/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069050/3/object_in_frame_199.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069050/3/object_in_frame_188.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069050/3/object_in_frame_181.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069050/3/object_in_frame_198.png"
+    ]
+}

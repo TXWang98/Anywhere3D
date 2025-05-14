@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic plate with a neutral beige color and circular shape. Smooth surface texture with no visible patterns or embellishments. Likely used for dining purposes. Positioned on a round table alongside other plates, placemats, and a vase of red tulips in a kitchen setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/3/object_in_frame_1723.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/3/object_in_frame_1726.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/3/object_in_frame_1753.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/3/object_in_frame_1724.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/3/object_in_frame_1725.png"
+    ]
+}

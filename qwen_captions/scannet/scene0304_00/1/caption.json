@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic mailboxes with a silver and black color scheme and a rectangular shape. The mailboxes are arranged in a grid pattern with multiple compartments, each featuring a small door and a slot for mail insertion. They are designed for individual mail storage and retrieval. Positioned along the wall of what appears to be a postal or office setting, with tiled flooring and additional similar units visible in the background.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/mailboxes-1/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/mailboxes-1/object_in_frame_952.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/mailboxes-1/object_in_frame_1098.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/mailboxes-1/object_in_frame_1022.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/mailboxes-1/object_in_frame_1106.png"
+    ]
+}

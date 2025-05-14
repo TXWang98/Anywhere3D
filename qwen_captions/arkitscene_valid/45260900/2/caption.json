@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic toilet with white coloring and a rounded, compact shape. Features a closed lid and tank structure. Designed for sanitary waste disposal. Positioned in a bathroom setting alongside a shower enclosure, scale, and cleaning supplies.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260900/2/object_in_frame_143.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260900/2/object_in_frame_220.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260900/2/object_in_frame_249.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260900/2/object_in_frame_247.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260900/2/object_in_frame_243.png"
+    ]
+}

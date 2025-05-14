@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden chair with a natural finish and slatted backrest. The structure features vertical spindles and a flat seat. Likely designed for seating in a meeting or classroom setting. Positioned around a long table in a conference room environment, alongside other similar chairs.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0500_00/chair-42/object_in_frame_1794.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0500_00/chair-42/object_in_frame_99.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0500_00/chair-42/object_in_frame_120.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0500_00/chair-42/object_in_frame_9.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0500_00/chair-42/object_in_frame_114.png"
+    ]
+}

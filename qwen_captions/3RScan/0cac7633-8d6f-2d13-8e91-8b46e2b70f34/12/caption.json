@@ -1,0 +1,8 @@
+{
+    "caption": "\"A fabric garment with black coloring and draped shape. Features a gathered knot detail at the front. Likely worn as an outer layer or decorative piece. Displayed on a mannequin or similar stand, possibly in a retail setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7633-8d6f-2d13-8e91-8b46e2b70f34/12/object_in_frame_000032.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7633-8d6f-2d13-8e91-8b46e2b70f34/12/object_in_frame_000034.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7633-8d6f-2d13-8e91-8b46e2b70f34/12/object_in_frame_000033.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly tool-type object, matte silver with angular grooves. Ambiguous function between wrench or specialized clamp. Seen in workshop environment near assembly parts.\" \n\nHowever, upon analyzing the provided images, it appears that the green bounding box does not consistently enclose a specific object across the different viewpoints. The bounding box seems to be highlighting areas of the floor and walls rather than a distinct object. Therefore, it is inconclusive evidence for identifying a particular category or attributes of an object within the green bounding box.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/44/object_in_frame_3532.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/44/object_in_frame_4183.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/44/object_in_frame_2571.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/44/object_in_frame_2621.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/44/object_in_frame_3458.png"
+    ]
+}

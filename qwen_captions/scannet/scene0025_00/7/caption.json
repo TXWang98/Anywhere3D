@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly wooden door with a light brown color and rectangular shape. The smooth surface and vertical grain pattern suggest it's made of wood or a wood-like material. Likely serves as an entrance or exit point. Positioned adjacent to a white shelving unit containing various office supplies and equipment, indicating an office or workspace setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/door-7/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/door-7/object_in_frame_621.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/door-7/object_in_frame_1497.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/door-7/object_in_frame_1551.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/door-7/object_in_frame_624.png"
+    ]
+}

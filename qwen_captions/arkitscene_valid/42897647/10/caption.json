@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic container-type object with a light green hue and rectangular shape. The tapered rim suggests it may be a storage bin or organizer. Its smooth surface and lack of handles indicate it's not meant for direct handling. Likely used for storing kitchen items. Positioned on a countertop within a kitchen setting, near other cabinets and appliances.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897647/10/object_in_frame_998.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897647/10/object_in_frame_959.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897647/10/object_in_frame_1002.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897647/10/object_in_frame_997.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897647/10/object_in_frame_966.png"
+    ]
+}

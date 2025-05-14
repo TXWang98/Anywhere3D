@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic trash can with a dark gray color and cylindrical shape. The tapered rim suggests it's designed for easy disposal of waste. Features a flexible bag liner inside. Likely used for collecting household garbage. Positioned in a corner near a refrigerator and wooden door, indicating a kitchen or utility area setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0412_00/trash can-5/object_in_frame_1443.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0412_00/trash can-5/object_in_frame_1509.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0412_00/trash can-5/object_in_frame_1545.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0412_00/trash can-5/object_in_frame_1542.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0412_00/trash can-5/object_in_frame_1536.png"
+    ]
+}

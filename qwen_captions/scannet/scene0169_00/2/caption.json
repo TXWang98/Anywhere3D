@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic chair with a dark gray seat and backrest, featuring a simple rectangular shape. The chair has a sturdy frame with four legs ending in black casters for mobility. Designed for seating in office or meeting environments. Positioned under a long table alongside other similar chairs in a conference room setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0169_00/chair-2/object_in_frame_948.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0169_00/chair-2/object_in_frame_864.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0169_00/chair-2/object_in_frame_921.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0169_00/chair-2/object_in_frame_945.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0169_00/chair-2/object_in_frame_912.png"
+    ]
+}

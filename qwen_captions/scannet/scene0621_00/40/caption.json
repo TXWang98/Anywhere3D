@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic chair with dark gray upholstery and a rectangular shape. The structure includes armrests and a metal frame with four legs. Likely designed for seating in an office or meeting room environment. Positioned near other chairs and tables, suggesting a collaborative workspace setup.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/chair-40/object_in_frame_2264.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/chair-40/object_in_frame_796.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/chair-40/object_in_frame_732.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/chair-40/object_in_frame_684.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/chair-40/object_in_frame_700.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A ceramic possibly vase-type object with a dark red color and a rounded shape. The tapered rim suggests it may be designed for holding flowers or decorative purposes. While resembling a vase, the presence of a small plant inside indicates its use as a planter. Found on a windowsill in an office setting, alongside another potted plant and various office supplies on desks below.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0591_00/window-25/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0591_00/window-25/object_in_frame_50.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0591_00/window-25/object_in_frame_102.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0591_00/window-25/object_in_frame_276.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0591_00/window-25/object_in_frame_110.png"
+    ]
+}

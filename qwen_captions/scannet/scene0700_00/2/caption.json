@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric chair with black color and ergonomic shape. Has a mesh backrest and cushioned seat. Designed for office seating. Positioned near a desk with computer peripherals.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/chair-2/object_in_frame_3878.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/chair-2/object_in_frame_3969.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/chair-2/object_in_frame_3857.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/chair-2/object_in_frame_147.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/chair-2/object_in_frame_2576.png"
+    ]
+}

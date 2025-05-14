@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric bag-type object with green and yellow patterns. Irregular shape with soft, flexible structure. Likely used for carrying items. Seen hanging under a desk near office furniture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/4fbad320-465b-2a5d-85d7-dc83aa09a9fa/37/object_in_frame_000917.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/4fbad320-465b-2a5d-85d7-dc83aa09a9fa/37/object_in_frame_000062.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/4fbad320-465b-2a5d-85d7-dc83aa09a9fa/37/object_in_frame_001178.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/4fbad320-465b-2a5d-85d7-dc83aa09a9fa/37/object_in_frame_001179.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/4fbad320-465b-2a5d-85d7-dc83aa09a9fa/37/object_in_frame_000677.png"
+    ]
+}

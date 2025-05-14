@@ -1,0 +1,10 @@
+{
+    "caption": "\"A stainless steel possibly oven-type object with a black glass front and rectangular shape. Has multiple control knobs and a digital display. Likely used for baking and cooking. Positioned in a kitchen setting near other appliances like pots and pans.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/10/object_in_frame_2553.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/10/object_in_frame_2578.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/10/object_in_frame_2564.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/10/object_in_frame_2571.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/10/object_in_frame_1423.png"
+    ]
+}

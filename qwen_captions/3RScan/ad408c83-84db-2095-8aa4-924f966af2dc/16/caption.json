@@ -1,0 +1,9 @@
+{
+    "caption": "\"A possibly metallic tool-type object with a dark color and elongated shape. Angular grooves and ridges suggest a specialized function. Inconclusive evidence for its exact purpose, but it may be used for mechanical tasks. Found in a workshop environment near various tools and equipment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ad408c83-84db-2095-8aa4-924f966af2dc/16/object_in_frame_000006.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ad408c83-84db-2095-8aa4-924f966af2dc/16/object_in_frame_000075.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ad408c83-84db-2095-8aa4-924f966af2dc/16/object_in_frame_000005.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ad408c83-84db-2095-8aa4-924f966af2dc/16/object_in_frame_000076.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly upholstered chair with dark fabric and a rectangular backrest. The structure includes wooden legs and armrests. Likely designed for seating in a dining or lounge area. Positioned near a wooden table, with other similar chairs and tables visible in the surrounding environment.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0609_00/chair-11/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0609_00/chair-11/object_in_frame_244.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0609_00/chair-11/object_in_frame_347.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0609_00/chair-11/object_in_frame_188.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0609_00/chair-11/object_in_frame_561.png"
+    ]
+}

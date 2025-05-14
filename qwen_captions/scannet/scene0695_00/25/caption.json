@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a light color and rectangular shape. The tapered rim suggests it might be designed for easy pouring or stacking. Inconclusive evidence for its specific function, but it could be used for storage. Positioned on a shelf near the corner of a room, with no other objects immediately surrounding it.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/wall-25/object_in_frame_219.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/wall-25/object_in_frame_1107.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/wall-25/object_in_frame_222.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/wall-25/object_in_frame_231.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/wall-25/object_in_frame_207.png"
+    ]
+}

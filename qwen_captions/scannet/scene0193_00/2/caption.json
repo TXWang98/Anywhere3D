@@ -1,0 +1,10 @@
+{
+    "caption": "A white possibly door-type object with a simple rectangular shape. The tapered rim suggests it is designed to fit within a frame. Likely serves as an entrance or exit point. Positioned adjacent to a wooden desk and chair in what appears to be a bedroom setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0193_00/door-2/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0193_00/door-2/object_in_frame_470.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0193_00/door-2/object_in_frame_439.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0193_00/door-2/object_in_frame_448.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0193_00/door-2/object_in_frame_453.png"
+    ]
+}

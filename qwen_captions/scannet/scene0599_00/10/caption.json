@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic wall-mounted telephone with a beige color and rectangular shape. Has a coiled cord and a standard handset design. Likely used for internal communication within the building. Mounted on a green wall near a door and a table with chairs in what appears to be an office or institutional setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/telephone-10/object_in_frame_948.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/telephone-10/object_in_frame_1137.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/telephone-10/object_in_frame_1161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/telephone-10/object_in_frame_858.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/telephone-10/object_in_frame_819.png"
+    ]
+}

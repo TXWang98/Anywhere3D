@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a dark color and rectangular shape. Inconclusive evidence for its material properties due to low lighting. Likely used for storage or housing electronic components. Positioned under a desk near a bed, surrounded by various household items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/monitor-38/object_in_frame_1392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/monitor-38/object_in_frame_1371.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/monitor-38/object_in_frame_54.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/monitor-38/object_in_frame_1398.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/monitor-38/object_in_frame_1632.png"
+    ]
+}

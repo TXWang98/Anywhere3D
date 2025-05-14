@@ -1,0 +1,10 @@
+{
+    "caption": "\"A weathered wooden table with a faded brown finish and slatted surface. The table shows signs of wear, with peeling paint and visible grain texture. Its sturdy legs and crossbars suggest it is designed for outdoor use. Positioned on a tiled patio, the table is accompanied by a cutting board and some bottles, indicating a casual dining or preparation area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/9/object_in_frame_1004.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/9/object_in_frame_1175.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/9/object_in_frame_1102.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/9/object_in_frame_1402.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/9/object_in_frame_1053.png"
+    ]
+}

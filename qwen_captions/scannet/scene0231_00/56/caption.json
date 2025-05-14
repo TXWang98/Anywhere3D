@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly glass sliding door with a transparent and rectangular shape. Features a black frame and handle on the side. Likely used for access to an outdoor area. Positioned adjacent to kitchen cabinets and countertops, with natural light streaming through.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/window-56/object_in_frame_3878.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/window-56/object_in_frame_2121.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/window-56/object_in_frame_3899.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/window-56/object_in_frame_945.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/window-56/object_in_frame_3864.png"
+    ]
+}

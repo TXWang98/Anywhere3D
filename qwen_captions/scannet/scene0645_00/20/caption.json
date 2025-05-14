@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric bed with white and dark brown coloring. Features a rectangular shape with a flat surface and raised headboard. Designed for sleeping or resting. Positioned in a bedroom setting, adjacent to a nightstand with a lamp.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/bed-20/object_in_frame_168.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/bed-20/object_in_frame_2954.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/bed-20/object_in_frame_63.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/bed-20/object_in_frame_2996.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/bed-20/object_in_frame_70.png"
+    ]
+}

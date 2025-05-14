@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden bowl-type object with a natural brown color and rounded shape. The interior appears smooth, suggesting it may be used for holding items. Its placement on a cluttered desk alongside other objects like paper towels and bottles indicates a casual storage or decorative function.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/plate-27/object_in_frame_1392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/plate-27/object_in_frame_30.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/plate-27/object_in_frame_120.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/plate-27/object_in_frame_24.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/plate-27/object_in_frame_1716.png"
+    ]
+}

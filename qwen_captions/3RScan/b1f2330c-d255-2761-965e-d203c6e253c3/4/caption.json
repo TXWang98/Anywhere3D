@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic container-type object with a light beige color and cylindrical shape. The tapered rim suggests it might be used for storage or display purposes. It has a smooth surface and appears to have a lid. Found on a shelf alongside other similar containers in what seems to be an indoor setting, possibly a kitchen or pantry area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/b1f2330c-d255-2761-965e-d203c6e253c3/4/object_in_frame_000081.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/b1f2330c-d255-2761-965e-d203c6e253c3/4/object_in_frame_000068.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/b1f2330c-d255-2761-965e-d203c6e253c3/4/object_in_frame_000069.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/b1f2330c-d255-2761-965e-d203c6e253c3/4/object_in_frame_000082.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/b1f2330c-d255-2761-965e-d203c6e253c3/4/object_in_frame_000070.png"
+    ]
+}

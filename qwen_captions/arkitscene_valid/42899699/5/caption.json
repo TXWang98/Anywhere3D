@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric container-type object with dark blue coloring and rectangular shape. Appears soft and flexible, likely made of cloth material. Could be used for storage or carrying items. Positioned on a shelf in an entryway area, surrounded by shoes and other household items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899699/5/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899699/5/object_in_frame_0.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899699/5/object_in_frame_4.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899699/5/object_in_frame_1.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899699/5/object_in_frame_7.png"
+    ]
+}

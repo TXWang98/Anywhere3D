@@ -1,0 +1,10 @@
+{
+    "caption": "A ceramic toilet with a white color and rounded shape. Has a smooth, glossy surface and a flush handle on the side. Used for waste disposal. Positioned in a bathroom setting next to a sink and countertop with toiletries.\n\nInconclusive evidence for additional features due to limited viewpoints. The presence of a folded towel on top suggests it is part of a clean and organized bathroom setup.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0406_00/wall-17/object_in_frame_132.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0406_00/wall-17/object_in_frame_124.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0406_00/wall-17/object_in_frame_746.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0406_00/wall-17/object_in_frame_766.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0406_00/wall-17/object_in_frame_744.png"
+    ]
+}

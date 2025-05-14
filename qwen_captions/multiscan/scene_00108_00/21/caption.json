@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic tool-type object, matte silver with angular grooves. Ambiguous function between wrench or specialized clamp. Seen in workshop environment near assembly parts.\n\nInconclusive evidence for the exact nature of the object within the green bounding box across multiple viewpoints. The object appears as a shadowy form on a white surface, lacking distinct color patterns, material properties, or structural features that would confidently identify it as a specific category. The surrounding context does not provide additional clues about its function or placement. \n\n\"A possibly metallic tool-type object with indistinct color and shape. Inconclusive evidence for its structure or texture details. Ambiguous function. Found in an unclear environment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/21/object_in_frame_8836.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/21/object_in_frame_8648.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/21/object_in_frame_8633.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/21/object_in_frame_8852.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/21/object_in_frame_8663.png"
+    ]
+}

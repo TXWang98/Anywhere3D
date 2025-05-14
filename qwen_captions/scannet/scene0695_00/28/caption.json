@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic laptop with a silver body and rectangular shape. Features a keyboard, trackpad, and screen. Designed for computing tasks. Positioned on a wooden desk surrounded by office supplies and personal items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/laptop-28/object_in_frame_642.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/laptop-28/object_in_frame_651.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/laptop-28/object_in_frame_696.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/laptop-28/object_in_frame_669.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/laptop-28/object_in_frame_708.png"
+    ]
+}

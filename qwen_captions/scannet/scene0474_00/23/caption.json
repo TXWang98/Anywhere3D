@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly glass window-type object with a translucent appearance and rectangular shape. The surface shows reflections and faint smudges. Likely serves as a viewing panel on a door. Positioned adjacent to a wooden door in an office setting, with shelves containing various items nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/window-23/object_in_frame_824.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/window-23/object_in_frame_842.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/window-23/object_in_frame_844.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/window-23/object_in_frame_858.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/window-23/object_in_frame_856.png"
+    ]
+}

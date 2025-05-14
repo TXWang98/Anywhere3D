@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic folding table with a white surface and rectangular shape. The structure appears lightweight and portable, with visible legs supporting the flat top. Likely used as a temporary workspace or storage area. Positioned in a laundry room setting, adjacent to a washing machine and near cardboard boxes on the floor.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0139_00/table-25/object_in_frame_498.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0139_00/table-25/object_in_frame_482.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0139_00/table-25/object_in_frame_476.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0139_00/table-25/object_in_frame_500.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0139_00/table-25/object_in_frame_496.png"
+    ]
+}

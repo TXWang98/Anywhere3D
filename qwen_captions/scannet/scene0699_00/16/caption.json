@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy plastic chair with white coloring and a smooth, rounded shape. The tapered rim suggests it is designed for ergonomic seating. Made for comfortable sitting in various environments. Positioned near a wooden table with personal items like a water bottle, brush, and wallet.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/chair-16/object_in_frame_804.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/chair-16/object_in_frame_600.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/chair-16/object_in_frame_612.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/chair-16/object_in_frame_648.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/chair-16/object_in_frame_627.png"
+    ]
+}

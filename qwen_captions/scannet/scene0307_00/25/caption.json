@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric-covered container-type object with a light beige and floral pattern. The tapered rim suggests it might be used for storage or display. Its structure includes a soft, draped texture over an underlying form. Likely serves as a decorative or functional storage piece. Found on top of a small table in a utility room setting, surrounded by cleaning supplies and household items.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/cabinet-25/object_in_frame_1392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/cabinet-25/object_in_frame_1371.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/cabinet-25/object_in_frame_1398.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/cabinet-25/object_in_frame_402.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/cabinet-25/object_in_frame_441.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric shower curtain with beige coloring and a vertical pleated shape. Features a soft, textured surface. Serves as a privacy barrier for the bathtub. Positioned between the toilet and bathtub in a bathroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/shower curtain-33/object_in_frame_2345.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/shower curtain-33/object_in_frame_2320.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/shower curtain-33/object_in_frame_2450.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/shower curtain-33/object_in_frame_2245.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/shower curtain-33/object_in_frame_2310.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden chair with a light brown finish and a rectangular backrest. Features vertical slats on the backrest and armrests. Designed for seating at tables. Positioned along a long table in a meeting room setting, surrounded by similar chairs.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0500_00/chair-35/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0500_00/chair-35/object_in_frame_909.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0500_00/chair-35/object_in_frame_1029.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0500_00/chair-35/object_in_frame_1005.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0500_00/chair-35/object_in_frame_1014.png"
+    ]
+}

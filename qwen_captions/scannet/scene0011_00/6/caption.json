@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy ceramic table with a dark brown finish and rectangular shape. The surface is smooth and reflective, showing light reflections and subtle texture variations. Likely serves as a dining or meeting surface. Positioned in a dining area surrounded by matching chairs and benches, with a television and other furniture visible in the background.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0011_00/chair-6/object_in_frame_1605.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0011_00/chair-6/object_in_frame_1596.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0011_00/chair-6/object_in_frame_1098.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0011_00/chair-6/object_in_frame_1083.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0011_00/chair-6/object_in_frame_1119.png"
+    ]
+}

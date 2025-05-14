@@ -1,0 +1,10 @@
+{
+    "caption": "\"A stainless steel oven with a brushed metallic finish and rectangular shape. Features a glass door with a handle, control knobs on the side, and a gas stovetop above. Designed for baking and cooking. Positioned in a kitchen setting next to a countertop and other appliances.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899717/15/object_in_frame_463.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899717/15/object_in_frame_459.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899717/15/object_in_frame_449.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899717/15/object_in_frame_469.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899717/15/object_in_frame_453.png"
+    ]
+}

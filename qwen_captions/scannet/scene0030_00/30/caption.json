@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic chair with blue and brown coloring. Has a rectangular backrest and seat, supported by metal legs. Likely designed for classroom seating. Positioned around a white table in front of a chalkboard with mathematical equations.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/wall-30/object_in_frame_1508.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/wall-30/object_in_frame_1504.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/wall-30/object_in_frame_1448.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/wall-30/object_in_frame_1528.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/wall-30/object_in_frame_1480.png"
+    ]
+}

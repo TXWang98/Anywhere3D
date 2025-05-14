@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic power strip with white color and rectangular shape. Has multiple outlets and a flat base. Likely used for distributing electricity to various devices. Placed on a cluttered desk surrounded by books, cables, and other small objects.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/5/object_in_frame_2109.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/5/object_in_frame_2471.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/5/object_in_frame_2450.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/5/object_in_frame_2512.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/5/object_in_frame_2327.png"
+    ]
+}

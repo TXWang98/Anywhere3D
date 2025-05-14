@@ -1,0 +1,10 @@
+{
+    "caption": "A cardboard possibly container-type object with brown and printed patterns. Rectangular shape with visible flaps and seams. Likely used for storage or transport. Found on a shelf among other boxes and office supplies in what appears to be an office or library setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/shower wall-60/object_in_frame_900.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/shower wall-60/object_in_frame_788.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/shower wall-60/object_in_frame_808.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/shower wall-60/object_in_frame_648.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/shower wall-60/object_in_frame_688.png"
+    ]
+}

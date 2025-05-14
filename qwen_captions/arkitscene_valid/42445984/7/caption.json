@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden chair with dark brown coloring and a classic design. Features a curved backrest with vertical slats and a flat seat cushion. Provides seating functionality. Positioned at a dining table surrounded by other chairs and household items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445984/7/object_in_frame_742.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445984/7/object_in_frame_580.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445984/7/object_in_frame_591.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445984/7/object_in_frame_749.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445984/7/object_in_frame_578.png"
+    ]
+}

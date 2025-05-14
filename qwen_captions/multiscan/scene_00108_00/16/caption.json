@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly refrigerator door with a brushed silver finish and rectangular shape. Smooth surface with horizontal lines indicating separate compartments. Likely used for storing food items. Positioned adjacent to kitchen cabinets and a countertop appliance.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/16/object_in_frame_2691.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/16/object_in_frame_2680.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/16/object_in_frame_2693.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/16/object_in_frame_2692.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/16/object_in_frame_2687.png"
+    ]
+}

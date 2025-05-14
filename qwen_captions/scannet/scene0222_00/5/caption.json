@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic fan with a dark color and cylindrical shape. The structure includes a mesh grille and a stand base. Likely used for air circulation. Positioned on a desk surrounded by various personal items like bottles, bags, and papers in what appears to be a dorm room setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/bed-5/object_in_frame_2691.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/bed-5/object_in_frame_2349.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/bed-5/object_in_frame_2637.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/bed-5/object_in_frame_2646.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/bed-5/object_in_frame_4842.png"
+    ]
+}

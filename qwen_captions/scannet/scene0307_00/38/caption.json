@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden chair with a dark brown finish and rectangular shape. The chair has a simple, sturdy structure with four legs and a flat seat. It appears to be designed for seating purposes. Positioned in a kitchen area near a doorway, surrounded by various household items like a green cloth draped over it and storage shelves nearby.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/wall-38/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/wall-38/object_in_frame_174.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/wall-38/object_in_frame_159.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/wall-38/object_in_frame_147.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/wall-38/object_in_frame_738.png"
+    ]
+}

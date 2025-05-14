@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic vase-type object with a light beige color and a cylindrical shape. The tapered rim suggests it may be designed for holding flowers or decorative purposes. While resembling a vase, the presence of what appears to be a small opening at the top could indicate an alternative function. Inconclusive evidence for its exact use. Found on a dark surface near a window with sunlight streaming in, surrounded by plants and other household items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c7895f2f-339c-2d13-8388-28e95af958de/38/object_in_frame_000027.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c7895f2f-339c-2d13-8388-28e95af958de/38/object_in_frame_000128.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c7895f2f-339c-2d13-8388-28e95af958de/38/object_in_frame_000026.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c7895f2f-339c-2d13-8388-28e95af958de/38/object_in_frame_000004.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c7895f2f-339c-2d13-8388-28e95af958de/38/object_in_frame_000002.png"
+    ]
+}

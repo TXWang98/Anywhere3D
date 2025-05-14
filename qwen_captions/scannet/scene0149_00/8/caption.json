@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white microwave with a rectangular shape and smooth surface. Features a transparent door panel and control buttons on the side. Designed for heating and cooking food. Positioned above a stove in a kitchen setting, surrounded by cabinets and various kitchen items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0149_00/kitchen cabinets-8/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0149_00/kitchen cabinets-8/object_in_frame_58.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0149_00/kitchen cabinets-8/object_in_frame_108.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0149_00/kitchen cabinets-8/object_in_frame_76.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0149_00/kitchen cabinets-8/object_in_frame_820.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric possibly container-type object with muted brown and gray tones. Rectangular shape with soft, folded edges. Appears to be a storage bag or cushioned item. Likely used for storing or organizing items. Positioned on the floor near a bookshelf filled with various items and beside a colorful chair in a living room setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/blanket-16/object_in_frame_932.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/blanket-16/object_in_frame_852.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/blanket-16/object_in_frame_302.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/blanket-16/object_in_frame_848.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/blanket-16/object_in_frame_874.png"
+    ]
+}

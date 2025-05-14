@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic filing cabinet with a light gray color and rectangular shape. Features multiple drawers with handles for storage. Likely used for organizing documents or small items. Positioned near a desk in a home office setting, with a backpack and other office supplies nearby.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0518_00/drawer-8/object_in_frame_84.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0518_00/drawer-8/object_in_frame_92.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0518_00/drawer-8/object_in_frame_88.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0518_00/drawer-8/object_in_frame_166.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0518_00/drawer-8/object_in_frame_172.png"
+    ]
+}

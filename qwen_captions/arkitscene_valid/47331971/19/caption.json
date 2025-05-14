@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly refrigerator with a dark gray finish and rectangular shape. Features vertical handles and a sleek, modern design. Likely used for food storage. Positioned in a kitchen setting near a cabinet filled with various items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/19/object_in_frame_2383.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/19/object_in_frame_2380.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/19/object_in_frame_2377.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/19/object_in_frame_2384.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/19/object_in_frame_2379.png"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "caption": "A matte black possibly floor lamp with a white conical shade and slender pole. The tapered rim suggests it is designed for ambient lighting. The structure includes a vertical stand with a control knob near the base. Likely used for room illumination. Positioned against a wall between two doors, with chairs partially visible in the foreground.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/wall-19/object_in_frame_894.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/wall-19/object_in_frame_897.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/wall-19/object_in_frame_891.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/wall-19/object_in_frame_906.png"
+    ]
+}

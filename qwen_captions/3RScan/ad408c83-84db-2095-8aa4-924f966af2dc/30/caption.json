@@ -1,0 +1,9 @@
+{
+    "caption": "\"A possibly plastic container-type object with a translucent appearance and cylindrical shape. The tapered rim suggests it could be a lid or part of a larger assembly. Its smooth texture and uniform structure indicate it may serve as a storage or functional component. Found in a workshop environment, surrounded by tools and materials on shelves.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ad408c83-84db-2095-8aa4-924f966af2dc/30/object_in_frame_000050.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ad408c83-84db-2095-8aa4-924f966af2dc/30/object_in_frame_000014.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ad408c83-84db-2095-8aa4-924f966af2dc/30/object_in_frame_000013.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ad408c83-84db-2095-8aa4-924f966af2dc/30/object_in_frame_000051.png"
+    ]
+}

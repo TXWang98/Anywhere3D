@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic cup with a white color and cylindrical shape. Simple, smooth texture with no visible structural features. Likely used for holding beverages. Placed on a wooden table in a meeting room setting surrounded by chairs.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0500_00/wall-22/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0500_00/wall-22/object_in_frame_1122.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0500_00/wall-22/object_in_frame_1098.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0500_00/wall-22/object_in_frame_927.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0500_00/wall-22/object_in_frame_1149.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with green and multicolored patterns. Rectangular shape with a lid partially open. Appears to be used for storage or carrying items. Located near a staircase, alongside other household objects like a bag and bottles. Inconclusive evidence for its exact contents or purpose.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/stair rail-16/object_in_frame_355.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/stair rail-16/object_in_frame_353.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/stair rail-16/object_in_frame_347.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/stair rail-16/object_in_frame_354.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0357_00/stair rail-16/object_in_frame_371.png"
+    ]
+}

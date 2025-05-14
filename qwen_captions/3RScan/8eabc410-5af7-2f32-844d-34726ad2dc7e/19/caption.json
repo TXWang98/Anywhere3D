@@ -1,0 +1,9 @@
+{
+    "caption": "\"A metallic possibly projector-type object with a white and gray color scheme. Rectangular shape with protruding lenses and ventilation grilles. Likely used for displaying visual content. Mounted on the ceiling in a classroom setting, surrounded by desks and chairs.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/19/object_in_frame_000418.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/19/object_in_frame_000419.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/19/object_in_frame_000212.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/19/object_in_frame_000436.png"
+    ]
+}

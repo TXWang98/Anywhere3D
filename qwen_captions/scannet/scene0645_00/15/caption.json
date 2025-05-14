@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric towel with white color and rectangular shape. Appears soft and folded. Likely used for drying or decoration. Hanging on a wall-mounted rack in a bathroom setting.\"\n\n\"A possibly plastic bottle-type object with translucent coloring. Cylindrical body shape with a narrow neck. Likely contains liquid. Positioned on top of a wooden cabinet in a bedroom environment.\"\n\n\"A fabric towel with white color and rectangular shape. Appears soft and folded. Likely used for drying or decoration. Hanging on a wall-mounted rack in a bathroom setting near a sink and mirror.\"\n\n\"A possibly plastic bottle-type object with translucent coloring. Cylindrical body shape with a narrow neck. Likely contains liquid. Positioned on top of a wooden cabinet in a bedroom environment.\"\n\n\"Inconclusive evidence for the category within the green bounding box. The area appears to be part of a dark, possibly wooden surface with no distinct features. No clear attributes or functions can be inferred. Located on top of a wooden cabinet in a bedroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/towel-15/object_in_frame_3815.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/towel-15/object_in_frame_2737.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/towel-15/object_in_frame_3836.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/towel-15/object_in_frame_2730.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/towel-15/object_in_frame_2751.png"
+    ]
+}

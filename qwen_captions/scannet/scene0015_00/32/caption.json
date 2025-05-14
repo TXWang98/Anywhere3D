@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic container-type object with a silver finish and cylindrical shape. The tapered rim suggests it could be a cup or small pitcher. Its smooth surface reflects light, indicating a polished material. Likely used for holding liquids or as a decorative item. Positioned on a table in a meeting room setting, surrounded by chairs and other tables.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/table-32/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/table-32/object_in_frame_96.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/table-32/object_in_frame_1002.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/table-32/object_in_frame_921.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/table-32/object_in_frame_162.png"
+    ]
+}

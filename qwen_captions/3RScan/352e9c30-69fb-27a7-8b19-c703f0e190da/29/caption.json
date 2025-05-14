@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic tool-type object with a matte silver finish and angular grooves. Inconclusive evidence for its exact function, but it may be used as a wrench or specialized clamp. Seen in a workshop environment near assembly parts.\"\n\n\"A glossy ceramic mug with deep blue coloring and rounded shape. The tapered rim suggests it is designed for comfortable drinking. Made for holding hot beverages. Sitting beside a coffee maker and jar of beans on a kitchen counter.\"\n\n\"A glass vase-type object with translucent amber coloring. Fluted body shape and water droplets on surface. Likely floral display container. Found on windowsill with plants and pruning shears nearby.\"\n\n\"A possibly wooden side table with a light brown finish and rectangular shape. Has a flat top surface and sturdy legs. Likely used for placing decorative items or small objects. Positioned against a dark wall in a living room setting.\"\n\n\"A possibly metallic tool-type object with a matte silver finish and angular grooves. Inconclusive evidence for its exact function, but it may be used as a wrench or specialized clamp. Seen in a workshop environment near assembly parts.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/29/object_in_frame_000054.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/29/object_in_frame_000338.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/29/object_in_frame_000332.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/29/object_in_frame_000340.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/29/object_in_frame_000339.png"
+    ]
+}

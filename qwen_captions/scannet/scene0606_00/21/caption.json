@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic chair with a dark color and rectangular shape. The structure includes armrests and a cushioned seat. Likely designed for seating in an office or home environment. Positioned on a wooden floor near a desk with various items like a spray bottle and cables around it.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/sofa chair-21/object_in_frame_824.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/sofa chair-21/object_in_frame_852.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/sofa chair-21/object_in_frame_772.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/sofa chair-21/object_in_frame_776.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/sofa chair-21/object_in_frame_856.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a translucent appearance and rectangular shape. Inconclusive evidence for its specific function, but it may be used for storage or as part of an office setup. Seen on the edge of a table in a meeting room environment with chairs and other furniture around.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0354_00/doorframe-11/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0354_00/doorframe-11/object_in_frame_426.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0354_00/doorframe-11/object_in_frame_403.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0354_00/doorframe-11/object_in_frame_406.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0354_00/doorframe-11/object_in_frame_437.png"
+    ]
+}

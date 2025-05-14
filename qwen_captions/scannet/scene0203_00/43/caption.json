@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden bookshelf with a light beige finish and rectangular shape. The structure features multiple shelves of varying depths, designed for storing books and other items. It appears to be used for organizing media and decorative objects. Positioned in a living room setting, adjacent to a couch and near a television setup.\n\nConfidence Signals:\n- \"The consistent spacing between shelves suggests it is intended for versatile storage.\"\n- \"While resembling a standard bookshelf, the presence of both books and electronic devices indicates multipurpose use.\"\n- \"Inconclusive evidence for its exact origin, but its design is typical of modern home furniture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/wall-43/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/wall-43/object_in_frame_460.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/wall-43/object_in_frame_454.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/wall-43/object_in_frame_432.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/wall-43/object_in_frame_446.png"
+    ]
+}

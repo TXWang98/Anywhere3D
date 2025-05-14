@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly storage rack with a dark gray finish and rectangular shape. Features multiple horizontal shelves and vertical support bars. Likely used for organizing items. Positioned in a bathroom corner near a towel rack and wooden cabinet.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/ladder-2/object_in_frame_1794.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/ladder-2/object_in_frame_1770.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/ladder-2/object_in_frame_1584.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/ladder-2/object_in_frame_372.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/ladder-2/object_in_frame_1764.png"
+    ]
+}

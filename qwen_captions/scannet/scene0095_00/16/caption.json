@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white storage cabinet with a smooth surface and rectangular shape. Features multiple drawers with black handles. Likely used for storing office supplies or documents. Positioned against the wall in an office setting, near desks and chairs.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0095_00/cabinet-16/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0095_00/cabinet-16/object_in_frame_886.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0095_00/cabinet-16/object_in_frame_314.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0095_00/cabinet-16/object_in_frame_880.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0095_00/cabinet-16/object_in_frame_340.png"
+    ]
+}

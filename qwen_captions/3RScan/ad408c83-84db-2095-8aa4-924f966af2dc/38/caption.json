@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic container-type object with a muted beige color and cylindrical shape. The tapered rim suggests it could be a mug or small vase. Inconclusive evidence for its function, but it may hold liquids or serve as a decorative piece. Placed on a cluttered shelf alongside various other items in what appears to be a storage area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ad408c83-84db-2095-8aa4-924f966af2dc/38/object_in_frame_000054.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ad408c83-84db-2095-8aa4-924f966af2dc/38/object_in_frame_000032.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ad408c83-84db-2095-8aa4-924f966af2dc/38/object_in_frame_000060.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ad408c83-84db-2095-8aa4-924f966af2dc/38/object_in_frame_000053.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ad408c83-84db-2095-8aa4-924f966af2dc/38/object_in_frame_000059.png"
+    ]
+}

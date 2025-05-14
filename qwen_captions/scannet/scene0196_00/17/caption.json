@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic chair with dark gray coloring and a rectangular shape. Features a mesh backrest and armrests. Designed for seating in an office or classroom setting. Positioned around white tables in a meeting room environment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0196_00/chair-17/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0196_00/chair-17/object_in_frame_351.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0196_00/chair-17/object_in_frame_159.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0196_00/chair-17/object_in_frame_267.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0196_00/chair-17/object_in_frame_321.png"
+    ]
+}

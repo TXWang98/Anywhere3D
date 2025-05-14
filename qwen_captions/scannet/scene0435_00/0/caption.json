@@ -1,0 +1,10 @@
+{
+    "caption": "A [material] possibly {generic}-type object with [neutral color] and [flat, rectangular shape]. [No distinct structural or texture details visible]. [Inconclusive evidence for function due to lack of features]. [Located on a plain wall above a bed in a bedroom setting].\n\nThe green bounding box appears to enclose an empty section of the wall above the bed. There are no discernible objects within this area across the multiple viewpoints provided. The context suggests it might be a space intended for decoration or a fixture, but there is no concrete evidence to determine its purpose or category confidently.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/wall-0/object_in_frame_1340.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/wall-0/object_in_frame_1405.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/wall-0/object_in_frame_1390.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/wall-0/object_in_frame_1345.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/wall-0/object_in_frame_1355.png"
+    ]
+}

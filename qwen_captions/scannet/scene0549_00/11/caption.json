@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric armchair with a blue patterned upholstery and a rectangular shape. The chair has padded armrests and a cushioned seat, suggesting comfort for seating. Positioned in a living room setting, it is placed near a wooden coffee table and a green sofa, indicating a cozy arrangement for relaxation or social interaction.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/armchair-11/object_in_frame_529.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/armchair-11/object_in_frame_470.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/armchair-11/object_in_frame_513.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/armchair-11/object_in_frame_402.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/armchair-11/object_in_frame_417.png"
+    ]
+}

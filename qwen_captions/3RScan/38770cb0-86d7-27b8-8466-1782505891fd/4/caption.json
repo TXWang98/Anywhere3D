@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric container-type object with black and white patterns. Irregular shape with soft texture. Likely used for storage or as a decorative throw. Seen draped on a couch alongside other clothing items in a living room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/4/object_in_frame_000006.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/4/object_in_frame_000151.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/4/object_in_frame_000004.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/4/object_in_frame_000008.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/4/object_in_frame_000152.png"
+    ]
+}

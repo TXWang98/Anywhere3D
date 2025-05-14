@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly metallic door with a light gray color and rectangular shape. The structure includes hinges and a handle, suggesting it is meant for opening and closing. It appears to be part of an interior space, likely separating rooms or providing access to another area. Positioned adjacent to a window and near classroom furniture like chairs and tables.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/13/object_in_frame_000322.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/13/object_in_frame_000323.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/13/object_in_frame_000218.png"
+    ]
+}

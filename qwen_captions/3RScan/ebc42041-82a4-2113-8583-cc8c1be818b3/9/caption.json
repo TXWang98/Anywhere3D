@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white door with a glass panel and rectangular shape. Features a simple handle and lock mechanism. Likely serves as an entrance or exit. Positioned in a room corner, adjacent to a wall-mounted light switch and near some hanging garments.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ebc42041-82a4-2113-8583-cc8c1be818b3/9/object_in_frame_000308.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ebc42041-82a4-2113-8583-cc8c1be818b3/9/object_in_frame_000180.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ebc42041-82a4-2113-8583-cc8c1be818b3/9/object_in_frame_000095.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ebc42041-82a4-2113-8583-cc8c1be818b3/9/object_in_frame_000309.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ebc42041-82a4-2113-8583-cc8c1be818b3/9/object_in_frame_000306.png"
+    ]
+}

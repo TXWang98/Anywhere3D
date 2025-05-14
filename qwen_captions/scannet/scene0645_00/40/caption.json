@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric curtain-type object with beige and layered structure. Features a draped design with soft folds. Likely used for window covering and light control. Positioned above a window, complementing the room's decor.\n\nThe tapered rim suggests it is part of a larger window treatment setup. While resembling a curtain, the presence of sheer panels underneath indicates a dual-layered design. Inconclusive evidence for its exact material, but it appears to be a lightweight fabric suitable for indoor use.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/curtain-40/object_in_frame_854.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/curtain-40/object_in_frame_910.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/curtain-40/object_in_frame_840.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/curtain-40/object_in_frame_896.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/curtain-40/object_in_frame_847.png"
+    ]
+}

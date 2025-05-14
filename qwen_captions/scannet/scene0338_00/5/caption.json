@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly data safe with a light gray color and rectangular shape. Features a secure door with a handle and a label indicating \"DATASAFE.\" Likely used for storing important documents or electronic media. Positioned next to a black cabinet in an office environment, near cardboard boxes on the floor.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0338_00/mailbox-5/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0338_00/mailbox-5/object_in_frame_580.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0338_00/mailbox-5/object_in_frame_46.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0338_00/mailbox-5/object_in_frame_585.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0338_00/mailbox-5/object_in_frame_592.png"
+    ]
+}

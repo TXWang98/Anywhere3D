@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric sofa with a neutral beige tone and rectangular shape. Features cushioned backrest and seat, adorned with patterned and solid-colored throw pillows in shades of brown, yellow, and blue. Designed for seating multiple people comfortably. Positioned centrally in a living room setting, surrounded by a glass coffee table, sideboard, and decorative items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662981/2/object_in_frame_968.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662981/2/object_in_frame_524.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662981/2/object_in_frame_302.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662981/2/object_in_frame_316.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662981/2/object_in_frame_311.png"
+    ]
+}

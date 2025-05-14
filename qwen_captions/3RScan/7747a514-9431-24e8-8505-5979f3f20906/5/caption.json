@@ -1,0 +1,7 @@
+{
+    "caption": "\"A possibly plastic container-type object with a translucent blue tint and an irregular shape. The structure appears to have a flexible, slightly crumpled texture. Its function is unclear but may be used for storage or as a disposable item. It is placed on the floor near a table cluttered with papers and other items in what seems to be a casual indoor setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/5/object_in_frame_000034.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/7747a514-9431-24e8-8505-5979f3f20906/5/object_in_frame_000137.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly glass container-type object with clear coloring and cylindrical shape. Has a tapered rim suggesting it could be a drinking vessel or storage jar. The smooth, transparent surface allows visibility of contents inside. Likely used for holding liquids or small items. Positioned on a bedside table alongside a lamp and other personal belongings.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331314/3/object_in_frame_355.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331314/3/object_in_frame_359.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331314/3/object_in_frame_383.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331314/3/object_in_frame_352.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331314/3/object_in_frame_381.png"
+    ]
+}

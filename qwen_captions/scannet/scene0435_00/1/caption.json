@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic chair with a dark color and ergonomic shape. Features a mesh backrest and armrests. Likely designed for office or desk use. Positioned in front of a desk with papers, a lamp, and other office supplies.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/wall-1/object_in_frame_1625.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/wall-1/object_in_frame_1630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/wall-1/object_in_frame_1610.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/wall-1/object_in_frame_1620.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/wall-1/object_in_frame_1645.png"
+    ]
+}

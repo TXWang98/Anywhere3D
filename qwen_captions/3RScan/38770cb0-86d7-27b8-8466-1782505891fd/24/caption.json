@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy black possibly e-reader-type object with a rectangular shape. Has a smooth, flat surface and visible screen area. Likely used for digital reading. Placed on a light wooden shelf alongside framed pictures in a home setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/24/object_in_frame_000276.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/24/object_in_frame_000272.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/24/object_in_frame_000237.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/24/object_in_frame_000214.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/24/object_in_frame_000593.png"
+    ]
+}

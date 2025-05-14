@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a muted yellow color and rectangular shape. The structure appears to have a smooth surface with no distinct features or handles. Its function is unclear, but it may be used for storage. It is placed against a wall in what seems to be a living space, near a sofa and other household items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358440/9/object_in_frame_155.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358440/9/object_in_frame_156.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358440/9/object_in_frame_152.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358440/9/object_in_frame_151.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358440/9/object_in_frame_153.png"
+    ]
+}

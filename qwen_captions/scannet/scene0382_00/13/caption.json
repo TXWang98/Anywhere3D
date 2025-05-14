@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric-type object with dark blue coloring and a rectangular shape. Appears to have a smooth texture and is partially draped over an edge. Inconclusive evidence for its function, but it may be used as a cover or decorative item. Seen in an indoor setting near a carpeted floor and office furniture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0382_00/wall-13/object_in_frame_529.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0382_00/wall-13/object_in_frame_510.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0382_00/wall-13/object_in_frame_523.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0382_00/wall-13/object_in_frame_521.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0382_00/wall-13/object_in_frame_525.png"
+    ]
+}

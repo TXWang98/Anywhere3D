@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric container-type object with dark gray coloring and a rectangular shape. Appears to have a soft texture and flexible structure. Likely used for storage or as a laundry basket. Positioned on the floor near a couch in a living room setting, with cushions and other furniture around.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445441/3/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445441/3/object_in_frame_319.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445441/3/object_in_frame_4.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445441/3/object_in_frame_65.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445441/3/object_in_frame_288.png"
+    ]
+}

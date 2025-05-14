@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic vase-type object with a translucent appearance and a fluted body shape. The tapered rim suggests it may be used for holding flowers or decorative purposes. While resembling a vase, the presence of water droplets on its surface indicates recent use or cleaning. It is placed on a round table covered with a white tablecloth, surrounded by festive decorations including a Christmas tree and other holiday items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899471/6/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899471/6/object_in_frame_731.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899471/6/object_in_frame_725.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899471/6/object_in_frame_723.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899471/6/object_in_frame_443.png"
+    ]
+}

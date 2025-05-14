@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic soap dish with off-white coloring and a shallow, oval shape. Has a smooth texture and slight indentation for holding soap. Likely used for storing bar soap. Positioned on the bathroom countertop near the sink.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/wall-71/object_in_frame_3878.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/wall-71/object_in_frame_3843.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/wall-71/object_in_frame_3857.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/wall-71/object_in_frame_3871.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/wall-71/object_in_frame_3822.png"
+    ]
+}

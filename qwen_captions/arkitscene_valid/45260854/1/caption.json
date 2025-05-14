@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric bedsheet-type object with light yellow and textured pattern. The draped form suggests a soft, knitted material. Likely serves as bedding or decorative cover. Positioned on a wooden floor near a white fur rug and a storage bin.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260854/1/object_in_frame_245.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260854/1/object_in_frame_252.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260854/1/object_in_frame_244.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260854/1/object_in_frame_246.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260854/1/object_in_frame_249.png"
+    ]
+}

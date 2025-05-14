@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly umbrella stand with a dark finish and cylindrical shape. Features an open framework design for holding umbrellas. Likely used for storing and organizing umbrellas. Positioned near an entrance door, alongside shoes and other household items on the floor.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/doors-35/object_in_frame_806.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/doors-35/object_in_frame_790.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/doors-35/object_in_frame_808.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/doors-35/object_in_frame_798.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/doors-35/object_in_frame_768.png"
+    ]
+}

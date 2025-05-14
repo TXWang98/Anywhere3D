@@ -1,0 +1,10 @@
+{
+    "caption": "A white plastic bag with orange handles and a cylindrical shape. The bag appears to be tied at the top, suggesting it is used for storage or disposal. It is placed on the floor near a doorway, next to a blue recycling bin and a small black object that could be a pet bowl. The surrounding area includes a kitchen counter with various items like a basket and a container. \n\nConfidence Signal: \"The cylindrical shape and tied top suggest it is likely used for storing or disposing of items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/bag-7/object_in_frame_1392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/bag-7/object_in_frame_2208.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/bag-7/object_in_frame_2008.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/bag-7/object_in_frame_1936.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/bag-7/object_in_frame_2056.png"
+    ]
+}

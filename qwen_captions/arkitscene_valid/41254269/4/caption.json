@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden wardrobe with a light brown finish and rectangular shape. Features two doors with simple handles and a straight-edged design. Likely used for storing clothes. Positioned against the wall in a bedroom, adjacent to a bed and near an open doorway.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254269/4/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254269/4/object_in_frame_80.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254269/4/object_in_frame_71.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254269/4/object_in_frame_67.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254269/4/object_in_frame_64.png"
+    ]
+}

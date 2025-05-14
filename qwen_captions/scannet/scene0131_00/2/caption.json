@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic chair with dark gray and green coloring. Has a contoured backrest and padded seat. Five-star base with casters for mobility. Positioned at a desk workspace, surrounded by office supplies and computer equipment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0131_00/office chair-2/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0131_00/office chair-2/object_in_frame_379.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0131_00/office chair-2/object_in_frame_394.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0131_00/office chair-2/object_in_frame_372.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0131_00/office chair-2/object_in_frame_397.png"
+    ]
+}

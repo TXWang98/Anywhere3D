@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric curtain with beige and brown striped patterns. The material appears soft and slightly textured, with a pleated structure that suggests it can be drawn aside. Its function is to provide privacy for the bathtub area. Positioned along the edge of the bathtub, it hangs from a rod above, partially covering the tub while allowing access.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/bathtub-9/object_in_frame_2295.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/bathtub-9/object_in_frame_2210.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/bathtub-9/object_in_frame_2175.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/bathtub-9/object_in_frame_2300.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/bathtub-9/object_in_frame_2285.png"
+    ]
+}

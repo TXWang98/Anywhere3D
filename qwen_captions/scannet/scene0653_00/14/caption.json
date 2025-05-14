@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic chair with a blue and beige color scheme. Has an ergonomic design with a cushioned seat and backrest. The five-star base and casters suggest mobility. Positioned at a desk setup with a computer monitor, keyboard, and mouse nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/desk-14/object_in_frame_3156.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/desk-14/object_in_frame_3408.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/desk-14/object_in_frame_3102.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/desk-14/object_in_frame_3006.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/desk-14/object_in_frame_2994.png"
+    ]
+}

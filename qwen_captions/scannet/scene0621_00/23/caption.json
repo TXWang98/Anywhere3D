@@ -1,0 +1,10 @@
+{
+    "caption": "A matte black table with a flat surface and rectangular shape. The edges are sharp and the surface appears smooth. Likely used for meetings or work sessions. Positioned in a room surrounded by chairs, near a wall with a chalkboard and blinds.\n\nConfidence Signals:\n- \"The flat surface and rectangular shape suggest it is designed for functional use.\"\n- \"While resembling a typical office table, the presence of surrounding chairs reinforces its purpose as a workspace.\"\n- \"Inconclusive evidence for specific material properties due to image resolution.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/chair-23/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/chair-23/object_in_frame_1096.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/chair-23/object_in_frame_1036.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/chair-23/object_in_frame_292.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/chair-23/object_in_frame_340.png"
+    ]
+}

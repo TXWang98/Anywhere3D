@@ -1,0 +1,10 @@
+{
+    "caption": "A cardboard box-type object with white and printed patterns. Rectangular shape with visible flaps and some markings. Likely used for storage or shipping purposes. Positioned on the floor near a desk setup, surrounded by office supplies and equipment.\n\nConfidence Signals:\n- The rectangular shape and visible flaps suggest it is a standard cardboard box.\n- While resembling a typical storage container, the presence of printed patterns indicates it may have been used for specific items.\n- Inconclusive evidence for its exact contents, but its placement suggests it is part of an office environment.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/board-11/object_in_frame_1296.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/board-11/object_in_frame_1752.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/board-11/object_in_frame_846.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/board-11/object_in_frame_1302.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/board-11/object_in_frame_1068.png"
+    ]
+}

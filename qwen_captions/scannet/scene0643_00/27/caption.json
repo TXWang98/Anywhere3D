@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly ceramic container-type object with a white and red color pattern. The tapered rim suggests it might be a decorative item or a small vase. It has a smooth surface and appears to have a circular opening at the top. While resembling a vase, the presence of printed text on its side hints at potential functional use as a holder or display piece. Found on a shelf in an office environment, surrounded by papers, a computer setup, and other office supplies.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/book-27/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/book-27/object_in_frame_1365.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/book-27/object_in_frame_1362.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/book-27/object_in_frame_1335.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/book-27/object_in_frame_48.png"
+    ]
+}

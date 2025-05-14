@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic oven with a black and silver color scheme and a rectangular shape. Features a glass door, control knobs on the top panel, and a handle for opening. Designed for baking and cooking food. Positioned within a kitchen setting, surrounded by wooden cabinets and a countertop.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/16/object_in_frame_1191.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/16/object_in_frame_1166.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/16/object_in_frame_1184.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/16/object_in_frame_1159.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/16/object_in_frame_1216.png"
+    ]
+}

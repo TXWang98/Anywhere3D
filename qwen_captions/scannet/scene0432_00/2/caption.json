@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly upholstered armchair with dark blue coloring and a cushioned structure. Features patterned fabric on the backrest. Likely designed for seating comfort. Positioned against a yellow wall near a small round table and tufted ottoman in a cozy indoor setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0432_00/sofa chair-2/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0432_00/sofa chair-2/object_in_frame_124.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0432_00/sofa chair-2/object_in_frame_102.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0432_00/sofa chair-2/object_in_frame_149.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0432_00/sofa chair-2/object_in_frame_203.png"
+    ]
+}

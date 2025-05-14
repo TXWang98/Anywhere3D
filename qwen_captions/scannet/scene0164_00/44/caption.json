@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic microwave with a dark gray exterior and rectangular shape. The front panel features control knobs and a digital display. Likely used for heating food. Positioned on the kitchen countertop, adjacent to a stove and coffee maker.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/wall-44/object_in_frame_1419.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/wall-44/object_in_frame_1416.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/wall-44/object_in_frame_150.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/wall-44/object_in_frame_147.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/wall-44/object_in_frame_153.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric jacket-type object with a heathered gray color and rectangular shape. Appears to have long sleeves and a textured surface. Likely worn as outerwear. Hanging on a wall hook in an office setting, near bookshelves and a desk.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/door-2/object_in_frame_1296.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/door-2/object_in_frame_1371.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/door-2/object_in_frame_1356.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/door-2/object_in_frame_1299.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/door-2/object_in_frame_1374.png"
+    ]
+}

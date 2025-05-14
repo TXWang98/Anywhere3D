@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric backpack with black and red coloring and a rectangular shape. Features multiple compartments and straps. Designed for carrying personal items. Positioned against a wall near office chairs and other belongings.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/backpack-6/object_in_frame_1778.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/backpack-6/object_in_frame_3206.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/backpack-6/object_in_frame_3584.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/backpack-6/object_in_frame_1813.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/backpack-6/object_in_frame_1799.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden bookcase with a light brown finish and rectangular shape. Features glass-paneled doors and multiple shelves inside. Likely used for storing books and decorative items. Positioned against a beige wall in a room with other furniture like chairs and tables visible.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/7/object_in_frame_867.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/7/object_in_frame_878.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/7/object_in_frame_858.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/7/object_in_frame_880.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/7/object_in_frame_863.png"
+    ]
+}

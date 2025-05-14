@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a dark gray color and rectangular shape. The structure appears to have a lid or top section that might be hinged. It seems designed for storage purposes, potentially for outdoor use given its placement on a patio near other containers and shelving units.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/b1f2330c-d255-2761-965e-d203c6e253c3/11/object_in_frame_000090.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/b1f2330c-d255-2761-965e-d203c6e253c3/11/object_in_frame_000088.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/b1f2330c-d255-2761-965e-d203c6e253c3/11/object_in_frame_000086.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/b1f2330c-d255-2761-965e-d203c6e253c3/11/object_in_frame_000082.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/b1f2330c-d255-2761-965e-d203c6e253c3/11/object_in_frame_000089.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly glass container-type object with clear transparency and cylindrical shape. The tapered rim suggests it could be a drinking glass or small vase. Inconclusive evidence for its exact function, but it appears suitable for holding liquids or small items. Positioned on a shelf in what seems to be a dining area, near other household objects.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445984/15/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445984/15/object_in_frame_337.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445984/15/object_in_frame_339.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445984/15/object_in_frame_331.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445984/15/object_in_frame_341.png"
+    ]
+}

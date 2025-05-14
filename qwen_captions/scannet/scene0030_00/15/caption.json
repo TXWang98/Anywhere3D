@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy wooden table with a rich brown color and rectangular shape. Features a smooth, polished surface with visible wood grain patterns. Serves as a workspace or study area. Positioned in a library setting surrounded by bookshelves filled with books and other study materials.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/chair-15/object_in_frame_2328.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/chair-15/object_in_frame_2340.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/chair-15/object_in_frame_2348.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/chair-15/object_in_frame_1148.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/chair-15/object_in_frame_1168.png"
+    ]
+}

@@ -1,0 +1,1802 @@
+[
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0011_00",
+        "scene_name": "scene0011_00",
+        "db_id": "6789ee23ff2bd0480fd1bd1f",
+        "exp_file_index": 0,
+        "new_referring_expressions": "Identify the object with a height just shy of 1 meter and found directly under the TV in the room."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0011_00",
+        "scene_name": "scene0011_00",
+        "db_id": "6790800d5ed4f1c06e9129a1",
+        "exp_file_index": 948,
+        "new_referring_expressions": "Standing directly in front of the center of the refrigerator with the refrigerator on your left, walk 5.6 meters ahead and turn right, then walk 2.8 meters and turn left. What object is on the floor and in front of you?"
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0015_00",
+        "scene_name": "scene0015_00",
+        "db_id": "6789f657ff2bd0480fd1bd2b",
+        "exp_file_index": 12,
+        "new_referring_expressions": "Find the table approximately 0.9 meters away from the slanted-positioned table."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0015_00",
+        "scene_name": "scene0015_00",
+        "db_id": "6789f737ff2bd0480fd1bd2c",
+        "exp_file_index": 13,
+        "new_referring_expressions": "Select the chair whose backrest is against the wall and is approximately 0.7 meters away from the wall with a longer blackboard on it"
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0025_00",
+        "scene_name": "scene0025_00",
+        "db_id": "678a0206ff2bd0480fd1bd38",
+        "exp_file_index": 25,
+        "new_referring_expressions": "Facing the larger whiteboard, what object in the left corner occupies space more than 1 square meters?"
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0025_00",
+        "scene_name": "scene0025_00",
+        "db_id": "678a00c5ff2bd0480fd1bd36",
+        "exp_file_index": 23,
+        "new_referring_expressions": "Which object resting on the windowsill has a significant height of around 0.9 meters?"
+    },
+    {
+        "evaluation_level": "area_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0046_00",
+        "scene_name": "scene0046_00",
+        "db_id": "679caf026fe400eae4b33a9d",
+        "exp_file_index": 56,
+        "new_referring_expressions": "Identify the area composed of furniture related to study and work."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0046_00",
+        "scene_name": "scene0046_00",
+        "db_id": "67a5c735241feb3bd62c5d36",
+        "exp_file_index": 1080,
+        "new_referring_expressions": "Standing up from the middle of the bed and walk 1.1 meters forward. Turn left and walk another 2.8 meters. Place a floor lamp measuring 0.4 meters in base diameter and 1.2 meters in height centered at your current position."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0046_00",
+        "scene_name": "scene0046_00",
+        "db_id": "678a0f6fff2bd0480fd1bd4b",
+        "exp_file_index": 43,
+        "new_referring_expressions": "What object near the suitcase has almost the same length and width with the height over 0.7 meters?"
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0046_00",
+        "scene_name": "scene0046_00",
+        "db_id": "678a0e9dff2bd0480fd1bd49",
+        "exp_file_index": 42,
+        "new_referring_expressions": "Find the item that spans an area of about 1.7 square meters, positioned aside the nightstand with a single use function."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0046_00",
+        "scene_name": "scene0046_00",
+        "db_id": "678a1006ff2bd0480fd1bd4c",
+        "exp_file_index": 44,
+        "new_referring_expressions": "Facing the wall with the bed behind me, what object is 0.1 meters in front of the chair with its height over 0.6 meters?"
+    },
+    {
+        "evaluation_level": "area_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0050_00",
+        "scene_name": "scene0050_00",
+        "db_id": "679caff16fe400eae4b33a9f",
+        "exp_file_index": 57,
+        "new_referring_expressions": "Choose a quiet corner for piano practice."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0050_00",
+        "scene_name": "scene0050_00",
+        "db_id": "67a44ec1e763c0531eea4e5d",
+        "exp_file_index": 160,
+        "new_referring_expressions": "Facing the piano, place a small speaker measuring 0.2 meters in length, 0.13 meters in width, and 0.2 meters in height immediately next to the wall on the far right of the piano, ensuring easy listening while seated on the piano bench."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0081_00",
+        "scene_name": "scene0081_00",
+        "db_id": "678b4785ceb425b772a12589",
+        "exp_file_index": 65,
+        "new_referring_expressions": "Identify the table that is roughly 1.3 meters away from the ottoman in front of the smallest sofa."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0086_00",
+        "scene_name": "scene0086_00",
+        "db_id": "678bb35f60fd4fe911bd2743",
+        "exp_file_index": 76,
+        "new_referring_expressions": "Locate the sink that has a smaller difference in width and length."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0086_00",
+        "scene_name": "scene0086_00",
+        "db_id": "678bb59760fd4fe911bd2748",
+        "exp_file_index": 81,
+        "new_referring_expressions": "If I am standing at the center of the whole room, which sink is about 1 meters away from me?"
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0095_00",
+        "scene_name": "scene0095_00",
+        "db_id": "678bc2b060fd4fe911bd2753",
+        "exp_file_index": 92,
+        "new_referring_expressions": "Select the chair facing directly to the cabinet and is about 1.3 meters away from the nearest whiteboard."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0100_00",
+        "scene_name": "scene0100_00",
+        "db_id": "678bc57960fd4fe911bd2758",
+        "exp_file_index": 96,
+        "new_referring_expressions": "Which object has the length about half of the room length and height around 0.5 meters?"
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0131_00",
+        "scene_name": "scene0131_00",
+        "db_id": "678ccbda0d38cb0d91ab1f34",
+        "exp_file_index": 101,
+        "new_referring_expressions": "Select the object located on the floor that occupies the largest area in the room."
+    },
+    {
+        "evaluation_level": "area_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0144_00",
+        "scene_name": "scene0144_00",
+        "db_id": "67d277f56c718c6bf89925f8",
+        "exp_file_index": 101,
+        "new_referring_expressions": "Choose an area that facilitates discussion and allows two people to complete the work efficiently."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0144_00",
+        "scene_name": "scene0144_00",
+        "db_id": "678ceeb40d38cb0d91ab1f45",
+        "exp_file_index": 118,
+        "new_referring_expressions": "Locate the object whose length is approximately three times as its width."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0146_00",
+        "scene_name": "scene0146_00",
+        "db_id": "67a44ec1e763c0531eea4e69",
+        "exp_file_index": 170,
+        "new_referring_expressions": "Replace the rubbish bin with a rubbish bin measuring 0.4 meters long \u00d7 0.16 meters thick \u00d7 1.6 meters high, still positioned in the original corner of the wall."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0146_00",
+        "scene_name": "scene0146_00",
+        "db_id": "678cf7a50d38cb0d91ab1f4a",
+        "exp_file_index": 123,
+        "new_referring_expressions": "Locate the object standing over 1.1 meters tall, used for waste disposal."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0149_00",
+        "scene_name": "scene0149_00",
+        "db_id": "678d02bd0d38cb0d91ab1f56",
+        "exp_file_index": 133,
+        "new_referring_expressions": "Select the kitchen cabinet 0.9 meters away from the chair and located above the kitchen counter."
+    },
+    {
+        "evaluation_level": "area_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0169_00",
+        "scene_name": "scene0169_00",
+        "db_id": "67d2a9cf6c718c6bf8992616",
+        "exp_file_index": 129,
+        "new_referring_expressions": "Identify an area suitable for holding a meeting for 10 people."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0187_00",
+        "scene_name": "scene0187_00",
+        "db_id": "67a44ec1e763c0531eea4e71",
+        "exp_file_index": 178,
+        "new_referring_expressions": "When lying on the chair located behind the black coffee table near the longest white rectangular long table, reposition a piece of soft carpet measuring 2.5 meters x 2 meters with a thickness of 0.03 meters under the coffee table, positioning the coffee table at its center, adding warmth and comfort to the seating area."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0187_00",
+        "scene_name": "scene0187_00",
+        "db_id": "678db5b37cb29b3ce415d474",
+        "exp_file_index": 157,
+        "new_referring_expressions": "Which table covers an area of approximately 1.4 square meters with an yellow tabletop?"
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0193_00",
+        "scene_name": "scene0193_00",
+        "db_id": "67a44ec1e763c0531eea4fcf",
+        "exp_file_index": 434,
+        "new_referring_expressions": "Install a medium-sized clock with both a height and a width of 0.5 meters, and a thickness of 0.2 meters, precisely in the center above the desk shelves, close to the wall. This setup allows for tracking time while utilizing the area above the desk."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0207_00",
+        "scene_name": "scene0207_00",
+        "db_id": "67a5d434241feb3bd62c5d3e",
+        "exp_file_index": 1085,
+        "new_referring_expressions": "Stand in the middle of the bathroom entrance, facing the kitchen counter. Walk 0.7 meters forward, then turn right. Walk 1.8 meters forward and stop. Move the nearest stool and centered it at the current position."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0207_00",
+        "scene_name": "scene0207_00",
+        "db_id": "678f3a0110ec8b7159879965",
+        "exp_file_index": 192,
+        "new_referring_expressions": "What object is opposite the refrigerator and 0.7 meters away from the vacuum cleaner?"
+    },
+    {
+        "evaluation_level": "part_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0208_00",
+        "scene_name": "scene0208_00",
+        "db_id": "6799a9fd8b4b72873ae5972f",
+        "exp_file_index": 291,
+        "new_referring_expressions": "Facing the 3.2-meter-long bookshelf adjacent to the bench, identify its third column from the right."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0221_00",
+        "scene_name": "scene0221_00",
+        "db_id": "67a44ec1e763c0531eea4e90",
+        "exp_file_index": 195,
+        "new_referring_expressions": "Change the height of the octagonal coffee table to 50% of its original size, ensuring it remains centered at its current position."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0221_00",
+        "scene_name": "scene0221_00",
+        "db_id": "678f407810ec8b715987996c",
+        "exp_file_index": 199,
+        "new_referring_expressions": "Select the chair near the desk just over 1 meter tall."
+    },
+    {
+        "evaluation_level": "part_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0221_00",
+        "scene_name": "scene0221_00",
+        "db_id": "6799acc48b4b72873ae59731",
+        "exp_file_index": 293,
+        "new_referring_expressions": "Identify the yellow shade of the lamp located on top of the nightstand beside the bed."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0222_00",
+        "scene_name": "scene0222_00",
+        "db_id": "678f4c6810ec8b7159879979",
+        "exp_file_index": 211,
+        "new_referring_expressions": "Identify the bed that is approximately 0.5 meters away from the mini fridge."
+    },
+    {
+        "evaluation_level": "area_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0231_00",
+        "scene_name": "scene0231_00",
+        "db_id": "67a305876162b51976dce302",
+        "exp_file_index": 5,
+        "new_referring_expressions": "Select the room that includes the kitchen counter."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0231_00",
+        "scene_name": "scene0231_00",
+        "db_id": "67a44ec1e763c0531eea4e64",
+        "exp_file_index": 166,
+        "new_referring_expressions": "Replace the wooden breakfast bar with a breakfast bar at a height of 1.15 meters, keeping the location unchanged."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0246_00",
+        "scene_name": "scene0246_00",
+        "db_id": "678f654310ec8b715987998e",
+        "exp_file_index": 231,
+        "new_referring_expressions": "Which lamp is located 0.8 meters away from the wardrobe closet?"
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0300_00",
+        "scene_name": "scene0300_00",
+        "db_id": "679050a35ed4f1c06e91296f",
+        "exp_file_index": 263,
+        "new_referring_expressions": "Which chair is 0.5 meters away from the wall with window?"
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0304_00",
+        "scene_name": "scene0304_00",
+        "db_id": "679051df5ed4f1c06e912971",
+        "exp_file_index": 265,
+        "new_referring_expressions": "Choose the object located on the floor that has a similar width and length."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0307_00",
+        "scene_name": "scene0307_00",
+        "db_id": "67a44ec1e763c0531eea4fed",
+        "exp_file_index": 456,
+        "new_referring_expressions": "Facing the windows, place a medium-sized rubbish bin with a diameter of 0.25 meters and a height of 0.5 meters tightly against the right side of the white rectangular fridge and next to the cabinet for ease of use."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0314_00",
+        "scene_name": "scene0314_00",
+        "db_id": "67a44ec1e763c0531eea4f9b",
+        "exp_file_index": 395,
+        "new_referring_expressions": "Sit on the office chair that is closest to the tall shelves. In the center of the space behind the desk and in front of the shelves, place a small coffee table with a diameter of 0.6 meters and a height of 0.5 meters, ensuring that it is positioned in the middle between these two pieces of furniture."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0316_00",
+        "scene_name": "scene0316_00",
+        "db_id": "67a44ec1e763c0531eea4e30",
+        "exp_file_index": 130,
+        "new_referring_expressions": "Place a set of coasters with a diameter of 0.5 meters and a thickness of 0.01 meters at the center of the footstool closest to the table, so that guests can easily reach them when using it as a coffee table."
+    },
+    {
+        "evaluation_level": "part_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0316_00",
+        "scene_name": "scene0316_00",
+        "db_id": "6799e44f8b4b72873ae59742",
+        "exp_file_index": 306,
+        "new_referring_expressions": "Identify the backrest of the armchair."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0329_00",
+        "scene_name": "scene0329_00",
+        "db_id": "67905bdd5ed4f1c06e912983",
+        "exp_file_index": 283,
+        "new_referring_expressions": "Which table covers an area close to 0.8 square meters?"
+    },
+    {
+        "evaluation_level": "part_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0329_00",
+        "scene_name": "scene0329_00",
+        "db_id": "6799e4c68b4b72873ae59743",
+        "exp_file_index": 33,
+        "new_referring_expressions": "Select the half of the sofa against the wall that does not have a bag on it."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0338_00",
+        "scene_name": "scene0338_00",
+        "db_id": "67a44ec1e763c0531eea4edc",
+        "exp_file_index": 254,
+        "new_referring_expressions": "Facing the box, a footstool measuring 0.4m*0.4m*0.3m is placed closely in front of the white cardboard box on the far right, for easy access to items on top of the cabinet."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0338_00",
+        "scene_name": "scene0338_00",
+        "db_id": "67905de75ed4f1c06e912987",
+        "exp_file_index": 287,
+        "new_referring_expressions": "Which recycling bin has a length and width that differ by approximately 5 centimeters?"
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0343_00",
+        "scene_name": "scene0343_00",
+        "db_id": "679064385ed4f1c06e91298c",
+        "exp_file_index": 292,
+        "new_referring_expressions": "Which table is about 0.25 meters away from the shelf whose height is close to 1.5 meters?"
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0351_00",
+        "scene_name": "scene0351_00",
+        "db_id": "67a44ec1e763c0531eea4f88",
+        "exp_file_index": 380,
+        "new_referring_expressions": "Imagine you are reading a book at the desk. A light with a diameter of 0.2 meters and a height of 0.6 meters is placed on the center of windowsill, next to the windows."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0351_00",
+        "scene_name": "scene0351_00",
+        "db_id": "6790656c5ed4f1c06e91298f",
+        "exp_file_index": 295,
+        "new_referring_expressions": "Which keyboard is 0.5 meters away from the windowsill?"
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0377_00",
+        "scene_name": "scene0377_00",
+        "db_id": "679097805ed4f1c06e9129aa",
+        "exp_file_index": 320,
+        "new_referring_expressions": "Which shelf has the height closest to 1 meter?"
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0427_00",
+        "scene_name": "scene0427_00",
+        "db_id": "67a44ec1e763c0531eea4e43",
+        "exp_file_index": 143,
+        "new_referring_expressions": "Add a decorative wooden figure with a base of 0.5m x 0.5m and a height of 0.7m in the exact center of the table."
+    },
+    {
+        "evaluation_level": "area_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0435_00",
+        "scene_name": "scene0435_00",
+        "db_id": "679c89ff63831acaff4815be",
+        "exp_file_index": 48,
+        "new_referring_expressions": "Select the area where the porch is located. The porch should be at the same height as the bathroom, starting from the door and extending to the bed closest to the door."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0441_00",
+        "scene_name": "scene0441_00",
+        "db_id": "67a44ec1e763c0531eea4f94",
+        "exp_file_index": 391,
+        "new_referring_expressions": "Replace the rubbish bin on the floor at the entrance of the bathroom with a rubbish bin that is half the original height but with the same width and depth, ensuring the center point remains aligned."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0458_00",
+        "scene_name": "scene0458_00",
+        "db_id": "67a5d8b9241feb3bd62c5d42",
+        "exp_file_index": 1087,
+        "new_referring_expressions": "Imagine you are standing on the carpet in front of the sink cabinet. After washing your hands at the sink, turn around and walk 1.2 meters forward. Then turn right and walk 0.7 meters ahead. Place a small stool, with a base diameter of 0.3 meters and a height of 0.4 meters, centered at your current position."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0461_00",
+        "scene_name": "scene0461_00",
+        "db_id": "6791be34f6cbec2d0beb569b",
+        "exp_file_index": 388,
+        "new_referring_expressions": "Facing the window, which object is approximately 1.1 meters away from the wall in the right?"
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0462_00",
+        "scene_name": "scene0462_00",
+        "db_id": "67a44ec1e763c0531eea4ecd",
+        "exp_file_index": 243,
+        "new_referring_expressions": "Face the copier and move it to a position that is 0.5 meters directly in front of the mailboxes."
+    },
+    {
+        "evaluation_level": "area_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0474_00",
+        "scene_name": "scene0474_00",
+        "db_id": "67d27b0a6c718c6bf89925f9",
+        "exp_file_index": 102,
+        "new_referring_expressions": "Locate a region that offers a comfortable seating experience while allowing for face-to-face conversations."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0474_00",
+        "scene_name": "scene0474_00",
+        "db_id": "6791df1bf6cbec2d0beb56ab",
+        "exp_file_index": 403,
+        "new_referring_expressions": " Choose the chair that is 0.4 meters away from the closest backpack."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0488_00",
+        "scene_name": "scene0488_00",
+        "db_id": "6791e34ef6cbec2d0beb56ae",
+        "exp_file_index": 406,
+        "new_referring_expressions": " Looking at the cabinets on the floor, which cabinet is approximately half the height of the white refrigerator next to it and measures over 0.6 meters in length?"
+    },
+    {
+        "evaluation_level": "part_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0488_00",
+        "scene_name": "scene0488_00",
+        "db_id": "679a2e3d8b4b72873ae5975c",
+        "exp_file_index": 54,
+        "new_referring_expressions": "Facing the wall behind the refrigerator, choose the upper compartment of the refrigerator on the right."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0496_00",
+        "scene_name": "scene0496_00",
+        "db_id": "67a44ec1e763c0531eea4fc1",
+        "exp_file_index": 423,
+        "new_referring_expressions": "Replace the chair in the middle of the short side of the rectangular conference table, which is facing away from the blackboard, with a chair that has both its length and width reduced to half of the original, while maintaining the alignment of the center point."
+    },
+    {
+        "evaluation_level": "area_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0518_00",
+        "scene_name": "scene0518_00",
+        "db_id": "67d27c786c718c6bf89925fa",
+        "exp_file_index": 73,
+        "new_referring_expressions": "Locate the typical working station, including the file cabinet."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0518_00",
+        "scene_name": "scene0518_00",
+        "db_id": "6791f583f6cbec2d0beb56c9",
+        "exp_file_index": 431,
+        "new_referring_expressions": "Facing the large shelf and sitting on the rightmost section of the sofa, which office chair is 1.3 meters away from me?"
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0549_00",
+        "scene_name": "scene0549_00",
+        "db_id": "679209bbf6cbec2d0beb56d0",
+        "exp_file_index": 437,
+        "new_referring_expressions": "Identify the small object with height close to 0.5 meters and placed over 0.5 meters above the ground."
+    },
+    {
+        "evaluation_level": "area_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0552_00",
+        "scene_name": "scene0552_00",
+        "db_id": "679d04192f03515296bf01f6",
+        "exp_file_index": 75,
+        "new_referring_expressions": "Select the conference area containing several brown wooden chairs centering the tables."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0559_00",
+        "scene_name": "scene0559_00",
+        "db_id": "67a44ec1e763c0531eea4f0e",
+        "exp_file_index": 283,
+        "new_referring_expressions": "Sit on the smaller sofa, move the round green footstool to the left side of the smaller sofa, aligning it closely with the edge of the sofa and placing it against the wall."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0559_00",
+        "scene_name": "scene0559_00",
+        "db_id": "67921d2af6cbec2d0beb56e6",
+        "exp_file_index": 459,
+        "new_referring_expressions": "Sitting on the ottoman, which table is 0.5 meters away from me?"
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0565_00",
+        "scene_name": "scene0565_00",
+        "db_id": "67922535f6cbec2d0beb56eb",
+        "exp_file_index": 464,
+        "new_referring_expressions": "Browser website using the monitor which is 1 meters above the floor, which chair in my right is approximately 1.4 meters away from the cart nearest to the recycling bin?"
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0565_00",
+        "scene_name": "scene0565_00",
+        "db_id": "67922481f6cbec2d0beb56ea",
+        "exp_file_index": 463,
+        "new_referring_expressions": "Identify the box positioned on the ground that is 1.1 meters away from the taller desk."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0568_00",
+        "scene_name": "scene0568_00",
+        "db_id": "67922858f6cbec2d0beb56f1",
+        "exp_file_index": 470,
+        "new_referring_expressions": "Imagine I am standing in the center of the colorful carpet located near the two shelves, which table is approximately 2.8 meters away from me?"
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0575_00",
+        "scene_name": "scene0575_00",
+        "db_id": "67a44ec1e763c0531eea4de1",
+        "exp_file_index": 68,
+        "new_referring_expressions": "Install a chandelier with a diameter of 0.3 meters and a height of 0.6 meters on the ceiling directly above the conference table, ensuring that the fixture is positioned 80 centimeters from the center of the table. This will provide ample lighting without interfering with activities around the table."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0575_00",
+        "scene_name": "scene0575_00",
+        "db_id": "67922c81f6cbec2d0beb56f6",
+        "exp_file_index": 475,
+        "new_referring_expressions": "Which object occupies an area of 3.2 square meters?"
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0578_00",
+        "scene_name": "scene0578_00",
+        "db_id": "679232c8f6cbec2d0beb56fe",
+        "exp_file_index": 483,
+        "new_referring_expressions": "Locate the whiteboard that is approximately 0.5 meters away from the monitor."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0591_00",
+        "scene_name": "scene0591_00",
+        "db_id": "67a44ec1e763c0531eea4fd5",
+        "exp_file_index": 439,
+        "new_referring_expressions": "Install a new cabinet with dimensions of length 0.46 meters, width 0.52 meters, and height 0.53 meters. The new cabinet should be placed exactly 0.5 meters directly in front of the nearest cabinet to the table, parallel to the existing cabinet, ensuring it is positioned precisely between the door and the cabinet."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0593_00",
+        "scene_name": "scene0593_00",
+        "db_id": "679237b4f6cbec2d0beb570a",
+        "exp_file_index": 493,
+        "new_referring_expressions": "Locate the cabinet which is approximately 1.2 meters away from the sofa."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0595_00",
+        "scene_name": "scene0595_00",
+        "db_id": "67a44ec1e763c0531eea4f3f",
+        "exp_file_index": 323,
+        "new_referring_expressions": "Facing away from the picture, replace all current washing machines with new washing machines that have a height of 1.5 meters while keeping other dimensions unchanged, ensuring they remain positioned to the left of the dryers."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0598_00",
+        "scene_name": "scene0598_00",
+        "db_id": "67a44ec1e763c0531eea4de7",
+        "exp_file_index": 74,
+        "new_referring_expressions": "A tall floor light, 1.45 meters in height with a base diameter of 0.3 meters, is placed to the right side of the book rack, providing illumination while not obstructing access to the books."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0598_00",
+        "scene_name": "scene0598_00",
+        "db_id": "67a44ec1e763c0531eea4dea",
+        "exp_file_index": 77,
+        "new_referring_expressions": "Facing the jalousie, place the small indoor plant with a base diameter of 0.2 meters and a height of 0.3 meters at the top right corner of the white table, ensuring it can receive some natural light from the nearby windows."
+    },
+    {
+        "evaluation_level": "part_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0599_00",
+        "scene_name": "scene0599_00",
+        "db_id": "679796e617df4bd2c8527912",
+        "exp_file_index": 72,
+        "new_referring_expressions": "Select the part of the table corresponding to the six chairs closest to the TV."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0606_00",
+        "scene_name": "scene0606_00",
+        "db_id": "6792f1e7fede72893907c004",
+        "exp_file_index": 506,
+        "new_referring_expressions": "Locate the object that is roughly 3.3 meters in length."
+    },
+    {
+        "evaluation_level": "part_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0606_00",
+        "scene_name": "scene0606_00",
+        "db_id": "679796e617df4bd2c8527913",
+        "exp_file_index": 73,
+        "new_referring_expressions": "Facing the window, choose the third cabinet from the left in the row of cabinets below."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0616_00",
+        "scene_name": "scene0616_00",
+        "db_id": "6792fa11fede72893907c00f",
+        "exp_file_index": 517,
+        "new_referring_expressions": "Locate the table that is approximately 0.9 meters away from the vacuum cleaner."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0618_00",
+        "scene_name": "scene0618_00",
+        "db_id": "6792fb5dfede72893907c012",
+        "exp_file_index": 520,
+        "new_referring_expressions": "Select the table that covers an area of 1 square meters."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0621_00",
+        "scene_name": "scene0621_00",
+        "db_id": "6793017dfede72893907c019",
+        "exp_file_index": 526,
+        "new_referring_expressions": "Locate the black chair that is 1 meter away from both white chairs."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0629_00",
+        "scene_name": "scene0629_00",
+        "db_id": "67a44ec1e763c0531eea4db5",
+        "exp_file_index": 38,
+        "new_referring_expressions": "Add a new ceiling fan with a diameter of 1.2 meters and a height of 0.15 meters in the center of the room, positioned 0.4 meters from the ceiling."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0643_00",
+        "scene_name": "scene0643_00",
+        "db_id": "67a44ec1e763c0531eea4f0a",
+        "exp_file_index": 280,
+        "new_referring_expressions": "Add a narrow book rack 1 meter in front of the white book rack that is between the two desks, with dimensions of 0.2 meters in thickness, 1 meter in length, and 2 meters in height."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0645_00",
+        "scene_name": "scene0645_00",
+        "db_id": "67a44ec1e763c0531eea4fef",
+        "exp_file_index": 457,
+        "new_referring_expressions": "Sit on the sofa. Add a sidetable measuring 0.5m x 0.3m, with a height of 0.7m, to the left side of the sofa against the wall. Ensure it is closely aligned with the right side of the desk."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0645_00",
+        "scene_name": "scene0645_00",
+        "db_id": "67a5dba5241feb3bd62c5d45",
+        "exp_file_index": 1089,
+        "new_referring_expressions": "Move the ottoman nearest to the bed 2.5 meters towards the wall behind the tv. Then 0.8 meters towards the wall behind the two beds."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0645_00",
+        "scene_name": "scene0645_00",
+        "db_id": "67930ef3fede72893907c02c",
+        "exp_file_index": 542,
+        "new_referring_expressions": "Facing the nightstand, which object on the left of the nightstand occupies an area around 3.4 square meters?"
+    },
+    {
+        "evaluation_level": "part_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0645_00",
+        "scene_name": "scene0645_00",
+        "db_id": "679a51418b4b72873ae59776",
+        "exp_file_index": 334,
+        "new_referring_expressions": " Identify the right-hand section of the cabinet located beneath the TV."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0652_00",
+        "scene_name": "scene0652_00",
+        "db_id": "67a44ec1e763c0531eea4f32",
+        "exp_file_index": 310,
+        "new_referring_expressions": "Move the footstool 0.3 meters towards the wall with the tv, to create a more comfortable environment, while keeping it parallel to the bed."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0663_00",
+        "scene_name": "scene0663_00",
+        "db_id": "67a44ec1e763c0531eea4f83",
+        "exp_file_index": 377,
+        "new_referring_expressions": "Imagine you are facing the gate, and install an antique clock with a diameter of 0.4 meters and a thickness of 0.15 meters directly above the shelves on the left side of the gate. The clock is positioned 0.3 meters above the center of the top of the shelves, complementing the metallic texture of the shelves perfectly."
+    },
+    {
+        "evaluation_level": "part_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0665_00",
+        "scene_name": "scene0665_00",
+        "db_id": "679796e617df4bd2c852792c",
+        "exp_file_index": 98,
+        "new_referring_expressions": "My companion and I were seated at a four-person square table near the door, occupying the two seats closest to the adjacent four-person square table. Choose the corresponding part of the table we were seated at."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0670_00",
+        "scene_name": "scene0670_00",
+        "db_id": "67a44ec1e763c0531eea4e5f",
+        "exp_file_index": 162,
+        "new_referring_expressions": "Add a dining table with a diameter of 0.8 meters and a height of 0.75 meters in the center of the kitchen, and place it 1.3 meters away from one side of the kitchen counter with the cooktop."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0670_00",
+        "scene_name": "scene0670_00",
+        "db_id": "67a44ec1e763c0531eea4e62",
+        "exp_file_index": 165,
+        "new_referring_expressions": "Place a footstool with a diameter of 50 centimeters and a height of 60 centimeters at the center of the black carpet located in the middle of the kitchen floor."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0670_00",
+        "scene_name": "scene0670_00",
+        "db_id": "6794ca69b47812c18cdda012",
+        "exp_file_index": 585,
+        "new_referring_expressions": "Which trash can is 0.6 meters away from the refrigerator?"
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0684_00",
+        "scene_name": "scene0684_00",
+        "db_id": "6794d460b47812c18cdda019",
+        "exp_file_index": 592,
+        "new_referring_expressions": "Locate the object in the room that covers an area of approximately 1.2 square meters."
+    },
+    {
+        "evaluation_level": "part_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0685_00",
+        "scene_name": "scene0685_00",
+        "db_id": "679a565d8b4b72873ae5977d",
+        "exp_file_index": 338,
+        "new_referring_expressions": "Locate the trash can lid of the green trash can."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0686_00",
+        "scene_name": "scene0686_00",
+        "db_id": "67a44ec1e763c0531eea4f1e",
+        "exp_file_index": 295,
+        "new_referring_expressions": "Move the hand sanitizer dispenser downwards by 0.1 meters to facilitate easier access during hand washing."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0689_00",
+        "scene_name": "scene0689_00",
+        "db_id": "6794dcb9b47812c18cdda026",
+        "exp_file_index": 604,
+        "new_referring_expressions": "Which chair is 0.7 meters away from the red wall?"
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0693_00",
+        "scene_name": "scene0693_00",
+        "db_id": "6794e1b0b47812c18cdda02d",
+        "exp_file_index": 610,
+        "new_referring_expressions": "Locate the object that occupies an area of roughly 1.1 square meters."
+    },
+    {
+        "evaluation_level": "part_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0699_00",
+        "scene_name": "scene0699_00",
+        "db_id": "679796e617df4bd2c8527939",
+        "exp_file_index": 111,
+        "new_referring_expressions": "Choose the door of the opening closet in the right."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "scannet",
+        "scene_id": "scene0702_00",
+        "scene_name": "scene0702_00",
+        "db_id": "67a44ec1e763c0531eea4ee7",
+        "exp_file_index": 260,
+        "new_referring_expressions": "Facing away from the toilet, place a bathroom mat measuring 0.6 meters x 0.4 meters x 0.02 meters in front of the bathtub, closely against the bathtub's edge and the wall on the right side of the door."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "multiscan",
+        "scene_id": "scene0106_00",
+        "scene_name": "scene_00106_00",
+        "db_id": "67a44ec1e763c0531eea5015",
+        "exp_file_index": 483,
+        "new_referring_expressions": "Face the windows, back against the door, and install the 20-inch TV with a brown frame on the wall with the windows. Align the leftmost edge of the TV with the center point of the bed, with the top of the TV closely against the curtain box."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "multiscan",
+        "scene_id": "scene0106_00",
+        "scene_name": "scene_00106_00",
+        "db_id": "67a44ec1e763c0531eea5016",
+        "exp_file_index": 484,
+        "new_referring_expressions": "Facing the mirror, stack three boxes 0.2 meters directly in front of the table, ensuring that the exact center of the table aligns with the exact center of the boxes. Each box has a width, depth, and height of 20 centimeters."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "multiscan",
+        "scene_id": "scene0106_00",
+        "scene_name": "scene_00106_00",
+        "db_id": "67a44e7a70117223672d0696",
+        "exp_file_index": 1,
+        "new_referring_expressions": "Getting up from the bed in the middle, walk 0.5 meters forward, then turn left, walk 2 meters forward. Place a stool with diameter 0.3 meters and height 0.6 meters on the floor centered at the position you are standing."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "multiscan",
+        "scene_id": "scene0108_00",
+        "scene_name": "scene_00108_00",
+        "db_id": "67a44ec1e763c0531eea5028",
+        "exp_file_index": 499,
+        "new_referring_expressions": "Place a small plant with dimensions of 0.3 meters in length, 0.3 meters in width, and 0.4 meters in height on the floor beside the left side of the cabinet with the sink, positioned in front of the door closest to the fridge, facing away from the door. Ensure it aligns with the column supporting the ceiling."
+    },
+    {
+        "evaluation_level": "part_level",
+        "datasetname": "multiscan",
+        "scene_id": "scene0111_00",
+        "scene_name": "scene_00111_00",
+        "db_id": "679ae920fd89bf7f8949f72e",
+        "exp_file_index": 345,
+        "new_referring_expressions": "Pull out the bottom drawer on the right side of the sink cabinet by 0.3 meters."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "3RScan",
+        "scene_id": "scene0002_00",
+        "scene_name": "1d233ff0-e280-2b1a-8c10-2af29c344ee3",
+        "db_id": "67a44ec1e763c0531eea50d7",
+        "exp_file_index": 651,
+        "new_referring_expressions": "Facing the cabinet, install a wall-mounted shelf at the center point tightly adjacent to the right side of the cabinet. Its dimensions are 0.4 meters wide, 0.2 meters deep, and 0.15 meters high, providing additional storage space next to the right side of the cabinet."
+    },
+    {
+        "evaluation_level": "area_level",
+        "datasetname": "3RScan",
+        "scene_id": "scene0219_00",
+        "scene_name": "00d42bed-778d-2ac6-86a7-0e0e5f5f5660",
+        "db_id": "679e3f726c1c108fd6f311b3",
+        "exp_file_index": 85,
+        "new_referring_expressions": "Locate the porch area."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "3RScan",
+        "scene_id": "scene0219_00",
+        "scene_name": "00d42bed-778d-2ac6-86a7-0e0e5f5f5660",
+        "db_id": "67a44e7a70117223672d06ad",
+        "exp_file_index": 24,
+        "new_referring_expressions": "Getting off from the middle of the foot of the bed, turn right and walk 2 meters, turn right again and walk 2 meters. Place a vase measuring 0.4 meters in diameter and 0.8 meters in height centering at the current position."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "3RScan",
+        "scene_id": "scene0366_00",
+        "scene_name": "ba6fdaae-a4c1-2dca-8240-6fbe1cb25eb4",
+        "db_id": "67a5e4ae241feb3bd62c5d49",
+        "exp_file_index": 1092,
+        "new_referring_expressions": "Getting up from the toilet and facing the opposite wall, walk 0.6 meters ahead and turn right. Then walk 1.6 meters ahead and stop. Position a resting chair, with base diameter 0.35 meters and height 0.8 meters, centered at the current position."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "3RScan",
+        "scene_id": "scene0417_00",
+        "scene_name": "ddc7379d-765b-241a-9f0b-50b72d6cd829",
+        "db_id": "67a44ec1e763c0531eea506a",
+        "exp_file_index": 557,
+        "new_referring_expressions": "When standing next to the sink, you can place a small potted plant with a diameter of 0.1 meters and a height of 0.15 meters in the center of the left-side countertop of the sink, adding a touch of greenery without obstructing access to soap or the mirror."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "3RScan",
+        "scene_id": "scene0446_00",
+        "scene_name": "0cac758d-8d6f-2d13-8d21-9133668b4d7d",
+        "db_id": "67a44ec1e763c0531eea5081",
+        "exp_file_index": 574,
+        "new_referring_expressions": "Move the washing basket placed near the wardrobe closet 0.95 meters outward to ensure it is entirely on the floor."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "3RScan",
+        "scene_id": "scene0519_00",
+        "scene_name": "283ccfeb-107c-24d5-8bbf-05519a3c7c47",
+        "db_id": "67a44ec1e763c0531eea50af",
+        "exp_file_index": 615,
+        "new_referring_expressions": "Imagine you are sitting on a stool, with a small rubbish bin placed against the wall 0.1 meters to the right of the stool. The rubbish bin has a diameter of 0.3 meters and a height of 0.4 meters, making it convenient for disposing of garbage."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "3RScan",
+        "scene_id": "scene0519_00",
+        "scene_name": "283ccfeb-107c-24d5-8bbf-05519a3c7c47",
+        "db_id": "67a44ec1e763c0531eea50b0",
+        "exp_file_index": 616,
+        "new_referring_expressions": "Face the bed, and in the center of the bed table to the right of the bed, place a small indoor plant with a diameter of 0.15m and a height of 0.3m to add a touch of green to the space."
+    },
+    {
+        "evaluation_level": "part_level",
+        "datasetname": "3RScan",
+        "scene_id": "scene0519_00",
+        "scene_name": "283ccfeb-107c-24d5-8bbf-05519a3c7c47",
+        "db_id": "679b3cd5be08dda333409ba4",
+        "exp_file_index": 135,
+        "new_referring_expressions": "Choose the half of the bed where the pillow is well placed, along with the corresponding headboard."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "3RScan",
+        "scene_id": "scene0741_00",
+        "scene_name": "1d23402c-e280-2b1a-8e31-9a88c9c1fb91",
+        "db_id": "67a44ec1e763c0531eea509d",
+        "exp_file_index": 598,
+        "new_referring_expressions": "Facing the armchair, place a small book rack against the wall to the right of the armchair. The book rack's size should be half the length and width of the armchair, with other dimensions unchanged."
+    },
+    {
+        "evaluation_level": "part_level",
+        "datasetname": "3RScan",
+        "scene_id": "scene0865_00",
+        "scene_name": "ebc42041-82a4-2113-8583-cc8c1be818b3",
+        "db_id": "679796e617df4bd2c8527957",
+        "exp_file_index": 141,
+        "new_referring_expressions": "Select the footstool part of the sofa."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "3RScan",
+        "scene_id": "scene0986_00",
+        "scene_name": "fcf66d8e-622d-291c-86ef-f8f2b3db7f74",
+        "db_id": "67a44ec1e763c0531eea50ac",
+        "exp_file_index": 612,
+        "new_referring_expressions": "Hang a square picture on the wall 0.2m above the tv, with a side length of 30 centimeters."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "3RScan",
+        "scene_id": "scene0992_00",
+        "scene_name": "38770cb0-86d7-27b8-8466-1782505891fd",
+        "db_id": "67a44ec1e763c0531eea507e",
+        "exp_file_index": 571,
+        "new_referring_expressions": "Facing the showcase closest to the gate, add a shelf on the floor to the right of the showcase, measuring 0.55 meters in length, 0.4 meters in width, and with a height equal to half of the showcase. The shelf should be placed tightly against the showcase and wall, effectively increasing display capacity."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "3RScan",
+        "scene_id": "scene1016_00",
+        "scene_name": "6bde608b-9162-246f-8d16-901b429b2563",
+        "db_id": "67a44ec1e763c0531eea509e",
+        "exp_file_index": 599,
+        "new_referring_expressions": "Facing the coffee table, place a decorative potted plant with a height of 0.5 meters and a diameter of 0.3 meters right in the center of the coffee table, bringing a touch of greenery to the room."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "3RScan",
+        "scene_id": "scene1017_00",
+        "scene_name": "5630cfdc-12bf-2860-87b7-c7eab95718be",
+        "db_id": "67a44ec1e763c0531eea50cb",
+        "exp_file_index": 640,
+        "new_referring_expressions": "Move the cupboard near the wall 0.4 meters to the left to make more space at the bedside."
+    },
+    {
+        "evaluation_level": "part_level",
+        "datasetname": "3RScan",
+        "scene_id": "scene1017_00",
+        "scene_name": "5630cfdc-12bf-2860-87b7-c7eab95718be",
+        "db_id": "679b49d1be08dda333409baf",
+        "exp_file_index": 361,
+        "new_referring_expressions": "Facing the wall behind the bed, pull the upmost white drawer of the nightstand on the left side of the bed by 0.2 meters."
+    },
+    {
+        "evaluation_level": "part_level",
+        "datasetname": "3RScan",
+        "scene_id": "scene1017_00",
+        "scene_name": "5630cfdc-12bf-2860-87b7-c7eab95718be",
+        "db_id": "679b48b0be08dda333409bae",
+        "exp_file_index": 145,
+        "new_referring_expressions": "Facing the wall behind the bed, choose the second drawer of the nightstand on the right-hand side of the bed."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "3RScan",
+        "scene_id": "scene1024_00",
+        "scene_name": "0cac75e4-8d6f-2d13-8f7c-fb5b5747d1ba",
+        "db_id": "67a44e7a70117223672d06ae",
+        "exp_file_index": 25,
+        "new_referring_expressions": "Stand up from the bench and face the tall, narrow shelf adjacent to the cupboard. Walk 2.5 meters forward. Place a recycling bin with a diameter of 0.5 meters and a height of 0.7 meters, centered at your current position."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "3RScan",
+        "scene_id": "scene1024_00",
+        "scene_name": "0cac75e4-8d6f-2d13-8f7c-fb5b5747d1ba",
+        "db_id": "6795eade16374f2095bd77e1",
+        "exp_file_index": 722,
+        "new_referring_expressions": "Locate the shelf that is slightly over 2 meters in height."
+    },
+    {
+        "evaluation_level": "part_level",
+        "datasetname": "3RScan",
+        "scene_id": "scene1033_00",
+        "scene_name": "0cac7678-8d6f-2d13-8da3-dba8636cef51",
+        "db_id": "679796e617df4bd2c852795d",
+        "exp_file_index": 147,
+        "new_referring_expressions": "Lying flat on the bed, choose the flowerpot beneath the shorter plant on the right side of the floor."
+    },
+    {
+        "evaluation_level": "area_level",
+        "datasetname": "3RScan",
+        "scene_id": "scene1235_00",
+        "scene_name": "5341b7e7-8a66-2cdd-87ce-86596253cfa4",
+        "db_id": "67d393c16c718c6bf8992626",
+        "exp_file_index": 145,
+        "new_referring_expressions": "Select an area suitable for enjoying tea and snacks while relaxing in the afternoon."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "3RScan",
+        "scene_id": "scene1312_00",
+        "scene_name": "0988ea78-eb32-2e61-80ee-e4a44170bce9",
+        "db_id": "67a44ec1e763c0531eea50c1",
+        "exp_file_index": 630,
+        "new_referring_expressions": "Hang a white, fluffy towel measuring 0.5 meters in length, 1 meter in height, and 0.05 meters in thickness next to a green heart-shaped towel on a white bathroom door, ensuring the left edge of its left half is just touching the wall."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0004_00",
+        "scene_name": "47115473",
+        "db_id": "67a44ec1e763c0531eea51f4",
+        "exp_file_index": 874,
+        "new_referring_expressions": "When you relax in the bathtub, place a rubber duck that is 0.15 meters long, 0.1 meters high, and 0.05 meters thick at the center of the bottom of the bathtub."
+    },
+    {
+        "evaluation_level": "part_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0005_00",
+        "scene_name": "45261185",
+        "db_id": "679b5eb1be08dda333409bb3",
+        "exp_file_index": 364,
+        "new_referring_expressions": "Pull out the top drawer of the cabinet near the mirror in the bedroom by 0.2 meters."
+    },
+    {
+        "evaluation_level": "part_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0009_00",
+        "scene_name": "42897521",
+        "db_id": "679796e617df4bd2c852796a",
+        "exp_file_index": 160,
+        "new_referring_expressions": "Select the compartment of the cabinet below the window, where the door opens to the right."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0018_00",
+        "scene_name": "44358499",
+        "db_id": "67a44ec1e763c0531eea510d",
+        "exp_file_index": 696,
+        "new_referring_expressions": "Facing the wall opposite the fireplace, move the rightmost chair of the three chairs that are tightly against the dining table back by 0.5 meters, providing a more comfortable seating space for the person."
+    },
+    {
+        "evaluation_level": "part_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0018_00",
+        "scene_name": "44358499",
+        "db_id": "679796e617df4bd2c852796d",
+        "exp_file_index": 163,
+        "new_referring_expressions": "Select the second and third drawers of the cabinet to the left of the oven."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0025_00",
+        "scene_name": "41125696",
+        "db_id": "6796155a16374f2095bd780d",
+        "exp_file_index": 765,
+        "new_referring_expressions": "Locate the cabinet that is 0.9 meters in height and 0.6 meters in length."
+    },
+    {
+        "evaluation_level": "area_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0041_00",
+        "scene_name": "42897541",
+        "db_id": "67d3d04c6c718c6bf8992643",
+        "exp_file_index": 171,
+        "new_referring_expressions": "Select an area suitable for brewing tea, drinking tea, and chatting with two or three friends."
+    },
+    {
+        "evaluation_level": "part_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0041_00",
+        "scene_name": "42897541",
+        "db_id": "679796e617df4bd2c8527976",
+        "exp_file_index": 172,
+        "new_referring_expressions": "Choose the seating section that is farthest from the stool among the two sofas."
+    },
+    {
+        "evaluation_level": "area_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0047_00",
+        "scene_name": "42898581",
+        "db_id": "679f2014fe3af3d19b51553c",
+        "exp_file_index": 90,
+        "new_referring_expressions": "Select the sleeping area that includes two beds placed side by side, with nightstand next to them for storage."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0051_00",
+        "scene_name": "42898497",
+        "db_id": "67961a4c16374f2095bd7816",
+        "exp_file_index": 774,
+        "new_referring_expressions": "Facing the line of tables, which sofa, measuring approximately 1.62 meters in length, is noticeably shorter than the others around it?"
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0053_00",
+        "scene_name": "42444954",
+        "db_id": "67a44ec1e763c0531eea5256",
+        "exp_file_index": 954,
+        "new_referring_expressions": "Replace the sink with a new sink that has a length of 0.7 meters, while keeping other dimensions unchanged."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0053_00",
+        "scene_name": "42444954",
+        "db_id": "67a44ec1e763c0531eea5259",
+        "exp_file_index": 957,
+        "new_referring_expressions": "As you enter the bathroom, facing the sink, place the 0.17-meter long, 0.12-meter wide, and 0.2-meter high soap dispenser 0.1 meters above the leftmost edge of the sink, tightly against the wall for convenience. Ensure to keep the area around the water faucet clear."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0057_00",
+        "scene_name": "47331662",
+        "db_id": "67a44ec1e763c0531eea51ea",
+        "exp_file_index": 866,
+        "new_referring_expressions": "Assume you want to watch TV in bed. Place a 42-inch tv on the cabinet directly in front of the bed, in the location of the existing tv."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0066_00",
+        "scene_name": "47331331",
+        "db_id": "67a44ec1e763c0531eea515f",
+        "exp_file_index": 763,
+        "new_referring_expressions": "Install the tv on the wall at 0.4 meters above the cabinet closest to the chairs. The tv dimensions are 1.22 meters long, 0.09 meters thick, and 0.68 meters high. Ensure it is positioned for a perfect viewing angle for watching late-night movies from the bed."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0067_00",
+        "scene_name": "42898521",
+        "db_id": "67a44ec1e763c0531eea517c",
+        "exp_file_index": 782,
+        "new_referring_expressions": "When considering meal choices in front of the fridge, place a notepad on the fridge door, with the upper edge and left edge of the fridge door flush with the edges of the notepad. The notepad is 0.5 meters long, 0.02 meters thick, and 0.4 meters high; it is the ideal spot to remind me and record shopping lists."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0072_00",
+        "scene_name": "45260925",
+        "db_id": "67a44ec1e763c0531eea5221",
+        "exp_file_index": 913,
+        "new_referring_expressions": "When sitting on the sofa, a carpet measuring 1.2 meters wide and 1.8 meters long is placed directly under the table in the front right of the sofa, enhancing the comfortable atmosphere of the living space."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0072_00",
+        "scene_name": "45260925",
+        "db_id": "6796243a16374f2095bd7824",
+        "exp_file_index": 787,
+        "new_referring_expressions": "Locate the table with an aspect ratio approximately 3:1."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0078_00",
+        "scene_name": "42446104",
+        "db_id": "67a44ec1e763c0531eea525b",
+        "exp_file_index": 958,
+        "new_referring_expressions": "Facing the headboard, add a light blue pillow with dimensions of 0.55 meters long, 0.4 meters wide, and 0.2 meters high at the center of the existing left-side cabinet by the bed table."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0078_00",
+        "scene_name": "42446104",
+        "db_id": "6796289716374f2095bd7828",
+        "exp_file_index": 791,
+        "new_referring_expressions": "Select the object that occupies an area of roughly 3.4 square meters on the floor."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0079_00",
+        "scene_name": "45662921",
+        "db_id": "67a44ec1e763c0531eea52b1",
+        "exp_file_index": 1027,
+        "new_referring_expressions": "Facing the windows, move the chairs on the far right side of the table 0.6 meters to the right to create additional seating space."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0079_00",
+        "scene_name": "45662921",
+        "db_id": "679629c416374f2095bd782b",
+        "exp_file_index": 794,
+        "new_referring_expressions": "Which oven is 1.5 meters away from the windowsill?"
+    },
+    {
+        "evaluation_level": "part_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0088_00",
+        "scene_name": "47331651",
+        "db_id": "679796e617df4bd2c8527990",
+        "exp_file_index": 198,
+        "new_referring_expressions": "Choose the top three drawers of the cabinet on the right side of the oven."
+    },
+    {
+        "evaluation_level": "area_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0089_00",
+        "scene_name": "42446103",
+        "db_id": "67d39c1a6c718c6bf899262b",
+        "exp_file_index": 150,
+        "new_referring_expressions": "Identify the area suitable for family dinner."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0089_00",
+        "scene_name": "42446103",
+        "db_id": "67a44ec1e763c0531eea5292",
+        "exp_file_index": 1002,
+        "new_referring_expressions": "Sit on a small sofa. On the right side of the small sofa, at a distance of 0.7 meters from the center of the small sofa, place a small sidetable with dimensions of 0.4 meters x 0.4 meters and a height of 0.5 meters."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0101_00",
+        "scene_name": "44358538",
+        "db_id": "67a44ec1e763c0531eea50f7",
+        "exp_file_index": 680,
+        "new_referring_expressions": "Place a bathroom mat with a length of 1 meter, a width of 0.5 meters, and a thickness of 0.02 meters in front of the bathtub, ensuring that the center of the mat is 0.7 meters away from the center of the bathtub, and its length does not exceed the width of the bathtub's edge."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0101_00",
+        "scene_name": "44358538",
+        "db_id": "6796efcfb563cf8c5071f108",
+        "exp_file_index": 811,
+        "new_referring_expressions": "Find the toilet that is 0.7 meters away from the bathtub."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0104_00",
+        "scene_name": "41125718",
+        "db_id": "67a44ec1e763c0531eea52d8",
+        "exp_file_index": 1055,
+        "new_referring_expressions": "Facing the headboard, replace the cabinet on the left side of the bed with a longer cabinet, 0.62 meters in length."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0104_00",
+        "scene_name": "41125718",
+        "db_id": "67a44ec1e763c0531eea52d9",
+        "exp_file_index": 1056,
+        "new_referring_expressions": "Place a chair measuring 0.5 meters x 0.5 meters x 1 meter in front of the larger cabinet, leaving a gap of 0.3 meters between the chair and the cabinet, and position it snugly against the wall."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0118_00",
+        "scene_name": "42446163",
+        "db_id": "67a44ec1e763c0531eea5122",
+        "exp_file_index": 712,
+        "new_referring_expressions": "Facing the table, place a floor light with a base diameter of 0.3 meters and a height of 1.8 meters to the left of the table, closely adjacent to both the table and the wall. It provides additional lighting for the area, especially suitable for reading or working at the table."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0133_00",
+        "scene_name": "47332000",
+        "db_id": "67a44ec1e763c0531eea512d",
+        "exp_file_index": 722,
+        "new_referring_expressions": "Replace the mirror with a photo frame on the wall above the cabinet, with the length of the photo frame equal to twice the height of the current mirror."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0137_00",
+        "scene_name": "47115460",
+        "db_id": "67a44ec1e763c0531eea527b",
+        "exp_file_index": 986,
+        "new_referring_expressions": "Suppose you are cooking on the cooktop above the oven. A spice rack with dimensions of 0.3m x 0.1m and a height of 0.4 meters is mounted on the wall 0.11 meters directly above the cooktop for easy access to various spices."
+    },
+    {
+        "evaluation_level": "part_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0137_00",
+        "scene_name": "47115460",
+        "db_id": "679796e617df4bd2c85279a0",
+        "exp_file_index": 214,
+        "new_referring_expressions": "Facing the cabinet next to the trash can, select its right half."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0146_00",
+        "scene_name": "42899736",
+        "db_id": "67a44ec1e763c0531eea51a3",
+        "exp_file_index": 812,
+        "new_referring_expressions": "Place a square bedside carpet measuring 0.8 meters x 0.8 meters x 0.02 meters in front of the foot of the bed, ensuring it is centered at the foot and closely abuts the foot of the bed."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0153_00",
+        "scene_name": "47331971",
+        "db_id": "67a5fd76241feb3bd62c5d56",
+        "exp_file_index": 1100,
+        "new_referring_expressions": "Standing up from the middle of the sofa that faces the windows, walk 3 meters ahead and turn right. Then walk 1.3 meters ahead and stop. Position an floor lamp measuring 0.6 meters in base diameter and 1.7 meters in height, centered at your current position."
+    },
+    {
+        "evaluation_level": "part_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0153_00",
+        "scene_name": "47331971",
+        "db_id": "679796e617df4bd2c85279a6",
+        "exp_file_index": 220,
+        "new_referring_expressions": "The large brown cabinet in the corner next to the window can be divided into two sections: upper and lower. Select the section that includes the glass window."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0161_00",
+        "scene_name": "41159566",
+        "db_id": "679706e8b563cf8c5071f12a",
+        "exp_file_index": 845,
+        "new_referring_expressions": "Facing the tallest shelf in the room, which sofa is approximately 1.4 meters away from the chair near the fireplace and positioned to its left?"
+    },
+    {
+        "evaluation_level": "area_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0166_00",
+        "scene_name": "42898818",
+        "db_id": "67a30a1e6162b51976dce30d",
+        "exp_file_index": 95,
+        "new_referring_expressions": "Locate the shower area."
+    },
+    {
+        "evaluation_level": "part_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0166_00",
+        "scene_name": "42898818",
+        "db_id": "679796e617df4bd2c85279a9",
+        "exp_file_index": 223,
+        "new_referring_expressions": "Select the second drawer of the cabinet under the sink."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0169_00",
+        "scene_name": "47332918",
+        "db_id": "679718acb563cf8c5071f137",
+        "exp_file_index": 856,
+        "new_referring_expressions": "Find the cabinet under the tv monitor that is about 0.4 meters away from the green table."
+    },
+    {
+        "evaluation_level": "part_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0169_00",
+        "scene_name": "47332918",
+        "db_id": "679796e617df4bd2c85279ad",
+        "exp_file_index": 227,
+        "new_referring_expressions": "Facing the wall behind the table, select the section of the table corresponding to the two chairs on the right side."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0173_00",
+        "scene_name": "42897692",
+        "db_id": "67a44ec1e763c0531eea5283",
+        "exp_file_index": 991,
+        "new_referring_expressions": "Facing the head of the bed, replace the shelf above the cabinet to the left of the bed with a 1.2-meter high shelf, keeping the width and length unchanged."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0173_00",
+        "scene_name": "42897692",
+        "db_id": "67a44ec1e763c0531eea5284",
+        "exp_file_index": 992,
+        "new_referring_expressions": "Place a new light measuring 0.4 meters high, 0.2 meters wide, and 0.25 meters long on top of the shelves above the white storage cabinet. The new light must be positioned closely against the window side wall and near the outer edge of the shelves."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0181_00",
+        "scene_name": "47331646",
+        "db_id": "67971e30b563cf8c5071f13f",
+        "exp_file_index": 864,
+        "new_referring_expressions": "Standing up from the armchair and walk 1 meters forward, which object on the floor directly to my right is against the wall?"
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0195_00",
+        "scene_name": "47331068",
+        "db_id": "679721aeb563cf8c5071f145",
+        "exp_file_index": 870,
+        "new_referring_expressions": "Facing the mirror, which object located on the floor is 0.4 meters to the left of the toilet?"
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0205_00",
+        "scene_name": "42897550",
+        "db_id": "67a44ec1e763c0531eea5167",
+        "exp_file_index": 770,
+        "new_referring_expressions": "Add a small table that is 0.5 meters long, 0.3 meters wide, and 0.7 meters high between the bathtub and the toilet. Ensure there is a 0.2-meter gap between the table and the bathtub, with the other side pressing against the cabinet under the sink."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0206_00",
+        "scene_name": "42898538",
+        "db_id": "679723acb563cf8c5071f148",
+        "exp_file_index": 873,
+        "new_referring_expressions": "Which cabinet is approximately 0.8 meters away from the table?"
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0215_00",
+        "scene_name": "42899725",
+        "db_id": "67a44ec1e763c0531eea513c",
+        "exp_file_index": 736,
+        "new_referring_expressions": "Place a small plant with a diameter of 0.1 meters and a height of 0.3 meters on the floor between the toilet and the bathtub to add a touch of green and vitality to the bathroom."
+    },
+    {
+        "evaluation_level": "part_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0236_00",
+        "scene_name": "45260905",
+        "db_id": "679796e617df4bd2c85279b9",
+        "exp_file_index": 239,
+        "new_referring_expressions": "Choose the top two shelves of the cabinet that contains book in the corner."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0247_00",
+        "scene_name": "47331990",
+        "db_id": "67a44ec1e763c0531eea52cd",
+        "exp_file_index": 1046,
+        "new_referring_expressions": "On the wall behind the sofa in the bedroom, directly above the sofa, a new artwork, which is half the length of the tv, 0.02 meters thick, and twice the height of the tv monitor, is placed."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0250_00",
+        "scene_name": "42899471",
+        "db_id": "67a44ec1e763c0531eea518b",
+        "exp_file_index": 791,
+        "new_referring_expressions": "Imagine you are cooking next to the cooktop. Place a seasoning rack that is 0.6 meters long, 0.15 meters high, and 0.4 meters wide on the cabinet to the right of the cooktop, aligning the centers of both, so you can easily access the spices while cooking."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0256_00",
+        "scene_name": "45663149",
+        "db_id": "67a44e7a70117223672d06aa",
+        "exp_file_index": 21,
+        "new_referring_expressions": "Standing up from the middle of the sofa closer to the door, walk 1.5 meters forward and then turn right. Walk another 1 meters forward and stop. Place a trash bin with 0.3 meters in both width and length and 0.45 meters in height centered at the current position."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0267_00",
+        "scene_name": "45662981",
+        "db_id": "679730d8b563cf8c5071f165",
+        "exp_file_index": 898,
+        "new_referring_expressions": "Locate the largest table with 1.3 metes in length."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0268_00",
+        "scene_name": "47115550",
+        "db_id": "67973264b563cf8c5071f169",
+        "exp_file_index": 902,
+        "new_referring_expressions": "Facing the large window, which chair positioned on the left of the dining table is approximately 1.2 meters away from the windowsill?"
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0275_00",
+        "scene_name": "41254412",
+        "db_id": "67a44ec1e763c0531eea50fd",
+        "exp_file_index": 683,
+        "new_referring_expressions": "Facing the cabinet, place a chair measuring 0.45 meters long, 0.45 meters wide, and 0.9 meters tall tightly against the wall on the left side of the cabinet."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0275_00",
+        "scene_name": "41254412",
+        "db_id": "679732b9b563cf8c5071f16a",
+        "exp_file_index": 903,
+        "new_referring_expressions": "Select the object measuring 2 meters in length."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0281_00",
+        "scene_name": "45663115",
+        "db_id": "67a44ec1e763c0531eea5227",
+        "exp_file_index": 919,
+        "new_referring_expressions": "Assume you are lying in the bathtub taking a bath, installing a towel rack that is 0.5 meters long, 0.1 meters wide, and 0.05 meters high at the corner of the wall on the left side of the bathtub, 0.4 meters from the top edge of the bathtub."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0281_00",
+        "scene_name": "45663115",
+        "db_id": "67973457b563cf8c5071f16f",
+        "exp_file_index": 908,
+        "new_referring_expressions": "Identify the object directly in front of the toilet that extends over 1.6 meters in length, providing ample space for its utilization."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0289_00",
+        "scene_name": "42897647",
+        "db_id": "67a44ec1e763c0531eea5241",
+        "exp_file_index": 939,
+        "new_referring_expressions": "The sofa facing the smaller table has two cushions placed in front of it, closely parallel to the sofa. Each cushion measures 0.79 meters in length, 0.79 meters in width, and 0.02 meters in thickness. The two cushions are connected together."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0303_00",
+        "scene_name": "47332910",
+        "db_id": "67973ca8b563cf8c5071f179",
+        "exp_file_index": 917,
+        "new_referring_expressions": "Identify the object that is placed within the bathroom and measuring 1.5 meters in length."
+    },
+    {
+        "evaluation_level": "part_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0314_00",
+        "scene_name": "41069021",
+        "db_id": "679796e617df4bd2c85279cf",
+        "exp_file_index": 261,
+        "new_referring_expressions": "Choose the section on the sofa that is closest to the window."
+    },
+    {
+        "evaluation_level": "part_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0319_00",
+        "scene_name": "42897566",
+        "db_id": "679c69fb6fe400eae4b33a9b",
+        "exp_file_index": 385,
+        "new_referring_expressions": "Choose the section with the light yellow stripes from the stool."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0321_00",
+        "scene_name": "41254382",
+        "db_id": "67974cd5b563cf8c5071f183",
+        "exp_file_index": 927,
+        "new_referring_expressions": "Identify the object with a height close to 0.55 meters that is situated near the window."
+    },
+    {
+        "evaluation_level": "object_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0323_00",
+        "scene_name": "42899617",
+        "db_id": "67974dd8b563cf8c5071f185",
+        "exp_file_index": 929,
+        "new_referring_expressions": "Select the object that spans a length of 1.75 meters."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0344_00",
+        "scene_name": "47331266",
+        "db_id": "67a44ec1e763c0531eea52bf",
+        "exp_file_index": 1033,
+        "new_referring_expressions": "Place a chair measuring 0.5 meters by 0.5 meters, with a height of 0.87 meters, in front of the sofa opposite the TV monitor. The chair should face directly towards the TV and be positioned 0.8 meters away from the sofa, snug against the coffee table."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0344_00",
+        "scene_name": "47331266",
+        "db_id": "67a44ec1e763c0531eea52c3",
+        "exp_file_index": 1037,
+        "new_referring_expressions": "Facing the TV monitor, a carpet measuring 1.2 meters in length, 0.8 meters in width, and 0.02 meters in thickness is laid out on the floor directly in front of the center. The carpet is snug against the front edge of the cabinet holding the TV monitor."
+    },
+    {
+        "evaluation_level": "part_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0344_00",
+        "scene_name": "47331266",
+        "db_id": "679796e617df4bd2c85279d4",
+        "exp_file_index": 266,
+        "new_referring_expressions": "Select the part of the table corresponding to the three chairs nearest to the wall."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0355_00",
+        "scene_name": "47332893",
+        "db_id": "67a44ec1e763c0531eea5172",
+        "exp_file_index": 778,
+        "new_referring_expressions": "Facing the bed, on the right side of the bed, placed tightly against the lower left corner of the bedside cabinet, is a handleless washing basket with a diameter of 0.5 meters and a height of 0.6 meters. The washing basket is snugly fitting against the bed and the cabinet, effectively organizing the space."
+    },
+    {
+        "evaluation_level": "space_level",
+        "datasetname": "arkitscene_valid",
+        "scene_id": "scene0355_00",
+        "scene_name": "47332893",
+        "db_id": "67a44ec1e763c0531eea5173",
+        "exp_file_index": 779,
+        "new_referring_expressions": "The ideal placement for a wall-mounted clock, with dimensions of 0.3 meters in diameter and 0.03 meters in thickness, is directly above the TV monitor on the wall, positioned at a height of 1 meter from the table surface. This allows the time to be visible from the bed."
+    }
+]

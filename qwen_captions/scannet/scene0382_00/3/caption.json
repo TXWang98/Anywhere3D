@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric-covered {generic}-type object with dark blue coloring and rectangular shape. Appears to have a rigid frame structure. Inconclusive evidence for its function, but it may serve as a backdrop or partition. Positioned against a wall in an indoor setting, near an electrical outlet and some cables.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0382_00/mattress-3/object_in_frame_404.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0382_00/mattress-3/object_in_frame_508.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0382_00/mattress-3/object_in_frame_500.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0382_00/mattress-3/object_in_frame_475.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0382_00/mattress-3/object_in_frame_502.png"
+    ]
+}

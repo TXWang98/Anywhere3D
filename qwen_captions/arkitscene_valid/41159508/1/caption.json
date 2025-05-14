@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy ceramic bathtub with white coloring and an oval shape. Smooth, curved exterior with a slightly tapered rim suggests ergonomic design for bathing. Equipped with faucet fixtures for water control. Positioned in a bathroom setting with wooden flooring, a striped bath mat, and toiletries on the edge.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159508/1/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159508/1/object_in_frame_178.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159508/1/object_in_frame_150.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159508/1/object_in_frame_323.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159508/1/object_in_frame_19.png"
+    ]
+}

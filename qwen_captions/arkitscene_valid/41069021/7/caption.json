@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden chair with a dark brown seat and backrest. The structure includes metal legs with a slight taper, suggesting stability and modern design. Likely used for seating at the dining table. Positioned near a white round table in a kitchen setting with light wood flooring.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/7/object_in_frame_1223.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/7/object_in_frame_1064.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/7/object_in_frame_1040.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/7/object_in_frame_1097.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/7/object_in_frame_1237.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic chair with dark brown coloring and a rectangular backrest. Has a simple frame structure with no visible armrests. Likely used for seating in an educational setting. Positioned near a wooden desk in a classroom environment, surrounded by other chairs and bookshelves.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/chair-7/object_in_frame_2084.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/chair-7/object_in_frame_1872.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/chair-7/object_in_frame_2128.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/chair-7/object_in_frame_2064.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/chair-7/object_in_frame_2148.png"
+    ]
+}

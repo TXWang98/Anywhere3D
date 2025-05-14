@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly transparent plastic container-type object with a clear appearance and cylindrical shape. The tapered rim suggests it could be a cup or small vase. Inconclusive evidence for its exact function, but it may be used for holding liquids or small items. Found on a table in a meeting room setting, surrounded by chairs and other tables.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/wall-11/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/wall-11/object_in_frame_156.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/wall-11/object_in_frame_102.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/wall-11/object_in_frame_1005.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/wall-11/object_in_frame_1764.png"
+    ]
+}

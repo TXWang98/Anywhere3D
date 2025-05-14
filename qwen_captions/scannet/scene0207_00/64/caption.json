@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly shower curtain rod with silver coloring and elongated shape. Has a smooth, cylindrical structure. Functions to support a shower curtain. Positioned above the bathtub area in a bathroom setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/shower curtain rod-64/object_in_frame_1083.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/shower curtain rod-64/object_in_frame_1086.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/shower curtain rod-64/object_in_frame_1089.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/shower curtain rod-64/object_in_frame_456.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/shower curtain rod-64/object_in_frame_1092.png"
+    ]
+}

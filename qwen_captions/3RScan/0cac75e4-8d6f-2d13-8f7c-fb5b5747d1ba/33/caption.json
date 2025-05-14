@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly ceramic container-type object with a muted green color and rectangular shape. The tapered rim suggests it may be used for storage or display purposes. Inconclusive evidence for its exact function due to the lack of visible handles or openings. Found on a shelf in what appears to be a kitchen or pantry setting, surrounded by other containers and jars.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac75e4-8d6f-2d13-8f7c-fb5b5747d1ba/33/object_in_frame_000189.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac75e4-8d6f-2d13-8f7c-fb5b5747d1ba/33/object_in_frame_000160.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac75e4-8d6f-2d13-8f7c-fb5b5747d1ba/33/object_in_frame_000161.png"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly metallic container-type object with a translucent appearance and cylindrical shape. The tapered rim suggests it might be designed for pouring or serving. Its structure includes a textured surface, likely for grip or aesthetic purposes. While resembling a vase, the presence of what appears to be a rolled-up item inside hints at storage functionality. Found on a table in a room setting, near other objects like books and stationery.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac758d-8d6f-2d13-8d21-9133668b4d7d/11/object_in_frame_000287.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac758d-8d6f-2d13-8d21-9133668b4d7d/11/object_in_frame_000286.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac758d-8d6f-2d13-8d21-9133668b4d7d/11/object_in_frame_000288.png"
+    ]
+}

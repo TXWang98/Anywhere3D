@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic cup with a translucent appearance and cylindrical shape. The tapered rim suggests it's designed for drinking. It has a green straw inserted, indicating its use for beverages. Sitting on a table in a meeting room setup with chairs arranged around.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/wall-9/object_in_frame_129.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/wall-9/object_in_frame_126.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/wall-9/object_in_frame_831.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/wall-9/object_in_frame_870.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/wall-9/object_in_frame_1740.png"
+    ]
+}

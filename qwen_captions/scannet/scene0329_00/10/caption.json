@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly floor lamp base with a silver finish and cylindrical shape. The structure includes vertical rods extending upwards, suggesting it supports a light fixture. Likely provides ambient lighting in the room. Positioned near a leather sofa and a small table in an indoor setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/lamp-10/object_in_frame_670.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/lamp-10/object_in_frame_656.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/lamp-10/object_in_frame_696.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/lamp-10/object_in_frame_676.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/lamp-10/object_in_frame_688.png"
+    ]
+}

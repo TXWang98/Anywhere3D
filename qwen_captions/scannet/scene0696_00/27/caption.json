@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric-covered book with a light beige and rectangular shape. The edges appear slightly folded, suggesting it might be soft or padded. Likely used for reading or as a decorative item. Placed on a green table surrounded by various household items like chairs and boxes in what appears to be a cluttered room.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/pillow-27/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/pillow-27/object_in_frame_152.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/pillow-27/object_in_frame_1040.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/pillow-27/object_in_frame_294.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/pillow-27/object_in_frame_1016.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A terracotta ceramic pot with a reddish-brown color and cylindrical shape. Has a smooth texture and slightly tapered rim. Likely used for planting small trees or decorative plants. Sitting on a wooden dresser beside a colorful painting and near a bed with pillows and blankets.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/plant-9/object_in_frame_2328.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/plant-9/object_in_frame_1242.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/plant-9/object_in_frame_2250.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/plant-9/object_in_frame_2292.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/plant-9/object_in_frame_2226.png"
+    ]
+}

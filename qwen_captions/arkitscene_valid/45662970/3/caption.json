@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric towel with blue and white striped pattern. Rectangular shape with soft texture. Likely used for drying hands or dishes. Hanging on a cabinet handle in a kitchen setting, near a sink and washing machine.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662970/3/object_in_frame_631.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662970/3/object_in_frame_600.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662970/3/object_in_frame_605.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662970/3/object_in_frame_614.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662970/3/object_in_frame_638.png"
+    ]
+}

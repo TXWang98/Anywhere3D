@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly stool-type object with a dark gray seat and cylindrical legs. The tapered rim suggests it is designed for seating. Likely used in casual or recreational settings. Positioned near a pool table in a room with other similar stools and a small table.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0618_00/table-26/object_in_frame_567.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0618_00/table-26/object_in_frame_548.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0618_00/table-26/object_in_frame_565.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0618_00/table-26/object_in_frame_546.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0618_00/table-26/object_in_frame_569.png"
+    ]
+}

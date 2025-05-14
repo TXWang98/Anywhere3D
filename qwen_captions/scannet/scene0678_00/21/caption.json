@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly tool-type object with a checkered pattern and cylindrical shape. Features angular grooves and a reflective surface. Inconclusive evidence for its specific function, but it may be used for maintenance tasks. Positioned near an exit door in a laundry room setting, surrounded by washing machines and a fire extinguisher.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/door-21/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/door-21/object_in_frame_2380.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/door-21/object_in_frame_2280.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/door-21/object_in_frame_2332.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/door-21/object_in_frame_2276.png"
+    ]
+}

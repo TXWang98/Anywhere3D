@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric lampshade with white coloring and a conical shape. The tapered rim suggests it is designed to diffuse light evenly. Likely part of a desk lamp for task lighting. Positioned on a glass-top desk in an office setting, near a chair and window blinds.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/lamp-12/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/lamp-12/object_in_frame_50.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/lamp-12/object_in_frame_29.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/lamp-12/object_in_frame_59.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/lamp-12/object_in_frame_40.png"
+    ]
+}

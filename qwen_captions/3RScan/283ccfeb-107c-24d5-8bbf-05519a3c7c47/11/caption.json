@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric book-type object with muted purple and beige tones. Rectangular shape with visible edges and slight texture suggesting a soft cover. Likely intended for reading or as a decorative item. Placed on a bed with patterned bedding, near pillows and other personal items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/283ccfeb-107c-24d5-8bbf-05519a3c7c47/11/object_in_frame_000102.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/283ccfeb-107c-24d5-8bbf-05519a3c7c47/11/object_in_frame_000456.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/283ccfeb-107c-24d5-8bbf-05519a3c7c47/11/object_in_frame_000101.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/283ccfeb-107c-24d5-8bbf-05519a3c7c47/11/object_in_frame_000454.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/283ccfeb-107c-24d5-8bbf-05519a3c7c47/11/object_in_frame_000036.png"
+    ]
+}

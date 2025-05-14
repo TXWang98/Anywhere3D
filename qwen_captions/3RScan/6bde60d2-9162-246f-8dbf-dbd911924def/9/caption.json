@@ -1,0 +1,9 @@
+{
+    "caption": "\"A ceramic toilet with white coloring and a standard elongated shape. Features a closed lid and seat, with a flush mechanism on the wall behind. Designed for sanitary waste disposal. Positioned in a bathroom setting with tiled flooring and adjacent plumbing fixtures.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/6bde60d2-9162-246f-8dbf-dbd911924def/9/object_in_frame_000002.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/6bde60d2-9162-246f-8dbf-dbd911924def/9/object_in_frame_000001.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/6bde60d2-9162-246f-8dbf-dbd911924def/9/object_in_frame_000055.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/6bde60d2-9162-246f-8dbf-dbd911924def/9/object_in_frame_000000.png"
+    ]
+}

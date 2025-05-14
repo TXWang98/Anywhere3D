@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly stove-type object with a dark gray and silver color scheme. Features a rectangular shape with multiple burners on the surface. The presence of knobs suggests control for cooking functions. Positioned on a kitchen countertop, adjacent to cabinets and near a towel.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898521/11/object_in_frame_328.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898521/11/object_in_frame_336.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898521/11/object_in_frame_200.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898521/11/object_in_frame_322.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898521/11/object_in_frame_288.png"
+    ]
+}

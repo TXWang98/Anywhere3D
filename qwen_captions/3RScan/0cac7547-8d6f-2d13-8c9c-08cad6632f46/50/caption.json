@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly metallic container-type object with a silver-gray color and rectangular shape. The tapered rim suggests it may be a canister or small bin. It has a smooth surface with no visible handles or lids. Likely used for storage or waste disposal. Placed on a wooden table in what appears to be a dining area, near chairs and other furniture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/50/object_in_frame_000297.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/50/object_in_frame_000286.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/50/object_in_frame_000285.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy plastic projector with white coloring and a rectangular shape. Has a compact body with visible ports and cables. Designed for projecting images onto screens. Suspended from the ceiling in a classroom setting, near a chalkboard and doors.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0500_00/ceiling-20/object_in_frame_1254.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0500_00/ceiling-20/object_in_frame_1251.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0500_00/ceiling-20/object_in_frame_1257.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0500_00/ceiling-20/object_in_frame_1239.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0500_00/ceiling-20/object_in_frame_1245.png"
+    ]
+}

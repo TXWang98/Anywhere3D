@@ -1,0 +1,10 @@
+{
+    "caption": "A framed picture with a light brown frame and rectangular shape. The image within depicts a basket of red apples on a checkered cloth. The flat, two-dimensional structure suggests it is a decorative wall art piece. Positioned on a white wall among other similar framed pictures in what appears to be a kitchen setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/picture-18/object_in_frame_2955.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/picture-18/object_in_frame_2850.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/picture-18/object_in_frame_980.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/picture-18/object_in_frame_2885.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/picture-18/object_in_frame_760.png"
+    ]
+}

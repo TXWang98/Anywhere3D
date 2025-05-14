@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden decorative panel with intricate carvings and rectangular shape. Features ornate patterns and a slightly raised texture. Likely serves as an aesthetic or cultural artifact. Positioned leaning against a cabinet in a room filled with various household items like books, electronics, and framed pictures.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/7/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/7/object_in_frame_293.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/7/object_in_frame_145.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/7/object_in_frame_267.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/7/object_in_frame_251.png"
+    ]
+}

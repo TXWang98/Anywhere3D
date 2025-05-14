@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly ceramic mug with a white color and cylindrical shape. The tapered rim suggests it is designed for drinking. Likely used for beverages like coffee or tea. Sitting on a cluttered desk alongside books, papers, and other personal items in what appears to be a dorm room setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/desk-50/object_in_frame_1996.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/desk-50/object_in_frame_2052.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/desk-50/object_in_frame_1804.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/desk-50/object_in_frame_2064.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/desk-50/object_in_frame_2088.png"
+    ]
+}

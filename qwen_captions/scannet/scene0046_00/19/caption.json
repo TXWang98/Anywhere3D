@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden bench-type object with a green cushion and rectangular shape. Has a flat seating surface and simple frame structure. Likely used for sitting or resting. Positioned near shoes and clothing in what appears to be a hotel room entryway.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/table-19/object_in_frame_2376.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/table-19/object_in_frame_2380.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/table-19/object_in_frame_2372.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/table-19/object_in_frame_2356.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/table-19/object_in_frame_1060.png"
+    ]
+}

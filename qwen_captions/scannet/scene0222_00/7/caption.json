@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric chair-type object with a mix of gray and yellow colors. The structure appears to be a wooden frame with cloth draped over it. Likely used for seating or as a temporary storage spot for clothes. Seen in a dorm room setting, positioned near a desk with various items like books, containers, and personal belongings around.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/chair-7/object_in_frame_1296.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/chair-7/object_in_frame_1152.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/chair-7/object_in_frame_54.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/chair-7/object_in_frame_9.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/chair-7/object_in_frame_801.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy plastic monitor with a black frame and rectangular shape. The screen is off, displaying a dark surface. Likely used for computer display purposes. Positioned on a wooden desk surrounded by office supplies like keyboards, papers, and bottles.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/monitor-30/object_in_frame_968.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/monitor-30/object_in_frame_1018.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/monitor-30/object_in_frame_1010.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/monitor-30/object_in_frame_942.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/monitor-30/object_in_frame_950.png"
+    ]
+}

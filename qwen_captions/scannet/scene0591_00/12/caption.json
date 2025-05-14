@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with red and transparent sections. Rectangular shape with a lid. Likely used for storing small items. Placed on top of a white cabinet in an office setting, near other storage items like a water bottle and books.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0591_00/bookshelf-12/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0591_00/bookshelf-12/object_in_frame_1186.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0591_00/bookshelf-12/object_in_frame_614.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0591_00/bookshelf-12/object_in_frame_1198.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0591_00/bookshelf-12/object_in_frame_724.png"
+    ]
+}

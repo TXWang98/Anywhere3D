@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic tool-type object with dark coloring and angular shape. Inconclusive evidence for its specific function, but it appears to have grooves and a handle-like feature. Likely used for mechanical or assembly tasks. Seen in a storage environment near other items like suitcases and boxes on top of a wooden cabinet.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/42/object_in_frame_2015.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/42/object_in_frame_1902.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/42/object_in_frame_1940.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/42/object_in_frame_2027.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/42/object_in_frame_1889.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic water bottle pack with clear and blue coloring. The bottles are cylindrical with rounded caps, arranged in a grid pattern within a cardboard sleeve. Likely intended for hydration purposes. Positioned on the floor near a backpack and a dresser, suggesting a casual indoor setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/case of water bottles-42/object_in_frame_495.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/case of water bottles-42/object_in_frame_510.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/case of water bottles-42/object_in_frame_474.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/case of water bottles-42/object_in_frame_609.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/case of water bottles-42/object_in_frame_579.png"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "caption": "\"A wooden possibly door-type object with a natural brown color and rectangular shape. The tapered rim suggests it is designed to fit within a frame. Appears to have hinges on one side, indicating its function as an opening mechanism. Positioned in a doorway leading to another room, with a light switch visible on the adjacent wall.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3df5-45a5-2e80-82c1-b108dc9a3fbe/5/object_in_frame_000090.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3df5-45a5-2e80-82c1-b108dc9a3fbe/5/object_in_frame_000091.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3df5-45a5-2e80-82c1-b108dc9a3fbe/5/object_in_frame_000089.png"
+    ]
+}

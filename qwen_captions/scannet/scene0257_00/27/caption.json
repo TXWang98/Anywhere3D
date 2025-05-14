@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic fire extinguisher with red body and silver nozzle. Cylindrical shape with a tapered top. Equipped with a pressure gauge and hose for emergency use. Positioned near a laboratory sink and faucet, indicating a safety measure in a workspace environment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0257_00/fire extinguisher-27/object_in_frame_898.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0257_00/fire extinguisher-27/object_in_frame_278.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0257_00/fire extinguisher-27/object_in_frame_54.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0257_00/fire extinguisher-27/object_in_frame_876.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0257_00/fire extinguisher-27/object_in_frame_298.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden chair with a natural finish and rectangular backrest. The slatted design provides structural support. Likely used for seating at the dining table. Positioned around a table covered with a green floral tablecloth in a dining area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332918/11/object_in_frame_549.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332918/11/object_in_frame_550.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332918/11/object_in_frame_53.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332918/11/object_in_frame_64.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332918/11/object_in_frame_497.png"
+    ]
+}

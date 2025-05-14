@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic container-type object with a silver finish and cylindrical shape. The tapered rim suggests it could be a cup or small vase. Its smooth surface reflects light, indicating a polished material. While resembling a decorative item, the presence of nearby placemats and tableware hints at potential functional use in dining settings. Positioned on a wooden table alongside other objects like a glass bottle and potted plant.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a644cb8e-0ee5-2f66-9c91-1db77b5a8f96/4/object_in_frame_000138.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a644cb8e-0ee5-2f66-9c91-1db77b5a8f96/4/object_in_frame_000140.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a644cb8e-0ee5-2f66-9c91-1db77b5a8f96/4/object_in_frame_000025.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a644cb8e-0ee5-2f66-9c91-1db77b5a8f96/4/object_in_frame_000136.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a644cb8e-0ee5-2f66-9c91-1db77b5a8f96/4/object_in_frame_000137.png"
+    ]
+}

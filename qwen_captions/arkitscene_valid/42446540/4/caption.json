@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden possibly drawer-type object with a light brown color and rectangular shape. Has a simple flat surface and visible handle. Likely used for storage. Positioned beneath a Christmas tree on a polished wooden floor, near a dark curtain.\"\n\n\"A possibly metallic tool-type object with an indistinct color and angular shape. Inconclusive evidence for its function. Seen in a living room environment near a sofa and coffee table.\"\n\n\"A possibly ceramic vase-type object with translucent coloring and fluted body shape. While resembling a vase, the presence of water droplets suggests it might be used as a floral display container. Found beside a Christmas tree on a polished wooden floor.\"\n\n\"A possibly glass vase-type object with translucent amber coloring. Fluted body shape and water droplets on surface. Likely floral display container. Found on windowsill with plants and pruning shears nearby.\"\n\n\"A wooden possibly drawer-type object with a light brown color and rectangular shape. The tapered rim suggests it is designed for easy opening. Likely used for storage. Positioned beneath a Christmas tree on a polished wooden floor, near a dark curtain.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/4/object_in_frame_143.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/4/object_in_frame_844.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/4/object_in_frame_138.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/4/object_in_frame_839.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/4/object_in_frame_149.png"
+    ]
+}

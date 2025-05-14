@@ -1,0 +1,10 @@
+{
+    "caption": "\"A soft fabric pillow with white and pink floral patterns and a rectangular shape. Features a smooth texture and slight indentation from use. Provides head support for sleeping. Positioned against the wooden headboard of a bed, alongside another similar pillow.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/pillow-25/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/pillow-25/object_in_frame_956.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/pillow-25/object_in_frame_872.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/pillow-25/object_in_frame_896.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/pillow-25/object_in_frame_912.png"
+    ]
+}

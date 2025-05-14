@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic tool-type object, matte silver with angular grooves. Ambiguous function between wrench or specialized clamp. Seen in workshop environment near assembly parts.\" \n\nIn this case, the green bounding box appears to be around a small object that is not clearly visible due to its size and distance from the camera. The object seems to be on the desk near the monitor but lacks distinct features for confident categorization. The surrounding context includes a computer setup with a monitor, keyboard, mouse, and cables, suggesting an office or workspace environment. There are no clear color patterns or material properties discernible. The shape appears somewhat rectangular but is too indistinct to determine structural details. Its functional affordances remain unclear. It is placed on a desk alongside other typical office items like a computer tower and cables.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/monitor-41/object_in_frame_270.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/monitor-41/object_in_frame_244.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/monitor-41/object_in_frame_314.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/monitor-41/object_in_frame_1148.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/monitor-41/object_in_frame_264.png"
+    ]
+}

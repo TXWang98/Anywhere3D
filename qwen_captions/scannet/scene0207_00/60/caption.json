@@ -1,0 +1,10 @@
+{
+    "caption": "A white possibly plastic container-type object with a rectangular shape. The tapered rim suggests it may be designed for easy pouring or access to contents. Inconclusive evidence for its specific function, but it appears suitable for storing bathroom items. Located on a shelf within a bathroom cabinet, surrounded by other toiletries and personal care products.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/cabinet-60/object_in_frame_1062.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/cabinet-60/object_in_frame_1065.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/cabinet-60/object_in_frame_1080.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/cabinet-60/object_in_frame_1071.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/cabinet-60/object_in_frame_1083.png"
+    ]
+}

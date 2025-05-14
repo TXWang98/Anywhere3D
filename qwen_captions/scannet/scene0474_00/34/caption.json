@@ -1,0 +1,10 @@
+{
+    "caption": "A black mesh office chair with a dark blue cushion and ergonomic design. Features a breathable mesh backrest and armrests for comfort. Designed for prolonged sitting in professional settings. Positioned between a sofa with red cushions and a desk with papers and a computer, suggesting a multi-purpose workspace environment.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/wall-34/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/wall-34/object_in_frame_450.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/wall-34/object_in_frame_436.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/wall-34/object_in_frame_430.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/wall-34/object_in_frame_456.png"
+    ]
+}

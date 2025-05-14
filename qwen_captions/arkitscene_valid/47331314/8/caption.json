@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy plastic television with black coloring and rectangular shape. Flat screen design with a slim profile. Made for displaying visual content. Positioned on a white stand in a living room setting, near a cabinet and a potted plant.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331314/8/object_in_frame_224.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331314/8/object_in_frame_246.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331314/8/object_in_frame_281.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331314/8/object_in_frame_304.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331314/8/object_in_frame_251.png"
+    ]
+}

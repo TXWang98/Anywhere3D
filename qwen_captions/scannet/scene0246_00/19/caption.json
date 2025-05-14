@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic sink with white coloring and a rectangular shape. Smooth surface with rounded edges and a central drain. Designed for washing hands or other hygiene tasks. Positioned in a bathroom setting, adjacent to a shower curtain and near a faucet.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/sink-19/object_in_frame_1508.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/sink-19/object_in_frame_1500.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/sink-19/object_in_frame_1660.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/sink-19/object_in_frame_1472.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/sink-19/object_in_frame_1632.png"
+    ]
+}

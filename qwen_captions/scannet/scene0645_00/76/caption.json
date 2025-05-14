@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic toilet paper holder with white coloring and a cylindrical shape. Has a simple, functional design for holding a roll of toilet paper. Positioned next to the toilet in a bathroom setting, near a bathtub and sink.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/toilet paper-76/object_in_frame_4074.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/toilet paper-76/object_in_frame_3955.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/toilet paper-76/object_in_frame_3941.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/toilet paper-76/object_in_frame_4088.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/toilet paper-76/object_in_frame_3920.png"
+    ]
+}

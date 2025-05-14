@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy ceramic mug with white coloring and a cylindrical shape. Features a black handle and printed letter 'S'. Made for holding beverages. Positioned on a wooden desk beside a computer monitor, keyboard, and mouse in an office setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/wall-28/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/wall-28/object_in_frame_1152.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/wall-28/object_in_frame_183.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/wall-28/object_in_frame_1167.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/wall-28/object_in_frame_1149.png"
+    ]
+}

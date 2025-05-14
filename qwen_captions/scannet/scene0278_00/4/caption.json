@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with white coloring and cylindrical shape. Has a smooth surface and appears to have a lid. Likely used for storage or waste disposal. Positioned near a printer and other office equipment in what seems to be a workspace environment.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0278_00/trash can-4/object_in_frame_515.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0278_00/trash can-4/object_in_frame_510.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0278_00/trash can-4/object_in_frame_45.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0278_00/trash can-4/object_in_frame_44.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0278_00/trash can-4/object_in_frame_504.png"
+    ]
+}

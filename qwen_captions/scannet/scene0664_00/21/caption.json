@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly toilet paper holder with a silver finish and cylindrical shape. Has a horizontal bar for holding rolls. Likely used for dispensing toilet paper. Mounted on the wall near a toilet in a bathroom setting.\n\nA metallic possibly towel rack with a silver finish and elongated shape. Has a curved bar for hanging towels. Likely used for storing and drying towels. Mounted on the wall near a sink and storage shelves in a bathroom setting.\n\nA metallic possibly toilet paper holder with a silver finish and cylindrical shape. Has a horizontal bar for holding rolls. Likely used for dispensing toilet paper. Mounted on the wall near a toilet in a bathroom setting.\n\nA metallic possibly towel rack with a silver finish and elongated shape. Has a curved bar for hanging towels. Likely used for storing and drying towels. Mounted on the wall near a sink and storage shelves in a bathroom setting.\n\nA white ceramic toilet with a smooth surface and rounded shape. Features a closed lid and seat. Used for waste disposal. Positioned next to a bathtub and a trash can in a bathroom environment.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0664_00/toilet paper-21/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0664_00/toilet paper-21/object_in_frame_1152.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0664_00/toilet paper-21/object_in_frame_14.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0664_00/toilet paper-21/object_in_frame_1170.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0664_00/toilet paper-21/object_in_frame_38.png"
+    ]
+}

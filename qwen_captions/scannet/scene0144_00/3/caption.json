@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic chair with a light gray and beige color scheme. Features a simple, ergonomic design with a cushioned seat and backrest. Provides seating support for desk activities. Positioned in front of a wooden desk with various office items like a laptop, papers, and a monitor. The surrounding environment suggests a home office or study area setup.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0144_00/chair-3/object_in_frame_898.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0144_00/chair-3/object_in_frame_50.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0144_00/chair-3/object_in_frame_24.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0144_00/chair-3/object_in_frame_838.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0144_00/chair-3/object_in_frame_836.png"
+    ]
+}

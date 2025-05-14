@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly wooden table with a light brown color and rectangular shape. The surface is flat with scattered puzzle pieces, suggesting it's used for assembling puzzles. Positioned near a window with natural light coming through, and surrounded by chairs and another table with similar puzzle activity. \n\nInconclusive evidence for its exact material due to the image quality, but the presence of puzzle pieces indicates its use as a workspace for leisure activities.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/table-13/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/table-13/object_in_frame_174.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/table-13/object_in_frame_11.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/table-13/object_in_frame_147.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/table-13/object_in_frame_158.png"
+    ]
+}

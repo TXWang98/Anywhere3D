@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly paper poster-type object with grayscale coloring and rectangular shape. Features a detailed architectural drawing or blueprint. Likely intended for informational or decorative purposes. Mounted on a wall among other similar posters in what appears to be an office or classroom setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/picture-19/object_in_frame_792.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/picture-19/object_in_frame_772.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/picture-19/object_in_frame_782.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/picture-19/object_in_frame_780.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0329_00/picture-19/object_in_frame_760.png"
+    ]
+}

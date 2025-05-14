@@ -1,0 +1,10 @@
+{
+    "caption": "A soft cotton towel with off-white coloring and a rectangular shape. Features a looped texture for absorbency. Likely used for drying hands or body. Hanging on a metal rod above a wire shelf containing various bathroom items like mouthwash and toiletries.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/30/object_in_frame_11787.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/30/object_in_frame_11394.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/30/object_in_frame_11766.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/30/object_in_frame_11808.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/30/object_in_frame_11415.png"
+    ]
+}

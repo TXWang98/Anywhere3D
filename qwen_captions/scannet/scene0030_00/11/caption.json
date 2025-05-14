@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic chair with brown upholstery and a rectangular backrest. The chair has a simple, utilitarian design with metal legs. It is designed for seating in an educational or office setting. Positioned at a desk in a classroom environment, alongside other chairs and a chalkboard with mathematical equations written on it.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/chair-11/object_in_frame_1508.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/chair-11/object_in_frame_1500.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/chair-11/object_in_frame_1556.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/chair-11/object_in_frame_1480.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/chair-11/object_in_frame_1492.png"
+    ]
+}

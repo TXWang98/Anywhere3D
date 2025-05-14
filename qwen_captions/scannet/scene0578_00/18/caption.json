@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy whiteboard with a clean and smooth surface. Rectangular shape with a black frame. Designed for writing and erasing content. Mounted on the wall in a classroom setting, near a table with chairs and a water bottle.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0578_00/whiteboard-18/object_in_frame_1034.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0578_00/whiteboard-18/object_in_frame_156.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0578_00/whiteboard-18/object_in_frame_846.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0578_00/whiteboard-18/object_in_frame_876.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0578_00/whiteboard-18/object_in_frame_1058.png"
+    ]
+}

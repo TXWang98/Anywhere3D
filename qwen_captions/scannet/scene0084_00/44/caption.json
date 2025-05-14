@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly grab bar with a silver finish and elongated rectangular shape. Has a smooth, cylindrical structure for easy gripping. Provides support and safety in the shower area. Mounted on the wall near the showerhead and control knobs.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/rail-44/object_in_frame_1047.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/rail-44/object_in_frame_843.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/rail-44/object_in_frame_816.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/rail-44/object_in_frame_849.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/rail-44/object_in_frame_813.png"
+    ]
+}

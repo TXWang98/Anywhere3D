@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic water bottle with blue and gray coloring and a cylindrical shape. Has a tapered rim suggesting it's designed for drinking. The presence of a cap indicates it can be sealed. Found on a desk near clothes, headphones, and other personal items in a bedroom setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/shelf-42/object_in_frame_2520.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/shelf-42/object_in_frame_2430.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/shelf-42/object_in_frame_3231.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/shelf-42/object_in_frame_3285.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/shelf-42/object_in_frame_2556.png"
+    ]
+}

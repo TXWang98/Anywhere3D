@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with white coloring and rectangular shape. Has a hinged lid and appears to be shallow. Likely used for storage or transport of small items. Positioned on the floor near shelving units and other objects.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/b1f2330c-d255-2761-965e-d203c6e253c3/7/object_in_frame_000027.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/b1f2330c-d255-2761-965e-d203c6e253c3/7/object_in_frame_000023.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/b1f2330c-d255-2761-965e-d203c6e253c3/7/object_in_frame_000032.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/b1f2330c-d255-2761-965e-d203c6e253c3/7/object_in_frame_000029.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/b1f2330c-d255-2761-965e-d203c6e253c3/7/object_in_frame_000028.png"
+    ]
+}

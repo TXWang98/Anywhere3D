@@ -1,0 +1,7 @@
+{
+    "caption": "\"A possibly metallic {generic}-type object with a white or light gray color and an irregular, angular shape. The tapered rim suggests it might be part of a lighting fixture or ventilation system. Its structure includes protrusions that could be mounting points or functional components. Inconclusive evidence for its exact purpose. Positioned on the ceiling near other similar objects in what appears to be a commercial or industrial setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/23/object_in_frame_000093.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/23/object_in_frame_000092.png"
+    ]
+}

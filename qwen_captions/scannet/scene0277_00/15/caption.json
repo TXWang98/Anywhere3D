@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy white desk with a smooth surface and rectangular shape. The desk features built-in shelves above it, providing additional storage space. It is designed for office or study use. Positioned near a window with blinds, accompanied by a chair underneath and a trash bin nearby on the floor.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0277_00/shelf-15/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0277_00/shelf-15/object_in_frame_41.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0277_00/shelf-15/object_in_frame_71.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0277_00/shelf-15/object_in_frame_594.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0277_00/shelf-15/object_in_frame_48.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic grab bar with a silver finish and elongated cylindrical shape. The smooth, uniform surface suggests it is designed for grip and support. Functions as an assistive device for individuals needing stability. Positioned on the wall near a toilet in a bathroom setting, alongside other fixtures like a toilet paper dispenser and flush mechanism.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0553_00/rod-7/object_in_frame_32.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0553_00/rod-7/object_in_frame_30.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0553_00/rod-7/object_in_frame_1178.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0553_00/rod-7/object_in_frame_1194.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0553_00/rod-7/object_in_frame_38.png"
+    ]
+}

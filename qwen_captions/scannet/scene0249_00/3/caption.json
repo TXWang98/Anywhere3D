@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic chair-type object with a light gray seat and dark frame. The structure includes armrests and four legs, with a simple, utilitarian design. Likely intended for seating in an office or meeting room setting. Positioned near other similar chairs, suggesting a communal space arrangement. Inconclusive evidence for specific brand or model due to the angle and lighting conditions.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/chair-3/object_in_frame_1688.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/chair-3/object_in_frame_1672.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/chair-3/object_in_frame_540.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/chair-3/object_in_frame_1728.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/chair-3/object_in_frame_592.png"
+    ]
+}

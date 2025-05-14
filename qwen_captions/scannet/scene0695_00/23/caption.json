@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a light color and rectangular shape. Inconclusive evidence for its specific function due to lack of visible details. Likely used for storage or display purposes. Positioned on a wall above a series of hanging photographs, suggesting it may be part of a decorative or organizational setup in a room with a desk and computer nearby.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/smoke detector-23/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/smoke detector-23/object_in_frame_225.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/smoke detector-23/object_in_frame_246.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/smoke detector-23/object_in_frame_237.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/smoke detector-23/object_in_frame_216.png"
+    ]
+}

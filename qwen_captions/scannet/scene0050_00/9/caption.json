@@ -1,0 +1,10 @@
+{
+    "caption": "A leather armchair with a rich brown color and a curved shape. The smooth texture and padded structure suggest comfort. Likely designed for seating and relaxation. Positioned in a living space near a desk, printer, and other furniture items.\n\nConfidence Signals:\n- \"The curved armrests and cushioned seat indicate it is an armchair.\"\n- \"The material appears to be leather based on the sheen and texture.\"\n- \"Its placement in the room suggests it is used for leisure activities.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/door-9/object_in_frame_2016.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/door-9/object_in_frame_350.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/door-9/object_in_frame_2009.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/door-9/object_in_frame_1876.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/door-9/object_in_frame_1995.png"
+    ]
+}

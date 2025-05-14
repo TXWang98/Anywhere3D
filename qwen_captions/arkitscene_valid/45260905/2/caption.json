@@ -1,0 +1,10 @@
+{
+    "caption": "\"A leather possibly sofa with brown coloring and rectangular shape. Has a cushioned seat and backrest with decorative pillows. Made for seating multiple people. Positioned against the wall in a living room setting, surrounded by furniture like a coffee table and side table.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260905/2/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260905/2/object_in_frame_658.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260905/2/object_in_frame_63.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260905/2/object_in_frame_413.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260905/2/object_in_frame_411.png"
+    ]
+}

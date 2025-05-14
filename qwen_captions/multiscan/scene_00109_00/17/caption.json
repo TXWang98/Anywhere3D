@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic suitcase with silver coloring and a rectangular shape. Features a textured surface with vertical grooves and a retractable handle. Designed for travel and storage of personal items. Positioned on the floor near a couch in a living room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/17/object_in_frame_5573.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/17/object_in_frame_5609.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/17/object_in_frame_7248.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/17/object_in_frame_5464.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/17/object_in_frame_5915.png"
+    ]
+}

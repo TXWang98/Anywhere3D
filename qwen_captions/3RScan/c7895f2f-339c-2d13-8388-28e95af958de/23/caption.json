@@ -1,0 +1,9 @@
+{
+    "caption": "\"A possibly fabric cushion-type object with light beige coloring and rectangular shape. Soft texture and slightly wrinkled surface. Likely used for seating comfort. Positioned on a dark gray sofa alongside other cushions and a patterned throw pillow.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c7895f2f-339c-2d13-8388-28e95af958de/23/object_in_frame_000190.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c7895f2f-339c-2d13-8388-28e95af958de/23/object_in_frame_000197.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c7895f2f-339c-2d13-8388-28e95af958de/23/object_in_frame_000195.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/c7895f2f-339c-2d13-8388-28e95af958de/23/object_in_frame_000196.png"
+    ]
+}

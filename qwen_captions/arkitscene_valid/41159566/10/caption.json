@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white bookshelf with multiple compartments and rectangular shape. The shelves are filled with books of various sizes and colors, creating a textured appearance. Likely used for storing and displaying literature. Positioned against a blue wall in a room with other similar bookshelves nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/10/object_in_frame_1676.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/10/object_in_frame_1682.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/10/object_in_frame_1660.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/10/object_in_frame_1665.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/10/object_in_frame_1654.png"
+    ]
+}

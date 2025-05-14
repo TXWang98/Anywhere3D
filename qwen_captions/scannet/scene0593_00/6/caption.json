@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic tray-type object with a light brown and white color scheme. Rectangular shape with a slightly raised edge. Appears to be designed for holding papers or small items. Positioned on top of a wooden cabinet near a trash bin in an office setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0593_00/paper cutter-6/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0593_00/paper cutter-6/object_in_frame_378.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0593_00/paper cutter-6/object_in_frame_423.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0593_00/paper cutter-6/object_in_frame_372.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0593_00/paper cutter-6/object_in_frame_444.png"
+    ]
+}

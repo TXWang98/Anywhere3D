@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic mug with a light blue color and cylindrical shape. Has a smooth surface and appears to have a handle on one side. Likely used for holding beverages. Positioned on a bathroom countertop alongside other toiletries like toothbrushes and bottles.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/bathroom cabinet-4/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/bathroom cabinet-4/object_in_frame_291.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/bathroom cabinet-4/object_in_frame_184.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/bathroom cabinet-4/object_in_frame_135.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/bathroom cabinet-4/object_in_frame_201.png"
+    ]
+}

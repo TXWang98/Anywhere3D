@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy plastic clock with a white face and black rim. Circular shape with clear hands and numbers. Designed for timekeeping. Mounted on a wooden panel wall above a shelf filled with various items.\n\nWhile the object is clearly identifiable as a clock, the surrounding environment suggests it may be in a storage or utility area, given the presence of boxes and other miscellaneous objects on the shelf below. The lighting fixture above provides illumination for the space.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/35/object_in_frame_3639.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/35/object_in_frame_4222.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/35/object_in_frame_8875.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/35/object_in_frame_4888.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/35/object_in_frame_8901.png"
+    ]
+}

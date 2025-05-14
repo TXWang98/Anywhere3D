@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric backpack with black and yellow coloring and a rectangular shape. Features multiple compartments and straps. Likely used for carrying personal items. Seen on the floor near a couch, with other household objects like a book and clothing in the vicinity.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/10/object_in_frame_000524.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/10/object_in_frame_000154.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/10/object_in_frame_000153.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/10/object_in_frame_000522.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/10/object_in_frame_000526.png"
+    ]
+}

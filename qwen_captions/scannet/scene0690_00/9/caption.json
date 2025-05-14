@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden cabinet with a light brown color and rectangular shape. Features glass-paneled doors with visible hinges and handles. Likely used for storage or display purposes. Positioned in an indoor setting, with papers and other items visible inside the cabinet.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0690_00/cabinet-9/object_in_frame_495.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0690_00/cabinet-9/object_in_frame_492.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0690_00/cabinet-9/object_in_frame_490.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0690_00/cabinet-9/object_in_frame_493.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0690_00/cabinet-9/object_in_frame_497.png"
+    ]
+}

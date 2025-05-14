@@ -1,0 +1,10 @@
+{
+    "caption": "A dark wood side table with a glossy finish and rectangular shape. Features intricate carved patterns on the front panel. Likely used for holding small items or decorative objects. Positioned next to an armchair in a cozy living room setting, near a window with curtains.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/wall-44/object_in_frame_833.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/wall-44/object_in_frame_910.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/wall-44/object_in_frame_840.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/wall-44/object_in_frame_917.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/wall-44/object_in_frame_826.png"
+    ]
+}

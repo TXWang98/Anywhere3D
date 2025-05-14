@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white possibly cabinet-type object with a smooth surface and rectangular shape. The tapered rim suggests it may be part of a kitchen storage unit. It appears to have a flat top and vertical panels, likely designed for storing items. Positioned above a countertop in a kitchen setting, surrounded by other cabinets and appliances.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115460/6/object_in_frame_529.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115460/6/object_in_frame_80.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115460/6/object_in_frame_29.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115460/6/object_in_frame_427.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115460/6/object_in_frame_532.png"
+    ]
+}

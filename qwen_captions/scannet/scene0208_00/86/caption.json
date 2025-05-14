@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly cardboard box-type object with muted brown coloring and rectangular shape. Appears to have a slightly open top and smooth surface texture. Likely used for storage or transport of items. Positioned on a bookshelf among various books, suggesting it may contain related materials.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-86/object_in_frame_1581.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-86/object_in_frame_1578.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-86/object_in_frame_1692.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-86/object_in_frame_1707.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-86/object_in_frame_1740.png"
+    ]
+}

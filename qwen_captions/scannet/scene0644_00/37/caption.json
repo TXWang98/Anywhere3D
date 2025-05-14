@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden door with a light brown finish and rectangular shape. The smooth surface and simple design suggest it is a standard interior door. Likely used for access control within an office or similar environment. Positioned adjacent to a whiteboard, shelves containing bottled beverages, and office furniture like desks and chairs.\n\nConfidence Signals:\n- \"The rectangular shape and handle placement are typical of a door.\"\n- \"The light brown color and wood texture indicate it's likely made of wood or wood-like material.\"\n- \"Its location near office equipment and supplies suggests its function as an entryway in a workspace.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/door-37/object_in_frame_1323.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/door-37/object_in_frame_1353.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/door-37/object_in_frame_1362.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/door-37/object_in_frame_1320.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/door-37/object_in_frame_726.png"
+    ]
+}

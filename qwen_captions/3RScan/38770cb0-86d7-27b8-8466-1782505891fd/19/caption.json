@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic or metallic {generic}-type object with a light gray color and elongated rectangular shape. The tapered rim suggests it could be part of a larger structure, potentially a trim or molding. Its flat surface and smooth texture indicate it may serve a functional role in construction or design. Positioned along the ceiling edge, it appears to be part of an architectural feature, adjacent to a wooden cabinet and mirrored surface.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/19/object_in_frame_000308.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/19/object_in_frame_000284.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/19/object_in_frame_000312.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/19/object_in_frame_000304.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/19/object_in_frame_000319.png"
+    ]
+}

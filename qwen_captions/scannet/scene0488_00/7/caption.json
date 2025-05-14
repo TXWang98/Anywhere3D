@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white electric stove with a smooth surface and rectangular shape. Features four burners on top and a glass oven door. Designed for cooking and baking. Positioned in a kitchen setting, adjacent to cabinets and countertops.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0488_00/stove-7/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0488_00/stove-7/object_in_frame_252.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0488_00/stove-7/object_in_frame_145.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0488_00/stove-7/object_in_frame_217.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0488_00/stove-7/object_in_frame_258.png"
+    ]
+}

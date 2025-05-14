@@ -1,0 +1,10 @@
+{
+    "caption": "A framed picture with a colorful and abstract design. The rectangular shape is mounted on the wall. Likely serves as decorative art. Positioned above a small table and orange stools in a recreational area featuring a ping pong table.\n\nAnalysis across multiple viewpoints confirms the object's role as wall decor, with no significant changes in appearance or context.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0647_00/picture-18/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0647_00/picture-18/object_in_frame_252.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0647_00/picture-18/object_in_frame_151.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0647_00/picture-18/object_in_frame_344.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0647_00/picture-18/object_in_frame_189.png"
+    ]
+}

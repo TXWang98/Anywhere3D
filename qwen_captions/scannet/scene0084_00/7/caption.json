@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly hook-type object with a silver finish and curved shape. Has a simple, utilitarian design. Likely used for hanging items like towels or robes. Located on the wall near a shower area with grab bars and tiled surfaces.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/toilet paper-7/object_in_frame_930.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/toilet paper-7/object_in_frame_945.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/toilet paper-7/object_in_frame_1023.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/toilet paper-7/object_in_frame_1017.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/toilet paper-7/object_in_frame_1020.png"
+    ]
+}

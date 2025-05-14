@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly toolbox with a vibrant red color and rectangular shape. Features a sturdy handle and a secure latch mechanism. Likely used for storing tools or small equipment. Positioned on top of a larger blue container near a piano in a room with wooden flooring and a curtained door.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/toolbox-0/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/toolbox-0/object_in_frame_595.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/toolbox-0/object_in_frame_609.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/toolbox-0/object_in_frame_805.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/toolbox-0/object_in_frame_861.png"
+    ]
+}

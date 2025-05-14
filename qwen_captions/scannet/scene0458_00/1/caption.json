@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic sink with beige and speckled coloring and an oval shape. Features a smooth, polished surface with a central basin and faucet handles. Designed for washing hands and face. Positioned on a bathroom countertop surrounded by toiletries like soap dispensers and a toothbrush holder.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/bathroom vanity-1/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/bathroom vanity-1/object_in_frame_537.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/bathroom vanity-1/object_in_frame_45.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/bathroom vanity-1/object_in_frame_585.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/bathroom vanity-1/object_in_frame_489.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A [paper] [possibly] book-type object with [various colors] and [rectangular shape]. [Stacked vertically on shelves]. [Designed for reading and information storage]. [Arranged in a library setting, surrounded by other books and study furniture].\n\nThe tapered rim suggests it is meant to be easily accessible. While resembling a book, the presence of multiple similar objects indicates a collection. Inconclusive evidence for its specific content or genre.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0558_00/books-16/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0558_00/books-16/object_in_frame_426.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0558_00/books-16/object_in_frame_362.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0558_00/books-16/object_in_frame_380.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0558_00/books-16/object_in_frame_411.png"
+    ]
+}

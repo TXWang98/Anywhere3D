@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plush toy with pink and white coloring and a rounded shape. Soft texture with visible stitching details. Likely intended for cuddling or decoration. Placed on a bed with red bedding, surrounded by other toys and a purple canopy.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446056/2/object_in_frame_742.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446056/2/object_in_frame_1166.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446056/2/object_in_frame_827.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446056/2/object_in_frame_832.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446056/2/object_in_frame_856.png"
+    ]
+}

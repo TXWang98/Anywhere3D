@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy white cabinet with a smooth surface and rectangular shape. Features horizontal lines and integrated handles. Likely used for storage in a kitchen setting. Positioned above a countertop with various kitchen items underneath, including red containers and utensils.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897508/11/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897508/11/object_in_frame_658.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897508/11/object_in_frame_337.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897508/11/object_in_frame_657.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897508/11/object_in_frame_654.png"
+    ]
+}

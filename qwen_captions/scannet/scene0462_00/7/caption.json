@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly sterilizer-type object with a light gray color and rectangular shape. Has a hinged door with a locking mechanism and control panel on the front. Likely used for sterilizing medical or laboratory equipment. Positioned against a wall in what appears to be a utility room, near a cabinet and other equipment.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0462_00/mini fridge-7/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0462_00/mini fridge-7/object_in_frame_379.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0462_00/mini fridge-7/object_in_frame_338.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0462_00/mini fridge-7/object_in_frame_395.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0462_00/mini fridge-7/object_in_frame_397.png"
+    ]
+}

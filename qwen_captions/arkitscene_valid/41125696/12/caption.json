@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly decorative object with a silver finish and irregular shape. Features intricate grooves and angular contours. Inconclusive evidence for its function, but it may serve as an ornamental piece. Positioned on a glass dining table alongside other reflective spherical objects in a modern dining room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125696/12/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125696/12/object_in_frame_952.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125696/12/object_in_frame_954.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125696/12/object_in_frame_993.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41125696/12/object_in_frame_950.png"
+    ]
+}

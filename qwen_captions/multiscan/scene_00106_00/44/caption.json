@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly cardboard box-type object with a white and green pattern. Rectangular shape with visible edges and corners. Inconclusive evidence for its contents or specific function. Positioned on top of a wooden cabinet, surrounded by various suitcases and storage items in a cluttered indoor setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/44/object_in_frame_1935.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/44/object_in_frame_8218.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/44/object_in_frame_8242.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/44/object_in_frame_2622.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/44/object_in_frame_1971.png"
+    ]
+}

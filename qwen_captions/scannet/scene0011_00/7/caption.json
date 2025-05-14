@@ -1,0 +1,10 @@
+{
+    "caption": "\"A leather chair with a light brown color and an upright backrest. The seat and back are cushioned, with visible stitching details. Designed for seating at tables. Positioned in a dining area alongside other similar chairs and tables.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0011_00/chair-7/object_in_frame_1047.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0011_00/chair-7/object_in_frame_822.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0011_00/chair-7/object_in_frame_1650.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0011_00/chair-7/object_in_frame_1647.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0011_00/chair-7/object_in_frame_780.png"
+    ]
+}

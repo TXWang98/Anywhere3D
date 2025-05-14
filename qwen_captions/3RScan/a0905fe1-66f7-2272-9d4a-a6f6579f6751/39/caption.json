@@ -1,0 +1,7 @@
+{
+    "caption": "\"A possibly metallic {generic}-type object with a dark color and rectangular shape. Inconclusive evidence for its structure or texture details. Function is unclear due to limited visibility. Located on an upper shelf in what appears to be a retail display area, surrounded by other items like shoes and clothing.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a0905fe1-66f7-2272-9d4a-a6f6579f6751/39/object_in_frame_000030.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a0905fe1-66f7-2272-9d4a-a6f6579f6751/39/object_in_frame_000031.png"
+    ]
+}

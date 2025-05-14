@@ -1,0 +1,9 @@
+{
+    "caption": "\"A possibly wooden door-type object with a light brown color and rectangular shape. The tapered rim suggests it is designed to fit within a frame. Its flat surface and lack of visible handles or locks make its function inconclusive. Positioned in an indoor setting, adjacent to walls and flooring.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/10b17942-3938-2467-8933-5d40ada6d445/20/object_in_frame_000107.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/10b17942-3938-2467-8933-5d40ada6d445/20/object_in_frame_000106.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/10b17942-3938-2467-8933-5d40ada6d445/20/object_in_frame_000105.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/10b17942-3938-2467-8933-5d40ada6d445/20/object_in_frame_000104.png"
+    ]
+}

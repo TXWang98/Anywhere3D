@@ -1,0 +1,10 @@
+{
+    "caption": "A white microwave with a rectangular shape and smooth surface. Features a digital control panel and viewing window. Used for heating food. Positioned on a kitchen countertop beside a toaster oven and coffee maker, near dark cabinets.\n\nA metallic toaster oven with a silver finish and compact rectangular form. Has a handle for the door and control knobs. Designed for toasting bread or small baking tasks. Located next to a microwave on a kitchen counter, surrounded by other appliances like a coffee maker.\n\nA black coffee maker with a sleek design and digital display. Includes a water reservoir and brewing chamber. Intended for making fresh coffee. Placed on a kitchen counter alongside a toaster oven and microwave, near a sink area.\n\nA stainless steel sink with a curved faucet and reflective surface. Rectangular basin shape with smooth edges. Used for washing dishes and hands. Situated in a kitchen setting, adjacent to a coffee maker and hand soap dispenser, with dark cabinetry above.\n\nA possibly plastic hand soap dispenser with a translucent body and pump mechanism. Likely contains liquid soap for hygiene purposes. Mounted on the wall near a sink in a kitchen environment, accompanied by a paper towel dispenser above it.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/kitchen counter-18/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/kitchen counter-18/object_in_frame_336.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/kitchen counter-18/object_in_frame_373.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/kitchen counter-18/object_in_frame_376.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/kitchen counter-18/object_in_frame_369.png"
+    ]
+}

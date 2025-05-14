@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden table with a medium brown finish and circular top. The surface appears smooth with visible wood grain texture. Supported by four ornate, tapered legs that suggest a vintage or traditional design. Likely used for dining or as a centerpiece in a room. Positioned against a wall near a radiator, with a chair partially visible beside it.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444946/2/object_in_frame_742.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444946/2/object_in_frame_741.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444946/2/object_in_frame_685.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444946/2/object_in_frame_723.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444946/2/object_in_frame_739.png"
+    ]
+}

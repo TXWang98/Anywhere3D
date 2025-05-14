@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic door with a silver handle and rectangular shape. The door has a frosted glass panel allowing light to pass through but obscuring visibility. It appears to be an entrance or exit point for the room. Positioned adjacent to a wall with control panels and a trash bin nearby, suggesting it's part of an office or meeting space setup. Inconclusive evidence for its exact function beyond serving as a doorway.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/door-15/object_in_frame_1688.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/door-15/object_in_frame_1692.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/door-15/object_in_frame_1784.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/door-15/object_in_frame_1580.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/door-15/object_in_frame_1740.png"
+    ]
+}

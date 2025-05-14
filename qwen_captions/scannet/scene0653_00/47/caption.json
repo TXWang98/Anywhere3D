@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric office chair with dark gray and light blue coloring. Features a cushioned seat, backrest, armrests, and five-wheeled base. Designed for ergonomic seating at desks. Positioned near a desk with computer monitors, printer, and whiteboard in an office setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/office chair-47/object_in_frame_1392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/office chair-47/object_in_frame_1476.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/office chair-47/object_in_frame_1464.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/office chair-47/object_in_frame_1590.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/office chair-47/object_in_frame_1506.png"
+    ]
+}

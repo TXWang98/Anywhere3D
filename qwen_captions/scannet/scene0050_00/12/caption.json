@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden piano bench with a dark brown finish and rectangular shape. Has a flat seating surface and slender legs. Designed for comfortable seating while playing the piano. Positioned in front of a piano, alongside storage boxes and a lamp.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/piano bench-12/object_in_frame_1379.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/piano bench-12/object_in_frame_1386.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/piano bench-12/object_in_frame_91.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/piano bench-12/object_in_frame_798.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/piano bench-12/object_in_frame_784.png"
+    ]
+}

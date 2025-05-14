@@ -1,0 +1,10 @@
+{
+    "caption": "A matte beige possibly container-type object with a uniform color and rectangular shape. The surface appears smooth with no distinct structural features. Inconclusive evidence for its function, but it may serve as a decorative or storage item. Positioned against a wall near a white shelf, with minimal surrounding objects for context.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/18/object_in_frame_9685.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/18/object_in_frame_9637.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/18/object_in_frame_9641.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/18/object_in_frame_9624.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/18/object_in_frame_9659.png"
+    ]
+}

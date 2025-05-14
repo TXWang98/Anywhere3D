@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly meter-type object with a neutral color and rectangular shape. Has a flat surface and appears to have measurement markings or dials. Likely used for monitoring utilities. Mounted on the wall in a utility room setting, near pipes and other equipment.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0377_00/fuse box-5/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0377_00/fuse box-5/object_in_frame_252.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0377_00/fuse box-5/object_in_frame_117.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0377_00/fuse box-5/object_in_frame_68.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0377_00/fuse box-5/object_in_frame_289.png"
+    ]
+}

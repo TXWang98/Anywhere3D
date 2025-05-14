@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly washing machine with a dark gray and black color scheme. Rounded front door with a transparent window and a handle. The control panel features various buttons and a dial. Likely used for laundry tasks. Positioned in a kitchen setting near a countertop with cups and other household items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446038/9/object_in_frame_670.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446038/9/object_in_frame_703.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446038/9/object_in_frame_685.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446038/9/object_in_frame_690.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446038/9/object_in_frame_688.png"
+    ]
+}

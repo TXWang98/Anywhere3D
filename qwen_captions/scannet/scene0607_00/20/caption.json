@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic paper towel dispenser with a neutral gray color and rectangular shape. Has a simple, utilitarian design with a slot for dispensing towels. Likely used for providing paper towels in the kitchen area. Mounted on the wall above the sink, near other kitchen fixtures like a faucet and soap dispenser.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0607_00/paper towel dispenser-20/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0607_00/paper towel dispenser-20/object_in_frame_377.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0607_00/paper towel dispenser-20/object_in_frame_184.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0607_00/paper towel dispenser-20/object_in_frame_223.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0607_00/paper towel dispenser-20/object_in_frame_189.png"
+    ]
+}

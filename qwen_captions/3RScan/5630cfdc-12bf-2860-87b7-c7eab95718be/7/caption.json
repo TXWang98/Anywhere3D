@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic globe-type object with a beige and gold color scheme. Spherical shape with a tapered stand. Detailed surface texture resembling continents and oceans. Likely decorative or educational purpose. Positioned on top of a bedside table alongside other small items in a bedroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5630cfdc-12bf-2860-87b7-c7eab95718be/7/object_in_frame_000027.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5630cfdc-12bf-2860-87b7-c7eab95718be/7/object_in_frame_000011.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5630cfdc-12bf-2860-87b7-c7eab95718be/7/object_in_frame_000025.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5630cfdc-12bf-2860-87b7-c7eab95718be/7/object_in_frame_000021.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5630cfdc-12bf-2860-87b7-c7eab95718be/7/object_in_frame_000018.png"
+    ]
+}

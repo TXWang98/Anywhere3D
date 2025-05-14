@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a translucent blue color and cylindrical shape. The tapered rim suggests it may be designed for stacking or easy pouring. Its function is unclear but could be for storage or dispensing small items. Found on a desk alongside other office supplies like mugs and papers, in what appears to be an office or workspace setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/telephone-34/object_in_frame_1180.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/telephone-34/object_in_frame_1144.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/telephone-34/object_in_frame_1220.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/telephone-34/object_in_frame_1216.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/telephone-34/object_in_frame_1272.png"
+    ]
+}

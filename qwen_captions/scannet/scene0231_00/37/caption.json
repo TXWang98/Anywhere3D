@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic rice cooker with a white and gray color scheme. The tapered rim suggests it is designed for easy serving. It has a rounded, compact shape with a lid that appears to be slightly ajar. Likely used for cooking and storing rice. Positioned on a kitchen countertop near other small appliances and utensils.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/rice cooker-37/object_in_frame_84.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/rice cooker-37/object_in_frame_3052.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/rice cooker-37/object_in_frame_1918.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/rice cooker-37/object_in_frame_98.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/rice cooker-37/object_in_frame_3031.png"
+    ]
+}

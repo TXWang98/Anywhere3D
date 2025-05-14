@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic chair with a blue and white patterned fabric cover. The chair has a rectangular backrest and seat, supported by a metal frame with four legs. Designed for seating in an office or classroom setting. Positioned around tables in a room with other similar chairs and desks. \n\nConfidence Signals:\n- \"The consistent pattern on the fabric suggests it is intended for uniformity in a professional or educational environment.\"\n- \"While resembling a standard office chair, the presence of a simple metal frame indicates it may be designed for durability and ease of cleaning.\"\n- \"Inconclusive evidence for specific ergonomic features due to the angle and distance from which the images are taken.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/table-36/object_in_frame_1047.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/table-36/object_in_frame_1137.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/table-36/object_in_frame_1056.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/table-36/object_in_frame_1329.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/table-36/object_in_frame_288.png"
+    ]
+}

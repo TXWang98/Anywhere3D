@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic urinal with white coloring and a curved, elongated shape. Features a flush mechanism at the top. Designed for male urination in public restrooms. Positioned on a tiled wall next to a sink and paper towel dispenser.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0441_00/divider-11/object_in_frame_529.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0441_00/divider-11/object_in_frame_587.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0441_00/divider-11/object_in_frame_484.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0441_00/divider-11/object_in_frame_475.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0441_00/divider-11/object_in_frame_569.png"
+    ]
+}

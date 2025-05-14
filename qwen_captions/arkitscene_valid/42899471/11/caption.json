@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with red and white coloring and rectangular shape. Appears to have a label or printed design on its surface. Likely used for storing food items. Seen placed inside a kitchen cabinet, near other household items like a coffee maker and decorative letter 'M'.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899471/11/object_in_frame_799.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899471/11/object_in_frame_877.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899471/11/object_in_frame_876.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899471/11/object_in_frame_803.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899471/11/object_in_frame_794.png"
+    ]
+}

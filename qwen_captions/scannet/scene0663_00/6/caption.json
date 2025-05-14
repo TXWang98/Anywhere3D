@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic office chair with a light gray seat and black mesh backrest. The chair has a rounded, ergonomic shape with armrests and a five-pointed base with wheels. Designed for comfortable seating during work hours. Positioned in front of a desk cluttered with various office supplies and electronic devices.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/office chair-6/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/office chair-6/object_in_frame_1532.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/office chair-6/object_in_frame_332.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/office chair-6/object_in_frame_76.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/office chair-6/object_in_frame_64.png"
+    ]
+}

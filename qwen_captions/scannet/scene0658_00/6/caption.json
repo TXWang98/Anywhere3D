@@ -1,0 +1,10 @@
+{
+    "caption": "A white possibly door-type object with a smooth surface and rectangular shape. The tapered rim suggests it is designed to fit within a frame. Likely functions as an access point to the closet space containing metal shelving units. Positioned adjacent to a wall in what appears to be a residential interior setting.\n\n---\n\n\"A [material] [confidence][category] with [color] and [shape]. [Structure/texture details]. [Function inference]. [Contextual placement].\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/closet door-6/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/closet door-6/object_in_frame_400.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/closet door-6/object_in_frame_338.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/closet door-6/object_in_frame_420.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/closet door-6/object_in_frame_424.png"
+    ]
+}

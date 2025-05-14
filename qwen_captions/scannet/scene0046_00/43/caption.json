@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly vent-type object with a silver color and square shape. Features a grid pattern on its surface. Likely serves as an air circulation or exhaust system. Positioned on the wall near the ceiling in a bathroom setting, adjacent to a shower curtain and tiled walls.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/vent-43/object_in_frame_1508.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/vent-43/object_in_frame_1792.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/vent-43/object_in_frame_1784.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/vent-43/object_in_frame_1492.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/vent-43/object_in_frame_1788.png"
+    ]
+}

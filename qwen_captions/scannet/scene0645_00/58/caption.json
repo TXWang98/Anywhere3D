@@ -1,0 +1,10 @@
+{
+    "caption": "A framed picture with a light beige and brown color scheme. Rectangular shape with a flat surface. The frame appears to be made of wood or a similar material, with a simple design. Likely serves as wall decor. Positioned above a bed in a bedroom setting, alongside another similar framed picture on the adjacent wall.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/picture-58/object_in_frame_2968.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/picture-58/object_in_frame_2975.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/picture-58/object_in_frame_231.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/picture-58/object_in_frame_217.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/picture-58/object_in_frame_7.png"
+    ]
+}

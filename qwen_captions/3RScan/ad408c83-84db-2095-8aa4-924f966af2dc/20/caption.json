@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly plastic container-type object with white coloring and cylindrical shape. The tapered rim suggests it may be a lid or cap. Its smooth texture appears utilitarian. Likely used for storage or covering. Found on the floor near furniture and other household items, indicating a casual placement within a living space.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ad408c83-84db-2095-8aa4-924f966af2dc/20/object_in_frame_000066.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ad408c83-84db-2095-8aa4-924f966af2dc/20/object_in_frame_000067.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ad408c83-84db-2095-8aa4-924f966af2dc/20/object_in_frame_000020.png"
+    ]
+}

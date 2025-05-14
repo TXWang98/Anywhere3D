@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic vase-type object with a dark color and cylindrical shape. The tapered rim suggests it may be designed for holding flowers or decorative purposes. Inconclusive evidence for its exact function due to the lack of visible contents. Positioned on a kitchen countertop near other kitchen items like a bottle and utensils.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899679/19/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899679/19/object_in_frame_108.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899679/19/object_in_frame_63.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899679/19/object_in_frame_65.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899679/19/object_in_frame_733.png"
+    ]
+}

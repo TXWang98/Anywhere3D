@@ -1,0 +1,10 @@
+{
+    "caption": "A ceramic soap dish with off-white coloring and a rectangular shape. Has a slightly curved surface for holding items. Likely used for storing soap bars. Mounted on the tiled wall above a bathtub, near other bathroom fixtures like a towel rack and faucet.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/soap dish-84/object_in_frame_2891.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/soap dish-84/object_in_frame_3451.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/soap dish-84/object_in_frame_3374.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/soap dish-84/object_in_frame_3472.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/soap dish-84/object_in_frame_3458.png"
+    ]
+}

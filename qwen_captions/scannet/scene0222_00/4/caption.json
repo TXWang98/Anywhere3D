@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly wooden closet with dark brown coloring and rectangular shape. The structure includes sliding doors and a visible interior shelf. Likely used for storing clothes, as evidenced by the garments hanging on hangers inside. Positioned in a room setting, adjacent to other furniture like a bed and dresser.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/doorframe-4/object_in_frame_4536.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/doorframe-4/object_in_frame_2511.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/doorframe-4/object_in_frame_4437.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/doorframe-4/object_in_frame_4428.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/doorframe-4/object_in_frame_4554.png"
+    ]
+}

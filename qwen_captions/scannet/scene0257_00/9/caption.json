@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden and metal laboratory desk with a white top and rectangular shape. Features multiple faucets and a sink embedded in the countertop. Likely used for scientific experiments or demonstrations. Positioned against a wall near a chalkboard, with chairs around it and a fire extinguisher nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0257_00/table-9/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0257_00/table-9/object_in_frame_6.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0257_00/table-9/object_in_frame_46.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0257_00/table-9/object_in_frame_1078.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0257_00/table-9/object_in_frame_298.png"
+    ]
+}

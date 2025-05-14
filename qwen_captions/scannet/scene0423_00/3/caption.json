@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy white armchair with a rounded and compact shape. Features smooth, continuous curves and a cushioned seat. Designed for comfortable seating in a lounge setting. Positioned around a small round table on a dark carpeted floor, alongside other similar chairs.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0423_00/armchair-3/object_in_frame_84.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0423_00/armchair-3/object_in_frame_587.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0423_00/armchair-3/object_in_frame_576.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0423_00/armchair-3/object_in_frame_107.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0423_00/armchair-3/object_in_frame_201.png"
+    ]
+}

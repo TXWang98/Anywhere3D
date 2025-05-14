@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic container-type object with a dark color and cylindrical shape. The tapered rim suggests it could be a canister or jar. It has a smooth surface and appears to have a lid. Likely used for storing kitchen items. Positioned near the sink area, surrounded by other kitchen utensils and containers.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/7/object_in_frame_593.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/7/object_in_frame_716.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/7/object_in_frame_601.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/7/object_in_frame_686.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/7/object_in_frame_691.png"
+    ]
+}

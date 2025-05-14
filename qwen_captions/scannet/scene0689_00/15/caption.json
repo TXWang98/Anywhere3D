@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic tool-type object with a dark gray color and an irregular shape. The surface appears rough and textured, with no distinct structural features visible. Inconclusive evidence for its function, but it may be related to maintenance or assembly tasks. Found on the floor near a table and chairs in what seems to be an office or meeting room setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0689_00/trash can-15/object_in_frame_534.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0689_00/trash can-15/object_in_frame_492.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0689_00/trash can-15/object_in_frame_565.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0689_00/trash can-15/object_in_frame_562.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0689_00/trash can-15/object_in_frame_578.png"
+    ]
+}

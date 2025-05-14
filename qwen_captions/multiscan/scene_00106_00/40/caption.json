@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with dark coloring and rectangular shape. Has a lid and appears to be slightly worn. Likely used for storage. Found on top of a wooden cabinet alongside other items like suitcases and boxes.\n\nInconclusive evidence for its exact contents or purpose, but its placement suggests it's being stored along with other household items. The surrounding objects include a mattress, suitcases, and a box, indicating a storage area or attic space.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/40/object_in_frame_2586.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/40/object_in_frame_1949.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/40/object_in_frame_8244.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/40/object_in_frame_1995.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/40/object_in_frame_2007.png"
+    ]
+}

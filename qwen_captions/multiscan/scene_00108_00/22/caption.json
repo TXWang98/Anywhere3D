@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly tool-type object with a shiny silver finish and cylindrical shape. Features angular grooves and a small protruding handle. Inconclusive evidence for its exact function, but it may be used for mechanical tasks. Located on a white cabinet surface near a plastic bag containing what appears to be flour or a similar substance.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/22/object_in_frame_8886.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/22/object_in_frame_8902.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/22/object_in_frame_8855.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/22/object_in_frame_9351.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/22/object_in_frame_8823.png"
+    ]
+}

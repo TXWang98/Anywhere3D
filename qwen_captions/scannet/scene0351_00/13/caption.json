@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy black monitor with a rectangular shape. The screen displays text and code, suggesting it's used for programming or data analysis. Positioned on a desk alongside other office supplies like books, a keyboard, and a mouse. The tapered rim suggests it is designed for ergonomic viewing in a professional workspace.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0351_00/monitor-13/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0351_00/monitor-13/object_in_frame_702.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0351_00/monitor-13/object_in_frame_890.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0351_00/monitor-13/object_in_frame_648.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0351_00/monitor-13/object_in_frame_688.png"
+    ]
+}

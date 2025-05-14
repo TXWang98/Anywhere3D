@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white possibly glass cabinet-type object with a rectangular shape. Features two doors with glass panels and metal handles. Likely used for storage or display purposes. Positioned above a shelf filled with vinyl records in a living room setting, near a fireplace and framed artwork.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358513/10/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358513/10/object_in_frame_96.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358513/10/object_in_frame_45.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358513/10/object_in_frame_97.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358513/10/object_in_frame_578.png"
+    ]
+}

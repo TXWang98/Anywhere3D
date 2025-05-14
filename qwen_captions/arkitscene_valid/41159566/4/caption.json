@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden coffee table with a natural finish and rectangular shape. Features a flat top surface and four legs. Serves as a central piece for placing items like magazines and bowls. Positioned in a living room setting, surrounded by a sofa, cushions, and a rug.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/4/object_in_frame_1935.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/4/object_in_frame_1013.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/4/object_in_frame_1939.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/4/object_in_frame_1942.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/4/object_in_frame_1290.png"
+    ]
+}

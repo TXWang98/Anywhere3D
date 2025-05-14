@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy leather chair with a rich brown color and a rectangular backrest. The seat has a cushioned texture and armrests for comfort. Designed for seating in waiting areas or lounges. Positioned in a row alongside other similar chairs, likely in a public space like an airport or office lobby.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0019_00/chair-13/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0019_00/chair-13/object_in_frame_92.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0019_00/chair-13/object_in_frame_150.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0019_00/chair-13/object_in_frame_91.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0019_00/chair-13/object_in_frame_118.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic lamp with white and black coloring and a cylindrical shape. Has a simple design with a visible bulb. Likely used for lighting. Positioned on a small table near a bed in a bedroom setting, surrounded by various personal items like bottles and containers.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/18/object_in_frame_593.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/18/object_in_frame_6727.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/18/object_in_frame_209.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/18/object_in_frame_295.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/18/object_in_frame_551.png"
+    ]
+}

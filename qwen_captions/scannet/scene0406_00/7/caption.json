@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly trash can with a silver finish and cylindrical shape. The tapered rim suggests it is designed for easy disposal of waste. It has a smooth, reflective surface and a small opening at the top. Likely used for disposing of bathroom waste. Positioned on the floor next to a toilet in a bathroom setting, near a towel rack and sink area.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0406_00/trash can-7/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0406_00/trash can-7/object_in_frame_722.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0406_00/trash can-7/object_in_frame_698.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0406_00/trash can-7/object_in_frame_690.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0406_00/trash can-7/object_in_frame_688.png"
+    ]
+}

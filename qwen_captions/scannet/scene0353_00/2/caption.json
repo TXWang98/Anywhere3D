@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with translucent white coloring and a cylindrical shape. Has a black lid and appears to be made for storing or transporting liquids. Sitting on a cluttered desk surrounded by various items like a laptop, headphones, and other personal belongings in what looks like a dorm room setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/blanket-2/object_in_frame_824.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/blanket-2/object_in_frame_748.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/blanket-2/object_in_frame_808.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/blanket-2/object_in_frame_776.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/blanket-2/object_in_frame_780.png"
+    ]
+}

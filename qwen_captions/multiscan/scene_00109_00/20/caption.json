@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy black possibly speaker-type object with a translucent dome and rounded shape. The tapered rim suggests it may be designed for audio output. Likely functions as a smart speaker or sound device. Placed on a wooden table in a living room setting, near a green suitcase and a couch with yellow cushions.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/20/object_in_frame_15609.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/20/object_in_frame_15066.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/20/object_in_frame_15520.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/20/object_in_frame_15638.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/20/object_in_frame_11617.png"
+    ]
+}

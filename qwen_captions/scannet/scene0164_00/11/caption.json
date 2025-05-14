@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden possibly container-type object with a light brown color and rectangular shape. The structure includes multiple compartments for storage. Likely used for organizing kitchen supplies. Located in an open cabinet above a countertop with various kitchen items like a paper towel roll, water dispenser, and dish rack nearby.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/kitchen cabinet-11/object_in_frame_1605.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/kitchen cabinet-11/object_in_frame_810.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/kitchen cabinet-11/object_in_frame_597.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/kitchen cabinet-11/object_in_frame_1617.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/kitchen cabinet-11/object_in_frame_819.png"
+    ]
+}

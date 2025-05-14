@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic trash bin with blue and gray coloring and a cylindrical shape. Features a semi-transparent top section and a solid base. Likely used for waste disposal. Positioned against the wall in an office setting, near chairs and a table.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/trash can-18/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/trash can-18/object_in_frame_988.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/trash can-18/object_in_frame_1040.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/trash can-18/object_in_frame_1074.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/trash can-18/object_in_frame_1066.png"
+    ]
+}

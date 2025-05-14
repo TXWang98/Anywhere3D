@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic possibly container-type object with white coloring and rectangular shape. Has a flat top surface and vertical sides. Likely used for waste disposal or storage. Positioned on the floor near a toilet in a bathroom setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/object-4/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/object-4/object_in_frame_58.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/object-4/object_in_frame_34.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/object-4/object_in_frame_1160.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/object-4/object_in_frame_38.png"
+    ]
+}

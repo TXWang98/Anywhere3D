@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden {generic}-type object with a dark brown color and rectangular shape. The tapered rim suggests it could be a container or stand. Its flat top surface may serve as a platform for holding items. Positioned near the base of a staircase in a residential hallway, surrounded by household furniture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/21/object_in_frame_2073.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/21/object_in_frame_2094.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/21/object_in_frame_2089.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/21/object_in_frame_2075.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/21/object_in_frame_2088.png"
+    ]
+}

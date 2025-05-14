@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly chair-type object with a vibrant teal color and a wire mesh structure. The open framework design suggests lightweight and breathable seating. Likely intended for casual or outdoor use. Positioned near a white table in what appears to be an indoor classroom or meeting space.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0257_00/object-31/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0257_00/object-31/object_in_frame_326.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0257_00/object-31/object_in_frame_436.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0257_00/object-31/object_in_frame_276.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0257_00/object-31/object_in_frame_1162.png"
+    ]
+}

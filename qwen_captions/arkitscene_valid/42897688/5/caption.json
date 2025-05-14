@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden dresser with a natural finish and rectangular shape. Features multiple drawers with visible handles. Likely used for storage of clothing or personal items. Positioned against a wall in a room, near a trash bin and framed artwork on the wall.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897688/5/object_in_frame_1392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897688/5/object_in_frame_1294.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897688/5/object_in_frame_1286.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897688/5/object_in_frame_1226.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897688/5/object_in_frame_1231.png"
+    ]
+}

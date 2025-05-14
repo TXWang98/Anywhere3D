@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden container-type object with a natural brown color and rectangular shape. The structure appears to have multiple compartments or slots. It may serve as a storage unit for small items. Located on a bookshelf among books and other decorative objects, suggesting a home library setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/11/object_in_frame_1688.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/11/object_in_frame_1690.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/11/object_in_frame_675.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/11/object_in_frame_676.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/11/object_in_frame_665.png"
+    ]
+}

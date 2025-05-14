@@ -1,0 +1,9 @@
+{
+    "caption": "\"A possibly fabric-type object with dark blue and white paisley patterns. Appears to have a soft, textured surface with folds and creases. Likely a decorative cushion or throw pillow. Positioned on a couch alongside other cushions in a living room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d23402c-e280-2b1a-8e31-9a88c9c1fb91/38/object_in_frame_000194.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d23402c-e280-2b1a-8e31-9a88c9c1fb91/38/object_in_frame_000144.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d23402c-e280-2b1a-8e31-9a88c9c1fb91/38/object_in_frame_000193.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d23402c-e280-2b1a-8e31-9a88c9c1fb91/38/object_in_frame_000143.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly cardboard tissue box with purple and white geometric patterns. Rectangular shape with a small opening on top. Designed for dispensing tissues. Positioned on a wooden bedside table next to a lamp, remote controls, and other personal items in a bedroom setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/tissue box-13/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/tissue box-13/object_in_frame_96.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/tissue box-13/object_in_frame_1308.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/tissue box-13/object_in_frame_1312.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/tissue box-13/object_in_frame_1304.png"
+    ]
+}

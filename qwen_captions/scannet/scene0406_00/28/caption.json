@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic shower rod with a silver finish and straight, elongated shape. Features smooth cylindrical texture and secure wall-mounted brackets. Functions as a support for hanging a shower curtain. Positioned above the shower area in a bathroom setting, adjacent to a framed artwork on the wall.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0406_00/ceiling-28/object_in_frame_180.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0406_00/ceiling-28/object_in_frame_174.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0406_00/ceiling-28/object_in_frame_182.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0406_00/ceiling-28/object_in_frame_200.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0406_00/ceiling-28/object_in_frame_190.png"
+    ]
+}

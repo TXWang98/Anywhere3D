@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic chair with a dark brown cushion and a mesh backrest. The frame is silver with a sturdy, angular design. Designed for ergonomic seating in office or meeting environments. Positioned around a large beige conference table on a patterned carpet floor.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0430_00/chair-10/object_in_frame_1605.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0430_00/chair-10/object_in_frame_810.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0430_00/chair-10/object_in_frame_1650.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0430_00/chair-10/object_in_frame_801.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0430_00/chair-10/object_in_frame_813.png"
+    ]
+}

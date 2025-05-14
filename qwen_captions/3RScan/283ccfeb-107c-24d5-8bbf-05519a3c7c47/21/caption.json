@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly metallic container-type object with dark coloring and cylindrical shape. The tapered rim suggests it could be a canister or jar. Inconclusive evidence for its exact function, but it may be used for storage. Seen in an indoor setting near a wall with text and a light switch.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/283ccfeb-107c-24d5-8bbf-05519a3c7c47/21/object_in_frame_000217.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/283ccfeb-107c-24d5-8bbf-05519a3c7c47/21/object_in_frame_000218.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/283ccfeb-107c-24d5-8bbf-05519a3c7c47/21/object_in_frame_000219.png"
+    ]
+}

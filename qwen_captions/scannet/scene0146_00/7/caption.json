@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic toilet paper dispenser with a silver finish and rectangular shape. The dispenser has a hinged lid and a slot for dispensing paper. It is designed to hold and dispense toilet paper rolls. Mounted on the wall next to a toilet in a restroom setting, with grab bars visible nearby.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/toilet paper-7/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/toilet paper-7/object_in_frame_80.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/toilet paper-7/object_in_frame_112.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/toilet paper-7/object_in_frame_20.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/toilet paper-7/object_in_frame_48.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic stainless steel range hood with a silver finish and rectangular shape. Features a smooth, reflective surface and a vented design. Functions to extract smoke and odors from cooking. Positioned above the stove in a kitchen setting with wooden cabinets surrounding it.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/range hood-0/object_in_frame_2422.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/range hood-0/object_in_frame_2268.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/range hood-0/object_in_frame_1008.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/range hood-0/object_in_frame_21.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/range hood-0/object_in_frame_2261.png"
+    ]
+}

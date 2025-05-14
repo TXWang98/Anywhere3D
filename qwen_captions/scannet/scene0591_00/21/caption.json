@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a light gray color and rectangular shape. Features horizontal slats and a smooth surface texture. Likely used for office storage or partitioning. Positioned on top of an office cubicle divider, near desks with various office supplies.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0591_00/monitor-21/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0591_00/monitor-21/object_in_frame_96.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0591_00/monitor-21/object_in_frame_14.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0591_00/monitor-21/object_in_frame_104.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0591_00/monitor-21/object_in_frame_122.png"
+    ]
+}

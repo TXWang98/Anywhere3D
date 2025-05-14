@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden {generic}-type object with dark brown coloring and rectangular shape. Appears to have a flat top surface and vertical sides. Function is unclear but may serve as a storage or display unit. Positioned in a hallway near a staircase, doors, and a patterned rug.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897688/8/object_in_frame_1794.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897688/8/object_in_frame_1800.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897688/8/object_in_frame_1795.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897688/8/object_in_frame_1791.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897688/8/object_in_frame_1799.png"
+    ]
+}

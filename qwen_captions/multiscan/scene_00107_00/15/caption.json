@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy plastic soap dispenser with white coloring and a rectangular shape. Features a pump mechanism on top for dispensing liquid. Likely used for storing and dispensing hand soap or body wash. Positioned on the edge of a bathtub, near a colorful shower curtain with food-themed patterns.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/15/object_in_frame_6786.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/15/object_in_frame_6902.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/15/object_in_frame_6893.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/15/object_in_frame_6840.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/15/object_in_frame_7653.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A leather armchair with a rich brown color and an upright, cushioned shape. Features a padded backrest and armrests with a smooth texture. Designed for comfortable seating. Positioned in a row along a wall, adjacent to other similar chairs, suggesting a waiting area or lounge setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0019_00/chair-14/object_in_frame_112.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0019_00/chair-14/object_in_frame_117.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0019_00/chair-14/object_in_frame_111.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0019_00/chair-14/object_in_frame_118.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0019_00/chair-14/object_in_frame_116.png"
+    ]
+}

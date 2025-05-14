@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic soap dispenser with a brushed silver finish and rectangular shape. Features a sleek, flat surface with two buttons and a small slot at the bottom. Designed for dispensing liquid soap in a controlled manner. Mounted on a wall next to a waste bin filled with used paper towels, suggesting placement in a restroom setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0553_00/dispenser-9/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0553_00/dispenser-9/object_in_frame_426.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0553_00/dispenser-9/object_in_frame_370.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0553_00/dispenser-9/object_in_frame_364.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0553_00/dispenser-9/object_in_frame_418.png"
+    ]
+}

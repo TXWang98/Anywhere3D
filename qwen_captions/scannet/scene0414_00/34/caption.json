@@ -1,0 +1,10 @@
+{
+    "caption": "A black plastic office chair with a dark gray cushion and an ergonomic design. The seat has a contoured shape for comfort, and the backrest features vertical slats for ventilation. Designed for extended sitting in a workspace. Positioned near a wooden cabinet and other chairs in what appears to be a meeting or office area.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0414_00/chair-34/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0414_00/chair-34/object_in_frame_41.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0414_00/chair-34/object_in_frame_45.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0414_00/chair-34/object_in_frame_76.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0414_00/chair-34/object_in_frame_19.png"
+    ]
+}

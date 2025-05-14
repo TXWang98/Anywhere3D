@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden chair with a light brown finish and rectangular backrest. The chair has a simple, sturdy frame with four legs and horizontal slats on the seat. Designed for seating at a dining table. Positioned around a table covered with a lace tablecloth, alongside other chairs and household items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/17/object_in_frame_1191.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/17/object_in_frame_1147.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/17/object_in_frame_1136.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/17/object_in_frame_1128.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/17/object_in_frame_1143.png"
+    ]
+}

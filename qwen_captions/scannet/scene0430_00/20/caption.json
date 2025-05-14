@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden conference table with a light beige color and rectangular shape. The surface appears smooth with visible wood grain texture. Designed for group meetings or discussions. Positioned in the center of a meeting room surrounded by chairs and near windows.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0430_00/table-20/object_in_frame_1605.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0430_00/table-20/object_in_frame_1629.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0430_00/table-20/object_in_frame_1659.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0430_00/table-20/object_in_frame_1737.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0430_00/table-20/object_in_frame_1644.png"
+    ]
+}

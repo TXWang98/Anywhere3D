@@ -1,0 +1,10 @@
+{
+    "caption": "\"A plastic possibly detergent bottle with bright orange coloring and a cylindrical shape. Has a blue cap and embossed text on the surface. Likely used for laundry cleaning. Placed on top of a washing machine in a laundromat setting, surrounded by other laundry equipment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/laundry detergent-3/object_in_frame_84.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/laundry detergent-3/object_in_frame_1744.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/laundry detergent-3/object_in_frame_696.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/laundry detergent-3/object_in_frame_280.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/laundry detergent-3/object_in_frame_636.png"
+    ]
+}

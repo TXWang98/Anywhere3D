@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden cabinet with a natural brown finish and rectangular shape. Features panelled doors and a sturdy frame. Likely used for storage in the kitchen. Positioned below a window, adjacent to a sink area with various kitchen items like a dish rack and potted plants nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/6/object_in_frame_1075.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/6/object_in_frame_788.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/6/object_in_frame_793.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/6/object_in_frame_1086.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446103/6/object_in_frame_1073.png"
+    ]
+}

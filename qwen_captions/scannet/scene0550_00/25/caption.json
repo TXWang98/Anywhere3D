@@ -1,0 +1,10 @@
+{
+    "caption": "A polished marble wall with white and gray veining, featuring a smooth, flat surface. The texture is consistent with natural stone tiling. Likely serves as an aesthetic and durable interior finish. Positioned adjacent to a dark wooden door with a handle and informational poster.\n\nInconclusive evidence for the presence of any objects within the green bounding box across multiple viewpoints. The area appears to be part of a continuous wall surface without distinct features or items.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/wall-25/object_in_frame_510.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/wall-25/object_in_frame_852.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/wall-25/object_in_frame_834.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/wall-25/object_in_frame_846.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/wall-25/object_in_frame_516.png"
+    ]
+}

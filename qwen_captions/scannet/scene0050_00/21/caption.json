@@ -1,0 +1,8 @@
+{
+    "caption": "\"A plastic clock with a black face and square shape. The white numbers and hands are clearly visible. Designed for timekeeping. Mounted on a plain wall above a brown leather couch.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/clock-21/object_in_frame_3206.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/clock-21/object_in_frame_3213.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/clock-21/object_in_frame_3220.png"
+    ]
+}

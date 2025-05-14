@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden possibly container-type object with a natural brown finish and rectangular shape. The tapered rim suggests it could be a cabinet door or panel. Its flat surface and lack of visible handles make its function inconclusive. Located in a kitchen setting, adjacent to glass-fronted cabinets containing various items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/15/object_in_frame_932.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/15/object_in_frame_843.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/15/object_in_frame_839.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/15/object_in_frame_930.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/15/object_in_frame_939.png"
+    ]
+}

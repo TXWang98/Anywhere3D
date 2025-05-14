@@ -1,0 +1,10 @@
+{
+    "caption": "\"A plastic toilet paper dispenser with a dark gray and white color scheme. Rectangular shape with a hinged lid. Designed to hold and dispense toilet paper rolls. Mounted on the wall beside a toilet in a tiled restroom stall.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0086_00/toilet paper dispenser-22/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0086_00/toilet paper dispenser-22/object_in_frame_866.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0086_00/toilet paper dispenser-22/object_in_frame_910.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0086_00/toilet paper dispenser-22/object_in_frame_922.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0086_00/toilet paper dispenser-22/object_in_frame_826.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly container-type object with dark brown and silver coloring. Cylindrical shape with a slightly tapered rim suggests it could be a can or jar. The surface has embossed details and text, indicating branding or labeling. Likely used for storing food or beverages. Placed on a wooden floor in what appears to be an attic or storage area, surrounded by wooden beams.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3da4-45a5-2e80-8082-be634b241693/17/object_in_frame_000117.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3da4-45a5-2e80-8082-be634b241693/17/object_in_frame_000114.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3da4-45a5-2e80-8082-be634b241693/17/object_in_frame_000144.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3da4-45a5-2e80-8082-be634b241693/17/object_in_frame_000136.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3da4-45a5-2e80-8082-be634b241693/17/object_in_frame_000134.png"
+    ]
+}

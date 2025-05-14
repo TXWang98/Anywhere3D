@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly ceramic vase-type object with a green hue and a slender, elongated shape. The tapered rim suggests it may be designed for holding flowers or decorative purposes. While resembling a vase, the presence of nearby books and cardboard boxes makes its function inconclusive. Found on a shelf amidst various items in what appears to be a bookstore or library setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-22/object_in_frame_549.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-22/object_in_frame_1677.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-22/object_in_frame_558.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-22/object_in_frame_1686.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-22/object_in_frame_1671.png"
+    ]
+}

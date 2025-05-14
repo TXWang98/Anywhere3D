@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic container-type object with a light brown color and cylindrical shape. The tapered rim suggests it may be used for storage or display. Its placement on top of the cabinet indicates it could be decorative or functional, surrounded by other similar objects in a kitchen setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/9/object_in_frame_670.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/9/object_in_frame_677.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/9/object_in_frame_679.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/9/object_in_frame_761.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/9/object_in_frame_777.png"
+    ]
+}

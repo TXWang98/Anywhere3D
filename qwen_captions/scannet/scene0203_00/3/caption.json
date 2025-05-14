@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric-covered papasan chair with a vibrant floral pattern and circular shape. Features a thick cushioned seat and backrest supported by a sturdy metal frame. Designed for comfortable seating in a relaxed position. Positioned in a living room setting, surrounded by various household items like storage bins, a small stool, and an umbrella stand near the entrance.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/couch-3/object_in_frame_932.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/couch-3/object_in_frame_282.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/couch-3/object_in_frame_946.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/couch-3/object_in_frame_276.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/couch-3/object_in_frame_298.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a dark color and irregular shape. The structure appears to be flexible with some contents inside. Its function is unclear but may be for storage or transport. Found on the floor near a chair and other miscellaneous items in what seems to be an indoor setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/closet doors-10/object_in_frame_933.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/closet doors-10/object_in_frame_897.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/closet doors-10/object_in_frame_888.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/closet doors-10/object_in_frame_798.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/closet doors-10/object_in_frame_879.png"
+    ]
+}

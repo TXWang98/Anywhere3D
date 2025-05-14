@@ -1,0 +1,10 @@
+{
+    "caption": "A black office chair with a sleek design and ergonomic shape. Features a mesh backrest with vertical slats for ventilation. Designed for prolonged sitting comfort. Positioned near a table in an office setting, alongside other furniture like a trash bin and electrical outlets on the wall.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/wall-23/object_in_frame_1228.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/wall-23/object_in_frame_1244.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/wall-23/object_in_frame_1220.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/wall-23/object_in_frame_1256.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/wall-23/object_in_frame_1248.png"
+    ]
+}

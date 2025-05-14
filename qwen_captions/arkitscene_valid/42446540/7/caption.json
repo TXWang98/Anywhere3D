@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden {generic}-type object with a light brown color and rectangular shape. The tapered rim suggests it could be part of a piece of furniture, like a cabinet or shelf. Its vertical orientation and placement against the wall indicate it might serve as a structural element or storage unit. Found in a living space near a clock on the wall and a table covered with a patterned cloth.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/7/object_in_frame_529.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/7/object_in_frame_535.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/7/object_in_frame_476.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/7/object_in_frame_539.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/7/object_in_frame_541.png"
+    ]
+}

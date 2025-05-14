@@ -1,0 +1,9 @@
+{
+    "caption": "\"A possibly ceramic container-type object with a white and translucent appearance. The tapered rim suggests it could be a small pitcher or creamer. It has a smooth, glossy surface and a slightly curved body. Likely used for pouring liquids. Positioned on a kitchen countertop near other kitchenware items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/16/object_in_frame_000081.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/16/object_in_frame_000079.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/16/object_in_frame_000082.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/16/object_in_frame_000080.png"
+    ]
+}

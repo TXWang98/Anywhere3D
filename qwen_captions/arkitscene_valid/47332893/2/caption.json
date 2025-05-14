@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden dresser with blue and light brown coloring and a rectangular shape. Features multiple drawers with silver handles. Likely used for storing clothes or personal items. Positioned against a wall in a bedroom setting, near a bed and other furniture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332893/2/object_in_frame_168.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332893/2/object_in_frame_582.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332893/2/object_in_frame_591.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332893/2/object_in_frame_173.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332893/2/object_in_frame_588.png"
+    ]
+}

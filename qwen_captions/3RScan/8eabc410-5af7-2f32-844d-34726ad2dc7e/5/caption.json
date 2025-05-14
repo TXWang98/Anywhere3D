@@ -1,0 +1,9 @@
+{
+    "caption": "\"A possibly plastic container-type object with translucent coloring and rectangular shape. Inconclusive evidence for structural details due to partial visibility. Likely used for storage or display purposes. Positioned near a window with blinds, partially obscured by surrounding objects.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/5/object_in_frame_000302.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/5/object_in_frame_000301.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/5/object_in_frame_000300.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/5/object_in_frame_000299.png"
+    ]
+}

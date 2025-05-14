@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden chair with a dark brown finish and a rectangular shape. The backrest features vertical slats, and the seat appears cushioned. Likely designed for seating at a table. Positioned near a green table in what seems to be a dining or living area with various household items around.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/chair-11/object_in_frame_1018.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/chair-11/object_in_frame_1010.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/chair-11/object_in_frame_1012.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/chair-11/object_in_frame_1014.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/chair-11/object_in_frame_1016.png"
+    ]
+}

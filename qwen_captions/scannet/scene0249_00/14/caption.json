@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic chair with a light blue seat and dark frame. Has a simple, utilitarian design with four legs and no armrests. Likely used for seating in meeting or classroom settings. Positioned around a long table in a conference room environment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/chair-14/object_in_frame_1296.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/chair-14/object_in_frame_1316.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/chair-14/object_in_frame_1292.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/chair-14/object_in_frame_1308.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/chair-14/object_in_frame_1312.png"
+    ]
+}

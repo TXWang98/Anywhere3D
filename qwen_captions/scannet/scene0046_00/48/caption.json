@@ -1,0 +1,10 @@
+{
+    "caption": "\"A pair of leather shoes with brown coloring and a classic shape. The shoes have a smooth texture and appear to be designed for formal wear. They are placed on a patterned carpet near a bed and other personal items, suggesting they belong to someone staying in the room.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/shoes-48/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/shoes-48/object_in_frame_2360.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/shoes-48/object_in_frame_1008.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/shoes-48/object_in_frame_980.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/shoes-48/object_in_frame_2316.png"
+    ]
+}

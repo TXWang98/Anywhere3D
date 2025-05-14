@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly glass container-type object with a translucent appearance and cylindrical shape. The tapered rim suggests it could be a jar or vase. Contains crumpled pink material inside. Likely used for storage or decorative purposes. Positioned on a dark surface near various household items like boxes and bags.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/laundry hamper-19/object_in_frame_495.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/laundry hamper-19/object_in_frame_1461.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/laundry hamper-19/object_in_frame_1446.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/laundry hamper-19/object_in_frame_1458.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/laundry hamper-19/object_in_frame_1491.png"
+    ]
+}

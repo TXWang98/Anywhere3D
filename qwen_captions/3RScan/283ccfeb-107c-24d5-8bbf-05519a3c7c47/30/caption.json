@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy black possibly monitor-type object with a rectangular shape. Smooth surface and thin bezels. Likely used for displaying visual content. Positioned on a stand in a room setting, near a fan and other electronic devices.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/283ccfeb-107c-24d5-8bbf-05519a3c7c47/30/object_in_frame_000317.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/283ccfeb-107c-24d5-8bbf-05519a3c7c47/30/object_in_frame_000315.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/283ccfeb-107c-24d5-8bbf-05519a3c7c47/30/object_in_frame_000311.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/283ccfeb-107c-24d5-8bbf-05519a3c7c47/30/object_in_frame_000309.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/283ccfeb-107c-24d5-8bbf-05519a3c7c47/30/object_in_frame_000319.png"
+    ]
+}

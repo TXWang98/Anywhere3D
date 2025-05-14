@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic chair with dark gray and black coloring. Has a simple, ergonomic design with a cushioned seat and backrest. Likely used for seating in office or meeting environments. Positioned near a table and against a red wall with electrical outlets.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0689_00/wall-1/object_in_frame_270.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0689_00/wall-1/object_in_frame_244.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0689_00/wall-1/object_in_frame_237.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0689_00/wall-1/object_in_frame_261.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0689_00/wall-1/object_in_frame_289.png"
+    ]
+}

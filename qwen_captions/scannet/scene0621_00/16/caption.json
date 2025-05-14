@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly whiteboard-type object with a dark gray surface and rectangular shape. The smooth, flat texture suggests it's designed for writing or displaying information. Likely used for educational or presentation purposes. Positioned on the wall in a classroom setting, surrounded by chairs and tables.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/blackboard-16/object_in_frame_932.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/blackboard-16/object_in_frame_324.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/blackboard-16/object_in_frame_308.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/blackboard-16/object_in_frame_292.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/blackboard-16/object_in_frame_288.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic chair with white and black fabric covering. The chair has a simple, lightweight frame with a slightly curved backrest and seat. It appears to be designed for casual seating or temporary use. Positioned near a wooden cabinet and a desk with various items on it, suggesting a home office or study area.\n\nConfidence Signals:\n- \"The presence of the fabric suggests it may be used for comfort.\"\n- \"While resembling a typical chair, the placement near the desk indicates its functional role in the workspace.\"\n- \"Inconclusive evidence for its specific purpose beyond general seating.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/13/object_in_frame_3924.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/13/object_in_frame_7485.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/13/object_in_frame_3852.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/13/object_in_frame_3491.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/13/object_in_frame_9002.png"
+    ]
+}

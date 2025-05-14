@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a translucent orange color and cylindrical shape. The tapered rim suggests it may be a bottle or jug. Its structure includes a handle for easy pouring. Likely used for storing liquids like detergent or cleaning solutions. Found on the floor near a shelf filled with various household items and a couch with clothes draped over it.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/trash can-16/object_in_frame_1516.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/trash can-16/object_in_frame_1596.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/trash can-16/object_in_frame_1528.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/trash can-16/object_in_frame_1520.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/trash can-16/object_in_frame_1592.png"
+    ]
+}

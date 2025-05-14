@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric-covered chair with a patterned upholstery and an ergonomic design. Features armrests, a cushioned seat, and a backrest with a mesh-like texture. Likely intended for office or meeting room seating. Positioned near a table in a conference room setting, surrounded by other similar chairs and tables.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0196_00/chair-9/object_in_frame_867.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0196_00/chair-9/object_in_frame_1071.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0196_00/chair-9/object_in_frame_870.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0196_00/chair-9/object_in_frame_1086.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0196_00/chair-9/object_in_frame_873.png"
+    ]
+}

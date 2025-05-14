@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden possibly plant stand with a dark finish and multi-tiered shape. Features slatted shelves and a sturdy base. Likely used for displaying potted plants or decorative items. Positioned near a fireplace in a living room setting, surrounded by framed artwork and furniture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260925/5/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260925/5/object_in_frame_336.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260925/5/object_in_frame_21.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260925/5/object_in_frame_107.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45260925/5/object_in_frame_19.png"
+    ]
+}

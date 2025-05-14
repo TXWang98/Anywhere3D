@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a light green color and cylindrical shape. The tapered rim suggests it might be designed for stacking or easy pouring. Its smooth texture appears to be typical of food storage containers. While resembling a cup, the presence of a box on top indicates it may serve as a temporary holder or part of a cluttered desk setup. Found on a black surface amidst various office items like shoes and a cardboard box.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/mini fridge-10/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/mini fridge-10/object_in_frame_900.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/mini fridge-10/object_in_frame_896.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/mini fridge-10/object_in_frame_920.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/mini fridge-10/object_in_frame_892.png"
+    ]
+}

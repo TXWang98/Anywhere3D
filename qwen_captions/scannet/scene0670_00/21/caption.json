@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy black photo frame with a grid layout and rectangular shape. Contains multiple small photographs arranged in rows and columns. Likely used for displaying family or personal memories. Mounted on a wall above a kitchen counter, surrounded by other framed pictures and decorative items.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/picture-21/object_in_frame_960.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/picture-21/object_in_frame_2950.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/picture-21/object_in_frame_815.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/picture-21/object_in_frame_805.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/picture-21/object_in_frame_780.png"
+    ]
+}

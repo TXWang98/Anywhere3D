@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden possibly door with a light brown color and rectangular shape. The tapered rim suggests it is designed for smooth opening and closing. It appears to be a standard interior door, likely used for access between rooms. Positioned in the corner of an office-like setting, surrounded by chairs and a table.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/door-12/object_in_frame_2376.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/door-12/object_in_frame_524.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/door-12/object_in_frame_476.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/door-12/object_in_frame_516.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/door-12/object_in_frame_444.png"
+    ]
+}

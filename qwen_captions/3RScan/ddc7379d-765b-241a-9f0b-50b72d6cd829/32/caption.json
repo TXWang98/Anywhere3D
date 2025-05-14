@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly plastic container-type object with white coloring and a rectangular shape. The tapered rim suggests it might be a lid or part of a larger assembly. Its small size and placement near the toilet indicate it could be used for storing bathroom essentials. Found in a bathroom setting, adjacent to a toilet paper holder and toilet.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/32/object_in_frame_000048.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/32/object_in_frame_000047.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/32/object_in_frame_000049.png"
+    ]
+}

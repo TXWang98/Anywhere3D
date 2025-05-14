@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy black desk with a transparent glass top and rectangular shape. Features sleek, straight edges and a sturdy frame. Designed for office use, providing ample workspace. Positioned against a wall near a window, accompanied by an ergonomic chair and a trash bin underneath.\n\nConfidence Signals:\n- The flat surface and clean lines suggest it is intended for professional settings.\n- While resembling a standard office desk, the presence of a glass top adds a modern aesthetic.\n- Inconclusive evidence for additional storage features beyond the visible drawers.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/desk-3/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/desk-3/object_in_frame_41.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/desk-3/object_in_frame_101.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/desk-3/object_in_frame_135.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/desk-3/object_in_frame_122.png"
+    ]
+}

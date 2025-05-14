@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic trash bin with a light gray and translucent color. Has a cylindrical shape with an open top. The tapered rim suggests it is designed for easy disposal of waste. Likely used for collecting general office trash. Positioned near the corner of a room, adjacent to a wall and close to office chairs and tables.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/trash can-19/object_in_frame_994.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/trash can-19/object_in_frame_1056.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/trash can-19/object_in_frame_1110.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/trash can-19/object_in_frame_1068.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/trash can-19/object_in_frame_1076.png"
+    ]
+}

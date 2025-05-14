@@ -1,0 +1,10 @@
+{
+    "caption": "\"A black cushioned stool with a rectangular shape. The padded seat and wooden legs suggest it's designed for seating. Likely used as a vanity or dressing table stool. Positioned in front of a wooden dresser with drawers and a mirror, near a bed and other bedroom furniture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898581/7/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898581/7/object_in_frame_1339.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898581/7/object_in_frame_597.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898581/7/object_in_frame_922.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898581/7/object_in_frame_1119.png"
+    ]
+}

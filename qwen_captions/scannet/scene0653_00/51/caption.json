@@ -1,0 +1,10 @@
+{
+    "caption": "A cardboard box with a light brown color and rectangular shape. The box appears to have printed text and images on its surface, suggesting it may contain electronic equipment or related items. Likely used for storage or shipping purposes. Positioned on top of a white filing cabinet in an office setting, near a desk with computer monitors and other office supplies.\n\n---\n\n\"A [cardboard] [possibly][box] with [light brown] and [rectangular]. [Printed text and images on surface]. [Storage or shipping container]. [On top of a filing cabinet in an office environment].\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/box-51/object_in_frame_1296.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/box-51/object_in_frame_702.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/box-51/object_in_frame_1278.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/box-51/object_in_frame_1758.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/box-51/object_in_frame_744.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic container-type object with a dark color and rectangular shape. The structure appears to have a lid or cover, suggesting it could be used for storage. Its function is unclear but may be related to kitchen organization. It is placed on the countertop near other kitchen appliances like a toaster and kettle.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444966/4/object_in_frame_32.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444966/4/object_in_frame_10.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444966/4/object_in_frame_45.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444966/4/object_in_frame_23.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444966/4/object_in_frame_122.png"
+    ]
+}

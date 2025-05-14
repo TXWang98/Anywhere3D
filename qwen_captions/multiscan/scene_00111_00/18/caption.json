@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a dark brown color and rectangular shape. The surface appears smooth with some minor scratches. Inconclusive evidence for its specific function, but it may be used for storage or as a base for electronic devices. Found on a bathroom countertop near various personal care items and an electrical outlet.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/18/object_in_frame_129.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/18/object_in_frame_3201.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/18/object_in_frame_1012.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/18/object_in_frame_920.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/18/object_in_frame_938.png"
+    ]
+}

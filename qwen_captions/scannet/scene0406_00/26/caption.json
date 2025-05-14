@@ -1,0 +1,10 @@
+{
+    "caption": "A white towel with a textured pattern and rectangular shape. Appears to be folded neatly. Likely used for drying or as a decorative item. Hanging on a towel rack in a bathroom setting, near a shower curtain and bathtub fixtures.\n\nConfidence Signal: \"The folded appearance and placement on the towel rack suggest it is a standard bathroom towel.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0406_00/towel-26/object_in_frame_452.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0406_00/towel-26/object_in_frame_460.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0406_00/towel-26/object_in_frame_466.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0406_00/towel-26/object_in_frame_448.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0406_00/towel-26/object_in_frame_444.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly wooden side table with a dark brown finish and rectangular shape. The flat top surface and sturdy legs suggest it's designed for holding small items or serving as an armrest extension. Positioned between two light gray upholstered chairs in a seating area, likely intended for convenience during conversations. Inconclusive evidence for its specific use beyond general furniture function due to limited visible details.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0461_00/table-3/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0461_00/table-3/object_in_frame_199.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0461_00/table-3/object_in_frame_63.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0461_00/table-3/object_in_frame_227.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0461_00/table-3/object_in_frame_7.png"
+    ]
+}

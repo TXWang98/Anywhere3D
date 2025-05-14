@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric curtain-type object with white and floral patterns. Has a vertical rectangular shape with soft, flowing texture. Likely used for window covering or privacy. Positioned in front of a wooden door frame, with surrounding objects like a table lamp and books nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/doors-32/object_in_frame_1267.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/doors-32/object_in_frame_1274.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/doors-32/object_in_frame_1288.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/doors-32/object_in_frame_1260.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/doors-32/object_in_frame_1253.png"
+    ]
+}

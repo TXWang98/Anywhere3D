@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy white possibly table with a circular top and slender metallic legs. The tapered rim suggests it is designed for stability and aesthetic appeal. Likely serves as a functional surface for dining or casual use. Positioned in a living space near chairs and other furniture, indicating a communal area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/6/object_in_frame_1021.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/6/object_in_frame_621.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/6/object_in_frame_725.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/6/object_in_frame_1022.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/6/object_in_frame_1077.png"
+    ]
+}

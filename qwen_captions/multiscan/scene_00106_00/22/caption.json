@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric bedspread with light green coloring and a rectangular shape. Features a checkered pattern along the edges and a textured surface. Likely serves as a protective layer for the mattress. Positioned on a bed frame with pillows and bedding items nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/22/object_in_frame_5811.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/22/object_in_frame_5723.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/22/object_in_frame_5885.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/22/object_in_frame_1197.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/22/object_in_frame_5797.png"
+    ]
+}

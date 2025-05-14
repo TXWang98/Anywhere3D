@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a light gray color and a cylindrical shape. The tapered rim suggests it might be a cup or small bucket. Its smooth surface lacks distinct structural features. Inconclusive evidence for its function, but it could be used for storage or as a disposable item. Found on the floor near a stack of books and other household items in a dimly lit room.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/trash can-31/object_in_frame_105.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/trash can-31/object_in_frame_126.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/trash can-31/object_in_frame_1939.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/trash can-31/object_in_frame_1946.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/trash can-31/object_in_frame_1162.png"
+    ]
+}

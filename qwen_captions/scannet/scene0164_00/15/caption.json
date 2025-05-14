@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with translucent coloring and a rectangular shape. The tapered rim suggests it may be designed for stacking or storage. Inconclusive evidence for its specific function, but it appears to be part of a kitchen setup. Found on top of a refrigerator, alongside other kitchen items like a red scoop and cleaning supplies.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/kitchen cabinets-15/object_in_frame_1710.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/kitchen cabinets-15/object_in_frame_825.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/kitchen cabinets-15/object_in_frame_846.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/kitchen cabinets-15/object_in_frame_1716.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/kitchen cabinets-15/object_in_frame_1695.png"
+    ]
+}

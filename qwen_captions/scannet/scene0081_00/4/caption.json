@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden table with a light brown top and circular shape. Supported by a single metallic pole leading to a round base. Designed for dining or casual seating. Positioned in front of a blue and beige striped bench, likely in a caf\u00e9 or restaurant setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0081_00/table-4/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0081_00/table-4/object_in_frame_178.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0081_00/table-4/object_in_frame_137.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0081_00/table-4/object_in_frame_141.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0081_00/table-4/object_in_frame_116.png"
+    ]
+}

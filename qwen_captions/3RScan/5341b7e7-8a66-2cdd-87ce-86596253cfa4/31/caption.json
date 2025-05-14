@@ -1,0 +1,7 @@
+{
+    "caption": "\"A possibly ceramic vase-type object with a light brown color and flared shape. The tapered rim suggests it may be designed for holding flowers or decorative items. While resembling a vase, the presence of a woven basket nearby could indicate an arrangement setup. Found on a round table in a living room setting, surrounded by other home decor items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/31/object_in_frame_000075.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5341b7e7-8a66-2cdd-87ce-86596253cfa4/31/object_in_frame_000125.png"
+    ]
+}

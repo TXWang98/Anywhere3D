@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy black possibly electronic device with a rectangular shape. Has a smooth surface and appears to have buttons or controls on the front. Likely used for kitchen-related functions, such as a microwave or toaster oven. Positioned on a countertop next to a box of Coca-Cola and a bag of Samuel Adams beer, in a kitchen setting with a stove and cabinets visible.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/toaster-42/object_in_frame_1296.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/toaster-42/object_in_frame_1353.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/toaster-42/object_in_frame_1356.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/toaster-42/object_in_frame_1299.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/toaster-42/object_in_frame_1359.png"
+    ]
+}

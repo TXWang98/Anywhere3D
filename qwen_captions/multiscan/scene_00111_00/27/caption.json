@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly cardboard toilet paper roll with a light brown color and cylindrical shape. The core is visible, indicating it's mostly empty. Likely used for hygiene purposes. Found on the floor near a bathroom cabinet, next to a white cable and other small objects.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/27/object_in_frame_1965.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/27/object_in_frame_3512.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/27/object_in_frame_1929.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/27/object_in_frame_2014.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/27/object_in_frame_3439.png"
+    ]
+}

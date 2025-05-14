@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly ceramic vase-type object with a mix of green and blue hues. The tapered rim suggests it's designed for holding flowers or decorative plants. It has a slender neck and a wider base, giving it an elegant silhouette. While resembling a vase, the presence of what appears to be floral arrangements inside supports its use as a decorative container. Situated on a kitchen countertop near a window, surrounded by papers and other household items.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/plant-51/object_in_frame_3430.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/plant-51/object_in_frame_3437.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/plant-51/object_in_frame_2072.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/plant-51/object_in_frame_2940.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/plant-51/object_in_frame_2079.png"
+    ]
+}

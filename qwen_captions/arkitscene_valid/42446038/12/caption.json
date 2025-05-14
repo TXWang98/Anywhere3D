@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white possibly cabinet-type object with a rectangular shape. Features paneled doors and metallic handles. Likely used for storage in a kitchen setting. Positioned above a countertop with various kitchen items like a bread box and utensils nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446038/12/object_in_frame_750.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446038/12/object_in_frame_753.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446038/12/object_in_frame_758.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446038/12/object_in_frame_771.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446038/12/object_in_frame_760.png"
+    ]
+}

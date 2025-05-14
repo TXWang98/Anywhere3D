@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric shower curtain with a light beige color and rectangular shape. The texture appears soft and slightly translucent. Likely used for privacy and water containment in the bathtub area. Positioned along the edge of the bathtub, partially open to reveal the tub and tiled walls.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/shower curtain-79/object_in_frame_4116.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/shower curtain-79/object_in_frame_4123.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/shower curtain-79/object_in_frame_112.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/shower curtain-79/object_in_frame_2758.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/shower curtain-79/object_in_frame_3045.png"
+    ]
+}

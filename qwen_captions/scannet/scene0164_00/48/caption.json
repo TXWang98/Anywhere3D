@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly glass bottle-type object with dark green coloring and cylindrical shape. Has a narrow neck and screw cap. Likely used for storing beverages or oils. Positioned on a kitchen countertop alongside other bottles and a roll of paper towels.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/beer bottles-48/object_in_frame_948.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/beer bottles-48/object_in_frame_852.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/beer bottles-48/object_in_frame_1731.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/beer bottles-48/object_in_frame_1647.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/beer bottles-48/object_in_frame_819.png"
+    ]
+}

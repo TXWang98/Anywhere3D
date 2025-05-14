@@ -1,0 +1,10 @@
+{
+    "caption": "A reflective glass mirror with a rectangular shape. The surface is smooth and transparent, showing reflections of the bathroom interior. Likely used for personal grooming tasks. Positioned on a wall above a sink area, with visible plumbing fixtures and a towel rack nearby.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/shelf-9/object_in_frame_3504.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/shelf-9/object_in_frame_3516.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/shelf-9/object_in_frame_3498.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/shelf-9/object_in_frame_3522.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/shelf-9/object_in_frame_3510.png"
+    ]
+}

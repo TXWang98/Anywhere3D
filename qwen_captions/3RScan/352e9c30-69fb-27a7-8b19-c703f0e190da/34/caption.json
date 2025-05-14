@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric container-type object with a dark, patterned appearance. The shape is irregular and soft, suggesting it's made of textile material. It appears to be used for storage or as part of a decorative throw. Seen on a couch alongside cushions and other home furnishings.\"\n\nConfidence signals:\n- \"The irregular shape and texture suggest it might be a fabric item.\"\n- \"While resembling a cushion, the presence of distinct patterns indicates it could be a storage bag.\"\n- \"Inconclusive evidence for its exact function due to the lack of clear structural features.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/34/object_in_frame_000259.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/34/object_in_frame_000271.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/34/object_in_frame_000272.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/34/object_in_frame_000221.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/352e9c30-69fb-27a7-8b19-c703f0e190da/34/object_in_frame_000220.png"
+    ]
+}

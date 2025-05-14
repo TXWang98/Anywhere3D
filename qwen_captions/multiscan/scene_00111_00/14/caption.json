@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric-type object with light gray coloring and irregular shape. Appears soft and slightly crumpled. Likely a piece of clothing or towel. Found on the floor near a dark-colored furniture leg.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/14/object_in_frame_4662.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/14/object_in_frame_1463.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/14/object_in_frame_3346.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/14/object_in_frame_3261.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/14/object_in_frame_1506.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly door with silver and rectangular shape. Has a glass panel and handle for opening. Serves as an entrance or exit point. Positioned in an office setting near a table and chair.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0494_00/door-7/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0494_00/door-7/object_in_frame_450.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0494_00/door-7/object_in_frame_425.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0494_00/door-7/object_in_frame_393.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0494_00/door-7/object_in_frame_437.png"
+    ]
+}

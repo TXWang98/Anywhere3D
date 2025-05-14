@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic water heater with off-white and black coloring and a cylindrical shape. Features a circular gauge near the top and a larger circular access panel below. Likely used for storing and heating water. Positioned in a utility room setting, surrounded by pipes, a pressure tank, and storage shelves.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/water heater-14/object_in_frame_1221.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/water heater-14/object_in_frame_1218.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/water heater-14/object_in_frame_1233.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/water heater-14/object_in_frame_1230.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/water heater-14/object_in_frame_1248.png"
+    ]
+}

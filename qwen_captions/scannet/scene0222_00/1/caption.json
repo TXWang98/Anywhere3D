@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric cushion with gray and white geometric patterns and a square shape. Quilted texture with diamond stitching. Likely used for seating or comfort. Placed on the floor near a bunk bed, surrounded by bags and other personal items.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/wall-1/object_in_frame_5301.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/wall-1/object_in_frame_5265.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/wall-1/object_in_frame_3510.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/wall-1/object_in_frame_5229.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/wall-1/object_in_frame_5274.png"
+    ]
+}

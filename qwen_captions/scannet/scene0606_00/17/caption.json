@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic microwave with a dark gray and silver color scheme and a rectangular shape. Features a digital control panel and a glass turntable inside. Designed for heating and cooking food. Positioned on a kitchen countertop alongside other appliances like a toaster oven and coffee maker, near a window with greenery outside.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/microwave-17/object_in_frame_556.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/microwave-17/object_in_frame_548.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/microwave-17/object_in_frame_620.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/microwave-17/object_in_frame_648.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/microwave-17/object_in_frame_636.png"
+    ]
+}

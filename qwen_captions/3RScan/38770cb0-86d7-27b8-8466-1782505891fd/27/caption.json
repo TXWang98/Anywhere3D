@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly rubber speaker-type object with black coloring and cylindrical shape. The tapered rim suggests it may be a subwoofer or part of a sound system. Its placement on the floor near a wall corner indicates it could be part of an audio setup. Inconclusive evidence for its exact function, but its proximity to other electronic devices hints at a multimedia context.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/27/object_in_frame_000720.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/27/object_in_frame_000091.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/27/object_in_frame_000540.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/27/object_in_frame_000541.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/27/object_in_frame_000539.png"
+    ]
+}

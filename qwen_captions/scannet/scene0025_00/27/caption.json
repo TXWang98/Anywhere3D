@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy black monitor with a rectangular shape. The tapered rim suggests it is designed for ergonomic viewing. It has a sleek, modern design with minimal visible buttons. Likely used for computer displays in office settings. Positioned on a desk alongside keyboards, mice, and other office supplies.\n\nA possibly plastic container-type object with translucent coloring. While resembling a vase, the presence of a lid suggests it may be a storage container. Has a cylindrical body shape with a slightly wider base. Likely used for holding small items or as a decorative piece. Found on a cluttered desk with various office supplies nearby.\n\nA metallic tool-type object, matte silver with angular grooves. Inconclusive evidence for its exact function, but it could be a specialized clamp or part of a larger assembly. Seen in an office environment near desks and computer equipment.\n\nA glossy ceramic mug with white coloring and a rounded shape. Has a comfortable handle and flat base. Made for holding beverages. Sitting on a desk beside a keyboard and mouse in an office setting.\n\nA possibly glass vase-type object with translucent amber coloring. Fluted body shape and water droplets on surface. Likely floral display container. Found on windowsill with plants and pruning shears nearby.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/box-27/object_in_frame_1794.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/box-27/object_in_frame_1371.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/box-27/object_in_frame_1356.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/box-27/object_in_frame_1248.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/box-27/object_in_frame_1203.png"
+    ]
+}

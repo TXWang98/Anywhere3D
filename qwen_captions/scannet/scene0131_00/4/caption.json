@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric office chair with gray upholstery and a contoured shape. Features a padded seat and backrest with adjustable armrests. Designed for ergonomic seating in workspaces. Positioned near a desk cluttered with papers and office supplies, alongside other similar chairs in an office environment.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0131_00/office chair-4/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0131_00/office chair-4/object_in_frame_50.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0131_00/office chair-4/object_in_frame_71.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0131_00/office chair-4/object_in_frame_135.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0131_00/office chair-4/object_in_frame_5.png"
+    ]
+}

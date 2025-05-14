@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden door with a light beige color and rectangular shape. The structure includes a visible handle on the right side. Its function is to provide access between rooms. Located in a hallway adjacent to a tiled floor and near a utility area with pipes and equipment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/shower-9/object_in_frame_1392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/shower-9/object_in_frame_1602.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/shower-9/object_in_frame_1611.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/shower-9/object_in_frame_1614.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/shower-9/object_in_frame_1587.png"
+    ]
+}

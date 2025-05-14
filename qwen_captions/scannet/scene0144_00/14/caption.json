@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy plastic possibly container-type object with bright green coloring and a rectangular shape. Has a smooth surface and appears to be lightweight. Likely used for storage or organization. Positioned on top of a black dresser alongside other items like a clock and framed pictures in a bedroom setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0144_00/dresser-14/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0144_00/dresser-14/object_in_frame_234.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0144_00/dresser-14/object_in_frame_240.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0144_00/dresser-14/object_in_frame_250.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0144_00/dresser-14/object_in_frame_264.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden possibly cabinet-type object with light brown coloring and rectangular shape. Features multiple doors with simple handles and a flat countertop. Likely used for storage in a kitchen setting. Positioned along the wall, adjacent to a sink and stove, with other kitchen appliances nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/18/object_in_frame_1846.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/18/object_in_frame_1166.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/18/object_in_frame_1814.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/18/object_in_frame_1815.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069021/18/object_in_frame_1204.png"
+    ]
+}

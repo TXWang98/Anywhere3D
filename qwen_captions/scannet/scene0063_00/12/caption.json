@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic counter with a dark gray surface and rectangular shape. The smooth texture suggests a polished finish. Likely used for food preparation or serving. Positioned in a kitchen setting, adjacent to bar stools and near a trash bin.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0063_00/kitchen island-12/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0063_00/kitchen island-12/object_in_frame_170.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0063_00/kitchen island-12/object_in_frame_191.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0063_00/kitchen island-12/object_in_frame_139.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0063_00/kitchen island-12/object_in_frame_162.png"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "caption": "A possibly fabric shower curtain with white and gray circular patterns. The tapered rim suggests it is designed to hang from a rod. Its flexible material allows for privacy while bathing. Positioned in front of a bathtub, with bathroom fixtures like a sink and toilet visible nearby.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/wall-31/object_in_frame_1016.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/wall-31/object_in_frame_1020.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/wall-31/object_in_frame_1024.png"
+    ]
+}

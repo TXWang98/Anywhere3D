@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with white coloring and a rectangular shape. The tapered rim suggests it may be designed for pouring or dispensing contents. While resembling a storage bin, the presence of a red cap indicates it could be a liquid container. Inconclusive evidence for its exact function. Found in a bathroom setting near cleaning supplies and a bathtub.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0693_00/bottle-22/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0693_00/bottle-22/object_in_frame_1082.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0693_00/bottle-22/object_in_frame_1036.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0693_00/bottle-22/object_in_frame_1138.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0693_00/bottle-22/object_in_frame_836.png"
+    ]
+}

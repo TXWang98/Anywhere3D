@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a beige and brown patterned design. Rectangular shape with a vent-like feature on the side. Inconclusive evidence for its function, but it may be used for storage or ventilation purposes. Positioned on the floor near a toilet in a bathroom setting, with a laundry basket and wooden shelf nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261182/2/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261182/2/object_in_frame_524.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261182/2/object_in_frame_46.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261182/2/object_in_frame_440.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261182/2/object_in_frame_38.png"
+    ]
+}

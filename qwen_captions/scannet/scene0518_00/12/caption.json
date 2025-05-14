@@ -1,0 +1,10 @@
+{
+    "caption": "A white possibly plastic container-type object with a rectangular shape. Has a smooth surface and horizontal slits near the bottom. Likely used for storage or as part of a larger appliance. Positioned against a dark wall, adjacent to a drawer unit and near a floor lamp.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0518_00/object-12/object_in_frame_84.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0518_00/object-12/object_in_frame_156.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0518_00/object-12/object_in_frame_1124.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0518_00/object-12/object_in_frame_1094.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0518_00/object-12/object_in_frame_1070.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric sofa with a dark gray color and rectangular shape. Features cushioned seating and backrests with decorative pillows in various patterns. Provides comfortable seating for multiple people. Positioned centrally in a living room setting, surrounded by side tables, lamps, and other furniture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445441/1/object_in_frame_84.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445441/1/object_in_frame_717.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445441/1/object_in_frame_720.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445441/1/object_in_frame_68.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445441/1/object_in_frame_213.png"
+    ]
+}

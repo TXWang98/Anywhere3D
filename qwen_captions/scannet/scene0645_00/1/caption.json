@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric shoe-type object with white and red coloring and a low-profile shape. Appears to have laces and a soft texture. Likely designed for casual wear. Found on the floor near a backpack and other personal items in a bedroom setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/bag-1/object_in_frame_2779.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/bag-1/object_in_frame_2737.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/bag-1/object_in_frame_2856.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/bag-1/object_in_frame_2660.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/bag-1/object_in_frame_2646.png"
+    ]
+}

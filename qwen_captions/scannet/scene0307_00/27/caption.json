@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden chair with a dark brown finish and rectangular shape. The chair has vertical slats on the backrest and a flat seat. It appears designed for seating. Positioned in a cluttered storage area near shelves filled with various containers and household items.\n\nConfidence Signals:\n- \"The visible structure of the chair suggests it is intended for sitting.\"\n- \"While resembling a typical dining chair, its placement among storage items indicates multipurpose use.\"\n- \"Inconclusive evidence for specific material properties due to image resolution.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/chair-27/object_in_frame_747.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/chair-27/object_in_frame_0.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/chair-27/object_in_frame_732.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/chair-27/object_in_frame_723.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/chair-27/object_in_frame_780.png"
+    ]
+}

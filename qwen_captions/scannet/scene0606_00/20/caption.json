@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly ceramic vase-type object with green and leafy texture. The tapered rim suggests it is designed for holding plants or flowers. While resembling a decorative item, the presence of leaves indicates its use as a planter. Found near a window, allowing natural light to enhance its appearance.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/plant-20/object_in_frame_652.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/plant-20/object_in_frame_640.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/plant-20/object_in_frame_644.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/plant-20/object_in_frame_612.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/plant-20/object_in_frame_636.png"
+    ]
+}

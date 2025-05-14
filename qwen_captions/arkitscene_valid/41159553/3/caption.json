@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden dresser with a natural finish and rectangular shape. Features multiple drawers with round knobs. Provides storage space for clothing or personal items. Positioned against the wall in a bedroom setting, near a bed and bookshelf.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159553/3/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159553/3/object_in_frame_722.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159553/3/object_in_frame_1244.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159553/3/object_in_frame_738.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159553/3/object_in_frame_1253.png"
+    ]
+}

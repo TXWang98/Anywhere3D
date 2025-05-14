@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with orange coloring and rectangular shape. Appears to have a smooth surface and no visible handles or lids. Likely used for storage or as a decorative item. Placed on a patterned tablecloth atop a small table near a window, radiator, and floor lamp in a living room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897688/6/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897688/6/object_in_frame_877.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897688/6/object_in_frame_965.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897688/6/object_in_frame_887.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897688/6/object_in_frame_1030.png"
+    ]
+}

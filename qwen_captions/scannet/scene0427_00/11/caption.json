@@ -1,0 +1,10 @@
+{
+    "caption": "A black mesh office chair with a dark gray seat and backrest. The chair features a five-pointed star base with casters for mobility. Designed for ergonomic seating, it includes adjustable armrests and lumbar support. Positioned near a round table in an office setting, suggesting use in collaborative workspaces.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0427_00/wall-11/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0427_00/wall-11/object_in_frame_170.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0427_00/wall-11/object_in_frame_184.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0427_00/wall-11/object_in_frame_188.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0427_00/wall-11/object_in_frame_912.png"
+    ]
+}

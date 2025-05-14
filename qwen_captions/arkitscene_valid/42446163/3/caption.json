@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white possibly cabinet-type object with a rectangular shape. Features two vertical doors and silver handles. Likely used for storage. Positioned in a bedroom setting near a bed and other furniture.\"\n\n\"A white possibly cabinet-type object with a rectangular shape. Features two vertical doors and silver handles. Likely used for storage. Positioned in a hallway adjacent to a door.\"\n\n\"A white possibly cabinet-type object with a rectangular shape. Features horizontal drawers and silver handles. Likely used for storage. Located above a countertop in a kitchen area.\"\n\n\"A white possibly cabinet-type object with a rectangular shape. Features horizontal drawers and silver handles. Likely used for storage. Positioned above a bed in a bedroom setting.\"\n\n\"A white possibly cabinet-type object with a rectangular shape. Features horizontal drawers and silver handles. Likely used for storage. Positioned above a bed in a bedroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446163/3/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446163/3/object_in_frame_6.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446163/3/object_in_frame_540.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446163/3/object_in_frame_521.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446163/3/object_in_frame_522.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden bed with a dark brown finish and rectangular shape. The bed frame has a simple, sturdy structure with visible slats underneath. Designed for sleeping and resting. Positioned against a wall in a bedroom setting, covered with a gray polka-dotted blanket.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331990/1/object_in_frame_495.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331990/1/object_in_frame_757.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331990/1/object_in_frame_491.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331990/1/object_in_frame_490.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331990/1/object_in_frame_455.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A black possibly plastic headset with a coiled cable and over-ear design. Features adjustable headband and cushioned ear cups. Likely used for audio communication or listening. Positioned on a desk near a computer setup, surrounded by office supplies and beverages.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/headphones-33/object_in_frame_1794.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/headphones-33/object_in_frame_1752.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/headphones-33/object_in_frame_1791.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/headphones-33/object_in_frame_1776.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0025_00/headphones-33/object_in_frame_1788.png"
+    ]
+}

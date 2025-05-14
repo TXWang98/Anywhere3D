@@ -1,0 +1,10 @@
+{
+    "caption": "\"A stainless steel oven with a black and silver color scheme. Rectangular shape with a smooth, reflective surface. Features control knobs and a digital display. Used for baking and cooking. Positioned in a kitchen setting alongside other appliances like a stove and microwave.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261121/9/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261121/9/object_in_frame_156.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261121/9/object_in_frame_109.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261121/9/object_in_frame_461.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261121/9/object_in_frame_110.png"
+    ]
+}

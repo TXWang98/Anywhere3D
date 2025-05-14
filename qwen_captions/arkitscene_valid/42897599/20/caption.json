@@ -1,0 +1,10 @@
+{
+    "caption": "1. **Image 1 & Image 3**:\n\"A possibly ceramic vase-type object with a dark color and tall, slender shape. Features a flared opening at the top. Likely used for holding flowers or decorative purposes. Positioned on a dining table surrounded by other floral arrangements and kitchen items.\"\n\n2. **Image 2**:\n\"Inconclusive evidence for the category of the object in the green bounding box. Appears to be part of a white cabinet or appliance with no distinct features visible. Located near cleaning supplies in what seems to be a utility area.\"\n\n3. **Image 4 & Image 5**:\n\"A glossy black television with a rectangular shape and flat screen. Mounted on the wall. Designed for entertainment and media viewing. Situated in a living room setting near a decorated Christmas tree and other festive decorations.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/20/object_in_frame_898.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/20/object_in_frame_1578.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/20/object_in_frame_905.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/20/object_in_frame_1978.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/20/object_in_frame_1973.png"
+    ]
+}

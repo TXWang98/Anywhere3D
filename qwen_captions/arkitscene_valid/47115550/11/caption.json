@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric chair-type object with green and patterned upholstery. Rounded backrest shape and cushioned seat. Likely designed for seating comfort. Positioned near a desk with a laptop, situated in a room with a window and drying rack nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115550/11/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115550/11/object_in_frame_299.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115550/11/object_in_frame_921.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115550/11/object_in_frame_920.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115550/11/object_in_frame_533.png"
+    ]
+}

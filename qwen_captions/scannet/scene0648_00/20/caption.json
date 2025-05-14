@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a dark color and rectangular shape. The tapered rim suggests it may be designed for storage or organization. Its structure includes compartments visible from the top. Likely used for holding small items. Found on a windowsill near a bed in a bedroom setting, alongside other personal belongings.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/window-20/object_in_frame_864.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/window-20/object_in_frame_2742.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/window-20/object_in_frame_810.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/window-20/object_in_frame_816.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/window-20/object_in_frame_2730.png"
+    ]
+}

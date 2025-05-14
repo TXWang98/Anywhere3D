@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric-type object with dark coloring and irregular shape. Inconclusive evidence for its structure or texture details. Likely a piece of clothing or accessory. Seen on the edge of a bed, near pillows and bedding in a bedroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/wall-36/object_in_frame_1340.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/wall-36/object_in_frame_1390.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/wall-36/object_in_frame_1345.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/wall-36/object_in_frame_1375.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/wall-36/object_in_frame_1350.png"
+    ]
+}

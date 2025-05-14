@@ -1,0 +1,9 @@
+{
+    "caption": "\"A possibly ceramic container-type object with a light color and rounded shape. The tapered rim suggests it could be a small vase or decorative holder. Its smooth texture and compact size indicate it might hold small items or serve as an ornament. Placed on a wooden ledge above a couch, surrounded by cushions and other home decor elements.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/20/object_in_frame_000167.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/20/object_in_frame_000166.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/20/object_in_frame_000164.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/20/object_in_frame_000165.png"
+    ]
+}

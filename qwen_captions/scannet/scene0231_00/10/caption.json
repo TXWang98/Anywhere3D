@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric cushion-type object with a muted pink color and rectangular shape. Appears soft with no distinct structural features. Likely used for comfort or decoration. Placed on a patterned couch alongside papers and other items in a living room setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/pillow-10/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/pillow-10/object_in_frame_3059.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/pillow-10/object_in_frame_833.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/pillow-10/object_in_frame_3346.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/pillow-10/object_in_frame_819.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric container-type object with a white and black pattern. Appears to have a flexible, cylindrical shape with an open top. Likely used for storage or laundry. Seen on the floor near a bed with green bedding and a red bag in the background.\n\nThe tapered rim suggests it could be a laundry hamper. While resembling a basket, the presence of soft material indicates it's not rigid. Inconclusive evidence for its exact purpose, but its placement near personal items implies everyday use.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/door-20/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/door-20/object_in_frame_465.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/door-20/object_in_frame_501.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/door-20/object_in_frame_468.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/door-20/object_in_frame_444.png"
+    ]
+}

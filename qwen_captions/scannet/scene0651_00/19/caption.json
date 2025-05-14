@@ -1,0 +1,10 @@
+{
+    "caption": "A white plastic possibly drawer-type object with a rectangular shape. Has a horizontal handle and a flat surface. Likely used for storage or organization. Positioned below a cabinet and above a stove in a kitchen setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0651_00/range hood-19/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0651_00/range hood-19/object_in_frame_236.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0651_00/range hood-19/object_in_frame_71.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0651_00/range hood-19/object_in_frame_51.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0651_00/range hood-19/object_in_frame_195.png"
+    ]
+}

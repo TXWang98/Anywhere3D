@@ -1,0 +1,7 @@
+{
+    "caption": "\"A possibly fabric pet bed with dark gray coloring and rectangular shape. Soft, cushioned structure with a plush texture. Designed for animal comfort and rest. Positioned on a black mat in a tiled room corner, near a small stuffed toy.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3df5-45a5-2e80-82c1-b108dc9a3fbe/1/object_in_frame_000001.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bf9a3df5-45a5-2e80-82c1-b108dc9a3fbe/1/object_in_frame_000000.png"
+    ]
+}

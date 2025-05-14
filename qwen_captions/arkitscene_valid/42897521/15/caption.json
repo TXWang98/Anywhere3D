@@ -1,0 +1,9 @@
+{
+    "caption": "\"A possibly fabric sofa-type object with beige and patterned upholstery. Rounded armrests and cushioned seating area. Likely used for sitting or lounging. Positioned in a living room setting near a patterned rug and adjacent to a kitchen area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897521/15/object_in_frame_429.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897521/15/object_in_frame_432.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897521/15/object_in_frame_430.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897521/15/object_in_frame_431.png"
+    ]
+}

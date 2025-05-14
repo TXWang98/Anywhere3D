@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly ceramic vase-type object with green and conical shape. The tapered rim suggests it may be designed for holding flowers or decorative plants. While resembling a vase, the presence of surrounding kitchen items makes its function inconclusive. Found on a countertop near a window, surrounded by books and other kitchenware.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/window-55/object_in_frame_3430.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/window-55/object_in_frame_2163.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/window-55/object_in_frame_2912.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/window-55/object_in_frame_2926.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/window-55/object_in_frame_1309.png"
+    ]
+}

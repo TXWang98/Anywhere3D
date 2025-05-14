@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric-covered chair with light blue upholstery and a rectangular shape. The chair has armrests and a cushioned seat. It appears to be used for seating. Positioned next to a bed with patterned bedding, suggesting a bedroom setting.\n\n---\n\n\"A fabric-covered chair with light blue upholstery and a rectangular shape. The chair has armrests and a cushioned seat. It appears to be used for seating. Positioned next to a bed with patterned bedding, suggesting a bedroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/32/object_in_frame_6191.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/32/object_in_frame_5359.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/32/object_in_frame_9255.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/32/object_in_frame_5333.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/32/object_in_frame_6061.png"
+    ]
+}

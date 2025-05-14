@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric sofa with a dark gray color and rectangular shape. Features cushioned backrests and armrests with visible creases and folds. Designed for seating multiple people comfortably. Positioned against a wall in a living room setting, adjacent to a red ottoman and near a red backpack on an adjacent piece of furniture.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0701_00/couch-3/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0701_00/couch-3/object_in_frame_359.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0701_00/couch-3/object_in_frame_373.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0701_00/couch-3/object_in_frame_329.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0701_00/couch-3/object_in_frame_358.png"
+    ]
+}

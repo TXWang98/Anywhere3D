@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric towel with white coloring and folded rectangular shape. Smooth texture and neatly stacked arrangement. Likely used for personal hygiene or drying purposes. Placed on a bed in a bedroom setting, near pillows and other bedding items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899734/1/object_in_frame_105.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899734/1/object_in_frame_621.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899734/1/object_in_frame_623.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899734/1/object_in_frame_292.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899734/1/object_in_frame_294.png"
+    ]
+}

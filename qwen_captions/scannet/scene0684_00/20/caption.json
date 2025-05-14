@@ -1,0 +1,9 @@
+{
+    "caption": "A white possibly container-type object with a smooth surface and rectangular shape. The tapered rim suggests it may be designed for stacking or storage. Inconclusive evidence for its exact function, but it appears to be part of a larger set of similar containers. Positioned on top of a light blue cabinet in what seems to be an office or medical setting, near electrical outlets and cables.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0684_00/object-20/object_in_frame_310.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0684_00/object-20/object_in_frame_307.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0684_00/object-20/object_in_frame_308.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0684_00/object-20/object_in_frame_309.png"
+    ]
+}

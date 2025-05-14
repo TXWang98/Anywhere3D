@@ -1,0 +1,10 @@
+{
+    "caption": "A cardboard box with a brown and white color scheme and a rectangular shape. The box has printed text on its side. It appears to be used for storage or shipping purposes. Positioned on the floor next to a wooden cabinet, with various household items like a chair and a drawer unit in the surrounding area.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/29/object_in_frame_2116.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/29/object_in_frame_2198.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/29/object_in_frame_1772.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/29/object_in_frame_7103.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/29/object_in_frame_116.png"
+    ]
+}

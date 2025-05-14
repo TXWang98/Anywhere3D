@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy hard-shell suitcase with silver coloring and a rectangular shape. Features a textured, ribbed design and multiple compartments with zippers. Designed for travel and storage of personal items. Positioned on a patterned carpet in a living room setting, near a couch and another piece of luggage.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/22/object_in_frame_6480.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/22/object_in_frame_6043.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/22/object_in_frame_5632.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/22/object_in_frame_6188.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/22/object_in_frame_5915.png"
+    ]
+}

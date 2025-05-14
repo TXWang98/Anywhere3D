@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden {generic}-type object with a light brown color and rectangular shape. Appears to have a smooth surface and simple structure. Inconclusive evidence for its function, but it may serve as a decorative or storage item. Positioned near the entrance of a room with glass doors, adjacent to a bed and other furniture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899696/4/object_in_frame_193.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899696/4/object_in_frame_242.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899696/4/object_in_frame_247.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899696/4/object_in_frame_446.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899696/4/object_in_frame_194.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with translucent teal coloring and a rectangular shape. Features multiple compartments with lids. Likely used for storage or organization. Positioned on the floor near a bed, books, and other personal items in a dorm room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/bed-0/object_in_frame_900.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/bed-0/object_in_frame_3645.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/bed-0/object_in_frame_3627.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/bed-0/object_in_frame_855.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/bed-0/object_in_frame_3618.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden chair with a weathered brown finish and slatted design. The backrest features vertical slats, and the seat has horizontal slats. Appears to be designed for outdoor seating. Positioned on a tiled patio near a window, with a table and other objects in the background.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/22/object_in_frame_3424.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/22/object_in_frame_3394.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/22/object_in_frame_2213.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/22/object_in_frame_3375.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/22/object_in_frame_2223.png"
+    ]
+}

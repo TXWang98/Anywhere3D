@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic office chair with a black and beige color scheme and an ergonomic shape. Features a mesh backrest, padded seat, and armrests. Designed for comfortable seating during work hours. Positioned in an office setting near a desk and filing cabinet.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/office chair-37/object_in_frame_3570.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/office chair-37/object_in_frame_3588.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/office chair-37/object_in_frame_3564.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/office chair-37/object_in_frame_3594.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/office chair-37/object_in_frame_3576.png"
+    ]
+}

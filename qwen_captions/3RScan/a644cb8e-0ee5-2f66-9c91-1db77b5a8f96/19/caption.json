@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly glass vase-type object with translucent coloring and a cylindrical shape. The tapered rim suggests it may be designed for holding flowers or decorative items. While resembling a vase, the presence of what appears to be small objects inside adds ambiguity to its function. Found on a wooden table in an indoor setting near a window, accompanied by other similar objects.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a644cb8e-0ee5-2f66-9c91-1db77b5a8f96/19/object_in_frame_000108.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a644cb8e-0ee5-2f66-9c91-1db77b5a8f96/19/object_in_frame_000107.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a644cb8e-0ee5-2f66-9c91-1db77b5a8f96/19/object_in_frame_000140.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a644cb8e-0ee5-2f66-9c91-1db77b5a8f96/19/object_in_frame_000136.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a644cb8e-0ee5-2f66-9c91-1db77b5a8f96/19/object_in_frame_000110.png"
+    ]
+}

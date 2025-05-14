@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden chair with a light beige cushion and a simple, straight-backed design. The chair has four legs and appears sturdy. Likely used for seating at the dining table. Positioned around a round table set with placemats and a vase of flowers in a well-lit dining area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/9/object_in_frame_1983.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/9/object_in_frame_1979.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/9/object_in_frame_1619.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/9/object_in_frame_1980.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/9/object_in_frame_1620.png"
+    ]
+}

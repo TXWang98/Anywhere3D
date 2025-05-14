@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic stainless steel refrigerator with a brushed finish and tall, rectangular shape. Features a smooth surface with subtle reflections and a handle running vertically along the side. Likely used for food storage. Positioned in a kitchen setting with visible magnets and notes on its door.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898521/15/object_in_frame_631.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898521/15/object_in_frame_677.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898521/15/object_in_frame_606.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898521/15/object_in_frame_609.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898521/15/object_in_frame_638.png"
+    ]
+}

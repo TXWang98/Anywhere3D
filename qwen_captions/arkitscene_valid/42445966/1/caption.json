@@ -1,0 +1,10 @@
+{
+    "caption": "\"A plush fabric sofa with a rich brown color and rectangular shape. Features tufted cushions and armrests with a soft, textured surface. Designed for comfortable seating. Positioned in a living room setting near a window, radiator, and tiled floor.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445966/1/object_in_frame_797.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445966/1/object_in_frame_702.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445966/1/object_in_frame_762.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445966/1/object_in_frame_708.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445966/1/object_in_frame_691.png"
+    ]
+}

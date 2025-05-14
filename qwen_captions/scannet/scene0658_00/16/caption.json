@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly storage-type object with silver coloring and rectangular shape. Features a grid-like structure with horizontal bars. Likely used for organizing items. Positioned at the top of an open closet, above wire shelving units.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/ceiling-16/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/ceiling-16/object_in_frame_449.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/ceiling-16/object_in_frame_461.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/ceiling-16/object_in_frame_448.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0658_00/ceiling-16/object_in_frame_453.png"
+    ]
+}

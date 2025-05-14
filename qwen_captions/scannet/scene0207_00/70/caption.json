@@ -1,0 +1,9 @@
+{
+    "caption": "\"A possibly metallic towel bar with a brushed silver finish and elongated shape. Has a smooth, cylindrical structure designed for hanging towels. Likely used for drying or storing bath linens. Positioned on the wall near a bathtub with folded towels and toiletries in the background.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/towel-70/object_in_frame_1140.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/towel-70/object_in_frame_1131.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/towel-70/object_in_frame_1137.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/towel-70/object_in_frame_1134.png"
+    ]
+}

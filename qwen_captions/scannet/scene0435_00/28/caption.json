@@ -1,0 +1,10 @@
+{
+    "caption": "A framed artwork with vibrant colors and abstract patterns. The rectangular shape is mounted on a wall. Likely serves as decorative wall art. Positioned above a toilet in a bathroom setting, near a shower curtain and sink area.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/picture-28/object_in_frame_2425.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/picture-28/object_in_frame_2575.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/picture-28/object_in_frame_2430.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/picture-28/object_in_frame_2450.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/picture-28/object_in_frame_2570.png"
+    ]
+}

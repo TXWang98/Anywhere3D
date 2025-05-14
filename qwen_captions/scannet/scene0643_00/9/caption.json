@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with green and rectangular shape. Has a flat top surface and appears to be a box. Likely used for storing tea bags. Sitting on a cutting board alongside other kitchen items like a ruler, bottle of dish soap, and a roll of paper towels.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/mini fridge-9/object_in_frame_1392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/mini fridge-9/object_in_frame_1365.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/mini fridge-9/object_in_frame_1233.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/mini fridge-9/object_in_frame_1230.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/mini fridge-9/object_in_frame_1239.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A ceramic possibly planter-type object with dark brown coloring and a rectangular shape. Has a smooth surface and visible soil line. Likely used for housing small plants. Positioned on top of a wooden shelf alongside another potted plant, near a framed picture and various decorative items.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/plant-10/object_in_frame_1884.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/plant-10/object_in_frame_1854.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/plant-10/object_in_frame_2184.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/plant-10/object_in_frame_2202.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/plant-10/object_in_frame_1908.png"
+    ]
+}

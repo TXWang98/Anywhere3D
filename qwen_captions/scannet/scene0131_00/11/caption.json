@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy black desktop computer tower with a rectangular shape. Features a front panel with buttons and ports, along with a visible logo. Designed for housing internal components and providing computing power. Positioned under a desk in an office setting, near a chair and other work-related items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0131_00/computer tower-11/object_in_frame_567.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0131_00/computer tower-11/object_in_frame_482.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0131_00/computer tower-11/object_in_frame_576.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0131_00/computer tower-11/object_in_frame_572.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0131_00/computer tower-11/object_in_frame_471.png"
+    ]
+}

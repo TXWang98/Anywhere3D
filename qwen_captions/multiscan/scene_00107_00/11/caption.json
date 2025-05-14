@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic baseboard with white coloring and a flat, elongated shape. Smooth texture with no visible structural features. Likely serves as a protective or decorative element along the wall. Positioned at the bottom of a wall corner in an indoor setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/11/object_in_frame_14159.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/11/object_in_frame_9745.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/11/object_in_frame_12937.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/11/object_in_frame_9699.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/11/object_in_frame_14129.png"
+    ]
+}

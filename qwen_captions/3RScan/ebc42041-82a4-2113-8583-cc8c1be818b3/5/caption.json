@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly plastic or metallic {generic}-type object with a neutral color and cylindrical shape. The tapered rim suggests it could be a light fixture or vent cover. Its smooth surface and central placement on the ceiling indicate a functional role, likely related to lighting or ventilation. Located above a windowed cabinet in what appears to be an indoor setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ebc42041-82a4-2113-8583-cc8c1be818b3/5/object_in_frame_000155.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ebc42041-82a4-2113-8583-cc8c1be818b3/5/object_in_frame_000156.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ebc42041-82a4-2113-8583-cc8c1be818b3/5/object_in_frame_000157.png"
+    ]
+}

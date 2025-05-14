@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden shelf with a light brown finish and rectangular shape. The structure features two small drawers with red fronts and a flat top surface. Likely used for storage and organization. Positioned against a white wall, holding various items including boxes, a flashlight, and other miscellaneous objects.\n\nConfidence Signals:\n- \"The presence of drawers suggests it is designed for storage.\"\n- \"While resembling a typical shelf, the inclusion of electronic devices indicates multipurpose use.\"\n- \"Inconclusive evidence for its specific origin or brand.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/31/object_in_frame_5480.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/31/object_in_frame_9896.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/31/object_in_frame_9504.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/31/object_in_frame_5515.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/31/object_in_frame_5532.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly cardboard box-type object with a light brown color and rectangular shape. The edges appear slightly worn, suggesting it may have been used for storage or shipping. Its function is likely for containing items. It is situated on the floor near other boxes and a printer in what appears to be an office or storage area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0685_00/boards-18/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0685_00/boards-18/object_in_frame_1011.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0685_00/boards-18/object_in_frame_1002.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0685_00/boards-18/object_in_frame_975.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0685_00/boards-18/object_in_frame_939.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic sink with a beige and speckled pattern, featuring an oval shape. The structure includes a faucet with two handles for hot and cold water. Designed for handwashing and personal hygiene tasks. Positioned on a countertop within a bathroom setting, surrounded by toiletries like soap dispensers and cleaning products.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/sink-13/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/sink-13/object_in_frame_0.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/sink-13/object_in_frame_12.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/sink-13/object_in_frame_516.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/sink-13/object_in_frame_489.png"
+    ]
+}

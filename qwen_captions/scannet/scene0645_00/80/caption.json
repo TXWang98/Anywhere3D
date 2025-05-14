@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly ceramic or plastic {generic}-type object with a light color and indistinct shape. Inconclusive evidence for its structure or texture details. Function is unclear due to limited visibility. Seen in the doorway area, partially obscured by surrounding objects like a bed and bathroom fixtures.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/wall-80/object_in_frame_2779.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/wall-80/object_in_frame_126.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/wall-80/object_in_frame_3108.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/wall-80/object_in_frame_2926.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/wall-80/object_in_frame_133.png"
+    ]
+}

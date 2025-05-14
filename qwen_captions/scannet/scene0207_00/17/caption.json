@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric towel-type object with muted green and beige patterns. Appears to have a soft texture and irregular shape. Likely used for drying or cleaning purposes. Draped over the edge of a stainless steel sink in a kitchen setting, near various utensils and appliances.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/sink-17/object_in_frame_1638.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/sink-17/object_in_frame_1416.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/sink-17/object_in_frame_1428.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/sink-17/object_in_frame_1422.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/sink-17/object_in_frame_627.png"
+    ]
+}

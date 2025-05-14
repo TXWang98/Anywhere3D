@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy plastic possibly phone-type object with a light blue and white color scheme. Has a rectangular shape with rounded edges and a small screen on the top. Likely used for communication or office tasks. Placed on top of a printer in an office environment, surrounded by office supplies and equipment.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0462_00/copier-0/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0462_00/copier-0/object_in_frame_47.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0462_00/copier-0/object_in_frame_24.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0462_00/copier-0/object_in_frame_51.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0462_00/copier-0/object_in_frame_22.png"
+    ]
+}

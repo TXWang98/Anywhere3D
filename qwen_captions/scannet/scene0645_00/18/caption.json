@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic bathtub with white coloring and a rectangular shape. Smooth, glossy surface with a faucet and drain visible. Designed for bathing purposes. Positioned in a bathroom setting with a toilet nearby and a towel draped over the edge.\"\n\n\"A possibly wooden cabinet-type object with dark brown coloring and a rectangular shape. Features doors with handles and appears to have items on top. Likely used for storage. Located in a room with various objects scattered around, including bags and shoes.\"\n\n\"A ceramic bathtub with white coloring and a rectangular shape. Smooth, glossy surface with a faucet and drain visible. Designed for bathing purposes. Positioned in a bathroom setting with a toilet nearby and a towel draped over the edge.\"\n\n\"A ceramic bathtub with white coloring and a rectangular shape. Smooth, glossy surface with a faucet and drain visible. Designed for bathing purposes. Positioned in a bathroom setting with a toilet nearby and a towel draped over the edge.\"\n\n\"A ceramic bathtub with white coloring and a rectangular shape. Smooth, glossy surface with a faucet and drain visible. Designed for bathing purposes. Positioned in a bathroom setting with a toilet nearby and a towel draped over the edge.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/bathtub-18/object_in_frame_3570.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/bathtub-18/object_in_frame_2737.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/bathtub-18/object_in_frame_3577.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/bathtub-18/object_in_frame_3311.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/bathtub-18/object_in_frame_3290.png"
+    ]
+}

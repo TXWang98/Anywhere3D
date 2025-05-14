@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric container-type object with dark brown coloring and rectangular shape. Appears soft and flexible, lacking rigid structure. Likely used for storage or decorative purposes. Positioned on a bed near pillows and other items like a remote control and magazine.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/pillow-59/object_in_frame_273.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/pillow-59/object_in_frame_434.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/pillow-59/object_in_frame_238.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/pillow-59/object_in_frame_420.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/pillow-59/object_in_frame_504.png"
+    ]
+}

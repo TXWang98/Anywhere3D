@@ -1,0 +1,8 @@
+{
+    "caption": "\"A glossy plastic possibly picture frame with yellow coloring and rectangular shape. Has a smooth surface and thin edges. Likely used for displaying photographs. Positioned on a shelf alongside books, decorative items, and a potted plant.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac758d-8d6f-2d13-8d21-9133668b4d7d/26/object_in_frame_000204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac758d-8d6f-2d13-8d21-9133668b4d7d/26/object_in_frame_000206.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac758d-8d6f-2d13-8d21-9133668b4d7d/26/object_in_frame_000205.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A light wood possibly table with a flat white top and rectangular shape. Features horizontal slats on the lower section for storage or display. Likely used as a functional surface in a retail or workshop setting. Positioned alongside other similar tables in an indoor environment, with shelves and storage units visible in the background.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0343_00/table-15/object_in_frame_534.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0343_00/table-15/object_in_frame_550.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0343_00/table-15/object_in_frame_558.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0343_00/table-15/object_in_frame_1198.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0343_00/table-15/object_in_frame_1192.png"
+    ]
+}

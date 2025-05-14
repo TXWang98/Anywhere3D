@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly ceramic toothbrush holder with a light blue and white color scheme. Has a cylindrical shape with an open top. Likely used for storing toothbrushes. Positioned on a bathroom countertop near a sink, surrounded by various toiletries and personal care items.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/17/object_in_frame_3156.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/17/object_in_frame_3297.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/17/object_in_frame_1184.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/17/object_in_frame_3179.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/17/object_in_frame_3203.png"
+    ]
+}

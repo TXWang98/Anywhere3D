@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly elevator door with a silver finish and rectangular shape. Smooth surface with vertical lines. Likely for transportation between floors. Positioned adjacent to a brown leather armchair in a room with light wooden flooring.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0316_00/door-10/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0316_00/door-10/object_in_frame_212.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0316_00/door-10/object_in_frame_157.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0316_00/door-10/object_in_frame_186.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0316_00/door-10/object_in_frame_189.png"
+    ]
+}

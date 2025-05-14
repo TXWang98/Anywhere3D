@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy black flat-screen television with a sleek rectangular shape. The screen is large and bordered by a thin frame. Designed for visual entertainment and media consumption. Mounted on a wall in a room with chairs and a table, suggesting a meeting or living space setup.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0354_00/tv-18/object_in_frame_529.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0354_00/tv-18/object_in_frame_508.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0354_00/tv-18/object_in_frame_576.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0354_00/tv-18/object_in_frame_521.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0354_00/tv-18/object_in_frame_541.png"
+    ]
+}

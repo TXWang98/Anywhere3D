@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy ceramic toilet with white coloring and a rounded shape. Features a smooth, curved lid and hinges for opening and closing. Designed for sanitary waste disposal. Positioned in a bathroom setting with cleaning supplies nearby.\n\nInconclusive evidence for the exact material of the surrounding objects, but they appear to be plastic containers with colorful designs, possibly holding cleaning agents or personal care items. The presence of these items suggests a typical bathroom environment.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/14/object_in_frame_5296.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/14/object_in_frame_6725.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/14/object_in_frame_5267.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/14/object_in_frame_6744.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/14/object_in_frame_5229.png"
+    ]
+}

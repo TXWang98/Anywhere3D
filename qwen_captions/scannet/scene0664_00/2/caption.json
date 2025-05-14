@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly ceramic container-type object with a dark blue color and rectangular shape. The structure appears solid with no visible handles or openings. Inconclusive evidence for its function, but it may serve as a decorative item or storage. Found on a bathroom countertop near toiletries and a sink.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0664_00/bathroom vanity-2/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0664_00/bathroom vanity-2/object_in_frame_1064.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0664_00/bathroom vanity-2/object_in_frame_1036.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0664_00/bathroom vanity-2/object_in_frame_1138.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0664_00/bathroom vanity-2/object_in_frame_1134.png"
+    ]
+}

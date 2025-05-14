@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden hanger with a natural finish and curved shape. The structure includes a hook at the top for hanging on racks. Designed for holding clothes, likely shirts or jackets. Positioned on a metal rack in a compact room setting, near an ironing board and other household items.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0574_00/clothes hanger-15/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0574_00/clothes hanger-15/object_in_frame_307.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0574_00/clothes hanger-15/object_in_frame_191.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0574_00/clothes hanger-15/object_in_frame_227.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0574_00/clothes hanger-15/object_in_frame_162.png"
+    ]
+}

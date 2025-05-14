@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic light fixture with a bright white glow and cylindrical shape. The structure includes a mounting bracket and a visible bulb. Likely used for illumination in an indoor setting. Positioned on a wall near other lighting elements, creating a soft ambiance.\n\nInconclusive evidence for the exact material due to the brightness of the light source. While resembling a standard light fixture, the presence of multiple bulbs suggests it could be part of a decorative or functional lighting setup.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/23/object_in_frame_8836.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/23/object_in_frame_9370.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/23/object_in_frame_8847.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/23/object_in_frame_8790.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/23/object_in_frame_9393.png"
+    ]
+}

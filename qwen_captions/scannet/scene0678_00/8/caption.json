@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly pipe-type object with a silver color and elongated cylindrical shape. The smooth surface suggests it is made of metal. Its function is unclear but could be part of the building's infrastructure. Located on the wall in a laundry room setting, near washing machines and storage items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/door-8/object_in_frame_1392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/door-8/object_in_frame_1584.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/door-8/object_in_frame_1348.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/door-8/object_in_frame_1608.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/door-8/object_in_frame_1632.png"
+    ]
+}

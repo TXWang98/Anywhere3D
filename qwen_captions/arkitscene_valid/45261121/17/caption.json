@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic tool-type object, matte silver with angular grooves. Inconclusive evidence for its exact function, but it may be a wrench or specialized clamp. Seen in a workshop environment near assembly parts.\"\n\n---\n\nUpon analyzing the green bounding box across multiple viewpoints, there is no consistent object present within the specified area across all images. The bounding box appears to be empty or contains only background elements like walls, floors, and furniture. Therefore, generating a caption based on an object's attributes and confidence is not feasible.\n\n**Caption:**\n\"Inconclusive evidence for any specific object within the green bounding box across multiple viewpoints. The area appears to contain only background elements such as walls, floors, and furniture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261121/17/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261121/17/object_in_frame_474.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261121/17/object_in_frame_428.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261121/17/object_in_frame_305.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261121/17/object_in_frame_471.png"
+    ]
+}

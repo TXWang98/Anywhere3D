@@ -1,0 +1,9 @@
+{
+    "caption": "\"A possibly wooden {generic}-type object with a light brown color and elongated rectangular shape. The tapered rim suggests it could be part of furniture or a decorative item. Its flat surface and lack of visible handles indicate it may not have a specific functional affordance. Positioned vertically in what appears to be an indoor setting, near sofas and other living room furniture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/25/object_in_frame_000119.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/25/object_in_frame_000010.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/25/object_in_frame_000249.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/25/object_in_frame_000118.png"
+    ]
+}

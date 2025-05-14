@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden door-type object with a light brown color and rectangular shape. The tapered rim suggests it may be part of an entrance or closet. Its vertical panels and hinges indicate its function as a movable barrier. Positioned in the background, adjacent to a wall with framed artwork and near a dining area with chairs and a table.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/22/object_in_frame_1158.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/22/object_in_frame_1178.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/22/object_in_frame_1167.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/22/object_in_frame_1174.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/22/object_in_frame_1155.png"
+    ]
+}

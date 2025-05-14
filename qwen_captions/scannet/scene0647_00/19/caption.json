@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly framed poster-type object with vibrant colors and rectangular shape. Features a mix of orange, blue, and white hues with text and imagery. Likely serves as wall decor or informational display. Positioned above a booth seating area in a casual dining space with tables and stools nearby. Inconclusive evidence for its exact content due to image resolution.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0647_00/picture-19/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0647_00/picture-19/object_in_frame_415.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0647_00/picture-19/object_in_frame_373.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0647_00/picture-19/object_in_frame_420.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0647_00/picture-19/object_in_frame_411.png"
+    ]
+}

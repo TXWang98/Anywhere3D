@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic stool with bright green coloring and a cylindrical shape. The tapered rim suggests it's designed for sitting. Its smooth surface and uniform color indicate a simple, utilitarian design. Likely used as additional seating in casual or educational settings. Positioned near a table in what appears to be a classroom or study area, alongside other furniture like chairs and a backpack.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0187_00/seat-5/object_in_frame_747.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0187_00/seat-5/object_in_frame_783.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0187_00/seat-5/object_in_frame_753.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0187_00/seat-5/object_in_frame_771.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0187_00/seat-5/object_in_frame_780.png"
+    ]
+}

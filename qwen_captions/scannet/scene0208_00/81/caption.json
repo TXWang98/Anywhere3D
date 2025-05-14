@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly cardboard container-type object with a light brown color and rectangular shape. Appears to have a slightly open top and smooth surface texture. Likely used for storage or display purposes. Positioned on a shelf amidst various books in what seems to be a library or bookstore setting. Inconclusive evidence for its exact function due to the lack of visible contents or labels.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-81/object_in_frame_1698.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-81/object_in_frame_1692.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-81/object_in_frame_1683.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-81/object_in_frame_1674.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-81/object_in_frame_1680.png"
+    ]
+}

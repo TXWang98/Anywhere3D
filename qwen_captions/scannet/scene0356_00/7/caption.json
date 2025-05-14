@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden bed frame with a blue mattress and rectangular shape. The simple, sturdy construction suggests it is designed for basic sleeping needs. Positioned against the wall near a window, allowing natural light into the room. A desk with storage containers and an office chair are visible in the foreground, indicating a functional living space.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0356_00/wall-7/object_in_frame_132.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0356_00/wall-7/object_in_frame_50.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0356_00/wall-7/object_in_frame_844.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0356_00/wall-7/object_in_frame_840.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0356_00/wall-7/object_in_frame_116.png"
+    ]
+}

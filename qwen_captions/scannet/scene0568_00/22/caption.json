@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly wooden container-type object with a light brown color and rectangular shape. The structure appears to be part of a modular storage unit with multiple compartments. Inconclusive evidence for its specific function, but it likely serves as a toy organizer. Positioned in a playroom setting alongside colorful bins filled with toys and near a patterned rug.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0568_00/wall-22/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0568_00/wall-22/object_in_frame_792.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0568_00/wall-22/object_in_frame_872.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0568_00/wall-22/object_in_frame_782.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0568_00/wall-22/object_in_frame_836.png"
+    ]
+}

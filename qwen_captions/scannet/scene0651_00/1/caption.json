@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic stainless steel sink with a reflective silver finish and rectangular shape. Features a single basin design with smooth, clean lines and a faucet with a lever handle. Designed for washing dishes and hands. Positioned in a kitchen setting with white countertops and cabinets surrounding it.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0651_00/sink-1/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0651_00/sink-1/object_in_frame_359.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0651_00/sink-1/object_in_frame_488.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0651_00/sink-1/object_in_frame_420.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0651_00/sink-1/object_in_frame_411.png"
+    ]
+}

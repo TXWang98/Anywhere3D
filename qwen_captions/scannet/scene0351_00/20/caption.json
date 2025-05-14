@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy plastic monitor with a black frame and rectangular shape. The screen displays text and graphical content. Designed for computer use, likely as part of a dual-monitor setup. Positioned on a desk alongside various office items like books, a keyboard, and a mouse.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0351_00/monitor-20/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0351_00/monitor-20/object_in_frame_748.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0351_00/monitor-20/object_in_frame_946.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0351_00/monitor-20/object_in_frame_646.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0351_00/monitor-20/object_in_frame_950.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic container-type object with a teal color and cylindrical shape. The tapered rim suggests it could be a cup or small vase. Its smooth surface lacks visible handles or spouts, making its function inconclusive. Placed on a bedside table beside a bed in a bedroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069046/6/object_in_frame_465.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069046/6/object_in_frame_466.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069046/6/object_in_frame_468.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069046/6/object_in_frame_473.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41069046/6/object_in_frame_471.png"
+    ]
+}

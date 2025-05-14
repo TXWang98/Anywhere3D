@@ -1,0 +1,10 @@
+{
+    "caption": "A stainless steel refrigerator with a brushed metallic finish and rectangular shape. Features sleek, modern handles and a built-in design. Likely used for food storage. Positioned in a kitchen setting alongside wooden cabinets and a granite countertop.\n\nConfidence Signals:\n- The consistent appearance across multiple viewpoints confirms it is a refrigerator.\n- The material properties and structural features align with typical refrigerators.\n- Its placement within the kitchen context supports its function as a food storage appliance.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0011_00/refrigerator-19/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0011_00/refrigerator-19/object_in_frame_1416.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0011_00/refrigerator-19/object_in_frame_1278.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0011_00/refrigerator-19/object_in_frame_930.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0011_00/refrigerator-19/object_in_frame_939.png"
+    ]
+}

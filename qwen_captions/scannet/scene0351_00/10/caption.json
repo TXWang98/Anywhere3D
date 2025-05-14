@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic fan with a silver and black color scheme. The structure includes a circular head and a stand base. Likely used for air circulation. Positioned on a windowsill near blinds, with books and office supplies around.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0351_00/window-10/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0351_00/window-10/object_in_frame_672.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0351_00/window-10/object_in_frame_674.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0351_00/window-10/object_in_frame_650.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0351_00/window-10/object_in_frame_638.png"
+    ]
+}

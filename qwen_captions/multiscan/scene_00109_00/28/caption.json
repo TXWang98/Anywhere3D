@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric cushion with light beige coloring and rectangular shape. Appears soft and plush. Likely used for seating comfort. Positioned on a sofa in a living room setting, near luggage and other furniture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/28/object_in_frame_9957.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/28/object_in_frame_3652.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/28/object_in_frame_5373.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/28/object_in_frame_5543.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/28/object_in_frame_5258.png"
+    ]
+}

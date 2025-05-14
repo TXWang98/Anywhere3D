@@ -1,0 +1,10 @@
+{
+    "caption": "A soft fabric towel with white and blue stripes and a rectangular shape. Features a folded texture and hanging placement. Likely used for drying or decoration. Positioned on a bathroom rack near other towels and a bathtub.\n\nConfidence Signal: \"The striped pattern and hanging position suggest it is a standard bath towel.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/towel-29/object_in_frame_529.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/towel-29/object_in_frame_492.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/towel-29/object_in_frame_516.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/towel-29/object_in_frame_496.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/towel-29/object_in_frame_489.png"
+    ]
+}

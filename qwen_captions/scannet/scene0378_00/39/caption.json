@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic filing cabinet with a dark gray finish and rectangular shape. Features multiple drawers with silver handles and label holders. Designed for document storage. Positioned against a wall near a bookshelf filled with books and papers, with some items scattered on the floor beside it.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/file cabinet-39/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/file cabinet-39/object_in_frame_918.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/file cabinet-39/object_in_frame_1146.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/file cabinet-39/object_in_frame_999.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/file cabinet-39/object_in_frame_1200.png"
+    ]
+}

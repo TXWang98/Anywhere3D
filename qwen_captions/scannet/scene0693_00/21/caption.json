@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic hair dryer with black and green coloring and an elongated shape. Has a handle and nozzle for directing airflow. Likely used for drying hair. Resting on top of a container in a bathroom setting, near cleaning supplies and a bathtub.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0693_00/container-21/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0693_00/container-21/object_in_frame_1064.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0693_00/container-21/object_in_frame_1040.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0693_00/container-21/object_in_frame_1094.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0693_00/container-21/object_in_frame_1134.png"
+    ]
+}

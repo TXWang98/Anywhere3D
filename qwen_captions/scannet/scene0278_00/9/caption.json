@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly wooden broom with a dark brown handle and bristles. The tapered rim suggests it is designed for sweeping floors. While resembling a cleaning tool, the presence of a dustpan nearby supports its function as part of a janitorial set. Found leaning against a wall in an office environment near a printer and other office supplies.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0278_00/broom-9/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0278_00/broom-9/object_in_frame_6.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0278_00/broom-9/object_in_frame_45.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0278_00/broom-9/object_in_frame_562.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0278_00/broom-9/object_in_frame_579.png"
+    ]
+}

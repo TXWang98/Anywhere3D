@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly trash can with a dark gray color and cylindrical shape. Has a tapered rim suggesting it is designed for easy disposal of waste. The functional affordance includes a foot pedal mechanism for hands-free operation. Positioned in a kitchen environment near the entrance, adjacent to white cabinetry and a tiled floor.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/21/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/21/object_in_frame_677.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/21/object_in_frame_629.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/21/object_in_frame_646.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358499/21/object_in_frame_678.png"
+    ]
+}

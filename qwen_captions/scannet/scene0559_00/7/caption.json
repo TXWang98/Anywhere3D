@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy whiteboard with blue and black writing, featuring a rectangular shape. Has a magnetic strip at the bottom holding markers. Used for brainstorming or note-taking. Positioned on a wall in an office setting near a table with clothes and a cardboard box.\n\nInconclusive evidence for its exact usage beyond general writing purposes. The presence of casual handwriting suggests informal use. While resembling a standard office whiteboard, the specific context indicates it might be used for creative or collaborative tasks.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0559_00/whiteboard-7/object_in_frame_529.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0559_00/whiteboard-7/object_in_frame_233.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0559_00/whiteboard-7/object_in_frame_231.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0559_00/whiteboard-7/object_in_frame_499.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0559_00/whiteboard-7/object_in_frame_554.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly wooden wall panel with a light brown color and rectangular shape. The tapered rim suggests it may be part of a larger structure. Its smooth surface and clean lines indicate a functional design element. Likely serves as an aesthetic or protective feature on the wall. Positioned adjacent to a small round table and upholstered chairs in what appears to be a lounge area.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/wall-16/object_in_frame_593.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/wall-16/object_in_frame_595.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/wall-16/object_in_frame_576.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/wall-16/object_in_frame_584.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/wall-16/object_in_frame_588.png"
+    ]
+}

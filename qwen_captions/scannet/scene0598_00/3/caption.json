@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy aluminum all-in-one desktop computer with a black screen and rectangular shape. Features a sleek, thin profile and integrated stand. Designed for desktop computing tasks. Positioned on a white desk alongside a keyboard, mouse, and another similar computer in an office setting with wooden paneling in the background.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0598_00/monitor-3/object_in_frame_529.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0598_00/monitor-3/object_in_frame_482.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0598_00/monitor-3/object_in_frame_565.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0598_00/monitor-3/object_in_frame_499.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0598_00/monitor-3/object_in_frame_522.png"
+    ]
+}

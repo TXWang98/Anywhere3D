@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic container-type object with a reflective surface and cylindrical shape. The tapered rim suggests it could be a cup or small vase. Its smooth texture and hollow structure indicate potential use for holding items. Found in a bathroom setting, mounted on tiled walls near a light fixture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ba6fdaae-a4c1-2dca-8240-6fbe1cb25eb4/19/object_in_frame_000062.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ba6fdaae-a4c1-2dca-8240-6fbe1cb25eb4/19/object_in_frame_000056.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ba6fdaae-a4c1-2dca-8240-6fbe1cb25eb4/19/object_in_frame_000061.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ba6fdaae-a4c1-2dca-8240-6fbe1cb25eb4/19/object_in_frame_000055.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ba6fdaae-a4c1-2dca-8240-6fbe1cb25eb4/19/object_in_frame_000063.png"
+    ]
+}

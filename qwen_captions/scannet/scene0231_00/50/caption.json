@@ -1,0 +1,10 @@
+{
+    "caption": "A stainless steel dishwasher with a brushed metal finish and rectangular shape. The front panel has a sleek, integrated handle design. Used for cleaning dishes and kitchenware. Positioned under the countertop between wooden cabinets in a well-lit kitchen area.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/dishwasher-50/object_in_frame_1267.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/dishwasher-50/object_in_frame_2184.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/dishwasher-50/object_in_frame_2170.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/dishwasher-50/object_in_frame_3458.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/dishwasher-50/object_in_frame_2065.png"
+    ]
+}

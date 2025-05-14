@@ -1,0 +1,10 @@
+{
+    "caption": "A [wooden] [possibly window frame] with [natural wood tone] and [rectangular shape]. [Smooth surface with visible grain texture]. [Function inference: Provides natural light and view to the outside]. [Contextual placement: Positioned above a table in a meeting room setting, surrounded by chairs and other furniture].",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/window-2/object_in_frame_84.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/window-2/object_in_frame_741.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/window-2/object_in_frame_1527.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/window-2/object_in_frame_1707.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/window-2/object_in_frame_798.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric cushion with brown and floral patterns and a rectangular shape. Features a soft texture and decorative design. Likely used for seating comfort. Placed on a chair in an indoor setting, near a wall and wooden floor.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5630cfdc-12bf-2860-87b7-c7eab95718be/19/object_in_frame_000096.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5630cfdc-12bf-2860-87b7-c7eab95718be/19/object_in_frame_000090.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5630cfdc-12bf-2860-87b7-c7eab95718be/19/object_in_frame_000094.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5630cfdc-12bf-2860-87b7-c7eab95718be/19/object_in_frame_000095.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/5630cfdc-12bf-2860-87b7-c7eab95718be/19/object_in_frame_000089.png"
+    ]
+}

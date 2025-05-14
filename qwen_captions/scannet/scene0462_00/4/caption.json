@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic container-type object with white coloring and a rectangular shape. The structure includes visible handles on the sides and printed text indicating it is from the United States Postal Service. Likely used for storing or transporting mail items. Positioned on top of a counter in what appears to be an office or postal service area, near other equipment like a scale and a dispenser.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0462_00/bin-4/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0462_00/bin-4/object_in_frame_377.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0462_00/bin-4/object_in_frame_290.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0462_00/bin-4/object_in_frame_364.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0462_00/bin-4/object_in_frame_375.png"
+    ]
+}

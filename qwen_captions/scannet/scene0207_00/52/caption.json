@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic vacuum cleaner with black and silver coloring and an upright shape. Features a long handle, dustbin compartment, and various attachments. Designed for cleaning floors and surfaces. Positioned in a corner near a small wooden shelf holding kitchen appliances, adjacent to a bathroom entrance.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/vacuum cleaner-52/object_in_frame_534.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/vacuum cleaner-52/object_in_frame_537.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/vacuum cleaner-52/object_in_frame_891.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/vacuum cleaner-52/object_in_frame_1206.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0207_00/vacuum cleaner-52/object_in_frame_1200.png"
+    ]
+}

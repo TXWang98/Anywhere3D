@@ -1,0 +1,10 @@
+{
+    "caption": "\"A plastic possibly trash bin with blue coloring and cylindrical shape. Has a slightly tapered rim and visible white text or logo. Likely used for waste disposal. Positioned near an office chair, a cardboard box, and other office items on a carpeted floor.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/recycling bin-43/object_in_frame_1034.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/recycling bin-43/object_in_frame_1018.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/recycling bin-43/object_in_frame_1056.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/recycling bin-43/object_in_frame_1042.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0474_00/recycling bin-43/object_in_frame_996.png"
+    ]
+}

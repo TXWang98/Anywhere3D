@@ -1,0 +1,10 @@
+{
+    "caption": "A matte white cabinet door with a smooth surface and rectangular shape. Features a simple, clean design with minimalistic lines. Likely used for storage in a kitchen setting. Positioned adjacent to a countertop with a dish rack visible nearby.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/31/object_in_frame_14951.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/31/object_in_frame_12159.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/31/object_in_frame_14995.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/31/object_in_frame_14347.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/31/object_in_frame_14369.png"
+    ]
+}

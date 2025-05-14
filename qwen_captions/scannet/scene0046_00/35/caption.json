@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic or acrylic light fixture with a bright white glow and elongated rectangular shape. The smooth, glossy surface reflects light evenly. Likely serves as ambient lighting for the bathroom. Mounted on the wall above the sink area, near toiletries and a mirror.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/light-35/object_in_frame_1508.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/light-35/object_in_frame_1456.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/light-35/object_in_frame_1484.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/light-35/object_in_frame_2064.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/light-35/object_in_frame_2088.png"
+    ]
+}

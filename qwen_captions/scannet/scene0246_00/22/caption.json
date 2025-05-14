@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric chandelier with white and spherical shape. Composed of numerous thin, radiating elements creating a textured appearance. Likely serves as an ornamental light fixture. Suspended above a bed in a bedroom setting with modern furnishings.\n\nInconclusive evidence for the material due to image resolution, but the structure suggests a decorative purpose. The surrounding objects include a bed with pillows, a nightstand, and other bedroom furniture, reinforcing its role as a central lighting feature in the room.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/wall-22/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/wall-22/object_in_frame_80.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/wall-22/object_in_frame_1036.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/wall-22/object_in_frame_68.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/wall-22/object_in_frame_40.png"
+    ]
+}

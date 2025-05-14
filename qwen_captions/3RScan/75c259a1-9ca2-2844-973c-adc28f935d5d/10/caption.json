@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with white coloring and rectangular shape. Flat lid and smooth surface. Likely used for storage or organization. Placed on a dark countertop near other items like papers and tools in what appears to be a workshop or utility area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/75c259a1-9ca2-2844-973c-adc28f935d5d/10/object_in_frame_000215.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/75c259a1-9ca2-2844-973c-adc28f935d5d/10/object_in_frame_000225.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/75c259a1-9ca2-2844-973c-adc28f935d5d/10/object_in_frame_000075.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/75c259a1-9ca2-2844-973c-adc28f935d5d/10/object_in_frame_000218.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/75c259a1-9ca2-2844-973c-adc28f935d5d/10/object_in_frame_000074.png"
+    ]
+}

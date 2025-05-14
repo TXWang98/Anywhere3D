@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly leather shoe with dark brown coloring and a rounded shape. Has a smooth texture and appears to have laces. Likely designed for casual wear. Positioned on a blue mat near other shoes in an entryway area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/10b17942-3938-2467-8933-5d40ada6d445/25/object_in_frame_000026.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/10b17942-3938-2467-8933-5d40ada6d445/25/object_in_frame_000045.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/10b17942-3938-2467-8933-5d40ada6d445/25/object_in_frame_000087.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/10b17942-3938-2467-8933-5d40ada6d445/25/object_in_frame_000025.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/10b17942-3938-2467-8933-5d40ada6d445/25/object_in_frame_000029.png"
+    ]
+}

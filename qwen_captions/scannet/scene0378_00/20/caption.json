@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden table-type object with a dark brown color and flat rectangular shape. The surface appears smooth with no visible structural features. Likely used for holding items or as a workspace. Positioned to the left of the chalkboard, partially visible in the classroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/wall-20/object_in_frame_615.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/wall-20/object_in_frame_600.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/wall-20/object_in_frame_606.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/wall-20/object_in_frame_612.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0378_00/wall-20/object_in_frame_594.png"
+    ]
+}

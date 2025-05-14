@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric office chair with a light gray seat and black mesh backrest. The ergonomic design includes armrests and a five-point wheeled base. Likely intended for prolonged sitting comfort. Positioned in front of a cluttered desk with various office supplies and personal items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/desk-3/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/desk-3/object_in_frame_96.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/desk-3/object_in_frame_1572.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/desk-3/object_in_frame_1548.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0663_00/desk-3/object_in_frame_1568.png"
+    ]
+}

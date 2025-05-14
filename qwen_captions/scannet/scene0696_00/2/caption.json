@@ -1,0 +1,10 @@
+{
+    "caption": "A cardboard box with red and white coloring and a rectangular shape. The open top reveals some contents inside. Likely used for storage or transport. Placed on a table in a cluttered room with various household items around.\n\nInconclusive evidence for the exact contents of the box, but it appears to be part of a storage setup. The surrounding objects include furniture like chairs and a sofa, as well as other boxes and miscellaneous items scattered throughout the space.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/crate-2/object_in_frame_670.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/crate-2/object_in_frame_460.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/crate-2/object_in_frame_698.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/crate-2/object_in_frame_662.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/crate-2/object_in_frame_1192.png"
+    ]
+}

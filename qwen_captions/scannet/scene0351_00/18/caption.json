@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy black keyboard with a standard QWERTY layout and ergonomic wrist rest. The keys have a matte finish, and the keyboard appears to be designed for comfortable typing. Positioned on a desk in front of dual monitors, surrounded by office supplies like books, papers, and a mouse.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0351_00/keyboard-18/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0351_00/keyboard-18/object_in_frame_0.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0351_00/keyboard-18/object_in_frame_1124.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0351_00/keyboard-18/object_in_frame_676.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0351_00/keyboard-18/object_in_frame_912.png"
+    ]
+}

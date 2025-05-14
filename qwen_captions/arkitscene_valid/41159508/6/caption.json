@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric bed with white and blue bedding. Rectangular shape with a raised headboard. Appears to be a sleeping surface. Positioned in a bedroom with wooden flooring, a window with red curtains, and shelves containing books and other items nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159508/6/object_in_frame_1034.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159508/6/object_in_frame_459.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159508/6/object_in_frame_557.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159508/6/object_in_frame_461.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159508/6/object_in_frame_554.png"
+    ]
+}

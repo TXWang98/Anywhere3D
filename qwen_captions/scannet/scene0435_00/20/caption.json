@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic door frame with a neutral beige color and rectangular shape. The structure appears sturdy with clean edges. Likely serves as an entrance or exit point. Positioned at the threshold between a carpeted hallway and a tiled bathroom area, adjacent to a bathtub.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/doorframe-20/object_in_frame_1935.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/doorframe-20/object_in_frame_2820.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/doorframe-20/object_in_frame_2830.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/doorframe-20/object_in_frame_2190.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/doorframe-20/object_in_frame_2100.png"
+    ]
+}

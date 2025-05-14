@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly paper magazine-type object with a multicolored cover and rectangular shape. Appears to have printed text and images. Likely intended for reading or informational purposes. Placed on top of a dark wooden dresser in a retail furniture display setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0652_00/book-8/object_in_frame_898.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0652_00/book-8/object_in_frame_722.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0652_00/book-8/object_in_frame_24.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0652_00/book-8/object_in_frame_690.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0652_00/book-8/object_in_frame_122.png"
+    ]
+}

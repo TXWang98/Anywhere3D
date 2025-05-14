@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic trash can with a light gray color and rectangular shape. Features a hinged lid and a visible white liner inside. Designed for waste disposal. Positioned near a wall beside a door, adjacent to a wooden table and chairs in what appears to be a meeting or dining area.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/doorframe-11/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/doorframe-11/object_in_frame_1011.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/doorframe-11/object_in_frame_1101.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/doorframe-11/object_in_frame_801.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/doorframe-11/object_in_frame_813.png"
+    ]
+}

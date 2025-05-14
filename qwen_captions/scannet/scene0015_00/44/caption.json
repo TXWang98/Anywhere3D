@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric backpack with red coloring and a rectangular shape. Appears to have multiple compartments and straps. Likely used for carrying personal items. Placed on a chair in an office setting, near a desk with papers and a remote control.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/backpack-44/object_in_frame_1605.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/backpack-44/object_in_frame_1578.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/backpack-44/object_in_frame_1452.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/backpack-44/object_in_frame_1470.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/backpack-44/object_in_frame_489.png"
+    ]
+}

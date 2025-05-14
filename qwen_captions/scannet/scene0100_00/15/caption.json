@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric slipper with gray and multicolored patterns and a flat, rounded shape. Features soft material and a slightly textured surface. Designed for indoor comfort and ease of slipping on. Positioned on the floor near a bathroom entrance, adjacent to a green step stool and hanging towels.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/slippers-15/object_in_frame_529.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/slippers-15/object_in_frame_570.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/slippers-15/object_in_frame_558.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/slippers-15/object_in_frame_551.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0100_00/slippers-15/object_in_frame_577.png"
+    ]
+}

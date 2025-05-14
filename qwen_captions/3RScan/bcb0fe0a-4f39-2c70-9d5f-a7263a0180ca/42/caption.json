@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic container-type object with a dark gray color and rectangular shape. The tapered rim suggests it could be a storage bin or dispenser. It has a smooth surface and appears to have a lid mechanism. Likely used for holding small items or dispensing contents. Positioned on a wall-mounted shelf in what seems to be a utility room, near other tools and supplies.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bcb0fe0a-4f39-2c70-9d5f-a7263a0180ca/42/object_in_frame_000149.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bcb0fe0a-4f39-2c70-9d5f-a7263a0180ca/42/object_in_frame_000147.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bcb0fe0a-4f39-2c70-9d5f-a7263a0180ca/42/object_in_frame_000146.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bcb0fe0a-4f39-2c70-9d5f-a7263a0180ca/42/object_in_frame_000160.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/bcb0fe0a-4f39-2c70-9d5f-a7263a0180ca/42/object_in_frame_000148.png"
+    ]
+}

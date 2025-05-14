@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly ceramic vase-type object with a translucent appearance and a fluted body shape. The tapered rim suggests it may be designed for holding flowers or decorative purposes. While resembling a vase, the presence of water droplets on its surface indicates recent use or cleaning. Found on a wooden table alongside other objects like a coffee maker and plants, suggesting a casual indoor setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a644cb8e-0ee5-2f66-9c91-1db77b5a8f96/8/object_in_frame_000023.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a644cb8e-0ee5-2f66-9c91-1db77b5a8f96/8/object_in_frame_000009.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a644cb8e-0ee5-2f66-9c91-1db77b5a8f96/8/object_in_frame_000013.png"
+    ]
+}

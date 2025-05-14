@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden possibly chair-type object with a dark brown finish and rectangular shape. Features slatted backrest and armrests. Likely used for seating. Positioned adjacent to a table in what appears to be a cluttered room with various items scattered around.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/chair-12/object_in_frame_998.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/chair-12/object_in_frame_994.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/chair-12/object_in_frame_1002.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/chair-12/object_in_frame_1000.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/chair-12/object_in_frame_1012.png"
+    ]
+}

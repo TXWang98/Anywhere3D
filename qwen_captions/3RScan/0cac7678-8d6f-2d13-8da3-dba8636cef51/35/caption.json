@@ -1,0 +1,9 @@
+{
+    "caption": "\"A possibly metallic {generic}-type object with a light gray color and elongated rectangular shape. The tapered rim suggests it could be part of a curtain rod or track system. Its smooth surface and linear structure indicate a functional role in supporting curtains. Inconclusive evidence for its exact purpose, but it is positioned above a curtain on what appears to be a ceiling fixture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/35/object_in_frame_000177.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/35/object_in_frame_000194.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/35/object_in_frame_000272.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/35/object_in_frame_000193.png"
+    ]
+}

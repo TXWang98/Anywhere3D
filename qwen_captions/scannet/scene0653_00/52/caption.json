@@ -1,0 +1,10 @@
+{
+    "caption": "A cardboard box with brown coloring and rectangular shape. The open top reveals some contents inside. Likely used for storage or shipping. Positioned on a black cabinet in an office setting, near other boxes and trash bins.\n\nConfidence Signals:\n- \"The visible '1AD' marking suggests it may be part of a larger set of labeled boxes.\"\n- \"While resembling a standard shipping box, the presence of printed labels indicates specific organizational use.\"\n- \"Inconclusive evidence for its exact contents, but the open top hints at recent unpacking or preparation for packing.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/box-52/object_in_frame_1794.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/box-52/object_in_frame_1836.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/box-52/object_in_frame_1812.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/box-52/object_in_frame_1824.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/box-52/object_in_frame_1830.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric possibly storage-type object with dark gray coloring and a rectangular shape. Has a smooth, matte texture and appears to have a lid or flap. Likely used for storing items. Positioned under a bed with colorful bedding, near a fan and other personal belongings on the floor.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/cabinet-18/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/cabinet-18/object_in_frame_972.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/cabinet-18/object_in_frame_1056.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/cabinet-18/object_in_frame_3576.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0648_00/cabinet-18/object_in_frame_990.png"
+    ]
+}

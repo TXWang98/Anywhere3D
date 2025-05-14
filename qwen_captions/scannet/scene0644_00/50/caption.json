@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly plastic chair-type object with white and black coloring. Has a curved backrest and cushioned seat. Five-star base with casters for mobility. Positioned in front of a desk setup with multiple computer monitors.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/computer tower-50/object_in_frame_1131.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/computer tower-50/object_in_frame_1212.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/computer tower-50/object_in_frame_990.png"
+    ]
+}

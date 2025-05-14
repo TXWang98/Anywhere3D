@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly fabric bag-type object with dark coloring and rectangular shape. Appears to have a soft texture and flexible structure. Likely used for carrying personal items. Seen on the floor near a chair and desk in a room setting.\"\n\n\"A black fabric suitcase with white contents and an open lid. The interior is visible, showing clothing items. Used for storing and transporting belongings. Positioned on the floor next to a table with electronic devices.\"\n\n\"A black fabric suitcase with white contents and an open lid. The interior is visible, showing clothing items. Used for storing and transporting belongings. Positioned on the floor next to a table with electronic devices.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/suitcase-17/object_in_frame_0.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/suitcase-17/object_in_frame_576.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/suitcase-17/object_in_frame_572.png"
+    ]
+}

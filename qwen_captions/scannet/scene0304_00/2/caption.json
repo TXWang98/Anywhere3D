@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly mailboxes-type object with a uniform silver color and rectangular shape. Features multiple compartments arranged in a grid pattern. Likely used for individual mail storage. Positioned against a wall in what appears to be a post office or similar facility, adjacent to a counter and other postal equipment.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/mailboxes-2/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/mailboxes-2/object_in_frame_632.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/mailboxes-2/object_in_frame_102.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/mailboxes-2/object_in_frame_922.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/mailboxes-2/object_in_frame_634.png"
+    ]
+}

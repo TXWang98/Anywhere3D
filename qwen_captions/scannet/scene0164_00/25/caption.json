@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white possibly ceramic stove with a smooth surface and rectangular shape. Features four coil burners on the cooktop. Designed for cooking food. Positioned in a kitchen setting, adjacent to wooden cabinets and a countertop with various items like pots and a coffee maker.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/oven-25/object_in_frame_129.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/oven-25/object_in_frame_99.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/oven-25/object_in_frame_93.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/oven-25/object_in_frame_117.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/oven-25/object_in_frame_402.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A black plastic keyboard with a standard QWERTY layout and rectangular shape. Features raised keys with visible wear patterns. Designed for typing input on computers. Positioned on a wooden desk in front of a monitor, alongside a desktop tower and printer.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0565_00/keyboard-17/object_in_frame_567.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0565_00/keyboard-17/object_in_frame_587.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0565_00/keyboard-17/object_in_frame_558.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0565_00/keyboard-17/object_in_frame_585.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0565_00/keyboard-17/object_in_frame_566.png"
+    ]
+}

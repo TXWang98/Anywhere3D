@@ -1,0 +1,10 @@
+{
+    "caption": "\"A soft fabric pillow with light gray and white striped patterns. Rectangular shape with a smooth texture. Provides comfort and support when seated. Placed on a modern armchair in a living room setting, near a patterned carpet.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/34/object_in_frame_13902.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/34/object_in_frame_13981.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/34/object_in_frame_13941.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/34/object_in_frame_14599.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/34/object_in_frame_14400.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white wooden chair with a dark cushion and a simple, classic design. The chair has vertical slats on the backrest and curved legs. It appears to be designed for dining or casual seating. Positioned around a round table in a well-lit dining area with other chairs and decorative items like vases and plants nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/13/object_in_frame_2015.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/13/object_in_frame_1578.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/13/object_in_frame_1955.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/13/object_in_frame_1815.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/13/object_in_frame_1691.png"
+    ]
+}

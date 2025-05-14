@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with translucent white coloring and a cylindrical shape. The tapered rim suggests it might be a cup or small pitcher. Its smooth surface lacks distinct structural features. Likely used for holding liquids. Positioned on a table in a classroom setting, near chairs and a whiteboard.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/chair-16/object_in_frame_1638.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/chair-16/object_in_frame_1713.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/chair-16/object_in_frame_102.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/chair-16/object_in_frame_1707.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0015_00/chair-16/object_in_frame_1644.png"
+    ]
+}

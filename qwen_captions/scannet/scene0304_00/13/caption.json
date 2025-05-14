@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly mailbox-type object with silver coloring and rectangular shape. Features multiple small compartments arranged in a grid pattern. Likely used for individual mail storage. Located on a wall in a tiled room, adjacent to similar units.\n\nInconclusive evidence for the exact function of each compartment, but their uniform arrangement suggests organized distribution. The surrounding environment appears to be a communal area designed for postal services.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/wall-13/object_in_frame_932.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/wall-13/object_in_frame_1064.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/wall-13/object_in_frame_992.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/wall-13/object_in_frame_1104.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0304_00/wall-13/object_in_frame_1070.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric jacket-type object with dark gray coloring and draped shape. Appears to have a textured surface with visible seams and folds. Likely worn as outerwear. Seen hanging over the back of an office chair in a room with furniture like a bed, desk, and other personal items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/5/object_in_frame_404.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/5/object_in_frame_410.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/5/object_in_frame_831.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/5/object_in_frame_829.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/5/object_in_frame_836.png"
+    ]
+}

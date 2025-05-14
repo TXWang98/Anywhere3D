@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic mug with dark brown coloring and cylindrical shape. The tapered rim suggests it is designed for drinking. It appears to have a smooth texture. Likely used for beverages. Placed on top of a white dresser in a bedroom setting, near a trash bin and framed pictures on the wall.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446163/6/object_in_frame_132.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446163/6/object_in_frame_610.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446163/6/object_in_frame_606.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446163/6/object_in_frame_612.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446163/6/object_in_frame_376.png"
+    ]
+}

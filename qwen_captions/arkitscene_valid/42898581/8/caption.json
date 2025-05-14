@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly electronic device-type object with a black color and rectangular shape. Appears to have a flat surface and no visible buttons or controls. Inconclusive evidence for its specific function, but it could be a monitor or speaker. Positioned on the floor near a bed and dresser in a bedroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898581/8/object_in_frame_1676.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898581/8/object_in_frame_2471.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898581/8/object_in_frame_1649.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898581/8/object_in_frame_1657.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898581/8/object_in_frame_1644.png"
+    ]
+}

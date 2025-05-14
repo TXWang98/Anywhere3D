@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly ceramic lamp with a beige and white color scheme. The tapered rim suggests it is designed for light distribution. Features a cylindrical base and a conical shade. Likely used as a bedside light source. Positioned on a wooden nightstand beside a bed, near a dollhouse and other bedroom items.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/lamp-20/object_in_frame_824.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/lamp-20/object_in_frame_792.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/lamp-20/object_in_frame_812.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/lamp-20/object_in_frame_848.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/lamp-20/object_in_frame_780.png"
+    ]
+}

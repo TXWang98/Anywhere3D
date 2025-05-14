@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic container-type object with a reddish-brown hue and circular shape. The tapered rim suggests it could be a small bowl or cup. Its smooth texture and compact size indicate it might be used for holding liquids or small items. Found inside a kitchen sink, surrounded by other dishes and cleaning supplies.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/1/object_in_frame_799.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/1/object_in_frame_602.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/1/object_in_frame_601.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/1/object_in_frame_594.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/1/object_in_frame_802.png"
+    ]
+}

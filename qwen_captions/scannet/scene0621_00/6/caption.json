@@ -1,0 +1,10 @@
+{
+    "caption": "\"A black plastic chair with a simple and functional design. The seat and backrest are cushioned for comfort, and the metal frame provides sturdy support. Likely used for seating in office or meeting environments. Positioned against a wall near an electrical outlet, with other similar chairs arranged around a table.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/chair-6/object_in_frame_2376.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/chair-6/object_in_frame_524.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/chair-6/object_in_frame_500.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/chair-6/object_in_frame_572.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0621_00/chair-6/object_in_frame_2368.png"
+    ]
+}

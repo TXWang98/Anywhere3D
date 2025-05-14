@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy ceramic mug with deep pink coloring and a cylindrical shape. The tapered rim suggests it is designed for comfortable drinking. Made for holding beverages, likely placed on a bedside table next to a lamp and decorative wall art.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446104/5/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446104/5/object_in_frame_69.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446104/5/object_in_frame_67.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446104/5/object_in_frame_1206.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446104/5/object_in_frame_917.png"
+    ]
+}

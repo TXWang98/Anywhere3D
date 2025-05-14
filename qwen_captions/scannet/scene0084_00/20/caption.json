@@ -1,0 +1,10 @@
+{
+    "caption": "\"A plastic paper towel dispenser with a dark gray and black color scheme. Rectangular shape with a curved front panel. Features a circular opening for dispensing towels. Designed for wall mounting in public restrooms. Positioned on a tiled wall above a countertop with cleaning supplies nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/paper towel dispenser-20/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/paper towel dispenser-20/object_in_frame_315.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/paper towel dispenser-20/object_in_frame_1008.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/paper towel dispenser-20/object_in_frame_333.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/paper towel dispenser-20/object_in_frame_309.png"
+    ]
+}

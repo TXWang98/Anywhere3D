@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly glass mirror-type object with reflective surface and rectangular shape. Smooth, polished edges and frameless design. Likely used for viewing oneself or as a decorative element. Positioned in a bedroom setting alongside furniture like a bed and dresser.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331331/4/object_in_frame_365.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331331/4/object_in_frame_350.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331331/4/object_in_frame_364.png"
+    ]
+}

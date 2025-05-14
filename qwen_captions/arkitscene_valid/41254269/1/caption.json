@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic bag-type object with translucent coloring and irregular shape. Appears crumpled and lacks defined structure. Inconclusive evidence for specific function, but may be used for storage or disposal. Found on a bed mattress in a bedroom setting with wooden furniture and a window nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254269/1/object_in_frame_463.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254269/1/object_in_frame_458.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254269/1/object_in_frame_454.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254269/1/object_in_frame_448.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254269/1/object_in_frame_453.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A polished wooden wardrobe with a warm brown hue and rectangular shape. Features vertical panels and horizontal crossbars, giving it a classic design. Likely used for storing clothes and personal items. Positioned against a wall in what appears to be a bedroom or closet space.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898538/7/object_in_frame_968.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898538/7/object_in_frame_956.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898538/7/object_in_frame_973.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898538/7/object_in_frame_971.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898538/7/object_in_frame_970.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden stool with a light brown finish and a square, lattice-patterned backrest. The tapered legs suggest stability and ergonomic design. Likely used for seating at the kitchen counter. Positioned near other stools and a countertop with various items like books and appliances.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/chair-39/object_in_frame_3094.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/chair-39/object_in_frame_3493.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/chair-39/object_in_frame_2583.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/chair-39/object_in_frame_3500.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/chair-39/object_in_frame_3045.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly tool-type object with a matte silver finish and angular grooves. Ambiguous function between wrench or specialized clamp. Seen in workshop environment near assembly parts. The tapered rim suggests it may be part of a larger machinery. While resembling a component, the presence of nearby tools indicates its use in mechanical tasks. Inconclusive evidence for its exact purpose due to limited context.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0412_00/wall-10/object_in_frame_84.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0412_00/wall-10/object_in_frame_894.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0412_00/wall-10/object_in_frame_69.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0412_00/wall-10/object_in_frame_891.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0412_00/wall-10/object_in_frame_81.png"
+    ]
+}

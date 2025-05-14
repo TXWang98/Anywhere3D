@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy ceramic mug with deep green coloring and a cylindrical shape. Has a smooth surface and a tapered rim suggesting it is designed for drinking. Made for holding beverages, possibly cold drinks given its placement in the sink. Sitting inside a kitchen sink filled with water alongside other dishes.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332901/7/object_in_frame_168.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332901/7/object_in_frame_244.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332901/7/object_in_frame_249.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332901/7/object_in_frame_238.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332901/7/object_in_frame_171.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A matte black trash can with a rectangular opening and tapered rim. The sturdy plastic construction features a label indicating recycling use. Designed for waste disposal in an office setting. Positioned next to a white cabinet and printer, with visible power cords nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0462_00/trash can-10/object_in_frame_129.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0462_00/trash can-10/object_in_frame_92.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0462_00/trash can-10/object_in_frame_137.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0462_00/trash can-10/object_in_frame_141.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0462_00/trash can-10/object_in_frame_116.png"
+    ]
+}

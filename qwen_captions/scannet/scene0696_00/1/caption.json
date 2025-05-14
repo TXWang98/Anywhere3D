@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric bag-type object with blue coloring and flexible shape. Appears to have a handle structure for carrying. Likely used for storage or transport. Hanging on the back of a chair in a cluttered room filled with various items.\"\n\n\"A possibly fabric bag-type object with blue coloring and flexible shape. Appears to have a handle structure for carrying. Likely used for storage or transport. Hanging on the back of a chair in a cluttered room filled with various items.\"\n\n\"A cardboard box with red and white coloring and rectangular shape. Open top design with visible interior space. Used for storage or moving purposes. Placed on a table surrounded by writing utensils and other small objects.\"\n\n\"A cardboard box with red and white coloring and rectangular shape. Open top design with visible interior space. Used for storage or moving purposes. Placed on a table surrounded by writing utensils and other small objects.\"\n\n\"A possibly fabric bag-type object with blue coloring and flexible shape. Appears to have a handle structure for carrying. Likely used for storage or transport. Hanging on the back of a chair in a cluttered room filled with various items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/shelf-1/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/shelf-1/object_in_frame_50.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/shelf-1/object_in_frame_674.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/shelf-1/object_in_frame_676.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0696_00/shelf-1/object_in_frame_70.png"
+    ]
+}

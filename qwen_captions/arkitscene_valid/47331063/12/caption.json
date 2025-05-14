@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic spray bottle with white and red coloring. Cylindrical shape with a narrow nozzle. The tapered rim suggests it's designed for dispensing liquids in a fine mist. Found on a kitchen countertop near other cleaning supplies and utensils.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/12/object_in_frame_898.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/12/object_in_frame_866.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/12/object_in_frame_897.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/12/object_in_frame_721.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331063/12/object_in_frame_761.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A black leather stool with a rounded seat and cylindrical base. The tapered rim suggests ergonomic design for seating. Features a height-adjustable metallic stand with a circular footrest. Likely used for sitting at counters or desks. Positioned in various indoor settings, including near a vanity area and alongside other furniture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897688/7/object_in_frame_1270.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897688/7/object_in_frame_1265.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897688/7/object_in_frame_1280.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897688/7/object_in_frame_1160.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897688/7/object_in_frame_1174.png"
+    ]
+}

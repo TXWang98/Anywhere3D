@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden counter-type object with a light brown color and rectangular shape. The surface appears cluttered with various items like books, papers, and containers. Likely serves as a workspace or storage area. Positioned in a room with chairs and other furniture nearby.\"\n\nConfidence Signals:\n- \"The presence of multiple objects on the surface suggests it is used for functional purposes.\"\n- \"While resembling a counter, the surrounding environment indicates it could also be part of a larger piece of furniture.\"\n- \"Inconclusive evidence for its exact material due to lighting conditions.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/breakfast bar-2/object_in_frame_3094.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/breakfast bar-2/object_in_frame_3059.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/breakfast bar-2/object_in_frame_2002.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/breakfast bar-2/object_in_frame_1176.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/breakfast bar-2/object_in_frame_1162.png"
+    ]
+}

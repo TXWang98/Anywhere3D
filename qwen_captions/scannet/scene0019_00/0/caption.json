@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy black armchair with a sleek and modern design. The chair features a smooth, continuous surface with subtle curves and a slightly angled backrest for ergonomic support. It appears to be upholstered in leather or a similar material, giving it a luxurious feel. The chair is designed for comfortable seating, likely in a waiting area or lounge setting. Positioned against a wall, it is part of a row of similar chairs, suggesting a coordinated furniture arrangement in a public or commercial space.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0019_00/chair-0/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0019_00/chair-0/object_in_frame_568.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0019_00/chair-0/object_in_frame_63.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0019_00/chair-0/object_in_frame_76.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0019_00/chair-0/object_in_frame_116.png"
+    ]
+}

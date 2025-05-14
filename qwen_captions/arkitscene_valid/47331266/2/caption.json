@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden chair leg with a light brown finish and cylindrical shape. The tapered rim suggests it is part of a dining or kitchen chair. The smooth texture and sturdy construction indicate its function as a support structure. Positioned under a table, surrounded by other chairs and a hardwood floor.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331266/2/object_in_frame_615.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331266/2/object_in_frame_622.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331266/2/object_in_frame_608.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331266/2/object_in_frame_612.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331266/2/object_in_frame_503.png"
+    ]
+}

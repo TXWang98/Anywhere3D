@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a translucent green hue and rounded shape. The small size and smooth texture suggest it could be a storage or decorative item. Its function is unclear but may serve as a holder for small items. Positioned on a bedside table alongside other objects like a phone and lamp, in a hotel room setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/wall-37/object_in_frame_960.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/wall-37/object_in_frame_1010.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/wall-37/object_in_frame_970.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/wall-37/object_in_frame_975.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/wall-37/object_in_frame_990.png"
+    ]
+}

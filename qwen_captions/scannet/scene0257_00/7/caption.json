@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic chair with purple coloring and a mesh structure. The chair has a distinct open lattice design and four slender legs. It is designed for seating, providing both support and ventilation. Positioned in an indoor setting near a sink and countertop, suggesting a casual or utility space environment.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0257_00/wall-7/object_in_frame_898.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0257_00/wall-7/object_in_frame_866.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0257_00/wall-7/object_in_frame_846.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0257_00/wall-7/object_in_frame_832.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0257_00/wall-7/object_in_frame_820.png"
+    ]
+}

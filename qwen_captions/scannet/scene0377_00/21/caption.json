@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly container-type object with a reflective surface and rectangular shape. The structure features a hinged lid and visible seams along the edges. Inconclusive evidence for its specific function, but it may be used for storage or utility purposes. Positioned against a wall in what appears to be a utility room, near pipes and a blue machine.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0377_00/towel-21/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0377_00/towel-21/object_in_frame_225.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0377_00/towel-21/object_in_frame_221.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0377_00/towel-21/object_in_frame_218.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0377_00/towel-21/object_in_frame_207.png"
+    ]
+}

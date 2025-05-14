@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly floor lamp with a translucent blue shade and slender pole. The tapered rim suggests it's designed for ambient lighting. Its structure includes a weighted base for stability. Likely used to provide soft illumination in the room. Positioned near a bed, with clothing items and a chair visible in the background.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/curtain-51/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/curtain-51/object_in_frame_645.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/curtain-51/object_in_frame_640.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/curtain-51/object_in_frame_685.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/curtain-51/object_in_frame_520.png"
+    ]
+}

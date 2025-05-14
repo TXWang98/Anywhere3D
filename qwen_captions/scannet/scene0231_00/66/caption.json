@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden cabinet with a dark brown finish and rectangular shape. Features panelled doors with metallic handles. Likely used for storage in the kitchen. Positioned along the countertop, adjacent to other cabinets and appliances.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/kitchen cabinet-66/object_in_frame_2772.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/kitchen cabinet-66/object_in_frame_2485.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/kitchen cabinet-66/object_in_frame_2282.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/kitchen cabinet-66/object_in_frame_2660.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/kitchen cabinet-66/object_in_frame_2646.png"
+    ]
+}

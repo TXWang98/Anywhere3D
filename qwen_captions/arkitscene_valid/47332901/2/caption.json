@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy ceramic mug with white and blue coloring and a cylindrical shape. Has a handle on one side and a flat base. Made for holding beverages. Sitting beside a green plate and near cooking pots on a kitchen countertop.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332901/2/object_in_frame_270.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332901/2/object_in_frame_268.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332901/2/object_in_frame_262.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332901/2/object_in_frame_275.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332901/2/object_in_frame_279.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic trash can with a gray color and cylindrical shape. The container is filled with crumpled white paper towels, overflowing the top. Likely used for waste disposal in a bathroom setting. Positioned near a radiator and sink, with additional paper towels scattered on the floor around it.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/trash can-7/object_in_frame_1392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/trash can-7/object_in_frame_1440.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/trash can-7/object_in_frame_108.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/trash can-7/object_in_frame_1446.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/trash can-7/object_in_frame_48.png"
+    ]
+}

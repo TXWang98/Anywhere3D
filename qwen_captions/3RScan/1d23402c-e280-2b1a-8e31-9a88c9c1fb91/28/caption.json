@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic vase with a striped pattern of alternating light and dark colors. The tapered rim suggests it is designed for holding flowers or decorative plants. It has a cylindrical shape with vertical grooves, giving it a textured appearance. Likely used as a decorative item in home settings. Positioned on a wooden dresser near other household items like a white pitcher and framed artwork.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d23402c-e280-2b1a-8e31-9a88c9c1fb91/28/object_in_frame_000023.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d23402c-e280-2b1a-8e31-9a88c9c1fb91/28/object_in_frame_000002.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d23402c-e280-2b1a-8e31-9a88c9c1fb91/28/object_in_frame_000001.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d23402c-e280-2b1a-8e31-9a88c9c1fb91/28/object_in_frame_000025.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d23402c-e280-2b1a-8e31-9a88c9c1fb91/28/object_in_frame_000021.png"
+    ]
+}

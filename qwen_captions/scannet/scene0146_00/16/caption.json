@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic toilet paper dispenser with a dark gray finish and rectangular shape. Features a hinged door and visible roll of white paper. Designed for easy access and hygiene in public restrooms. Mounted on the wall beside a grab bar, near a toilet and waste bin in a tiled bathroom setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/toilet paper dispenser-16/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/toilet paper dispenser-16/object_in_frame_96.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/toilet paper dispenser-16/object_in_frame_108.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/toilet paper dispenser-16/object_in_frame_20.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/toilet paper dispenser-16/object_in_frame_48.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A matte fabric chair with light gray coloring and rounded, enclosed shape. Features a smooth, continuous surface with no visible armrests or back support divisions. Designed for comfortable seating in a relaxed posture. Positioned near a bed with soft bedding and beside a dresser with various items on top.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331331/2/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331331/2/object_in_frame_152.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331331/2/object_in_frame_151.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331331/2/object_in_frame_135.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331331/2/object_in_frame_256.png"
+    ]
+}

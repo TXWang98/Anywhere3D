@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden {generic}-type object with a light brown color and rectangular shape. The tapered rim suggests it could be a decorative panel or part of furniture. Its vertical grooves give it a textured appearance. Inconclusive evidence for its function, but it may serve as a divider or accent piece. Positioned on top of a cabinet in a kitchen setting, near baskets and glassware.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/14/object_in_frame_932.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/14/object_in_frame_959.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/14/object_in_frame_958.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/14/object_in_frame_922.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331651/14/object_in_frame_923.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A soft fabric cushion with gray and beige stripes and a rectangular shape. Features a smooth texture and neatly folded edges. Provides comfort and decorative appeal. Placed on a modern armchair in a well-lit room with patterned carpeting and framed artwork on the wall.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/46/object_in_frame_12530.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/46/object_in_frame_10536.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/46/object_in_frame_10387.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/46/object_in_frame_13015.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/46/object_in_frame_13170.png"
+    ]
+}

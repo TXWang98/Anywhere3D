@@ -1,0 +1,10 @@
+{
+    "caption": "A black possibly office chair with a high backrest and ergonomic design. Features armrests and a cushioned seat. Likely used for prolonged sitting at a desk. Positioned in front of a computer setup on a wooden desk, surrounded by various office supplies and storage items.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358440/3/object_in_frame_84.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358440/3/object_in_frame_252.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358440/3/object_in_frame_275.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358440/3/object_in_frame_65.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358440/3/object_in_frame_5.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic tissue box with white and purple coloring and a rectangular shape. Features a translucent lid revealing tissues inside. Likely used for storing facial tissues. Placed on a leather ottoman alongside a black bag and other items in a living room setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/tissue box-6/object_in_frame_2891.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/tissue box-6/object_in_frame_1932.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/tissue box-6/object_in_frame_1918.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/tissue box-6/object_in_frame_2604.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/tissue box-6/object_in_frame_1890.png"
+    ]
+}

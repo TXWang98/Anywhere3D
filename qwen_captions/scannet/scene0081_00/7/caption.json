@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden table with a light brown finish and a circular shape. The surface appears smooth with a polished texture. Designed for dining or casual seating. Positioned in a booth area with cushioned seating and a red stool nearby, suggesting a restaurant or caf\u00e9 setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0081_00/couch-7/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0081_00/couch-7/object_in_frame_252.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0081_00/couch-7/object_in_frame_45.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0081_00/couch-7/object_in_frame_49.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0081_00/couch-7/object_in_frame_19.png"
+    ]
+}

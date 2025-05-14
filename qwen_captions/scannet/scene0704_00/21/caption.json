@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a dark blue lid and rectangular shape. The tapered rim suggests it may be used for storage or waste disposal. Inconclusive evidence for its exact function, but it appears to be situated in an office environment near a printer and other equipment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0704_00/wall-21/object_in_frame_404.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0704_00/wall-21/object_in_frame_460.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0704_00/wall-21/object_in_frame_436.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0704_00/wall-21/object_in_frame_396.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0704_00/wall-21/object_in_frame_248.png"
+    ]
+}

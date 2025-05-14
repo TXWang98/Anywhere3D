@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a dark blue color and rectangular shape. Features a lid and handle for secure closure. Likely used for storage or transport of items. Positioned on the floor near a refrigerator in a kitchen setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/recycling bin-4/object_in_frame_1625.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/recycling bin-4/object_in_frame_1770.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/recycling bin-4/object_in_frame_1275.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/recycling bin-4/object_in_frame_2300.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/recycling bin-4/object_in_frame_1295.png"
+    ]
+}

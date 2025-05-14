@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly ceramic container-type object with white coloring and a cylindrical shape. The tapered rim suggests it might be a cup or small vase. While resembling a decorative item, the presence of what appears to be a handle hints at functional use, possibly for holding small items. Found on a bathroom countertop near toiletries and a sink.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0574_00/soap dish-8/object_in_frame_529.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0574_00/soap dish-8/object_in_frame_509.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0574_00/soap dish-8/object_in_frame_523.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0574_00/soap dish-8/object_in_frame_572.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0574_00/soap dish-8/object_in_frame_569.png"
+    ]
+}

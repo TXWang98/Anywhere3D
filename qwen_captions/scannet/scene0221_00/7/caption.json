@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric bedspread with a floral pattern and rectangular shape. Features intricate designs in muted tones of brown, green, and beige. Provides warmth and aesthetic appeal to the bed. Positioned neatly on a bed frame, accompanied by white pillows and situated in a cozy bedroom setting with wooden furniture and ambient lighting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0221_00/bed-7/object_in_frame_495.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0221_00/bed-7/object_in_frame_482.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0221_00/bed-7/object_in_frame_488.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0221_00/bed-7/object_in_frame_503.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0221_00/bed-7/object_in_frame_489.png"
+    ]
+}

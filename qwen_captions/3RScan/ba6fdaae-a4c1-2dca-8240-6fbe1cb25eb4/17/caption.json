@@ -1,0 +1,10 @@
+{
+    "caption": "\"A translucent plastic possibly container-type object with a light beige or off-white color and cylindrical shape. The tapered rim suggests it might be designed for easy pouring or stacking. Its smooth, slightly flexible texture is typical of disposable containers. It appears to be empty and serves as a general-purpose storage item. Found on the floor of a bathroom near the sink, toilet, and various toiletries.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ba6fdaae-a4c1-2dca-8240-6fbe1cb25eb4/17/object_in_frame_000042.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ba6fdaae-a4c1-2dca-8240-6fbe1cb25eb4/17/object_in_frame_000065.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ba6fdaae-a4c1-2dca-8240-6fbe1cb25eb4/17/object_in_frame_000041.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ba6fdaae-a4c1-2dca-8240-6fbe1cb25eb4/17/object_in_frame_000067.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ba6fdaae-a4c1-2dca-8240-6fbe1cb25eb4/17/object_in_frame_000043.png"
+    ]
+}

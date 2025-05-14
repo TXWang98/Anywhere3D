@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic office chair with dark gray and black coloring and an ergonomic shape. Features a cushioned seat, backrest, armrests, and a five-point base with casters. Designed for comfortable seating at a desk. Positioned near a cluttered desk with various items like papers, electronics, and personal belongings, in what appears to be an office or workspace setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/office chair-26/object_in_frame_2334.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/office chair-26/object_in_frame_2040.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/office chair-26/object_in_frame_2436.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/office chair-26/object_in_frame_2406.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/office chair-26/object_in_frame_2046.png"
+    ]
+}

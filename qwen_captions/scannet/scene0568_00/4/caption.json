@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric sofa with vibrant red coloring and a rectangular shape. Features tufted cushions and a sturdy frame. Designed for seating multiple people comfortably. Positioned against a wall in a living room setting, near a small table with various items on it.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0568_00/couch-4/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0568_00/couch-4/object_in_frame_80.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0568_00/couch-4/object_in_frame_12.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0568_00/couch-4/object_in_frame_74.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0568_00/couch-4/object_in_frame_22.png"
+    ]
+}

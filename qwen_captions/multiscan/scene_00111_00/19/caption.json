@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly glass bottle with a dark amber color and cylindrical shape. The tapered rim suggests it may be used for pouring liquids. Likely a beverage container. Found on a bathroom countertop among various personal care items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/19/object_in_frame_1126.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/19/object_in_frame_3287.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/19/object_in_frame_2201.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/19/object_in_frame_2292.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/19/object_in_frame_1149.png"
+    ]
+}

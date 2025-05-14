@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden possibly cabinet-type object with a light brown color and rectangular shape. The structure features a flat top surface and vertical panels on the sides. It appears to be designed for storage or display purposes. Positioned against a wall, adjacent to a table with storage bins and near a window with natural light coming through.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0356_00/wall-4/object_in_frame_32.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0356_00/wall-4/object_in_frame_796.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0356_00/wall-4/object_in_frame_46.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0356_00/wall-4/object_in_frame_764.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0356_00/wall-4/object_in_frame_22.png"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly metallic container-type object with a silver finish and cylindrical shape. Features a hinged lid mechanism. Likely used for storing small items or condiments. Positioned on a wooden table alongside another similar container, suggesting a dining or kitchen setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/16/object_in_frame_000244.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/16/object_in_frame_000243.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/16/object_in_frame_000245.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with white and translucent coloring. Rectangular shape with a slightly tapered rim suggests it could be a lid or part of a larger assembly. Structure appears to have ridges for grip or stacking. Likely used for storage or as a component in an office setting. Found on a cluttered desk alongside computer equipment, cables, and other miscellaneous items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/74/object_in_frame_001100.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/74/object_in_frame_001094.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/74/object_in_frame_001086.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/74/object_in_frame_001101.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/74/object_in_frame_000219.png"
+    ]
+}

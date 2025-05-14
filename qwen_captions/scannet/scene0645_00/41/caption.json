@@ -1,0 +1,10 @@
+{
+    "caption": "A translucent fabric curtain with light beige coloring and vertical pleated shape. Features soft, flowing texture and semi-transparent material properties. Serves as a window covering for light control and privacy. Positioned on the right side of the room, adjacent to a wall-mounted lamp and an armchair with a cushion.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/curtain-41/object_in_frame_854.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/curtain-41/object_in_frame_833.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/curtain-41/object_in_frame_910.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/curtain-41/object_in_frame_903.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/curtain-41/object_in_frame_840.png"
+    ]
+}

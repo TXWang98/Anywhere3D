@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly ceramic container-type object with a light beige color and cylindrical shape. The tapered rim suggests it might be a mug or cup. Its surface appears smooth, and the structure includes a handle on one side. It seems designed for holding liquids. Placed on a table in a living room setting, surrounded by furniture like sofas and a patterned rug.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/trash can-22/object_in_frame_1806.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/trash can-22/object_in_frame_1540.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/trash can-22/object_in_frame_3213.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/trash can-22/object_in_frame_3255.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/trash can-22/object_in_frame_1568.png"
+    ]
+}

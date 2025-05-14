@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric window blind with light gray coloring and rectangular shape. Has a smooth, uniform texture and appears to be partially rolled down. Likely used for controlling light and privacy. Positioned above a window frame in an office setting, near framed artwork on the wall.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0300_00/wall-15/object_in_frame_944.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0300_00/wall-15/object_in_frame_1122.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0300_00/wall-15/object_in_frame_1118.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0300_00/wall-15/object_in_frame_942.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0300_00/wall-15/object_in_frame_938.png"
+    ]
+}

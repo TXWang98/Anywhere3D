@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic toilet paper dispenser with a dark gray and silver color scheme. Has a rectangular shape with a hinged lid for refilling. Designed to dispense toilet paper rolls efficiently. Mounted on the wall beside a toilet in a bathroom stall, with tiled walls and floor surrounding it.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0086_00/bathroom stall-28/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0086_00/bathroom stall-28/object_in_frame_796.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0086_00/bathroom stall-28/object_in_frame_698.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0086_00/bathroom stall-28/object_in_frame_930.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0086_00/bathroom stall-28/object_in_frame_532.png"
+    ]
+}

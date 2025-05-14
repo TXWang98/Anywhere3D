@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric chair cover with green and white floral patterns. Fits snugly over the seat and backrest. Provides cushioning and decorative appeal. Positioned in a cluttered room near a desk, computer monitor, and shelving unit filled with books and miscellaneous items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331662/4/object_in_frame_421.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331662/4/object_in_frame_415.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331662/4/object_in_frame_425.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331662/4/object_in_frame_412.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331662/4/object_in_frame_424.png"
+    ]
+}

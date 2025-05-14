@@ -1,0 +1,10 @@
+{
+    "caption": "A white athletic shoe with a smooth texture and rounded shape. The shoe features laces and a padded collar. Designed for comfortable foot support during activities. Positioned on the floor near another pair of shoes, in what appears to be a hotel room hallway.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/shoes-16/object_in_frame_2015.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/shoes-16/object_in_frame_1960.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/shoes-16/object_in_frame_1880.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/shoes-16/object_in_frame_1480.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/shoes-16/object_in_frame_1505.png"
+    ]
+}

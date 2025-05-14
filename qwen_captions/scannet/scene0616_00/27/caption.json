@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly framed poster with black and white coloring and rectangular shape. Appears to have a glossy finish. Likely serves as wall decor. Hanging on the wall above two beige armchairs in a living room setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/picture-27/object_in_frame_2790.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/picture-27/object_in_frame_2795.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/picture-27/object_in_frame_2780.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/picture-27/object_in_frame_2755.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/picture-27/object_in_frame_2750.png"
+    ]
+}

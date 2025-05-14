@@ -1,0 +1,9 @@
+{
+    "caption": "\"A metallic possibly {generic}-type object with a silver color and rectangular shape. Has a flat, elongated structure with no visible handles or distinct features. Inconclusive evidence for its function; it could be part of an air conditioning unit or ventilation system. Positioned on the ceiling near a window in what appears to be an office or study room.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/4fbad320-465b-2a5d-85d7-dc83aa09a9fa/30/object_in_frame_000891.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/4fbad320-465b-2a5d-85d7-dc83aa09a9fa/30/object_in_frame_000272.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/4fbad320-465b-2a5d-85d7-dc83aa09a9fa/30/object_in_frame_000277.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/4fbad320-465b-2a5d-85d7-dc83aa09a9fa/30/object_in_frame_000892.png"
+    ]
+}

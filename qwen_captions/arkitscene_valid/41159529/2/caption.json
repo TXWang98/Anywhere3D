@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic container-type object with a neutral color and rectangular shape. The structure appears to have a simple, utilitarian design with no distinct texture details. Its function is unclear but may be used for storage or as part of a larger appliance. Located in a kitchen setting near other appliances and cabinetry.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159529/2/object_in_frame_529.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159529/2/object_in_frame_524.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159529/2/object_in_frame_521.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159529/2/object_in_frame_522.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159529/2/object_in_frame_533.png"
+    ]
+}

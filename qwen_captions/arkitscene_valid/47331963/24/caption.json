@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden chair with a light beige color and a simple, slatted backrest. The vertical slats are evenly spaced and create a clean, minimalist design. Likely intended for seating at dining tables. Positioned around a round table in a dining area, alongside other similar chairs and a vase of flowers.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/24/object_in_frame_1868.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/24/object_in_frame_1848.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/24/object_in_frame_1850.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/24/object_in_frame_1851.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/24/object_in_frame_1871.png"
+    ]
+}

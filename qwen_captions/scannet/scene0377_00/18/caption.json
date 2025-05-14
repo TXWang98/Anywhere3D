@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly glass window-type object with transparent coloring and rectangular shape. The structure appears to have a grid pattern, likely for ventilation or aesthetic purposes. Inconclusive evidence for its function, but it seems designed to allow light and air passage. Positioned in a wall above a wooden shelf, with no other objects directly surrounding it.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0377_00/window-18/object_in_frame_465.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0377_00/window-18/object_in_frame_482.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0377_00/window-18/object_in_frame_476.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0377_00/window-18/object_in_frame_473.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0377_00/window-18/object_in_frame_467.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A translucent plastic storage container with light blue coloring and rectangular shape. Features a hinged lid and reinforced edges. Likely used for organizing small items. Positioned on the floor near a bed, chair, and desk in a cluttered bedroom setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/wall-23/object_in_frame_5112.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/wall-23/object_in_frame_5130.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/wall-23/object_in_frame_5175.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/wall-23/object_in_frame_5139.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/wall-23/object_in_frame_5157.png"
+    ]
+}

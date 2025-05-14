@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly framed picture-type object with a white border and rectangular shape. The image within appears to be dark, suggesting it might contain a photograph or artwork. While resembling a decorative item, the presence of a metallic hinge on the side indicates it could also be part of a door or panel. Inconclusive evidence for its exact function. Positioned above a wooden bookshelf filled with books, in what seems to be a study or library setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0558_00/window-31/object_in_frame_193.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0558_00/window-31/object_in_frame_192.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0558_00/window-31/object_in_frame_186.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0558_00/window-31/object_in_frame_243.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0558_00/window-31/object_in_frame_194.png"
+    ]
+}

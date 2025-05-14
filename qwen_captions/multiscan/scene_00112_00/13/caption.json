@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly lampshade with a dark brown exterior and copper interior. The fluted body shape features intricate geometric patterns. Likely designed for ambient lighting. Positioned near a sliding glass door, partially visible through the window.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/13/object_in_frame_3792.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/13/object_in_frame_3105.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/13/object_in_frame_3051.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/13/object_in_frame_3033.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00112_00/13/object_in_frame_3773.png"
+    ]
+}

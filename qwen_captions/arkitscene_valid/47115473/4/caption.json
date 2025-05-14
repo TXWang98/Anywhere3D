@@ -1,0 +1,10 @@
+{
+    "caption": "1. **Image 1 and Image 4:**\n   - \"A wooden possibly stool-type object with a natural wood color and rectangular shape. Simple, sturdy structure with four legs. Likely used for seating or as a small table. Positioned in a bathroom setting near folded towels.\"\n\n2. **Image 2:**\n   - \"A white ceramic bathtub with smooth contours and an oval shape. Features include a faucet and drain. Designed for bathing. Located in a bathroom with yellow walls and decorative items nearby.\"\n\n3. **Image 3:**\n   - \"A wooden possibly stool-type object with a natural wood color and rectangular shape. Simple, sturdy structure with four legs. Likely used for seating or as a small table. Positioned in a bathroom setting near folded towels.\"\n\n4. **Image 5:**\n   - \"A folded towel with dark blue coloring and rectangular shape. Soft texture visible. Used for drying or comfort. Placed on a surface near a shower area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115473/4/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115473/4/object_in_frame_748.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115473/4/object_in_frame_1056.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115473/4/object_in_frame_986.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115473/4/object_in_frame_122.png"
+    ]
+}

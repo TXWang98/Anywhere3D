@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric shower curtain with off-white coloring and a textured, vertical striped pattern. The material appears soft and slightly translucent. Its primary function is to provide privacy and prevent water from splashing out of the shower area. Positioned in a bathroom setting, it hangs from a metal rod above, with a portion of the bathtub visible below. A framed abstract painting is seen on the adjacent wall, adding a decorative element to the space.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/towel-34/object_in_frame_2395.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/towel-34/object_in_frame_2425.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/towel-34/object_in_frame_2415.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/towel-34/object_in_frame_2420.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/towel-34/object_in_frame_2375.png"
+    ]
+}

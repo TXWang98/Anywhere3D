@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic stool with a dark gray seat and silver frame. The tapered rim suggests it's designed for seating at elevated surfaces like bars or counters. Its four-legged structure provides stability, and the footrest adds ergonomic support. Positioned near a pool table in a recreational room setting, alongside other similar stools and chairs.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0618_00/chair-5/object_in_frame_529.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0618_00/chair-5/object_in_frame_509.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0618_00/chair-5/object_in_frame_573.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0618_00/chair-5/object_in_frame_539.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0618_00/chair-5/object_in_frame_541.png"
+    ]
+}

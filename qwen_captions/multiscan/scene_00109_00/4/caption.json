@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden partition with a light beige color and horizontal slat design. The structure features evenly spaced gaps between the slats, creating a semi-transparent effect. Likely serves as a room divider or decorative element. Positioned near a seating area with cushions and a suitcase, suggesting a living space or lounge environment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/4/object_in_frame_11351.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/4/object_in_frame_5055.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/4/object_in_frame_11439.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/4/object_in_frame_5273.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/4/object_in_frame_5099.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden cabinet with a polished finish and rectangular shape. Features glass-paneled doors revealing shelves inside. Likely used for storage or display purposes. Positioned against the wall in a living room setting, near a leather sofa and coffee table.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/2/object_in_frame_2151.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/2/object_in_frame_792.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/2/object_in_frame_370.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/2/object_in_frame_2391.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/2/object_in_frame_2408.png"
+    ]
+}

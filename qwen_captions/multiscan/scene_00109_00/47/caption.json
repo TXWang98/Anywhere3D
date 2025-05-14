@@ -1,0 +1,10 @@
+{
+    "caption": "A soft fabric pillow with gray and beige stripes and a rectangular shape. Features a smooth texture and decorative design. Provides comfort and aesthetic appeal. Placed on a modern armchair in a well-lit room with patterned carpeting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/47/object_in_frame_13302.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/47/object_in_frame_12584.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/47/object_in_frame_10419.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/47/object_in_frame_12969.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/47/object_in_frame_12926.png"
+    ]
+}

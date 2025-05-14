@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic toilet paper holder with a silver finish and rectangular shape. Has a simple, functional design for holding a roll of white toilet paper. The tapered rim suggests it is designed to securely hold the paper in place. Located on the wall next to a wooden door and a beige telephone mounted on the wall.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0702_00/toilet paper-7/object_in_frame_404.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0702_00/toilet paper-7/object_in_frame_470.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0702_00/toilet paper-7/object_in_frame_373.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0702_00/toilet paper-7/object_in_frame_395.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0702_00/toilet paper-7/object_in_frame_455.png"
+    ]
+}

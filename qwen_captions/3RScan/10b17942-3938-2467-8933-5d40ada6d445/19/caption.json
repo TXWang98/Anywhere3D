@@ -1,0 +1,9 @@
+{
+    "caption": "\"A possibly wooden {generic}-type object with light brown coloring and rectangular shape. Appears to be a section of baseboard or trim. Smooth surface texture. Likely serves as a decorative or protective element along the wall. Positioned at the junction of floor and wall in an indoor setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/10b17942-3938-2467-8933-5d40ada6d445/19/object_in_frame_000107.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/10b17942-3938-2467-8933-5d40ada6d445/19/object_in_frame_000106.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/10b17942-3938-2467-8933-5d40ada6d445/19/object_in_frame_000105.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/10b17942-3938-2467-8933-5d40ada6d445/19/object_in_frame_000104.png"
+    ]
+}

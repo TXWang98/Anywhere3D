@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric-covered possibly ottoman with dark blue upholstery and a rectangular shape. Features short, tapered legs. Likely used as a footrest or additional seating. Positioned in front of a leather sofa with a plaid blanket draped over it.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/5/object_in_frame_1778.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/5/object_in_frame_1544.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/5/object_in_frame_725.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/5/object_in_frame_1781.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41159566/5/object_in_frame_1775.png"
+    ]
+}

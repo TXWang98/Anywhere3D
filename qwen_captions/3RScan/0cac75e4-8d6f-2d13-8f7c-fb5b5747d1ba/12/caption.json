@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly woven basket-type object with a natural brown color and rectangular shape. Features a sturdy, open-top structure with visible weave texture. Likely used for storage or display purposes. Positioned on a shelf among other similar baskets in what appears to be a retail or storage setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac75e4-8d6f-2d13-8f7c-fb5b5747d1ba/12/object_in_frame_000175.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac75e4-8d6f-2d13-8f7c-fb5b5747d1ba/12/object_in_frame_000174.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac75e4-8d6f-2d13-8f7c-fb5b5747d1ba/12/object_in_frame_000176.png"
+    ]
+}

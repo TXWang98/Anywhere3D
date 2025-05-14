@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy plastic possibly container-type object with red and white coloring and cylindrical shape. Features a ribbed texture and tapered rim suggesting it might be a storage bin or decorative item. Likely used for holding small objects or as a display piece. Placed on a shelf alongside books, bags, and other household items in a living space.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332885/8/object_in_frame_470.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332885/8/object_in_frame_433.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332885/8/object_in_frame_413.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332885/8/object_in_frame_396.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332885/8/object_in_frame_397.png"
+    ]
+}

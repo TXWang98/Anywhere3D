@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric clothing-type object with various colors and hanging shapes. Appears to be garments on hangers. Likely used for storage and organization of personal attire. Located inside a closet, surrounded by folded clothes on shelves above.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/clothes-39/object_in_frame_4536.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/clothes-39/object_in_frame_3321.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/clothes-39/object_in_frame_4473.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/clothes-39/object_in_frame_4509.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/clothes-39/object_in_frame_3285.png"
+    ]
+}

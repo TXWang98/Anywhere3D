@@ -1,0 +1,10 @@
+{
+    "caption": "A matte-finished table with a dark gray surface and a light wood-colored rim. The tabletop is oval-shaped with a smooth, flat surface. Supported by a central black pedestal base. Likely used for meetings or collaborative work. Positioned in an office setting surrounded by ergonomic chairs and near a wall outlet.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0427_00/table-9/object_in_frame_898.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0427_00/table-9/object_in_frame_894.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0427_00/table-9/object_in_frame_872.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0427_00/table-9/object_in_frame_218.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0427_00/table-9/object_in_frame_1120.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric shoe-type object with dark coloring and a low-profile shape. Appears to have soft material and an enclosed design. Likely used for indoor comfort. Positioned on the floor near a door, adjacent to a bench and another similar object.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0574_00/shoes-23/object_in_frame_84.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0574_00/shoes-23/object_in_frame_92.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0574_00/shoes-23/object_in_frame_101.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0574_00/shoes-23/object_in_frame_148.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0574_00/shoes-23/object_in_frame_98.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly shower caddy with silver coloring and a triangular shape. Has a grid-like structure for drainage. Likely used for holding toiletries. Positioned on the wall inside a shower enclosure, near various bathroom items like bottles and containers.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/soap dish-10/object_in_frame_129.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/soap dish-10/object_in_frame_783.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/soap dish-10/object_in_frame_741.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/soap dish-10/object_in_frame_765.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/soap dish-10/object_in_frame_162.png"
+    ]
+}

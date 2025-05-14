@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic lamp with white coloring and a cylindrical shape. The tapered rim suggests it may be designed for directing light. It has a flexible black hose attached, indicating adjustable positioning. Likely used for task lighting. Positioned on a cluttered desk surrounded by various office supplies and electronic devices.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/lamp-7/object_in_frame_3878.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/lamp-7/object_in_frame_3885.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/lamp-7/object_in_frame_4158.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/lamp-7/object_in_frame_3899.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/lamp-7/object_in_frame_1869.png"
+    ]
+}

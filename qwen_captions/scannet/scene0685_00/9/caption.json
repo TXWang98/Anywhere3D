@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic paper cutter with a silver and black color scheme. Features a long, flat base and a sharp, straight cutting edge. Designed for precise paper trimming. Positioned on a desk alongside office supplies like papers and a stapler.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0685_00/poster cutter-9/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0685_00/poster cutter-9/object_in_frame_315.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0685_00/poster cutter-9/object_in_frame_513.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0685_00/poster cutter-9/object_in_frame_393.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0685_00/poster cutter-9/object_in_frame_522.png"
+    ]
+}

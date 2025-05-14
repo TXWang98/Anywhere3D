@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy plastic mug with light blue coloring and a cylindrical shape. Has a tapered rim suggesting it's designed for comfortable drinking. Made for holding beverages, likely cold drinks given the material. Sitting on a cluttered desk alongside various office supplies and personal items like a water bottle and snacks.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/shelf-38/object_in_frame_1605.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/shelf-38/object_in_frame_1602.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/shelf-38/object_in_frame_1731.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/shelf-38/object_in_frame_927.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/shelf-38/object_in_frame_744.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly container-type object with a silver finish and rectangular shape. Has a flat top surface and vertical sides. Likely used for storage or transport. Positioned on a shelf within a kitchen environment, near other kitchenware items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/b1f2330c-d255-2761-965e-d203c6e253c3/3/object_in_frame_000062.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/b1f2330c-d255-2761-965e-d203c6e253c3/3/object_in_frame_000060.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/b1f2330c-d255-2761-965e-d203c6e253c3/3/object_in_frame_000069.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/b1f2330c-d255-2761-965e-d203c6e253c3/3/object_in_frame_000070.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/b1f2330c-d255-2761-965e-d203c6e253c3/3/object_in_frame_000080.png"
+    ]
+}

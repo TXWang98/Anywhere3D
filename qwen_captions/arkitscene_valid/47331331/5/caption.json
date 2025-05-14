@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic container-type object with a dark brown color and cylindrical shape. The tapered rim suggests it could be a mug or small vase. Inconclusive evidence for its function, but it may hold small items or serve as decoration. Placed on a dresser beside stuffed toys and near a printer in a bedroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331331/5/object_in_frame_129.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331331/5/object_in_frame_126.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331331/5/object_in_frame_290.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331331/5/object_in_frame_286.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331331/5/object_in_frame_287.png"
+    ]
+}

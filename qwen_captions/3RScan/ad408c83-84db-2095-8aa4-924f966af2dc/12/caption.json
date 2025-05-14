@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly ceramic container-type object with a white and beige color pattern. The tapered rim suggests it could be a mug or cup. It has a cylindrical shape with a slightly flared top. The surface appears smooth and matte. Likely used for holding liquids. Seen on a cluttered kitchen counter near other household items like a bowl and utensils.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ad408c83-84db-2095-8aa4-924f966af2dc/12/object_in_frame_000050.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ad408c83-84db-2095-8aa4-924f966af2dc/12/object_in_frame_000049.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ad408c83-84db-2095-8aa4-924f966af2dc/12/object_in_frame_000051.png"
+    ]
+}

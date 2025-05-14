@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric-covered container-type object with a muted purple color and rectangular shape. The smooth texture and uniform covering suggest it may be concealing an underlying structure. Its function is unclear but could serve as storage or decoration. Positioned on the floor near a staircase, with a Christmas tree and wooden railing in the surrounding area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899471/9/object_in_frame_463.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899471/9/object_in_frame_460.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899471/9/object_in_frame_474.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899471/9/object_in_frame_779.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899471/9/object_in_frame_481.png"
+    ]
+}

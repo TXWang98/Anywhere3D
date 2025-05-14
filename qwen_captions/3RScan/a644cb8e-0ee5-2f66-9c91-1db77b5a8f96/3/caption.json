@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly fabric floor mat with dark gray coloring and rectangular shape. Has a textured surface for grip. Likely used for protecting the floor or providing comfort. Positioned under a wooden bench in what appears to be an indoor setting, near tiled flooring.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a644cb8e-0ee5-2f66-9c91-1db77b5a8f96/3/object_in_frame_000006.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a644cb8e-0ee5-2f66-9c91-1db77b5a8f96/3/object_in_frame_000011.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/a644cb8e-0ee5-2f66-9c91-1db77b5a8f96/3/object_in_frame_000007.png"
+    ]
+}

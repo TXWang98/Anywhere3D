@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly toilet paper holder with a silver finish and rectangular shape. Has a flat base and a curved top for holding rolls. Designed to dispense toilet paper conveniently. Mounted on the wall beside a toilet in a bathroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/toilet paper-35/object_in_frame_1392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/toilet paper-35/object_in_frame_1131.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/toilet paper-35/object_in_frame_720.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/toilet paper-35/object_in_frame_1458.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0084_00/toilet paper-35/object_in_frame_1377.png"
+    ]
+}

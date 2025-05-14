@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly trash can with a silver and checkered pattern. Has a cylindrical shape with a tapered rim. Likely used for waste disposal. Positioned near an exit door in a laundry room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/wall-24/object_in_frame_2376.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/wall-24/object_in_frame_2352.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/wall-24/object_in_frame_2384.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/wall-24/object_in_frame_1256.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0678_00/wall-24/object_in_frame_1232.png"
+    ]
+}

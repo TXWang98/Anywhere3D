@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy white possibly cabinet-type object with a rectangular shape. Smooth surface and horizontal paneling. Likely used for storage in a kitchen setting. Positioned above the countertop, adjacent to other cabinets and near a stove.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663175/11/object_in_frame_366.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663175/11/object_in_frame_262.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663175/11/object_in_frame_254.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663175/11/object_in_frame_372.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663175/11/object_in_frame_198.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic toilet paper dispenser with a dark brown cover and circular shape. Has a central opening for dispensing rolls. Likely designed for holding and distributing toilet paper. Mounted on the wall beside a toilet in a restroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/toilet paper dispenser-12/object_in_frame_2916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/toilet paper dispenser-12/object_in_frame_2892.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/toilet paper dispenser-12/object_in_frame_2394.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/toilet paper dispenser-12/object_in_frame_2412.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/toilet paper dispenser-12/object_in_frame_2286.png"
+    ]
+}

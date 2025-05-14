@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden possibly wardrobe-type object with a dark brown finish and rectangular shape. Features vertical paneling and two doors with simple handles. Likely used for storing clothes or linens. Positioned against a wall in a residential hallway, adjacent to a glass-paneled door leading to another room.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899696/5/object_in_frame_143.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899696/5/object_in_frame_482.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899696/5/object_in_frame_559.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899696/5/object_in_frame_469.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899696/5/object_in_frame_483.png"
+    ]
+}

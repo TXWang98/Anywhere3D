@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric jacket-type object with black and white striped patterns. Appears to have a structured, tailored shape with visible seams and pockets. Likely worn for security or uniform purposes. Draped over the back of a chair in a living room setting, near a television and kitchen area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/13/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/13/object_in_frame_282.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/13/object_in_frame_473.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/13/object_in_frame_202.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446540/13/object_in_frame_478.png"
+    ]
+}

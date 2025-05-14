@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic side table with a dark gray finish and rectangular shape. Features two tiers with a flat top surface and open shelf below. Likely used for holding decorative items or small personal belongings. Positioned beside a sofa in a living room setting, with cushions and a floral pillow nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445441/2/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445441/2/object_in_frame_206.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445441/2/object_in_frame_88.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445441/2/object_in_frame_202.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445441/2/object_in_frame_121.png"
+    ]
+}

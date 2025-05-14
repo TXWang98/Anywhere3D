@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden chair with a light beige cushion and rectangular backrest. The chair has four legs with a slightly tapered design. Appears to be part of a dining set. Positioned around a dark wooden table in a well-lit room with other furniture visible.\"\n\n**Analysis:**\n- **Category**: Confidently identified as a \"chair\" due to its distinct features like the cushion, backrest, and legs.\n- **Attributes**: \n  - Material: Wooden frame with a fabric cushion.\n  - Color: Light beige cushion and dark brown wood.\n  - Shape: Rectangular backrest and seat with four legs.\n  - Function: Designed for seating.\n  - Context: Part of a dining setup, placed around a table.\n- **Confidence Signals**: No ambiguity in identifying the object as a chair based on its structure and placement.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331266/3/object_in_frame_670.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331266/3/object_in_frame_672.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331266/3/object_in_frame_663.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331266/3/object_in_frame_49.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331266/3/object_in_frame_52.png"
+    ]
+}

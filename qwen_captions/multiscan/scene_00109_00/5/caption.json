@@ -1,0 +1,10 @@
+{
+    "caption": "A smooth plaster wall section with off-white coloring and a rectangular shape. The surface appears flat and uniform, with no visible texture details. Likely serves as an architectural element for room division or support. Positioned between two wooden slatted panels in a modern interior setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/5/object_in_frame_3532.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/5/object_in_frame_11386.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/5/object_in_frame_5105.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/5/object_in_frame_5016.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/5/object_in_frame_5236.png"
+    ]
+}

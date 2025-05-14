@@ -1,0 +1,10 @@
+{
+    "caption": "\"A soft fabric blanket with white and teal circular patterns. Flat rectangular shape with a smooth texture. Likely used for warmth or decoration. Positioned on a wooden bed frame, accompanied by a yellow pillow.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac758d-8d6f-2d13-8d21-9133668b4d7d/4/object_in_frame_000138.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac758d-8d6f-2d13-8d21-9133668b4d7d/4/object_in_frame_000141.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac758d-8d6f-2d13-8d21-9133668b4d7d/4/object_in_frame_000088.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac758d-8d6f-2d13-8d21-9133668b4d7d/4/object_in_frame_000139.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac758d-8d6f-2d13-8d21-9133668b4d7d/4/object_in_frame_000089.png"
+    ]
+}

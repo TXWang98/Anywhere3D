@@ -1,0 +1,10 @@
+{
+    "caption": "\"A brown leather sofa with a plush texture and rectangular shape. Features cushioned armrests and backrests. Designed for seating multiple people comfortably. Positioned against a wall in a living room setting, accompanied by a coffee table, decorative pillows, and other furniture items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445966/2/object_in_frame_1508.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445966/2/object_in_frame_1131.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445966/2/object_in_frame_1494.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445966/2/object_in_frame_1167.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445966/2/object_in_frame_1183.png"
+    ]
+}

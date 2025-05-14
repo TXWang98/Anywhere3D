@@ -1,0 +1,10 @@
+{
+    "caption": "A [material] possibly {generic}-type object with [color] and [shape]. [Structure/texture details]. [Function inference]. [Contextual placement].\n\n\"A possibly wall-mounted soap dispenser-type object with a dark color and rectangular shape. The smooth surface suggests it's made of plastic or metal. Likely used for dispensing liquid soap in a public restroom setting. Located on the wall near a sink and tiled floor.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0553_00/wall-12/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0553_00/wall-12/object_in_frame_1018.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0553_00/wall-12/object_in_frame_1056.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0553_00/wall-12/object_in_frame_782.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0553_00/wall-12/object_in_frame_1016.png"
+    ]
+}

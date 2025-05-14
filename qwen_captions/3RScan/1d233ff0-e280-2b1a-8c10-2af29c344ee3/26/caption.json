@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly ceramic vase-type object with purple and white floral patterns. Tapered rim suggests a decorative function. Appears to have a smooth, glossy finish. Likely used for ornamental purposes. Placed on a shelf within a display cabinet, surrounded by other items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d233ff0-e280-2b1a-8c10-2af29c344ee3/26/object_in_frame_000015.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d233ff0-e280-2b1a-8c10-2af29c344ee3/26/object_in_frame_000016.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d233ff0-e280-2b1a-8c10-2af29c344ee3/26/object_in_frame_000017.png"
+    ]
+}

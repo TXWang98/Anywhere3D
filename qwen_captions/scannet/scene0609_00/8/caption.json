@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly upholstered booth with dark color and rectangular shape. The padded backrest and side panels suggest a comfortable seating arrangement. Likely designed for dining or socializing in a restaurant setting. Positioned along the wall, adjacent to wooden tables and chairs in a dimly lit dining area.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0609_00/wall-8/object_in_frame_129.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0609_00/wall-8/object_in_frame_120.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0609_00/wall-8/object_in_frame_117.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0609_00/wall-8/object_in_frame_118.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0609_00/wall-8/object_in_frame_121.png"
+    ]
+}

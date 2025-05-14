@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly ceramic soap dish with off-white coloring and a shallow, rectangular shape. The textured surface suggests grip for bar soap. Likely used for holding soap in the shower area. Positioned on the edge of a bathtub, near a tiled wall and a grab bar.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0702_00/soap dish-13/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0702_00/soap dish-13/object_in_frame_92.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0702_00/soap dish-13/object_in_frame_117.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0702_00/soap dish-13/object_in_frame_97.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0702_00/soap dish-13/object_in_frame_115.png"
+    ]
+}

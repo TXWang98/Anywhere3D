@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic towel rack-type object with a silver finish and elongated rectangular shape. Features multiple horizontal bars for hanging towels. Likely used for drying or storing bathroom linens. Positioned on the wall near a toilet and trash bin in a bathroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899734/7/object_in_frame_703.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899734/7/object_in_frame_707.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899734/7/object_in_frame_701.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899734/7/object_in_frame_725.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899734/7/object_in_frame_705.png"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "caption": "\"A possibly ceramic vase-type object with translucent white coloring and a fluted body shape. The tapered rim suggests it may be used for floral arrangements. While resembling a vase, the presence of water droplets on its surface indicates recent use or cleaning. Found on a bathroom countertop near a sink and other toiletries.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/5/object_in_frame_000079.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/5/object_in_frame_000080.png"
+    ]
+}

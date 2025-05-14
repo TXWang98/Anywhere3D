@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a green and yellow color pattern. Rectangular shape with a slightly textured surface. Inconclusive evidence for its function, but it may be used for storage or as a cleaning tool. Seen on a desk near an open book, coins, and office supplies.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/wall-26/object_in_frame_224.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/wall-26/object_in_frame_2905.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/wall-26/object_in_frame_2919.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/wall-26/object_in_frame_2912.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/wall-26/object_in_frame_2926.png"
+    ]
+}

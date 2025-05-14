@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic container-type object with a neutral gray color and rectangular shape. The structure appears to have a flat top surface and vertical sides, suggesting it could be used for storage or as a divider. Inconclusive evidence for its exact function due to lack of visible handles or openings. Positioned on the top shelf of a cubicle setup, surrounded by office supplies and papers.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/5/object_in_frame_000345.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/5/object_in_frame_000830.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/5/object_in_frame_000220.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/5/object_in_frame_000666.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/751a5598-fe61-2c3b-8cf2-1c23632af9b4/5/object_in_frame_000290.png"
+    ]
+}

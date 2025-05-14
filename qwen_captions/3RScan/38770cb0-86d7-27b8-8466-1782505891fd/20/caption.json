@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy black picture frame with a rectangular shape. Has a flat base and a thin profile. Made for displaying photographs or artwork. Positioned on a wooden shelf alongside another similar frame.\"\n\n\"A possibly metallic container-type object with dark coloring. Rectangular body shape with visible seams. Likely used for storage or as part of furniture hardware. Found mounted above a cabinet in a room setting.\"\n\n\"Inconclusive evidence for the category of this white object with a rectangular shape. Appears to be part of a larger structure, possibly a piece of furniture or an appliance. Located near a corner against a plain wall.\"\n\n\"A possibly ceramic mug-type object with light coloring. Rounded shape with a handle. Likely used for drinking beverages. Seen on a table in a living space with other household items around.\"\n\n\"The tapered rim suggests this is a glossy black picture frame with a rectangular shape. Has a flat base and a thin profile. Made for displaying photographs or artwork. Positioned on a wooden shelf alongside another similar frame.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/20/object_in_frame_000216.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/20/object_in_frame_000282.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/20/object_in_frame_000220.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/20/object_in_frame_000592.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/38770cb0-86d7-27b8-8466-1782505891fd/20/object_in_frame_000195.png"
+    ]
+}

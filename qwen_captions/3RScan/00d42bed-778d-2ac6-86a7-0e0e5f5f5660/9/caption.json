@@ -1,0 +1,7 @@
+{
+    "caption": "\"A possibly fabric container-type object with dark and light patterns. Appears to have a flexible, soft structure. Likely used for storage or carrying items. Seen on the floor near a bed in a dimly lit room.\"\n\n\"A white textile pillow with a rectangular shape. Has a smooth texture and appears soft. Used for resting or sleeping. Placed on a bed with other bedding items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/00d42bed-778d-2ac6-86a7-0e0e5f5f5660/9/object_in_frame_000438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/00d42bed-778d-2ac6-86a7-0e0e5f5f5660/9/object_in_frame_000282.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric container-type object with dark and light patterns. Rectangular shape with visible contents inside. Appears to be a storage or transport bag. Found on the floor near a cabinet, shoes, and other household items.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/suitcase-2/object_in_frame_2744.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/suitcase-2/object_in_frame_2534.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/suitcase-2/object_in_frame_2513.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/suitcase-2/object_in_frame_2464.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/suitcase-2/object_in_frame_2653.png"
+    ]
+}

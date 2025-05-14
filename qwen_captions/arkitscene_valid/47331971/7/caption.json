@@ -1,0 +1,10 @@
+{
+    "caption": "\"A polished wooden corner cabinet with a light brown finish and rectangular shape. Features glass-paneled doors, ornate carvings along the edges, and a multi-tiered interior shelving system. Likely used for displaying decorative items or storing fine china. Positioned against a wall in a home setting, adjacent to other furniture pieces.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/7/object_in_frame_1047.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/7/object_in_frame_1041.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/7/object_in_frame_1037.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/7/object_in_frame_1050.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/7/object_in_frame_1053.png"
+    ]
+}

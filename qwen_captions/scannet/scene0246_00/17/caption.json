@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic wardrobe with a neutral beige finish and rectangular shape. The smooth surface and tall, narrow structure suggest it is designed for storing clothes. Its placement in the bedroom, adjacent to a bed and dresser, reinforces its role as a storage unit. While resembling a standard wardrobe, the presence of sliding doors indicates a modern design. Inconclusive evidence for additional features like internal compartments or shelving.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/wardrobe closet-17/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/wardrobe closet-17/object_in_frame_96.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/wardrobe closet-17/object_in_frame_120.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/wardrobe closet-17/object_in_frame_128.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/wardrobe closet-17/object_in_frame_2300.png"
+    ]
+}

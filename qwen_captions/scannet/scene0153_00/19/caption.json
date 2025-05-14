@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly shower curtain rod with a dark gray fabric draped over it. The rod has a cylindrical shape and appears to be mounted on the wall. It serves as a support for hanging the shower curtain. Positioned above a bathtub, partially obscured by a white shower curtain.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0153_00/shower curtain rod-19/object_in_frame_204.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0153_00/shower curtain rod-19/object_in_frame_199.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0153_00/shower curtain rod-19/object_in_frame_200.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0153_00/shower curtain rod-19/object_in_frame_207.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0153_00/shower curtain rod-19/object_in_frame_198.png"
+    ]
+}

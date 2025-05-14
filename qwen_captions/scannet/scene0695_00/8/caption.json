@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a dark color and irregular shape. The structure appears to have compartments or sections, suggesting it may be used for storage or organization. Inconclusive evidence for its exact function due to the lack of clear handles or lids. Found on the floor amidst various items like shoes and bags, indicating a casual placement in what seems to be a living space.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/office chair-8/object_in_frame_582.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/office chair-8/object_in_frame_672.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/office chair-8/object_in_frame_576.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/office chair-8/object_in_frame_663.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/office chair-8/object_in_frame_675.png"
+    ]
+}

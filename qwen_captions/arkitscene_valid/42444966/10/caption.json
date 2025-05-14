@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic container-type object with a dark finish and rectangular shape. The tapered rim suggests it could be a storage bin or organizer. Its structure includes vertical edges and a flat top surface. Likely used for holding kitchen items. Positioned on a countertop near other kitchen appliances and utensils.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444966/10/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444966/10/object_in_frame_8.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444966/10/object_in_frame_14.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444966/10/object_in_frame_140.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444966/10/object_in_frame_106.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy plastic photocopier with white and blue coloring and a rectangular shape. Features a control panel, paper tray, and output slot. Used for document copying and printing. Positioned on a desk in an office setting, near a wall outlet and signage promoting paper conservation.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0593_00/copier-21/object_in_frame_165.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0593_00/copier-21/object_in_frame_156.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0593_00/copier-21/object_in_frame_183.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0593_00/copier-21/object_in_frame_147.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0593_00/copier-21/object_in_frame_189.png"
+    ]
+}

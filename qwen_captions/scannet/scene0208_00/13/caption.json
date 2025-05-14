@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric banner-type object with dark blue coloring and vertical text. The material appears soft and flexible, with visible folds and a hanging orientation. Likely serves as a decorative or informational sign. Positioned in front of a bookshelf filled with colorful books, suggesting placement within a bookstore or library setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/book rack-13/object_in_frame_1533.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/book rack-13/object_in_frame_1527.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/book rack-13/object_in_frame_1548.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/book rack-13/object_in_frame_1515.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/book rack-13/object_in_frame_1539.png"
+    ]
+}

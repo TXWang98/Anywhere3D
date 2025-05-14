@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic tool-type object with a dark, camouflaged pattern and elongated shape. Angular grooves and textured surface details. Inconclusive evidence for its specific function, but it may be used for gripping or leverage. Found leaning against a white appliance in a cluttered room with various items like bags, boxes, and clothing scattered around.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/box-14/object_in_frame_1296.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/box-14/object_in_frame_1437.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/box-14/object_in_frame_1308.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/box-14/object_in_frame_1428.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/box-14/object_in_frame_1239.png"
+    ]
+}

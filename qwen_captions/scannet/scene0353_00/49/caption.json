@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly tool-type object with a silver color and elongated shape. Angular grooves and adjustable components suggest it could be a wrench or specialized clamp. Inconclusive evidence for its exact function due to limited visibility. Seen in a cluttered dorm room environment near books, electronics, and personal items on a desk.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/shelf-49/object_in_frame_556.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/shelf-49/object_in_frame_600.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/shelf-49/object_in_frame_540.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/shelf-49/object_in_frame_2004.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/shelf-49/object_in_frame_624.png"
+    ]
+}

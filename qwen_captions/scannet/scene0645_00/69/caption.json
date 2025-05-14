@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly wooden dresser with a dark brown finish and rectangular shape. Features ornate paneling and brass handles. Likely used for storage of clothing or other items. Positioned against a wall in a bedroom setting, with a television on top and various personal belongings scattered around.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/wall-69/object_in_frame_2779.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/wall-69/object_in_frame_2772.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/wall-69/object_in_frame_2758.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/wall-69/object_in_frame_2751.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/wall-69/object_in_frame_2765.png"
+    ]
+}

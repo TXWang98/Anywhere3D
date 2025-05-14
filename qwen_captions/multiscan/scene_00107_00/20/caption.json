@@ -1,0 +1,10 @@
+{
+    "caption": "\"A reflective mirror with a smooth surface and rectangular shape. The frame is minimalistic and metallic. Provides a clear reflection for personal grooming. Positioned above a bathroom sink with toiletries and a towel rack visible in the background.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/20/object_in_frame_16976.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/20/object_in_frame_10454.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/20/object_in_frame_16941.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/20/object_in_frame_16962.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/20/object_in_frame_10440.png"
+    ]
+}

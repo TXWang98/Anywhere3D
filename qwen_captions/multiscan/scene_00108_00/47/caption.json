@@ -1,0 +1,10 @@
+{
+    "caption": "A matte black possibly rice cooker with a cylindrical shape. Has a lid and control panel on the front. Likely used for cooking grains. Positioned on a kitchen countertop near various condiments and bottles.\n\nThe object in the green bounding box appears to be a matte black appliance with a cylindrical shape, likely a rice cooker. It has a lid and a control panel on the front, suggesting its function as a cooking device for grains. The surrounding context includes various condiments and bottles, indicating it is placed on a kitchen countertop. While resembling a rice cooker, the presence of the control panel and lid further supports this inference.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/47/object_in_frame_84.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/47/object_in_frame_50.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/47/object_in_frame_67.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/47/object_in_frame_44.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/47/object_in_frame_33.png"
+    ]
+}

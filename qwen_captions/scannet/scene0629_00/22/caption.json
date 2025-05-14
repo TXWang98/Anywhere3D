@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic spray bottle with blue and white coloring and a cylindrical shape. Has a narrow nozzle and a wider body. Likely used for cleaning or misting purposes. Positioned on top of a dark cabinet in a bedroom setting, near a bed frame and storage shelves.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/cabinet-22/object_in_frame_932.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/cabinet-22/object_in_frame_1064.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/cabinet-22/object_in_frame_1040.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/cabinet-22/object_in_frame_2332.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/cabinet-22/object_in_frame_2324.png"
+    ]
+}

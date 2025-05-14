@@ -1,0 +1,10 @@
+{
+    "caption": "\"A transparent glass vase with a clear and smooth surface. The tapered rim suggests it is designed for holding flowers or decorative items. Its cylindrical shape with a slightly flared top allows for easy placement of stems. While resembling a vase, the presence of water droplets on its surface indicates recent use or cleaning. Found on a wooden coffee table in a living room setting, surrounded by holiday decorations and furniture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445966/3/object_in_frame_898.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445966/3/object_in_frame_1265.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445966/3/object_in_frame_1257.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445966/3/object_in_frame_876.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445966/3/object_in_frame_1003.png"
+    ]
+}

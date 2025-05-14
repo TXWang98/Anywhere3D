@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic container-type object with a dark color and rectangular shape. The tapered rim suggests it could be a storage bin or waste receptacle. Its sturdy build implies durability for functional use. Positioned under a kitchen island, surrounded by various kitchen items like fruits and utensils.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/19/object_in_frame_1676.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/19/object_in_frame_1610.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/19/object_in_frame_2583.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/19/object_in_frame_2127.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/19/object_in_frame_2595.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden table with a light brown color and rectangular shape. The surface appears smooth with visible wood grain texture. Likely used for dining or work purposes. Positioned in the foreground of a room containing shelves, a black cabinet, and other furniture items.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0343_00/wall-10/object_in_frame_164.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0343_00/wall-10/object_in_frame_1186.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0343_00/wall-10/object_in_frame_1098.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0343_00/wall-10/object_in_frame_1160.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0343_00/wall-10/object_in_frame_162.png"
+    ]
+}

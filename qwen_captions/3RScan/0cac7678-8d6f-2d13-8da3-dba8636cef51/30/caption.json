@@ -1,0 +1,9 @@
+{
+    "caption": "\"A ceramic possibly vase-type object with a light beige color and rounded shape. Has a wide opening at the top and a slightly tapered body. Likely used for holding plants or flowers. Positioned on the floor near a white cabinet, with another potted plant beside it.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/30/object_in_frame_000324.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/30/object_in_frame_000268.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/30/object_in_frame_000267.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/30/object_in_frame_000266.png"
+    ]
+}

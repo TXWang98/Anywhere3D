@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly ceramic fireplace with a reddish-brown brick pattern and rectangular shape. Features a dark wooden mantel and arched opening. Likely designed for heating or decorative purposes. Positioned against a wall with framed artwork above and near office furniture in the surrounding area.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/wall-24/object_in_frame_2615.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/wall-24/object_in_frame_80.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/wall-24/object_in_frame_1080.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/wall-24/object_in_frame_2625.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/wall-24/object_in_frame_2530.png"
+    ]
+}

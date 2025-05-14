@@ -1,0 +1,10 @@
+{
+    "caption": "\"A polished wood cabinet with a rich brown color and rectangular shape. Features smooth surfaces and metallic handles. Likely used for storing kitchenware or food items. Positioned above the countertop in a well-equipped kitchen setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/kitchen cabinets-62/object_in_frame_2401.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/kitchen cabinets-62/object_in_frame_1897.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/kitchen cabinets-62/object_in_frame_2709.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/kitchen cabinets-62/object_in_frame_2394.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/kitchen cabinets-62/object_in_frame_2457.png"
+    ]
+}

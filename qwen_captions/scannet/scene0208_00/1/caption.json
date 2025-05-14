@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a multicolored pattern and irregular shape. The texture appears smooth but is indistinct due to motion blur. Inconclusive evidence for its function, though it may be used for storage or display. Found on a shelf amidst books and other items in what seems to be a bookstore environment.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/bookshelf-1/object_in_frame_1482.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/bookshelf-1/object_in_frame_1494.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/bookshelf-1/object_in_frame_1485.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/bookshelf-1/object_in_frame_1497.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/bookshelf-1/object_in_frame_1491.png"
+    ]
+}

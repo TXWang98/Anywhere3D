@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly vase-type object with silver coloring and a flared shape. The tapered rim suggests it could be used for decorative purposes. While resembling a vase, the presence of a wide base indicates stability. Likely intended for holding flowers or as an ornamental piece. Found on a small round table beside a brown leather armchair in a cozy indoor setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0316_00/object-8/object_in_frame_270.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0316_00/object-8/object_in_frame_293.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0316_00/object-8/object_in_frame_300.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0316_00/object-8/object_in_frame_259.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0316_00/object-8/object_in_frame_287.png"
+    ]
+}

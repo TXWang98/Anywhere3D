@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly paper cup with a white and green pattern and cylindrical shape. Appears to have a printed design, likely for branding or decoration. Likely used for disposable beverage consumption. Positioned on a cluttered table alongside papers and other office supplies in what seems to be an office environment.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0704_00/wall-3/object_in_frame_556.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0704_00/wall-3/object_in_frame_568.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0704_00/wall-3/object_in_frame_540.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0704_00/wall-3/object_in_frame_536.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0704_00/wall-3/object_in_frame_552.png"
+    ]
+}

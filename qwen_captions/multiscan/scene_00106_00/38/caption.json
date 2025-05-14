@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic light fixture with a bright white glow and circular shape. The translucent cover diffuses the light evenly. Likely designed for ceiling installation to provide ambient lighting. Positioned on a slanted ceiling above wooden cabinets and a wall clock in a room setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/38/object_in_frame_8294.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/38/object_in_frame_8786.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/38/object_in_frame_8771.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/38/object_in_frame_8809.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/38/object_in_frame_8802.png"
+    ]
+}

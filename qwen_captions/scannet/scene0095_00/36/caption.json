@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy plastic monitor with a black frame and rectangular shape. Has a sleek design with minimal visible buttons. Likely used for computer displays. Positioned on a desk alongside keyboards and mice in an office setting.\"\n\n\"A possibly glass vase-type object with translucent amber coloring. Fluted body shape and water droplets on surface. Likely floral display container. Found on windowsill with plants and pruning shears nearby.\"\n\n\"A wooden chair with a light brown finish and ergonomic design. Features a cushioned seat and backrest. Provides seating support. Located near a desk in an office environment, surrounded by other chairs and furniture.\"\n\n\"Inconclusive evidence for the exact category of the object. Appears to be a metallic tool-type object, matte silver with angular grooves. Ambiguous function between wrench or specialized clamp. Seen in workshop environment near assembly parts.\"\n\n\"A glossy plastic monitor with a black frame and rectangular shape. Has a sleek design with minimal visible buttons. Likely used for computer displays. Positioned on a desk alongside keyboards and mice in an office setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0095_00/chair-36/object_in_frame_898.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0095_00/chair-36/object_in_frame_1136.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0095_00/chair-36/object_in_frame_314.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0095_00/chair-36/object_in_frame_294.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0095_00/chair-36/object_in_frame_1054.png"
+    ]
+}

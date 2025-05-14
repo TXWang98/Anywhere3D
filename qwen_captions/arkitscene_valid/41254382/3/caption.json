@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic sink with white coloring and a curved basin shape. Features a pedestal base and dual faucets. Designed for handwashing and personal hygiene. Positioned in a bathroom setting, adjacent to a toilet and beneath a round mirror.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254382/3/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254382/3/object_in_frame_633.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254382/3/object_in_frame_325.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254382/3/object_in_frame_625.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/41254382/3/object_in_frame_343.png"
+    ]
+}

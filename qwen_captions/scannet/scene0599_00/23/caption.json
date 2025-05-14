@@ -1,0 +1,10 @@
+{
+    "caption": "\"A polished wooden chair with a medium brown finish and an ergonomic backrest. Features vertical slats for support and a slightly curved seat. Designed for comfortable seating at dining tables. Positioned around a long wooden table in a dining room setting, alongside other similar chairs.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/chair-23/object_in_frame_1794.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/chair-23/object_in_frame_1779.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/chair-23/object_in_frame_1773.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/chair-23/object_in_frame_1758.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0599_00/chair-23/object_in_frame_1764.png"
+    ]
+}

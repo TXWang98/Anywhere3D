@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly metallic container-type object with a light gray color and rectangular shape. The tapered rim suggests it might be a storage bin or organizer. Its smooth surface and simple structure indicate a utilitarian design. Likely used for holding items. Positioned next to a shelving unit containing folded towels and other bathroom essentials in a bathroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/12/object_in_frame_000077.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/12/object_in_frame_000068.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/12/object_in_frame_000069.png"
+    ]
+}

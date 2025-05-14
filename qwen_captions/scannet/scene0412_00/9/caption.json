@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic vacuum cleaner with white and gray coloring and an upright shape. Features a flexible hose and various attachments. Designed for cleaning floors and surfaces. Positioned near a wooden door, a traffic cone, and a ladder in what appears to be a utility or storage area.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0412_00/vacuum cleaner-9/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0412_00/vacuum cleaner-9/object_in_frame_792.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0412_00/vacuum cleaner-9/object_in_frame_834.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0412_00/vacuum cleaner-9/object_in_frame_765.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0412_00/vacuum cleaner-9/object_in_frame_780.png"
+    ]
+}

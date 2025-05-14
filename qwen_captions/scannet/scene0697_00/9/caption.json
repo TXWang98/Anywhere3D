@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic toy-type object with vibrant blue and orange coloring. Flat rectangular shape with rounded edges. Appears to be a small packaged item, likely for children's entertainment. Resting on an unmade bed with scattered bedding and toys nearby in a child's bedroom setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/bed-9/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/bed-9/object_in_frame_976.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/bed-9/object_in_frame_1000.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/bed-9/object_in_frame_1016.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/bed-9/object_in_frame_1044.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden cabinet with a light beige color and rectangular shape. Features multiple compartments, drawers, and glass-paneled doors. Likely used for storage of books, files, and other items. Positioned in a room setting with visible contents like books and decorative objects inside.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331314/6/object_in_frame_297.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331314/6/object_in_frame_293.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331314/6/object_in_frame_240.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331314/6/object_in_frame_296.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331314/6/object_in_frame_259.png"
+    ]
+}

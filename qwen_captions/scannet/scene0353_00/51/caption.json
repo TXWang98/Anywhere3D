@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly ceramic container-type object with a white color and circular shape. Appears flat and shallow with no visible handle or spout. Likely used for holding small items or as a lid. Found on a cluttered desk surrounded by books, papers, and other miscellaneous objects in a dorm room setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/plate-51/object_in_frame_1884.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/plate-51/object_in_frame_568.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/plate-51/object_in_frame_1844.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/plate-51/object_in_frame_1876.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/plate-51/object_in_frame_1764.png"
+    ]
+}

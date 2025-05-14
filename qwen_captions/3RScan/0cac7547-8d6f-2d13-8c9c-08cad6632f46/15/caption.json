@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic tool-type object, matte silver with angular grooves. Inconclusive evidence for its exact function, but it may be a wrench or specialized clamp. Seen in a workshop-like environment near assembly parts and a table.\"\n\n**Analysis:**\n- **Category**: The object appears to have a complex shape with multiple edges and angles, suggesting it could be a tool. However, the lack of clear functional features makes it uncertain.\n- **Attributes**: The color is metallic and silver, indicating it might be made of metal. The shape is irregular with various grooves and edges. There are no visible handles or grips that would clearly indicate its function.\n- **Confidence Signals**: \"Inconclusive evidence for...\" reflects the uncertainty about its exact purpose due to the lack of distinct features.\n- **Contextual Placement**: The object is placed on the floor near a table, which suggests it might be used in an environment where tools are common, such as a workshop.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/15/object_in_frame_000510.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/15/object_in_frame_000491.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/15/object_in_frame_000008.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/15/object_in_frame_000490.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/15/object_in_frame_000492.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A plastic toilet stall door with beige coloring and rectangular shape. Smooth surface texture with a metallic hinge and lock mechanism. Provides privacy for restroom users. Positioned adjacent to a tiled wall and floor, near a toilet and sanitary disposal unit.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/bathroom stall door-3/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/bathroom stall door-3/object_in_frame_460.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/bathroom stall door-3/object_in_frame_414.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/bathroom stall door-3/object_in_frame_364.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/bathroom stall door-3/object_in_frame_298.png"
+    ]
+}

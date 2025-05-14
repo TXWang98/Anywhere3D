@@ -1,0 +1,10 @@
+{
+    "caption": "A cardboard box with brown coloring and rectangular shape. Stacked arrangement with visible printed labels. Likely used for storage or shipping purposes. Positioned on the floor near a green trash bin and a white bucket in an office-like setting with a printer and other equipment nearby.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0462_00/box-1/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0462_00/box-1/object_in_frame_18.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0462_00/box-1/object_in_frame_14.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0462_00/box-1/object_in_frame_9.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0462_00/box-1/object_in_frame_19.png"
+    ]
+}

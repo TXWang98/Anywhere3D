@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic trash can with a dark gray color and cylindrical shape. The tapered rim suggests it is designed for easy disposal of waste. Its smooth surface appears to be made of metal, likely stainless steel or aluminum. Functions as a waste receptacle in an office setting. Positioned near a printer and other office equipment on a tiled floor.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0704_00/trash can-8/object_in_frame_512.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0704_00/trash can-8/object_in_frame_852.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0704_00/trash can-8/object_in_frame_516.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0704_00/trash can-8/object_in_frame_832.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0704_00/trash can-8/object_in_frame_860.png"
+    ]
+}

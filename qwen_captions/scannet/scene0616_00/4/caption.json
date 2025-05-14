@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic chair with a dark gray color and ergonomic shape. Features a mesh backrest and armrests for comfort. Designed for office or meeting room use. Positioned around a round table alongside other chairs in a casual indoor setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/table-4/object_in_frame_1625.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/table-4/object_in_frame_1960.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/table-4/object_in_frame_1175.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/table-4/object_in_frame_1720.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/table-4/object_in_frame_1560.png"
+    ]
+}

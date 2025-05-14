@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy plastic spray can with blue and white coloring and cylindrical shape. Features a nozzle on top and printed labels. Likely used for air freshening or cleaning purposes. Positioned on top of a black dresser in a bedroom setting, near a crib and shelving unit containing various household items.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/stair rail-4/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/stair rail-4/object_in_frame_1064.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/stair rail-4/object_in_frame_1084.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/stair rail-4/object_in_frame_2332.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/stair rail-4/object_in_frame_1048.png"
+    ]
+}

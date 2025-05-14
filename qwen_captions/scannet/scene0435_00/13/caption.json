@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden door with a neutral beige color and rectangular shape. Features a metallic handle and keycard reader. Likely serves as an entrance to a room or suite. Positioned at the end of a carpeted hallway, adjacent to other doors and near pairs of shoes on the floor.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/door-13/object_in_frame_1935.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/door-13/object_in_frame_2980.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/door-13/object_in_frame_2080.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/door-13/object_in_frame_2885.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/door-13/object_in_frame_1950.png"
+    ]
+}

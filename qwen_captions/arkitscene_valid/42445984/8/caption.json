@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden chair with a dark brown finish and an intricate backrest design. The chair has a classic, slightly curved seat and vertical slats forming the backrest. It appears to be designed for seating at a dining table. Positioned around a table covered with a plastic sheet, alongside other similar chairs in what seems to be a dining or communal area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445984/8/object_in_frame_742.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445984/8/object_in_frame_750.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445984/8/object_in_frame_745.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445984/8/object_in_frame_741.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42445984/8/object_in_frame_749.png"
+    ]
+}

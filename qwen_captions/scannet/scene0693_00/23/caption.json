@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with translucent coloring and a cylindrical shape. The tapered rim suggests it may be designed for pouring or dispensing. Inconclusive evidence for its exact function, but it could be used for storing liquids. Found on the bathroom floor near cleaning supplies and a bathtub.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0693_00/trash can-23/object_in_frame_932.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0693_00/trash can-23/object_in_frame_926.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0693_00/trash can-23/object_in_frame_946.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0693_00/trash can-23/object_in_frame_1068.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0693_00/trash can-23/object_in_frame_1066.png"
+    ]
+}

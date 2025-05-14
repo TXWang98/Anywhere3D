@@ -1,0 +1,10 @@
+{
+    "caption": "A ceramic toilet tank with white coloring and a rectangular shape. Smooth surface texture with a flush handle on the side. Functions as part of a toilet system for waste disposal. Positioned in a bathroom setting next to a bathtub and shower curtain, with a trash can and toilet paper holder nearby.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/towel-30/object_in_frame_2475.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/towel-30/object_in_frame_2215.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/towel-30/object_in_frame_2535.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/towel-30/object_in_frame_2250.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/towel-30/object_in_frame_2170.png"
+    ]
+}

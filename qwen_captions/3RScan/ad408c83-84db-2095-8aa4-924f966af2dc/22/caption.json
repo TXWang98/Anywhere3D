@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly ceramic container-type object with earthy tones and a cylindrical shape. The tapered rim suggests it could be a mug or small pot. Has a textured surface and appears sturdy. Likely used for storage or serving. Found on a cluttered kitchen counter surrounded by various utensils and cooking items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ad408c83-84db-2095-8aa4-924f966af2dc/22/object_in_frame_000004.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ad408c83-84db-2095-8aa4-924f966af2dc/22/object_in_frame_000075.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ad408c83-84db-2095-8aa4-924f966af2dc/22/object_in_frame_000003.png"
+    ]
+}

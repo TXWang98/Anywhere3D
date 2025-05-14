@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic drawer-type object with a dark finish and rectangular shape. Features horizontal handles and a smooth surface texture. Likely used for storage of kitchen utensils or supplies. Positioned beneath a countertop in a kitchen setting, adjacent to appliances like a microwave and toaster oven.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/kitchen cabinets-13/object_in_frame_328.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/kitchen cabinets-13/object_in_frame_387.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/kitchen cabinets-13/object_in_frame_385.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/kitchen cabinets-13/object_in_frame_339.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0552_00/kitchen cabinets-13/object_in_frame_329.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic tray-type object with a reflective silver surface and rectangular shape. Has a flat, shallow structure with minimal texture details. Likely used for serving or organizing items. Positioned on a white stand in an office setting, surrounded by tables, chairs, and other furniture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0187_00/coffee table-10/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0187_00/coffee table-10/object_in_frame_1602.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0187_00/coffee table-10/object_in_frame_1731.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0187_00/coffee table-10/object_in_frame_1695.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0187_00/coffee table-10/object_in_frame_1740.png"
+    ]
+}

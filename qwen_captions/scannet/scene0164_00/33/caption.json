@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly {generic}-type object with an inconclusive color and rectangular shape. The tapered rim suggests it might be a shelf or ledge. Inconclusive evidence for its function due to lack of visible texture details. Located above a kitchen counter, adjacent to a cabinet.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/ceiling-33/object_in_frame_1461.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/ceiling-33/object_in_frame_1464.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/ceiling-33/object_in_frame_1467.png"
+    ]
+}

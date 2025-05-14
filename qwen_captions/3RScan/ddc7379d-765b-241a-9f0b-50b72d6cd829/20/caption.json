@@ -1,0 +1,7 @@
+{
+    "caption": "\"A possibly metallic {generic}-type object with a silver finish and elongated rectangular shape. The tapered rim suggests it might be a container or dispenser. Its smooth surface and vertical orientation imply it could hold items like tissues or towels. Inconclusive evidence for its exact function. Positioned in a bathroom setting, near a cabinet and sink.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/20/object_in_frame_000084.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/20/object_in_frame_000083.png"
+    ]
+}

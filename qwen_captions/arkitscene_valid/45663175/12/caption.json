@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic container-type object with white coloring and cylindrical shape. The tapered rim suggests it could be a vase or storage jar. Inconclusive evidence for its exact function, but it may hold decorative items or kitchen supplies. Positioned on an upper shelf within a kitchen cabinet, surrounded by other household items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663175/12/object_in_frame_404.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663175/12/object_in_frame_252.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663175/12/object_in_frame_370.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663175/12/object_in_frame_188.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663175/12/object_in_frame_369.png"
+    ]
+}

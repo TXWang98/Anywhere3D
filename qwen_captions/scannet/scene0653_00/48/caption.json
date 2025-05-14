@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly ceramic mug with a white and red color pattern. The tapered rim suggests it is designed for drinking. It appears to have a handle, though not clearly visible. Likely used for beverages. Seen on a desk beside a computer monitor and other office supplies in a cubicle setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/computer tower-48/object_in_frame_864.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/computer tower-48/object_in_frame_804.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/computer tower-48/object_in_frame_954.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/computer tower-48/object_in_frame_816.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/computer tower-48/object_in_frame_840.png"
+    ]
+}

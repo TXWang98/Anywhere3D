@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a light color and rectangular shape. The structure appears to have a lid or cover. Inconclusive evidence for its specific function, but it may be used for storage. Found on top of a piece of furniture in a living room setting, near a patterned rug and armchair.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/book-27/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/book-27/object_in_frame_4186.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/book-27/object_in_frame_1561.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/book-27/object_in_frame_294.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/book-27/object_in_frame_287.png"
+    ]
+}

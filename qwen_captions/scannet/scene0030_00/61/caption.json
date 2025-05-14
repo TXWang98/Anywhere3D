@@ -1,0 +1,10 @@
+{
+    "caption": "A cardboard box with brown and green coloring and a rectangular shape. Has visible flaps and printed text on the side. Likely used for storage or moving purposes. Found on a table in a library setting, surrounded by books and other boxes.\n\nA possibly plastic container-type object with white coloring and a rectangular shape. Appears to have a lid and some printed text. Likely used for storing small items. Placed on top of a stack of boxes near a window in an office environment.\n\nA cardboard box with brown and green coloring and a rectangular shape. Has visible flaps and printed text on the side. Likely used for storage or moving purposes. Found on a table in a library setting, surrounded by books and other boxes.\n\nA possibly paper book with multicolored cover and a rectangular shape. Appears to have text and images on the cover. Likely used for reading or reference. Placed on a table in a library setting, near other books and study materials.\n\nA cardboard box with brown and white coloring and a rectangular shape. Has visible flaps and printed text on the side. Likely used for storage or moving purposes. Found on a shelf in an office setting, surrounded by other boxes and office supplies.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/box-61/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/box-61/object_in_frame_2380.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/box-61/object_in_frame_872.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/box-61/object_in_frame_2336.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0030_00/box-61/object_in_frame_700.png"
+    ]
+}

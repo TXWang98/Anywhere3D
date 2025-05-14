@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric shoe-type object with dark gray and white patterns. Appears to have a low-top design with laces. Likely used for casual wear. Found on the floor near a wooden shoe rack filled with various shoes, suggesting a home entryway or living space.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/shoes-31/object_in_frame_132.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/shoes-31/object_in_frame_1082.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/shoes-31/object_in_frame_138.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/shoes-31/object_in_frame_738.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0203_00/shoes-31/object_in_frame_1070.png"
+    ]
+}

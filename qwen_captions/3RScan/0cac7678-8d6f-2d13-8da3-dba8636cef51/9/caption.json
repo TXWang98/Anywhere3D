@@ -1,0 +1,8 @@
+{
+    "caption": "\"A possibly fabric container-type object with a neutral beige color and rectangular shape. Appears soft and flexible, likely made of cloth or canvas. Function is unclear but could be for storage or decoration. Positioned upright on the floor beside a bed in a bedroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/9/object_in_frame_000274.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/9/object_in_frame_000273.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/9/object_in_frame_000275.png"
+    ]
+}

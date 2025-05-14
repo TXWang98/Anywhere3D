@@ -1,0 +1,10 @@
+{
+    "caption": "\"A ceramic possibly mug with off-white coloring and cylindrical shape. The tapered rim suggests it is designed for drinking. Likely used for beverages. Placed on a kitchen countertop near a sink and other kitchenware.\"\n\nAnalysis:\n- **Category**: Possibly mug due to the cylindrical shape and tapered rim, but low confidence as no handle is visible.\n- **Attributes**: Off-white color, ceramic material suggested by the smooth texture. Cylindrical shape with a slightly narrower top.\n- **Functional Affordances**: Designed for holding liquids, likely beverages.\n- **Contextual Placement**: Located in a kitchen setting, on a countertop near a sink and other kitchen items like a dish rack and utensils.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662921/24/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662921/24/object_in_frame_901.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662921/24/object_in_frame_935.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662921/24/object_in_frame_1033.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45662921/24/object_in_frame_313.png"
+    ]
+}

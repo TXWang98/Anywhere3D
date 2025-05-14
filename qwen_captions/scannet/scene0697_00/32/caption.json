@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy plastic possibly speaker-type object with black coloring and rectangular shape. Has a smooth surface and appears to be part of a larger electronic setup. Likely functions as an audio output device. Positioned on the right side of a television, resting on a wooden stand alongside other electronic devices.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/wall-32/object_in_frame_2016.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/wall-32/object_in_frame_2268.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/wall-32/object_in_frame_2280.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/wall-32/object_in_frame_2044.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/wall-32/object_in_frame_2276.png"
+    ]
+}

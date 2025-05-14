@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden slat-type object with a light beige color and horizontal linear shape. The slats are evenly spaced, creating a patterned texture. Inconclusive evidence for its function, but it may serve as a decorative or functional partition. Positioned near the ceiling in a room with modern lighting fixtures and artwork on the wall.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/9/object_in_frame_5324.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/9/object_in_frame_5282.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/9/object_in_frame_5158.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/9/object_in_frame_5179.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/9/object_in_frame_9444.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden door with a light brown color and rectangular panel design. The panels have a slightly raised texture. Functions as an entrance or exit point. Positioned in a room with various items like rolled fabrics and shelves containing containers.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/34/object_in_frame_4664.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/34/object_in_frame_4999.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/34/object_in_frame_4674.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/34/object_in_frame_4680.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/34/object_in_frame_4685.png"
+    ]
+}

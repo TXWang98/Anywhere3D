@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly trash can with a silver color and cylindrical shape. Has a smooth surface and a plastic liner inside. Likely used for waste disposal. Positioned on the floor near a blue recycling bin in a room with a desk, chair, and bed.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0277_00/trash can-14/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0277_00/trash can-14/object_in_frame_460.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0277_00/trash can-14/object_in_frame_586.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0277_00/trash can-14/object_in_frame_499.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0277_00/trash can-14/object_in_frame_569.png"
+    ]
+}

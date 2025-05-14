@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric armchair with beige upholstery and a cushioned backrest. Features a rectangular shape with soft, padded surfaces. Provides seating comfort. Positioned near a window with curtains, accompanied by clothing items draped over it and a laptop resting on its surface.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/sofa chair-7/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/sofa chair-7/object_in_frame_645.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/sofa chair-7/object_in_frame_715.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/sofa chair-7/object_in_frame_705.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/sofa chair-7/object_in_frame_695.png"
+    ]
+}

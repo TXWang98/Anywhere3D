@@ -1,0 +1,10 @@
+{
+    "caption": "\"A cardboard box with a brown exterior and rectangular shape. The open top reveals various items inside, including what appears to be packaging materials. Likely used for storage or shipping purposes. Positioned on a table surrounded by clothing, shoes, and other miscellaneous objects in an indoor setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0559_00/box-11/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0559_00/box-11/object_in_frame_482.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0559_00/box-11/object_in_frame_314.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0559_00/box-11/object_in_frame_316.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0559_00/box-11/object_in_frame_441.png"
+    ]
+}

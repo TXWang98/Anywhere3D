@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic storage-type object with translucent white coloring and rectangular shape. Features multiple horizontal compartments and a smooth surface texture. Likely used for organizing small items. Positioned on the floor near a wooden cart and metal shelving unit in what appears to be a workshop or utility room setting. Inconclusive evidence for specific contents within the compartments due to translucency.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0343_00/shelf-13/object_in_frame_916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0343_00/shelf-13/object_in_frame_994.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0343_00/shelf-13/object_in_frame_1002.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0343_00/shelf-13/object_in_frame_942.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0343_00/shelf-13/object_in_frame_938.png"
+    ]
+}

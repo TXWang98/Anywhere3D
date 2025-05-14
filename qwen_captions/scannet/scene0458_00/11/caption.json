@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a white and green color scheme. The shape is rectangular with a perforated surface, suggesting ventilation or drainage features. Likely used for storing small items in a bathroom setting. Found on a shelf near cleaning supplies and personal care products.\n\nConfidence Signals:\n- \"The perforated surface suggests it may be designed for ventilation.\"\n- \"While resembling a storage container, the presence of cleaning supplies nearby indicates its use in a bathroom environment.\"\n- \"Inconclusive evidence for its exact function, but its placement implies utility in organization.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/soap dish-11/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/soap dish-11/object_in_frame_843.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/soap dish-11/object_in_frame_993.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/soap dish-11/object_in_frame_945.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/soap dish-11/object_in_frame_774.png"
+    ]
+}

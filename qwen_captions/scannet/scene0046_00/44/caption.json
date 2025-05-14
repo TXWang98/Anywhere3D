@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric shower curtain with white coloring and a draped shape. The texture appears smooth and slightly translucent. Serves as a privacy barrier for the shower area. Positioned to the right of the sink, partially covering the tiled shower wall.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/shower curtain-44/object_in_frame_1508.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/shower curtain-44/object_in_frame_1500.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/shower curtain-44/object_in_frame_1556.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/shower curtain-44/object_in_frame_1824.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0046_00/shower curtain-44/object_in_frame_1492.png"
+    ]
+}

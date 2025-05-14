@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a light gray color and rectangular shape. The structure appears to have a lid or cover, suggesting it is designed for storage. Inconclusive evidence for its specific function, but it may be used for organizing small items. Found on a cluttered desk alongside various personal belongings like a laptop, headphones, and other miscellaneous objects in what appears to be a dorm room setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/book-36/object_in_frame_2328.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/book-36/object_in_frame_2268.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/book-36/object_in_frame_872.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/book-36/object_in_frame_2336.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/book-36/object_in_frame_860.png"
+    ]
+}

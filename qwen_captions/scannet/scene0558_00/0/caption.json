@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly glass vase-type object with translucent coloring and a flared shape. The tapered rim suggests it's designed to hold flowers or decorative elements. While resembling a vase, the presence of dried plant material indicates its current use as a display piece. Found on top of a wooden bookshelf filled with books, suggesting a home or library setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0558_00/plant-0/object_in_frame_132.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0558_00/plant-0/object_in_frame_134.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0558_00/plant-0/object_in_frame_137.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0558_00/plant-0/object_in_frame_138.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0558_00/plant-0/object_in_frame_139.png"
+    ]
+}

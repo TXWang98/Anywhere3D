@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric robe with dark blue coloring and loose shape. Has a visible hood and belt. Likely worn for comfort or lounging. Draped over the back of an office chair near a desk setup.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358446/4/object_in_frame_1279.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358446/4/object_in_frame_1212.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358446/4/object_in_frame_1202.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358446/4/object_in_frame_1159.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358446/4/object_in_frame_1245.png"
+    ]
+}

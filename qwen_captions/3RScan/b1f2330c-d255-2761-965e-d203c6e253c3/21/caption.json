@@ -1,0 +1,8 @@
+{
+    "caption": "\"A metallic possibly drying rack with silver color and rectangular shape. Features a grid-like structure with evenly spaced bars. Likely used for drying clothes or other items. Positioned on a green surface, possibly outdoors, near other similar racks.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/b1f2330c-d255-2761-965e-d203c6e253c3/21/object_in_frame_000004.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/b1f2330c-d255-2761-965e-d203c6e253c3/21/object_in_frame_000002.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/b1f2330c-d255-2761-965e-d203c6e253c3/21/object_in_frame_000003.png"
+    ]
+}

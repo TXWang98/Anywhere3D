@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric container-type object with a dark color and rectangular shape. Appears to have soft, flexible material. Likely used for storage or carrying items. Found on a bed in a bedroom setting with other bedding and furniture nearby. Inconclusive evidence for its exact purpose due to limited visibility.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0221_00/trash can-17/object_in_frame_515.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0221_00/trash can-17/object_in_frame_511.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0221_00/trash can-17/object_in_frame_510.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0221_00/trash can-17/object_in_frame_518.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0221_00/trash can-17/object_in_frame_516.png"
+    ]
+}

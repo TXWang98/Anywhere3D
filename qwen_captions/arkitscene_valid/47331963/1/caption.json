@@ -1,0 +1,10 @@
+{
+    "caption": "\"A stainless steel refrigerator with a sleek, metallic finish and rectangular shape. The smooth surface has a brushed texture. Likely used for food storage. Positioned in a kitchen setting alongside a microwave and countertop items.\"\n\n\"A possibly stainless steel refrigerator-type object with a reflective silver color and elongated rectangular form. The polished exterior suggests a modern design. Functions as a cooling appliance. Located in a kitchen environment near other appliances.\"\n\n\"Inconclusive evidence for the exact category of the metallic object with a shiny silver appearance and vertical rectangular structure. The smooth, reflective surface indicates high-quality material. Its purpose is likely related to refrigeration. Found in a kitchen area with visible countertops and appliances.\"\n\n\"While resembling a refrigerator, the presence of a metallic, silver-colored object with a tall, rectangular shape and clean lines suggests its function. The polished surface enhances its aesthetic appeal. Used for storing perishables. Situated in a kitchen space with various appliances around.\"\n\n\"The tapered rim suggests a metallic container-type object with a silver hue and upright cylindrical form. The glossy finish reflects light. Possibly serves as a storage unit. Placed in a kitchen context with nearby appliances and utensils.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/1/object_in_frame_180.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/1/object_in_frame_92.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/1/object_in_frame_1784.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/1/object_in_frame_1786.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331963/1/object_in_frame_2063.png"
+    ]
+}

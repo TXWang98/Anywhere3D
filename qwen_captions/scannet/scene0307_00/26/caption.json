@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden storage shelf with a natural finish and rectangular shape. The structure features multiple tiers for holding various items. Likely used for organizing household goods. Positioned against a wall near a water heater in what appears to be a utility room or basement area.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/shelf-26/object_in_frame_1191.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/shelf-26/object_in_frame_1227.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/shelf-26/object_in_frame_1233.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/shelf-26/object_in_frame_1230.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/shelf-26/object_in_frame_1224.png"
+    ]
+}

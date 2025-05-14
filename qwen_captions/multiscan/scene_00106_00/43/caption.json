@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric suitcase-type object with dark blue coloring and rectangular shape. Appears to have a handle and zipper closure. Likely used for storage or travel. Positioned on top of a wooden cabinet near other items like a vacuum cleaner and boxes, in a dimly lit room with a window showing the night sky.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/43/object_in_frame_1605.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/43/object_in_frame_1522.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/43/object_in_frame_2012.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/43/object_in_frame_1593.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/43/object_in_frame_418.png"
+    ]
+}

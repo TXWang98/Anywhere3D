@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic toilet paper dispenser with a dark gray finish and a cylindrical shape. The surface appears smooth with a slight sheen, indicating a polished material. It features a circular opening for dispensing paper and a hinged door on the side for refilling. Designed to hold and dispense toilet paper rolls efficiently. Mounted on a beige marble wall near a door hinge, suggesting placement in a restroom setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/toilet paper-13/object_in_frame_1884.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/toilet paper-13/object_in_frame_1872.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/toilet paper-13/object_in_frame_1734.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/toilet paper-13/object_in_frame_1650.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/toilet paper-13/object_in_frame_1944.png"
+    ]
+}

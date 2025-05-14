@@ -1,0 +1,10 @@
+{
+    "caption": "\"A soft fabric pillow with vibrant yellow coloring and a square shape. Smooth texture with no visible seams or patterns. Provides comfort and decorative appeal. Positioned on a light gray sofa, partially obscured by other pillows and bags.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/27/object_in_frame_3541.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/27/object_in_frame_3666.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/27/object_in_frame_3355.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/27/object_in_frame_6507.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/27/object_in_frame_9886.png"
+    ]
+}

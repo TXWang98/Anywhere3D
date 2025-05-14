@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly boiler with a vibrant red exterior and cylindrical shape. Features a smooth surface with circular gauges and black valve-like structures. Likely serves as a central heating or water storage unit. Positioned in a utility room setting, adjacent to piping and other mechanical equipment.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/water heater-13/object_in_frame_1389.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/water heater-13/object_in_frame_1365.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/water heater-13/object_in_frame_1362.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/water heater-13/object_in_frame_1383.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/water heater-13/object_in_frame_1368.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden chair with a light brown finish and slatted backrest. The chair has a simple, sturdy structure with four legs. It appears designed for seating at a desk or table. Positioned in an office environment, surrounded by desks, computer equipment, and various items like bags and papers placed on its seat.\n\nConfidence Signals:\n- \"The consistent wood grain suggests it is likely made of solid wood.\"\n- \"While resembling a typical office chair, the presence of items on its seat indicates temporary use as a storage surface.\"\n- \"Inconclusive evidence for its specific ergonomic features from this viewpoint.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/chair-4/object_in_frame_711.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/chair-4/object_in_frame_1095.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/chair-4/object_in_frame_762.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/chair-4/object_in_frame_690.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0643_00/chair-4/object_in_frame_1119.png"
+    ]
+}

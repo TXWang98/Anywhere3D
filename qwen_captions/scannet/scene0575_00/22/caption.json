@@ -1,0 +1,10 @@
+{
+    "caption": "A black office chair with a sleek and modern design. The chair features a high backrest with vertical slats for support and a cushioned seat. It has armrests on both sides and is mounted on a five-star base with casters for mobility. Designed for ergonomic seating in an office environment. Positioned near a table, with a trash bin and wall outlets visible in the background.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/wall-22/object_in_frame_1228.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/wall-22/object_in_frame_1244.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/wall-22/object_in_frame_1264.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/wall-22/object_in_frame_1224.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0575_00/wall-22/object_in_frame_1260.png"
+    ]
+}

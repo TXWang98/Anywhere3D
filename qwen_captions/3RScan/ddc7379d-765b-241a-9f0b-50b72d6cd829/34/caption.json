@@ -1,0 +1,8 @@
+{
+    "caption": "\"A metallic possibly faucet-type object with a silver finish and angular shape. Features multiple joints and a cylindrical body. Likely used for controlling water flow. Positioned on a dark tiled wall, adjacent to other plumbing fixtures.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/34/object_in_frame_000071.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/34/object_in_frame_000010.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ddc7379d-765b-241a-9f0b-50b72d6cd829/34/object_in_frame_000000.png"
+    ]
+}

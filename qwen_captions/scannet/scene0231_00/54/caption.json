@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric-covered cushion-type object with light gray coloring and a rectangular shape. Appears soft and slightly crumpled. Likely used for seating comfort or as a decorative throw. Positioned on the backrest of a wooden chair near a cluttered kitchen counter with various items like papers and containers around.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/wall-54/object_in_frame_2891.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/wall-54/object_in_frame_3129.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/wall-54/object_in_frame_2919.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/wall-54/object_in_frame_3941.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/wall-54/object_in_frame_3136.png"
+    ]
+}

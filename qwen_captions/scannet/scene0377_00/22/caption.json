@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly pressure tank with a reddish-brown color and cylindrical shape. The smooth, reflective surface suggests it's made of metal. Likely used for water storage or pressure regulation in a plumbing system. Positioned above the boiler unit in a utility room setting, surrounded by pipes and other mechanical components.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0377_00/wall-22/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0377_00/wall-22/object_in_frame_47.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0377_00/wall-22/object_in_frame_591.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0377_00/wall-22/object_in_frame_226.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0377_00/wall-22/object_in_frame_38.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic strainer-type object with a silver color and conical shape. The tapered rim suggests it is designed for draining liquids. Its perforated surface allows for efficient water drainage. Likely used for kitchen tasks such as washing vegetables or draining pasta. Found in the sink area of a kitchen, surrounded by other utensils and cleaning supplies.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332901/8/object_in_frame_168.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332901/8/object_in_frame_174.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332901/8/object_in_frame_182.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332901/8/object_in_frame_157.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332901/8/object_in_frame_238.png"
+    ]
+}

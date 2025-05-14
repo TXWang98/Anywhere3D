@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic vase-type object with a reddish-brown hue and a slender, elongated shape. The tapered rim suggests it may be designed for holding flowers or decorative purposes. While resembling a vase, the presence of a white cloth draped over it introduces ambiguity in its function. Situated on a small wooden table near a doorway, with a pet bowl visible nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663175/13/object_in_frame_129.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663175/13/object_in_frame_120.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663175/13/object_in_frame_111.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663175/13/object_in_frame_65.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663175/13/object_in_frame_122.png"
+    ]
+}

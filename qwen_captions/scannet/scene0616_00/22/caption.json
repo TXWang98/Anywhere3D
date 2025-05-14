@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic container-type object with a dark color and rectangular shape. The tapered rim suggests it might be designed for storage or transport. Inconclusive evidence for its exact function, but it appears sturdy and utilitarian. Positioned near a wall vent and cleaning supplies in what looks like an office or meeting room setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/windowsill-22/object_in_frame_2015.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/windowsill-22/object_in_frame_80.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/windowsill-22/object_in_frame_1880.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/windowsill-22/object_in_frame_2070.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/windowsill-22/object_in_frame_1950.png"
+    ]
+}

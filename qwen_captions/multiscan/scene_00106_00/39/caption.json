@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric suitcase with white and brown coloring and rectangular shape. Appears to have a soft, padded exterior. Likely used for storing or transporting items. Positioned on top of a wooden cabinet in a room setting.\n\nInconclusive evidence for the exact contents or purpose of the suitcase. The surrounding objects include other storage items like boxes and containers, suggesting a storage or utility area.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/39/object_in_frame_2586.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/39/object_in_frame_2000.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/39/object_in_frame_2035.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/39/object_in_frame_2668.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00106_00/39/object_in_frame_2598.png"
+    ]
+}

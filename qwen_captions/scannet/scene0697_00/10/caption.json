@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden dresser with a light beige finish and rectangular shape. Features multiple drawers with rounded knobs. Designed for storage purposes. Positioned in a bedroom setting, adjacent to a bed and near wall decorations.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/dresser-10/object_in_frame_2084.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/dresser-10/object_in_frame_2104.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/dresser-10/object_in_frame_2184.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/dresser-10/object_in_frame_1952.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/dresser-10/object_in_frame_2108.png"
+    ]
+}

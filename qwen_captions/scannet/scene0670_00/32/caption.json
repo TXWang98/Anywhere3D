@@ -1,0 +1,10 @@
+{
+    "caption": "\"A stainless steel refrigerator with a brushed metal finish and rectangular shape. Features a top freezer compartment and bottom fridge section. The tapered rim suggests it is designed for efficient cooling. Equipped with handles on both sections for easy access. Positioned in a kitchen setting, surrounded by various household items like bins, boxes, and a countertop with appliances.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/refrigerator-32/object_in_frame_1625.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/refrigerator-32/object_in_frame_1405.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/refrigerator-32/object_in_frame_2455.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/refrigerator-32/object_in_frame_2370.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/refrigerator-32/object_in_frame_1420.png"
+    ]
+}

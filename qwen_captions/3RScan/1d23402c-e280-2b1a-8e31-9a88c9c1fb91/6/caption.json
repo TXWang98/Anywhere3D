@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden possibly stool with a light brown color and circular top. The tapered rim suggests it is designed for sitting. Has a sturdy base with four legs. Likely used as a functional piece of furniture. Positioned near a table in what appears to be an indoor setting, possibly a living room or dining area.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d23402c-e280-2b1a-8e31-9a88c9c1fb91/6/object_in_frame_000260.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d23402c-e280-2b1a-8e31-9a88c9c1fb91/6/object_in_frame_000045.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d23402c-e280-2b1a-8e31-9a88c9c1fb91/6/object_in_frame_000046.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d23402c-e280-2b1a-8e31-9a88c9c1fb91/6/object_in_frame_000044.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/1d23402c-e280-2b1a-8e31-9a88c9c1fb91/6/object_in_frame_000327.png"
+    ]
+}

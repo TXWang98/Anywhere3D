@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a light green color and rectangular shape. The structure appears to have a lid and compartments inside. Likely used for storage or organization. Found on a cluttered desk surrounded by office supplies and papers.\n\nConfidence Signals:\n- \"The rectangular shape and lid suggest it's designed for storing small items.\"\n- \"While resembling a storage box, the presence of nearby office supplies indicates its use in an organizational context.\"\n- \"Inconclusive evidence for its exact contents due to the closed lid.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/shelf-16/object_in_frame_3906.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/shelf-16/object_in_frame_3927.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/shelf-16/object_in_frame_3941.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/shelf-16/object_in_frame_1841.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/shelf-16/object_in_frame_3990.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic {generic}-type object with dark coloring and rectangular shape. The tapered rim suggests it could be a frame or cover. Inconclusive evidence for its function, but it appears to be mounted on the wall. Located above a shelf with decorative items like a wreath and near a window.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331990/5/object_in_frame_968.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331990/5/object_in_frame_677.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331990/5/object_in_frame_671.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331990/5/object_in_frame_676.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331990/5/object_in_frame_1001.png"
+    ]
+}

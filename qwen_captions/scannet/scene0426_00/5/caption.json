@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric garment-type object with vibrant pink and black coloring. Appears to have a puffy, quilted texture and a tapered shape. Likely worn as outerwear for warmth or fashion. Hanging on a hook alongside other garments in what seems to be a storage area with stacked containers nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/jacket-5/object_in_frame_1605.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/jacket-5/object_in_frame_156.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/jacket-5/object_in_frame_1494.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/jacket-5/object_in_frame_171.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0426_00/jacket-5/object_in_frame_201.png"
+    ]
+}

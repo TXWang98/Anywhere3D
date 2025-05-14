@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly trash can with a dark gray color and rectangular shape. Has a flat top and straight sides. Likely used for waste disposal. Positioned in a corner of a tiled room, near a wall-mounted fixture.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0441_00/wall-2/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0441_00/wall-2/object_in_frame_353.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0441_00/wall-2/object_in_frame_257.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0441_00/wall-2/object_in_frame_329.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0441_00/wall-2/object_in_frame_258.png"
+    ]
+}

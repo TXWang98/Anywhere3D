@@ -1,0 +1,10 @@
+{
+    "caption": "\"A soft fabric pillow with a plaid pattern and rectangular shape. Features alternating light and dark stripes in a woven texture. Likely used for comfort and decoration. Positioned on a brown leather sofa, alongside other cushions and clothing items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/6/object_in_frame_1508.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/6/object_in_frame_1553.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/6/object_in_frame_1735.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/6/object_in_frame_2110.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/6/object_in_frame_1506.png"
+    ]
+}

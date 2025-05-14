@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic shower curtain rod with a white and patterned fabric. The rod has a smooth, cylindrical shape and appears to be mounted on the wall. It functions as a support for hanging the shower curtain. Located in a bathroom setting near tiled walls and a toilet.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/cabinet-11/object_in_frame_1004.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/cabinet-11/object_in_frame_1236.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/cabinet-11/object_in_frame_1320.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/cabinet-11/object_in_frame_1224.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/cabinet-11/object_in_frame_1016.png"
+    ]
+}

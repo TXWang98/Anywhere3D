@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly decorative-type object with a multi-colored and reflective surface. The structure features elongated, curved stems supporting spherical elements in various hues. While resembling an artistic arrangement, the presence of vibrant colors suggests it may be designed for aesthetic appeal rather than functional use. Positioned near a window, it appears to be part of a bedroom setting, complementing the overall decor alongside a bed and desk area.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0144_00/curtain-17/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0144_00/curtain-17/object_in_frame_92.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0144_00/curtain-17/object_in_frame_628.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0144_00/curtain-17/object_in_frame_106.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0144_00/curtain-17/object_in_frame_116.png"
+    ]
+}

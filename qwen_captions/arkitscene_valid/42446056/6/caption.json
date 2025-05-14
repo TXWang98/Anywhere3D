@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic toy-type object with purple and pink coloring. Rounded, elongated shape with smooth texture. Likely a handheld plaything or accessory. Found on a child's table alongside books and other toys in a brightly lit room.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446056/6/object_in_frame_2151.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446056/6/object_in_frame_1975.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446056/6/object_in_frame_2165.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446056/6/object_in_frame_1978.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42446056/6/object_in_frame_2001.png"
+    ]
+}

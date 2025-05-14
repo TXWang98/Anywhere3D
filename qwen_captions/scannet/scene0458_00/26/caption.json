@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic cleaning tool with a teal and purple color scheme. The object has an elongated handle and a rectangular base, suggesting it is designed for mopping or sweeping. Its placement near the toilet and other cleaning supplies in a bathroom setting indicates its use for floor maintenance tasks.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/swiffer-26/object_in_frame_1392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/swiffer-26/object_in_frame_1059.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/swiffer-26/object_in_frame_1080.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/swiffer-26/object_in_frame_1299.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/swiffer-26/object_in_frame_1086.png"
+    ]
+}

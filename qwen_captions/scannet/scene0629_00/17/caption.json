@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric container-type object with multicolored patterns and irregular shape. Appears to be soft and flexible, with no rigid structure. Likely used for storage or as a decorative item. Positioned on a shelf unit in a room setting, surrounded by various household items like clothes and boxes.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/shelf-17/object_in_frame_2328.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/shelf-17/object_in_frame_2268.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/shelf-17/object_in_frame_1124.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/shelf-17/object_in_frame_2240.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/shelf-17/object_in_frame_2368.png"
+    ]
+}

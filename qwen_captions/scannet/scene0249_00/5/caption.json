@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric-covered armchair with a rich red color and an upright, cushioned shape. Features a padded seat and backrest with metal armrests and legs. Provides comfortable seating for relaxation or conversation. Positioned against the wall in a meeting room setting, near other chairs and a table.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/stack of chairs-5/object_in_frame_1392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/stack of chairs-5/object_in_frame_1476.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/stack of chairs-5/object_in_frame_1424.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/stack of chairs-5/object_in_frame_1396.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0249_00/stack of chairs-5/object_in_frame_1408.png"
+    ]
+}

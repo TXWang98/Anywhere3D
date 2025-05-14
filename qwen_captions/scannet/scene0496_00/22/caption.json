@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly wooden chalkboard-type object with a dark gray surface and rectangular shape. The tapered rim suggests it is designed for writing with chalk. Its flat, smooth texture indicates its use as a writing surface. Likely used for educational or presentation purposes. Positioned on the wall of a classroom setting, adjacent to a projector screen and surrounded by chairs and windows.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/blackboard-22/object_in_frame_36.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/blackboard-22/object_in_frame_54.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/blackboard-22/object_in_frame_44.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/blackboard-22/object_in_frame_38.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0496_00/blackboard-22/object_in_frame_52.png"
+    ]
+}

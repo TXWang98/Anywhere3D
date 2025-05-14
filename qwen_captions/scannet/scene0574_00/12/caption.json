@@ -1,0 +1,10 @@
+{
+    "caption": "A white plastic iron with a rectangular shape and smooth surface. The tapered rim suggests it is designed for precision ironing. It has a cord attached, indicating it's electrically powered. Positioned on a metal rack next to an ironing board in what appears to be a laundry or utility area.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0574_00/iron-12/object_in_frame_328.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0574_00/iron-12/object_in_frame_293.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0574_00/iron-12/object_in_frame_300.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0574_00/iron-12/object_in_frame_280.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0574_00/iron-12/object_in_frame_287.png"
+    ]
+}

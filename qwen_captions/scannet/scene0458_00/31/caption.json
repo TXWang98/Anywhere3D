@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic container-type object with a dark color and cylindrical shape. The tapered rim suggests it could be a trash bin. While resembling a vase, the presence of a plastic bag inside indicates its use for waste disposal. Inconclusive evidence for additional structural features. Found in a bathroom setting near a toilet and cleaning supplies.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/box-31/object_in_frame_1254.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/box-31/object_in_frame_1263.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/box-31/object_in_frame_1257.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/box-31/object_in_frame_1260.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0458_00/box-31/object_in_frame_1269.png"
+    ]
+}

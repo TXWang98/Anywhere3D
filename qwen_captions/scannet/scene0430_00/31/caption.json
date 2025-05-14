@@ -1,0 +1,10 @@
+{
+    "caption": "\"A whiteboard-type object with a clean, white surface and rectangular shape. Has a horizontal metal rail at the bottom. Likely used for writing and presentations. Positioned on a wall in a classroom setting, surrounded by desks and chairs.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0430_00/whiteboard-31/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0430_00/whiteboard-31/object_in_frame_1557.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0430_00/whiteboard-31/object_in_frame_1584.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0430_00/whiteboard-31/object_in_frame_237.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0430_00/whiteboard-31/object_in_frame_1575.png"
+    ]
+}

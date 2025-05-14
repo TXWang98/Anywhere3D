@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric-type object with light gray coloring and crumpled shape. Appears soft and textured. Likely a discarded piece of cloth or towel. Found on the floor beneath a white sink, near a vent and plumbing pipes.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/bathroom vanity-8/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/bathroom vanity-8/object_in_frame_1122.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/bathroom vanity-8/object_in_frame_1284.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/bathroom vanity-8/object_in_frame_1224.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0550_00/bathroom vanity-8/object_in_frame_1134.png"
+    ]
+}

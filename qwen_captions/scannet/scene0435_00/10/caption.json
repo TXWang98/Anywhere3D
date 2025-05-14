@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric garment-type object with dark coloring and irregular shape. Appears crumpled and lacks distinct structural features. Likely intended for clothing or accessory use. Placed on a bed, near other items like pillows and luggage in what seems to be a hotel room setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/bed-10/object_in_frame_1270.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/bed-10/object_in_frame_1365.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/bed-10/object_in_frame_1345.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/bed-10/object_in_frame_1195.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/bed-10/object_in_frame_1315.png"
+    ]
+}

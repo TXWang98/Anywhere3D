@@ -1,0 +1,10 @@
+{
+    "caption": "\"A black office chair with a cushioned seat and backrest. Has an ergonomic design with adjustable armrests and a five-wheel base. Likely used for prolonged sitting in a workspace. Positioned near a desk, surrounded by personal items like bags and clothing.\"\n\n\"A possibly fabric backpack-type object with dark coloring and multiple straps. Appears to have compartments and zippers. Likely used for carrying personal belongings. Resting on the floor beside other bags and near a water bottle.\"\n\n\"Inconclusive evidence for the category of the object; it appears to be a bag or container-type object with dark material and red accents. The shape is somewhat rectangular with visible straps. Possibly used for storage or transport. Placed on the floor against a wall, near other similar objects.\"\n\n\"A possibly fabric backpack-type object with dark coloring and various straps. Features include multiple pockets and a structured form. Likely designed for carrying items securely. Located on the floor next to other bags and near a chair.\"\n\n\"A black office chair with a cushioned seat and backrest. Has an ergonomic design with adjustable armrests and a five-wheel base. Likely used for prolonged sitting in a workspace. Positioned near a wooden chair and some personal items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/chair-1/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/chair-1/object_in_frame_3353.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/chair-1/object_in_frame_3395.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/chair-1/object_in_frame_3213.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/chair-1/object_in_frame_1862.png"
+    ]
+}

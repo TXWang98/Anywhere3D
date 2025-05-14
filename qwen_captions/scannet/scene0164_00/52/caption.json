@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly wooden cabinet with a natural finish and rectangular shape. The tapered rim suggests it is designed for storage. Likely used for holding kitchen items. Positioned above the countertop, adjacent to a sink area with various cleaning supplies and utensils.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/wall-52/object_in_frame_1557.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/wall-52/object_in_frame_1473.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/wall-52/object_in_frame_1524.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/wall-52/object_in_frame_1548.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/wall-52/object_in_frame_1542.png"
+    ]
+}

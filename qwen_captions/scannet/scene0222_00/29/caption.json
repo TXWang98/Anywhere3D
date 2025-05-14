@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic fan with a dark gray color and cylindrical shape. Features a vented front grille and rounded top. Likely used for air circulation. Positioned on the floor near sliding glass doors with blinds.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/window-29/object_in_frame_2916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/window-29/object_in_frame_2853.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/window-29/object_in_frame_2943.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/window-29/object_in_frame_2844.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/window-29/object_in_frame_2835.png"
+    ]
+}

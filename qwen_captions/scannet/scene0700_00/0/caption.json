@@ -1,0 +1,10 @@
+{
+    "caption": "\"A black mesh office chair with a ergonomic design and five-pointed base. Features adjustable armrests and a cushioned seat. Designed for prolonged sitting comfort. Positioned in front of a desk with computer peripherals and office supplies.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/chair-0/object_in_frame_3703.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/chair-0/object_in_frame_2905.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/chair-0/object_in_frame_2555.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/chair-0/object_in_frame_3731.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0700_00/chair-0/object_in_frame_2632.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic container-type object with dark coloring and rectangular shape. Inconclusive evidence for its structure or texture details due to the angle and lighting. Its function is ambiguous, potentially for storage or as part of a larger appliance. Located on an upper shelf in a kitchen setting, surrounded by other kitchenware items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261121/15/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261121/15/object_in_frame_351.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261121/15/object_in_frame_159.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261121/15/object_in_frame_141.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45261121/15/object_in_frame_341.png"
+    ]
+}

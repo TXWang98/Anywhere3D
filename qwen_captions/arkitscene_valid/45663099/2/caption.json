@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden cabinet with a natural finish and rectangular shape. Features glass-paneled doors, multiple shelves, and decorative knobs. Likely used for storage and display. Positioned against a wall in a living space, surrounded by plants, a lamp, and wall decorations.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663099/2/object_in_frame_355.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663099/2/object_in_frame_350.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663099/2/object_in_frame_685.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663099/2/object_in_frame_684.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663099/2/object_in_frame_774.png"
+    ]
+}

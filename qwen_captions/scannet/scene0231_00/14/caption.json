@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic door with a light beige color and rectangular shape. The smooth surface and hinges suggest it's designed for opening and closing. Likely serves as an entrance or closet door. Positioned on a wall adjacent to informational posters and near a patterned couch in a living space.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/closet door-14/object_in_frame_742.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/closet door-14/object_in_frame_3360.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/closet door-14/object_in_frame_728.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/closet door-14/object_in_frame_721.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/closet door-14/object_in_frame_637.png"
+    ]
+}

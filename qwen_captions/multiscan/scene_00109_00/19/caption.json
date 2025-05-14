@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy black and transparent speaker with a dome shape. Features a sleek, modern design with visible internal components. Likely used for audio playback. Positioned on a wooden table in a room with chairs and a sofa nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/19/object_in_frame_15296.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/19/object_in_frame_15622.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/19/object_in_frame_15385.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/19/object_in_frame_11593.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/19/object_in_frame_15237.png"
+    ]
+}

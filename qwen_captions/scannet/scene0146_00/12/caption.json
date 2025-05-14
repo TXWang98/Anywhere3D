@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic soap dispenser with a dark gray and white color scheme. Rectangular shape with a small dispensing slot near the bottom. The tapered rim suggests it's designed for wall mounting. Likely used for dispensing liquid soap in a public restroom setting. Positioned on the wall next to a sink, with a mirror above and a door nearby.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/soap dispenser-12/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/soap dispenser-12/object_in_frame_524.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/soap dispenser-12/object_in_frame_558.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/soap dispenser-12/object_in_frame_380.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0146_00/soap dispenser-12/object_in_frame_502.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A white possibly plastic range hood with a rectangular shape. Has a smooth surface and vented top. Likely designed for air circulation above the stove. Positioned directly over the cooktop in a kitchen setting, surrounded by cabinets and cooking appliances.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/range hood-23/object_in_frame_165.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/range hood-23/object_in_frame_1251.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/range hood-23/object_in_frame_1275.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/range hood-23/object_in_frame_186.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/range hood-23/object_in_frame_162.png"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "caption": "\"A possibly plastic container-type object with a translucent appearance and cylindrical shape. The tapered rim suggests it might be a bottle or jar. Inconclusive evidence for its exact function, but it could be used for storing small items. Found on a bathroom windowsill near other toiletries and personal care products.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/29/object_in_frame_000144.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0988ea78-eb32-2e61-80ee-e4a44170bce9/29/object_in_frame_000118.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly cardboard box-type object with white coloring and rectangular shape. Has a visible handle and blue labeling. Likely used for storage or transport. Positioned on a desk alongside computer equipment and office supplies.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/desk-16/object_in_frame_2586.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/desk-16/object_in_frame_3168.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/desk-16/object_in_frame_2802.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/desk-16/object_in_frame_2838.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/desk-16/object_in_frame_2922.png"
+    ]
+}

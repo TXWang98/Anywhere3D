@@ -1,0 +1,7 @@
+{
+    "caption": "The image provided does not contain a green bounding box or any object that can be analyzed as described. The images show interior spaces, likely hotel rooms or similar accommodations, but no specific objects are highlighted for analysis. If you have an image with a green bounding box around an object, please provide it, and I will be happy to analyze it according to the given template.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/00d42bed-778d-2ac6-86a7-0e0e5f5f5660/21/object_in_frame_000068.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/00d42bed-778d-2ac6-86a7-0e0e5f5f5660/21/object_in_frame_000021.png"
+    ]
+}

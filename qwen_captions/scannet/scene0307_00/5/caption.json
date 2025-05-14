@@ -1,0 +1,10 @@
+{
+    "caption": "A stainless steel sink with a metallic finish and rectangular shape. The basin has a smooth, reflective surface with a slightly curved edge design. Primarily used for washing dishes and food preparation. Positioned in a kitchen setting, adjacent to a countertop with various cleaning supplies like detergent and a spray bottle nearby.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/sink-5/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/sink-5/object_in_frame_645.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/sink-5/object_in_frame_102.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/sink-5/object_in_frame_714.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0307_00/sink-5/object_in_frame_48.png"
+    ]
+}

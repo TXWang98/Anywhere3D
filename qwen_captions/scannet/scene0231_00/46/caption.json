@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden possibly cabinet-type object with a dark brown finish and rectangular shape. Features multiple drawers and cabinets with metallic handles. Likely used for storage in a kitchen setting. Positioned adjacent to a countertop cluttered with various items like books, papers, and containers.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/kitchen cabinets-46/object_in_frame_1323.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/kitchen cabinets-46/object_in_frame_3983.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/kitchen cabinets-46/object_in_frame_1302.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/kitchen cabinets-46/object_in_frame_1239.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/kitchen cabinets-46/object_in_frame_938.png"
+    ]
+}

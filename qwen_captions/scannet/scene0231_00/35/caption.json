@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly paper stack with white and beige coloring and rectangular shape. Appears to be a collection of documents or files. Likely used for storage or organization purposes. Found on the floor near a cluttered desk area with various office supplies and books around.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/book-35/object_in_frame_2891.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/book-35/object_in_frame_1932.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/book-35/object_in_frame_1029.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/book-35/object_in_frame_1981.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/book-35/object_in_frame_1862.png"
+    ]
+}

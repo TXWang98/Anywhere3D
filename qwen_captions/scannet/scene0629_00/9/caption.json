@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly wooden table with a dark brown finish and rectangular shape. Has a flat surface and straight edges. Likely used for placing items or as a decorative piece. Positioned near a staircase railing in a hallway setting, adjacent to a wall-mounted artwork and an open door.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/wall-9/object_in_frame_1296.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/wall-9/object_in_frame_1328.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/wall-9/object_in_frame_2384.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/wall-9/object_in_frame_1312.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0629_00/wall-9/object_in_frame_1300.png"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "caption": "\"A possibly fabric-type object with muted tones and irregular shape. Appears crumpled and lacks defined structure. Function unclear, potentially a piece of clothing or bedding. Seen on the floor near a patterned rug in a corner of a room.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/283ccfeb-107c-24d5-8bbf-05519a3c7c47/17/object_in_frame_000063.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/283ccfeb-107c-24d5-8bbf-05519a3c7c47/17/object_in_frame_000064.png"
+    ]
+}

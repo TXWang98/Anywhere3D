@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly wooden bookshelf with a variety of colors and rectangular shape. Holds numerous books and board games, indicating its function as a storage unit for reading materials and entertainment items. Positioned in what appears to be a library or bookstore setting, surrounded by other similar shelves filled with books. The presence of board games on the lower shelves suggests it may also serve a dual purpose for leisure activities.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-39/object_in_frame_948.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-39/object_in_frame_852.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-39/object_in_frame_816.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-39/object_in_frame_849.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0208_00/books-39/object_in_frame_819.png"
+    ]
+}

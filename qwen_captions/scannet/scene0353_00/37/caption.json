@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic mug with a light beige color and cylindrical shape. The tapered rim suggests it's designed for drinking. It appears to have a smooth texture. Likely used for beverages. Found on a cluttered desk surrounded by various items like papers, electronics, and other personal belongings.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/bowl-37/object_in_frame_2328.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/bowl-37/object_in_frame_2208.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/bowl-37/object_in_frame_732.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/bowl-37/object_in_frame_764.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0353_00/bowl-37/object_in_frame_856.png"
+    ]
+}

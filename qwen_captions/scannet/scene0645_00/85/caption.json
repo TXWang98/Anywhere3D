@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric container-type object with white coloring and a flat, irregular shape. Appears to have soft texture and flexible structure. Likely used for storing or transporting items. Found on the floor near a backpack and other personal belongings in a bedroom setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/shoes-85/object_in_frame_2891.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/shoes-85/object_in_frame_2737.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/shoes-85/object_in_frame_2877.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/shoes-85/object_in_frame_2828.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0645_00/shoes-85/object_in_frame_2653.png"
+    ]
+}

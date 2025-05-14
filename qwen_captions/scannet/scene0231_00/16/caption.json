@@ -1,0 +1,10 @@
+{
+    "caption": "A matte canvas possibly painting with muted blue and gray tones and rectangular shape. Appears to depict a landscape scene, potentially a coastal view. The flat surface suggests it's meant for wall decoration. Positioned on a living room wall near other framed artwork and furniture like a sofa and recliner.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/picture-16/object_in_frame_567.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/picture-16/object_in_frame_3311.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/picture-16/object_in_frame_1694.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/picture-16/object_in_frame_483.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/picture-16/object_in_frame_1666.png"
+    ]
+}

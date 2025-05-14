@@ -1,0 +1,10 @@
+{
+    "caption": "\"A [possibly] bathroom stall with [beige] and [rectangular]. [Smooth, flat door surface with a metallic latch]. [Designed for privacy and functionality in a restroom setting]. [Located within a tiled bathroom environment, adjacent to other stalls and fixtures].\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/bathroom stall door-0/object_in_frame_670.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/bathroom stall door-0/object_in_frame_508.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/bathroom stall door-0/object_in_frame_526.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/bathroom stall door-0/object_in_frame_562.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0686_00/bathroom stall door-0/object_in_frame_578.png"
+    ]
+}

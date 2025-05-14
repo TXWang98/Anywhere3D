@@ -1,0 +1,10 @@
+{
+    "caption": "\"A [transparent] window with [neutral] and [rectangular]. Has a grid pattern on the glass. Allows natural light to enter the room. Positioned above a radiator, adjacent to a colorful mural and near a table and chairs.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/window-3/object_in_frame_2125.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/window-3/object_in_frame_2135.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/window-3/object_in_frame_1125.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/window-3/object_in_frame_2130.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0616_00/window-3/object_in_frame_1120.png"
+    ]
+}

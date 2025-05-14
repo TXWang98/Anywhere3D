@@ -1,0 +1,10 @@
+{
+    "caption": "A transparent glass vase with a clear and reflective surface. The vase has a fluted body shape with a slightly tapered rim, suggesting it is designed to hold flowers. It contains an arrangement of colorful artificial flowers, including red, yellow, and pink blooms. The vase is placed on a round wooden table in a living room setting, surrounded by furniture such as a blue sofa and patterned armchairs.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/plant-20/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/plant-20/object_in_frame_353.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/plant-20/object_in_frame_300.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/plant-20/object_in_frame_329.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0549_00/plant-20/object_in_frame_361.png"
+    ]
+}

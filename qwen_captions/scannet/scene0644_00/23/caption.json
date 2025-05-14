@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy white possibly monitor-type object with a rectangular shape. The tapered rim suggests it could be part of a computer setup. Its smooth surface and structured edges indicate a modern design. Likely used for displaying digital content. Positioned on a desk alongside other monitors, keyboards, and mice in an office environment.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/monitor-23/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/monitor-23/object_in_frame_1263.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/monitor-23/object_in_frame_1275.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/monitor-23/object_in_frame_1050.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0644_00/monitor-23/object_in_frame_1269.png"
+    ]
+}

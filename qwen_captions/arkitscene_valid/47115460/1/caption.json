@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic tool-type object, matte silver with angular grooves. Ambiguous function between wrench or specialized clamp. Seen in workshop environment near assembly parts.\"\n\n\"A white cabinet with a rectangular shape and smooth surface. Features multiple drawers and a flat top. Likely used for storage. Positioned along the kitchen wall beside an oven and countertop.\"\n\n\"Inconclusive evidence for the category of the object in the green bounding box. Appears to be part of a doorway or structural element. No distinct attributes or functional affordances can be determined. Located in a hallway leading to another room.\"\n\n\"The tapered rim suggests a container-type object with a translucent material and cylindrical shape. Has a narrow neck and wider base. Possibly used for storing liquids. Found on a kitchen counter near other appliances and utensils.\"\n\n\"While resembling a vase, the presence of water droplets and fluted body shape indicates a possibly glass vase-type object with translucent amber coloring. Likely floral display container. Found on windowsill with plants and pruning shears nearby.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115460/1/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115460/1/object_in_frame_353.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115460/1/object_in_frame_11.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115460/1/object_in_frame_382.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47115460/1/object_in_frame_371.png"
+    ]
+}

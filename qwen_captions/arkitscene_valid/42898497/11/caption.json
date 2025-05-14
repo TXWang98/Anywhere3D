@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy black possibly flat-screen television with a rectangular shape. The frame is slim and modern, reflecting light on its surface. Likely designed for entertainment purposes. Mounted on a wall above a wooden shelf in a living room setting, surrounded by decorative items and furniture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/11/object_in_frame_2923.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/11/object_in_frame_1251.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/11/object_in_frame_1244.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/11/object_in_frame_2997.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42898497/11/object_in_frame_1245.png"
+    ]
+}

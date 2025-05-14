@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with light blue and white coloring. Rectangular shape with rounded edges and a lid. Appears to be used for storage or organization. Positioned on a shelf within a child's bedroom, surrounded by toys and other personal items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332893/3/object_in_frame_1379.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332893/3/object_in_frame_508.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332893/3/object_in_frame_1355.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332893/3/object_in_frame_1358.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47332893/3/object_in_frame_1369.png"
+    ]
+}

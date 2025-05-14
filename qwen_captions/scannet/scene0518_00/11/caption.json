@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly translucent plastic container-type object with a light gray color and rectangular shape. Features a smooth surface and appears to have a lid or cover. Likely used for storage or display purposes. Positioned on a wall-mounted shelf above a desk area, near decorative items and office supplies.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0518_00/cabinet-11/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0518_00/cabinet-11/object_in_frame_672.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0518_00/cabinet-11/object_in_frame_24.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0518_00/cabinet-11/object_in_frame_68.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0518_00/cabinet-11/object_in_frame_122.png"
+    ]
+}

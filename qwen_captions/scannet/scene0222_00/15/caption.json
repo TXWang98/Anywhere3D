@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric possibly storage container with dark gray coloring and rectangular shape. Has a soft, flexible structure with visible contents inside. Likely used for storing clothes or linens. Positioned on the floor near a bed and other storage items in a bedroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/laundry hamper-15/object_in_frame_3672.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/laundry hamper-15/object_in_frame_3645.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/laundry hamper-15/object_in_frame_3627.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/laundry hamper-15/object_in_frame_3996.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0222_00/laundry hamper-15/object_in_frame_3888.png"
+    ]
+}

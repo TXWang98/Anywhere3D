@@ -1,0 +1,8 @@
+{
+    "caption": "\"A metallic possibly door handle with a silver finish and elongated shape. Features a lever mechanism for operation. Likely used for opening doors. Positioned on a dark-colored door in an indoor setting, near a wall and another door visible from different angles.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/39/object_in_frame_000036.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/39/object_in_frame_000512.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7547-8d6f-2d13-8c9c-08cad6632f46/39/object_in_frame_000035.png"
+    ]
+}

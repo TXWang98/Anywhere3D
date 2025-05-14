@@ -1,0 +1,10 @@
+{
+    "caption": "A fabric armchair with gray upholstery and a striped cushion. The chair has a modern design with clean lines and metal armrests. Provides seating comfort. Positioned in a living room setting with patterned carpeting and other furniture nearby.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/37/object_in_frame_6486.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/37/object_in_frame_3171.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/37/object_in_frame_6534.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/37/object_in_frame_1992.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/37/object_in_frame_2088.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A translucent plastic container-type object with green tinting and a cylindrical shape. Contains various small items, including what appears to be a purple object and white fragments. Likely used for storage or as a temporary receptacle. Positioned on the floor near a wooden dresser, with books and shoes stacked on top of the dresser. The tapered rim suggests it could be repurposed from a food container.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/trash can-2/object_in_frame_324.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/trash can-2/object_in_frame_312.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/trash can-2/object_in_frame_320.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/trash can-2/object_in_frame_316.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0697_00/trash can-2/object_in_frame_264.png"
+    ]
+}

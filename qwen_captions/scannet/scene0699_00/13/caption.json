@@ -1,0 +1,10 @@
+{
+    "caption": "A white closet with a rectangular shape. Features louvered doors and an interior shelf. Serves as storage for clothing and miscellaneous items. Located in a residential setting, possibly a bedroom or hallway.\n\nAnalysis across multiple viewpoints confirms the object's function as a storage unit. The consistent presence of hanging clothes and stored items supports this categorization. The structure remains unchanged, reinforcing its role as a closet.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/closet-13/object_in_frame_1392.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/closet-13/object_in_frame_1371.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/closet-13/object_in_frame_1356.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/closet-13/object_in_frame_1350.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/closet-13/object_in_frame_1347.png"
+    ]
+}

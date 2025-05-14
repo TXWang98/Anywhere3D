@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly ceramic vase-type object with green and brown coloring. Has a slender, tapered shape with visible foliage extending outward. Likely used for decorative purposes or as a plant holder. Positioned on a countertop near other household items like baskets and a trash bin.\n\nConfidence Signals:\n- \"The tapered rim suggests it could be a vase.\"\n- \"While resembling a vase, the presence of leaves indicates it might contain a plant.\"\n- \"Inconclusive evidence for its exact function due to limited context.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/plant-13/object_in_frame_1996.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/plant-13/object_in_frame_96.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/plant-13/object_in_frame_2128.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/plant-13/object_in_frame_128.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0606_00/plant-13/object_in_frame_2092.png"
+    ]
+}

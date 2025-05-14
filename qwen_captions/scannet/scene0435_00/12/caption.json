@@ -1,0 +1,10 @@
+{
+    "caption": "A ceramic toilet with white coloring and a rounded, compact shape. Features a standard tank and bowl design with a flush handle on the side. Used for personal hygiene in bathrooms. Positioned next to a bathtub with a shower curtain and a trash bin nearby.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/toilet-12/object_in_frame_2475.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/toilet-12/object_in_frame_2145.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/toilet-12/object_in_frame_2455.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/toilet-12/object_in_frame_2750.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0435_00/toilet-12/object_in_frame_2160.png"
+    ]
+}

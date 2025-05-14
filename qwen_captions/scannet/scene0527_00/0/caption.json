@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly fabric curtain-type object with a neutral beige color and vertical rectangular shape. Appears to have a soft, lightweight texture. Likely used for privacy or light control in a bathroom setting. Positioned along the wall, partially covering what seems to be a bathtub area, with towels hanging nearby on a rack.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0527_00/curtain-0/object_in_frame_438.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0527_00/curtain-0/object_in_frame_450.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0527_00/curtain-0/object_in_frame_440.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0527_00/curtain-0/object_in_frame_443.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0527_00/curtain-0/object_in_frame_456.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly hinge-type object with silver coloring and elongated shape. Features a central pivot mechanism and smooth surface texture. Likely used for connecting and allowing movement between two solid objects. Positioned along the edge of a white door frame, adjacent to a wall corner.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/34/object_in_frame_12544.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/34/object_in_frame_12597.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/34/object_in_frame_12649.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/34/object_in_frame_12639.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00107_00/34/object_in_frame_12565.png"
+    ]
+}

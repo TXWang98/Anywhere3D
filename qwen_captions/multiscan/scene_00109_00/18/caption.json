@@ -1,0 +1,10 @@
+{
+    "caption": "\"A glossy black suitcase with a rectangular shape. Features a smooth surface and visible wheels. Designed for travel and storage of personal items. Positioned on a wooden table in a living room setting, near chairs and a sofa.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/18/object_in_frame_4383.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/18/object_in_frame_4303.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/18/object_in_frame_6384.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/18/object_in_frame_4502.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/18/object_in_frame_4462.png"
+    ]
+}

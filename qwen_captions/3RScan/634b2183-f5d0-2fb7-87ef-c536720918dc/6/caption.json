@@ -1,0 +1,10 @@
+{
+    "caption": "1. **Image 1**:  \n\"A possibly plastic chair with black and ergonomic shape. Has a curved backrest and armrests. Designed for seating comfort. Positioned under a desk in an office setting.\"\n\n2. **Image 2**:  \n\"A metallic laptop with dark gray coloring and rectangular shape. Smooth surface with visible ports on the side. Used for computing tasks. Placed on a countertop near a curtain.\"\n\n3. **Image 3**:  \n\"A metallic cabinet with silver coloring and rectangular shape. Features doors and handles. Likely used for storage. Located in a bathroom environment near a toilet and trash bin.\"\n\n4. **Image 4**:  \n\"Inconclusive evidence for a [category]. Possibly a small object with indistinct features. No clear color or shape details. Function unknown. Found on a flat surface near a curtain.\"\n\n5. **Image 5**:  \n\"A metallic cabinet with silver coloring and rectangular shape. Features doors and handles. Likely used for storage. Located in a bathroom environment near a toilet and trash bin.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/6/object_in_frame_000039.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/6/object_in_frame_000011.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/6/object_in_frame_000003.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/6/object_in_frame_000012.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/634b2183-f5d0-2fb7-87ef-c536720918dc/6/object_in_frame_000000.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A plastic toilet seat cover with a playful blue whale pattern and rounded shape. Features a soft, flexible texture designed to fit over the existing seat. Provides comfort and hygiene for young children. Positioned on top of a standard white toilet in a bathroom setting, surrounded by toiletries and a shower curtain.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663115/2/object_in_frame_161.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663115/2/object_in_frame_156.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663115/2/object_in_frame_191.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663115/2/object_in_frame_68.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/45663115/2/object_in_frame_195.png"
+    ]
+}

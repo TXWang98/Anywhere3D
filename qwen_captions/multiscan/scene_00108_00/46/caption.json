@@ -1,0 +1,10 @@
+{
+    "caption": "\"A stainless steel pressure cooker with a black lid and cylindrical shape. Features a digital display and control buttons on the front panel. Designed for cooking food under high pressure. Positioned on a kitchen countertop next to an electric kettle and a spatula.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/46/object_in_frame_968.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/46/object_in_frame_1848.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/46/object_in_frame_1816.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/46/object_in_frame_1879.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/46/object_in_frame_1871.png"
+    ]
+}

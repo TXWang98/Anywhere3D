@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic recycling bin with black coloring and a rectangular shape. Has a circular opening at the top and a label indicating recyclable materials. Likely used for waste separation. Positioned near another trash bin in an office setting, close to a whiteboard and some boxes.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/trash can-22/object_in_frame_1794.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/trash can-22/object_in_frame_1860.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/trash can-22/object_in_frame_1974.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/trash can-22/object_in_frame_2004.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0653_00/trash can-22/object_in_frame_1764.png"
+    ]
+}

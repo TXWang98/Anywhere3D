@@ -1,0 +1,10 @@
+{
+    "caption": "\"A cardboard box-type object with a light brown color and rectangular shape. The surface appears slightly worn with visible creases and folds. Likely used for storage or transport. Positioned against a wall, partially covered by a yellow fabric, in a cluttered room with various items scattered around.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/clothes-20/object_in_frame_534.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/clothes-20/object_in_frame_1689.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/clothes-20/object_in_frame_1659.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/clothes-20/object_in_frame_1647.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0695_00/clothes-20/object_in_frame_1656.png"
+    ]
+}

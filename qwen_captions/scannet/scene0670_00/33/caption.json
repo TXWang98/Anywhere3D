@@ -1,0 +1,10 @@
+{
+    "caption": "A framed picture with a black border and rectangular shape. Displays an illustration of a bucket filled with fruits and vegetables, along with scattered produce on the surface below. Likely serves as decorative wall art. Positioned on a white wall among other similar framed illustrations.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/picture-33/object_in_frame_2955.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/picture-33/object_in_frame_2995.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/picture-33/object_in_frame_2950.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/picture-33/object_in_frame_2865.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/picture-33/object_in_frame_2860.png"
+    ]
+}

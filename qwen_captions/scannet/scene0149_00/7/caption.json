@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white ceramic oven with a clean and smooth surface. Features a rectangular shape with multiple control knobs on the front panel. The presence of a towel hanging from the handle suggests it is used for cooking and baking. Positioned in a kitchen setting, adjacent to dark wooden cabinets and a countertop with various kitchen items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0149_00/stove-7/object_in_frame_984.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0149_00/stove-7/object_in_frame_178.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0149_00/stove-7/object_in_frame_954.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0149_00/stove-7/object_in_frame_1006.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0149_00/stove-7/object_in_frame_38.png"
+    ]
+}

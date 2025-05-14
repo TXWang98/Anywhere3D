@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly oven door with a transparent window and rectangular shape. The glass panel allows visibility into the interior. Likely used for monitoring cooking progress. Positioned adjacent to white kitchen drawers.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/45/object_in_frame_1916.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/45/object_in_frame_1833.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/45/object_in_frame_1928.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/45/object_in_frame_1821.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00108_00/45/object_in_frame_1749.png"
+    ]
+}

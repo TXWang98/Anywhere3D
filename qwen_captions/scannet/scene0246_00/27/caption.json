@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly plastic container-type object with a red and white color pattern. Rectangular shape with a flat top surface. Inconclusive evidence for its specific function, but it may be used for storage or as a small bin. Located on the floor near a toilet in a bathroom setting, adjacent to a shower curtain and a black mat.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/object-27/object_in_frame_1412.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/object-27/object_in_frame_1080.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/object-27/object_in_frame_1428.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/object-27/object_in_frame_1068.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0246_00/object-27/object_in_frame_1076.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly glass container-type object with a transparent appearance and cylindrical shape. The tapered rim suggests it could be a vase or decorative holder. Its smooth surface reflects light, indicating a polished finish. Likely used for holding flowers or as an ornamental piece. Positioned on a patterned rug in a living room setting, near a cushion and other furniture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899679/5/object_in_frame_3.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899679/5/object_in_frame_952.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899679/5/object_in_frame_79.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899679/5/object_in_frame_979.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42899679/5/object_in_frame_38.png"
+    ]
+}

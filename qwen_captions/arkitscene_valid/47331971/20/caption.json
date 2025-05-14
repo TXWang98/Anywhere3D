@@ -1,0 +1,10 @@
+{
+    "caption": "\"A fabric-covered bed with a dark blue and white patterned bedding. Rectangular shape with a flat surface and slightly raised edges. Likely used for sleeping or resting. Positioned against a wall in a bedroom, with a framed picture above it and a nightstand beside.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/20/object_in_frame_2862.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/20/object_in_frame_2861.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/20/object_in_frame_2848.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/20/object_in_frame_2857.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331971/20/object_in_frame_2854.png"
+    ]
+}

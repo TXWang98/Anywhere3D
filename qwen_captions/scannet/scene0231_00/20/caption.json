@@ -1,0 +1,10 @@
+{
+    "caption": "A framed artwork with a colorful and rectangular shape. Features an illustration of pandas among bamboo. Likely serves as decorative wall art. Positioned above a fireplace in a living room setting, surrounded by furniture like armchairs and a side table.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/picture-20/object_in_frame_1638.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/picture-20/object_in_frame_1596.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/picture-20/object_in_frame_3283.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/picture-20/object_in_frame_2562.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/picture-20/object_in_frame_3262.png"
+    ]
+}

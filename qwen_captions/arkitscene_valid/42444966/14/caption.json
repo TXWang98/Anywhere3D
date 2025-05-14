@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly fabric garment with purple coloring and draped shape. Appears soft and lightweight. Likely worn as outerwear or used for warmth. Hanging on the back of a chair near a woven-patterned seat.\"\n\nConfidence Signals:\n- \"The draped form suggests it is a piece of clothing.\"\n- \"While resembling a coat, the presence of folds indicates it might be made of lighter material.\"\n- \"Inconclusive evidence for its exact type due to limited visibility.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444966/14/object_in_frame_534.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444966/14/object_in_frame_656.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444966/14/object_in_frame_543.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444966/14/object_in_frame_743.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42444966/14/object_in_frame_533.png"
+    ]
+}

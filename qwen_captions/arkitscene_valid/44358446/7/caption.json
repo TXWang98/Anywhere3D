@@ -1,0 +1,10 @@
+{
+    "caption": "\"A white possibly wooden wardrobe with a rectangular shape. Features two doors with round knobs and a small drawer below. The tapered rim suggests it may have a decorative or functional trim. Likely used for storing clothes and personal items. Positioned against a wall in a bedroom setting, near a window with curtains and surrounded by various household objects like coats and furniture.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358446/7/object_in_frame_60.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358446/7/object_in_frame_80.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358446/7/object_in_frame_12.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358446/7/object_in_frame_173.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/44358446/7/object_in_frame_181.png"
+    ]
+}

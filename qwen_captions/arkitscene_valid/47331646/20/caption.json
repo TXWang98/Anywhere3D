@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden chair with a light brown finish and a rectangular backrest. The tapered rim suggests it is designed for comfortable seating. It has four legs with a slightly curved design, providing stability. Likely used for dining or casual seating. Positioned around a table covered with a patterned cloth, surrounded by other furniture pieces in a cozy room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/20/object_in_frame_1223.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/20/object_in_frame_1282.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/20/object_in_frame_1275.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/20/object_in_frame_1226.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47331646/20/object_in_frame_1268.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden cabinet with a dark brown finish and rectangular shape. Features glass-paneled doors revealing shelved contents inside. Likely used for storing dishes or kitchenware. Positioned above a countertop cluttered with papers and office supplies, adjacent to a sliding glass door leading outside.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/kitchen cabinet-52/object_in_frame_1323.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/kitchen cabinet-52/object_in_frame_3927.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/kitchen cabinet-52/object_in_frame_2926.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/kitchen cabinet-52/object_in_frame_2100.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/kitchen cabinet-52/object_in_frame_1344.png"
+    ]
+}

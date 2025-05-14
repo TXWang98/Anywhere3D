@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a light teal color and elongated shape. Features a textured grip area and a rounded end. Likely used for storing or applying personal care products. Positioned on a bathroom countertop near a sink, surrounded by various toiletries and cleaning items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/12/object_in_frame_3294.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/12/object_in_frame_3388.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/12/object_in_frame_3326.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/12/object_in_frame_3315.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/12/object_in_frame_3399.png"
+    ]
+}

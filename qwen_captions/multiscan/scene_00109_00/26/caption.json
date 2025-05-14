@@ -1,0 +1,10 @@
+{
+    "caption": "A black fabric backpack with a textured pattern and rectangular shape. Features multiple compartments and adjustable straps. Likely used for carrying personal items. Placed on a light-colored couch alongside decorative pillows and another bag.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/26/object_in_frame_5619.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/26/object_in_frame_10101.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/26/object_in_frame_9679.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/26/object_in_frame_9744.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00109_00/26/object_in_frame_9218.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly radiator-type object with a beige and silver color scheme. Features a rectangular shape with two prominent vented panels. The structure includes horizontal slats for air circulation. Likely serves as a heating unit. Positioned beneath a window, adjacent to a bed with patterned bedding in a bedroom setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/cabinet-11/object_in_frame_1605.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/cabinet-11/object_in_frame_96.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/cabinet-11/object_in_frame_1629.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/cabinet-11/object_in_frame_1716.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0699_00/cabinet-11/object_in_frame_321.png"
+    ]
+}

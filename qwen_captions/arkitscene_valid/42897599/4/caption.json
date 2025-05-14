@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic cabinet-type object with a silver finish and rectangular shape. The tapered rim suggests it may be part of a larger appliance or storage unit. Its smooth surface and lack of visible handles indicate a modern design. Likely used for storing kitchen items. Positioned above a stainless steel refrigerator in a contemporary kitchen setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/4/object_in_frame_1047.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/4/object_in_frame_2159.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/4/object_in_frame_1036.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/4/object_in_frame_1117.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/42897599/4/object_in_frame_330.png"
+    ]
+}

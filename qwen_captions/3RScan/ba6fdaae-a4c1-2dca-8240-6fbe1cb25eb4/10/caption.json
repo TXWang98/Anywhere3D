@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic container-type object with a dark blue lid and rectangular shape. The structure appears to have a hinged lid mechanism. Likely used for storing bathroom items. Found on the floor near a toilet and a towel rack in a bathroom setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ba6fdaae-a4c1-2dca-8240-6fbe1cb25eb4/10/object_in_frame_000006.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ba6fdaae-a4c1-2dca-8240-6fbe1cb25eb4/10/object_in_frame_000112.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ba6fdaae-a4c1-2dca-8240-6fbe1cb25eb4/10/object_in_frame_000109.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ba6fdaae-a4c1-2dca-8240-6fbe1cb25eb4/10/object_in_frame_000004.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/ba6fdaae-a4c1-2dca-8240-6fbe1cb25eb4/10/object_in_frame_000003.png"
+    ]
+}

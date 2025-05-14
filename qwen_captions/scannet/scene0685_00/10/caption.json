@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly metallic picture frame with a monochrome image and rectangular shape. The frame appears to have a thin profile and smooth edges. Likely used for displaying artwork or photographs. Positioned against a wall near an electrical panel, with no other objects immediately surrounding it.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0685_00/picture-10/object_in_frame_1794.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0685_00/picture-10/object_in_frame_1770.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0685_00/picture-10/object_in_frame_1791.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0685_00/picture-10/object_in_frame_1764.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0685_00/picture-10/object_in_frame_1788.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "\"A wooden sliding door with a light brown frame and grid-patterned glass panels. The structure includes a handle and lock mechanism. Provides access to an outdoor area, as suggested by the visible railing and foliage. Positioned in a living room setting, adjacent to furniture like armchairs and a desk.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/doors-8/object_in_frame_1778.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/doors-8/object_in_frame_1855.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/doors-8/object_in_frame_1750.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/doors-8/object_in_frame_238.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/doors-8/object_in_frame_1764.png"
+    ]
+}

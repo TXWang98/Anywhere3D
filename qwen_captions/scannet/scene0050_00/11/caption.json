@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy cardboard tissue box with a floral pattern and rectangular shape. Features a perforated opening for dispensing tissues. Serves as a functional container for facial tissues. Positioned on a leather ottoman alongside bags and other items in a living room setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/ottoman-11/object_in_frame_2891.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/ottoman-11/object_in_frame_2905.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/ottoman-11/object_in_frame_2625.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/ottoman-11/object_in_frame_1876.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0050_00/ottoman-11/object_in_frame_2646.png"
+    ]
+}

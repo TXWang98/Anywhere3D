@@ -1,0 +1,10 @@
+{
+    "caption": "\"A metallic possibly electric kettle with a silver and black color scheme. Has a sleek, rounded body shape with a handle and spout. The tapered rim suggests it is designed for pouring liquids. Likely used for boiling water. Positioned on a kitchen countertop near a sink, surrounded by cleaning supplies and other kitchen items.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/coffee kettle-37/object_in_frame_630.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/coffee kettle-37/object_in_frame_426.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/coffee kettle-37/object_in_frame_1518.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/coffee kettle-37/object_in_frame_447.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0164_00/coffee kettle-37/object_in_frame_522.png"
+    ]
+}

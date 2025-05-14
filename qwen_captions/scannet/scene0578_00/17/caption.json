@@ -1,0 +1,10 @@
+{
+    "caption": "A glossy black monitor with a rectangular shape. The sleek design and thin bezels suggest it's a modern display. Likely used for computer tasks or presentations. Positioned on a small desk near a whiteboard in what appears to be a classroom or meeting room setting.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0578_00/monitor-17/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0578_00/monitor-17/object_in_frame_1142.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0578_00/monitor-17/object_in_frame_338.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0578_00/monitor-17/object_in_frame_218.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0578_00/monitor-17/object_in_frame_198.png"
+    ]
+}

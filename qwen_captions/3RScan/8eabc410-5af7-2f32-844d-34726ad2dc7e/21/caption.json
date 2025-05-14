@@ -1,0 +1,7 @@
+{
+    "caption": "\"A possibly metallic {generic}-type object with a white or light gray color and elongated rectangular shape. The structure appears flat and narrow, potentially part of a larger assembly. Inconclusive evidence for its function, but it may be related to ceiling fixtures or ventilation systems. Positioned along the edge of a ceiling panel in an indoor setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/21/object_in_frame_000215.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/8eabc410-5af7-2f32-844d-34726ad2dc7e/21/object_in_frame_000214.png"
+    ]
+}

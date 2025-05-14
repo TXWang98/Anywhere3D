@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly plastic brush with a light beige bristle head and white handle. The tapered rim suggests it's designed for facial cleansing or exfoliation. Likely used for skincare routines. Found on a bathroom countertop near toiletries and a sink.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/20/object_in_frame_3202.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/20/object_in_frame_2074.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/20/object_in_frame_3116.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/20/object_in_frame_2139.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/multiscan/scene_00111_00/20/object_in_frame_2182.png"
+    ]
+}

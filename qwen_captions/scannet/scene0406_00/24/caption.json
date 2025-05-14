@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly metallic door handle with a silver finish and elongated shape. Smooth, cylindrical structure with a slight taper towards the ends. Likely designed for easy gripping and operation. Positioned vertically on a light beige door in what appears to be an indoor setting, adjacent to a dark floor and wall corner.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0406_00/wall-24/object_in_frame_1034.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0406_00/wall-24/object_in_frame_1056.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0406_00/wall-24/object_in_frame_1110.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0406_00/wall-24/object_in_frame_1058.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0406_00/wall-24/object_in_frame_1048.png"
+    ]
+}

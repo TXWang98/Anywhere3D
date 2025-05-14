@@ -1,0 +1,10 @@
+{
+    "caption": "A wooden table with a light brown finish and rectangular shape. Features a flat surface and sturdy legs. Likely used for dining or work purposes. Positioned in a room with other furniture like shelves and carts, suggesting a multi-purpose space.\n\nConfidence Signals:\n- The consistent rectangular shape across multiple viewpoints confirms it is a table.\n- The presence of similar tables and shelving units in the surrounding area supports its function as a workspace or dining area.\n- Inconclusive evidence for specific material properties beyond wood due to image resolution.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0343_00/table-12/object_in_frame_342.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0343_00/table-12/object_in_frame_1186.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0343_00/table-12/object_in_frame_290.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0343_00/table-12/object_in_frame_218.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0343_00/table-12/object_in_frame_288.png"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "caption": "A possibly ceramic fireplace with a reddish-brown color and rectangular shape. The structure features a tiled facade and a darkened interior opening. Likely serves as a heating source and decorative element. Positioned against the wall in a living room setting, near framed artwork and a patterned armchair.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/fireplace-18/object_in_frame_1638.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/fireplace-18/object_in_frame_4158.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/fireplace-18/object_in_frame_3234.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/fireplace-18/object_in_frame_483.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0231_00/fireplace-18/object_in_frame_1631.png"
+    ]
+}

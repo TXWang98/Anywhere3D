@@ -1,0 +1,8 @@
+{
+    "caption": "\"A metallic possibly tool-type object with a matte silver finish and angular grooves. Inconclusive evidence for its exact function, but it may be used for gripping or clamping. Seen in a workshop environment near assembly parts.\"\n\n---\n\n\"A white ceramic mug with a glossy finish and rounded shape. The tapered rim suggests it is designed for drinking. It has a comfortable handle and flat base. Made for holding beverages. Sitting on a table beside a glass container and some greenery.\"\n\n---\n\n\"A white ceramic mug with a glossy finish and rounded shape. The tapered rim suggests it is designed for drinking. It has a comfortable handle and flat base. Made for holding beverages. Sitting on a table beside a glass container and some greenery.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/39/object_in_frame_000101.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/39/object_in_frame_000249.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/0cac7678-8d6f-2d13-8da3-dba8636cef51/39/object_in_frame_000100.png"
+    ]
+}

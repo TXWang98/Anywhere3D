@@ -1,0 +1,10 @@
+{
+    "caption": "\"A possibly ceramic container-type object with a dark color and rectangular shape. The tapered rim suggests it may be used for storage or display purposes. Inconclusive evidence for its exact function, but it appears to be placed on a wooden shelf alongside other decorative items like figurines and toys in a living room setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204578/3/object_in_frame_224.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204578/3/object_in_frame_244.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204578/3/object_in_frame_221.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204578/3/object_in_frame_253.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/arkitscene_valid/47204578/3/object_in_frame_250.png"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "caption": "\"A possibly ceramic container-type object with a light color and rounded shape. The tapered rim suggests it could be a planter or decorative vase. It has a smooth surface and appears sturdy. Likely used for holding plants or as an ornamental piece. Positioned on a wooden shelf alongside other potted plants in a cozy indoor setting.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/21/object_in_frame_000023.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/21/object_in_frame_000111.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/21/object_in_frame_000024.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/3RScan/fcf66d8e-622d-291c-86ef-f8f2b3db7f74/21/object_in_frame_000022.png"
+    ]
+}

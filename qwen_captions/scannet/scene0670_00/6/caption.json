@@ -1,0 +1,10 @@
+{
+    "caption": "A metallic possibly container-type object with a silver finish and rectangular shape. The surface appears smooth with some reflections. Inconclusive evidence for its specific function, but it may be used for storage or as part of an appliance. Positioned on a countertop near a window, surrounded by kitchen items like a rice cooker and utensils.",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/wall-6/object_in_frame_1595.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/wall-6/object_in_frame_2225.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/wall-6/object_in_frame_2215.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/wall-6/object_in_frame_2230.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0670_00/wall-6/object_in_frame_2220.png"
+    ]
+}

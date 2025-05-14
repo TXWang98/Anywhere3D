@@ -1,0 +1,10 @@
+{
+    "caption": "A matte black dresser with horizontal slats and a rectangular shape. The drawers have a sleek, minimalist design. Likely used for storing clothing or personal items. Positioned in a retail environment near other furniture pieces like suitcases and display stands.\n\n---\n\n\"A matte black dresser with horizontal slats and a rectangular shape. The drawers have a sleek, minimalist design. Likely used for storing clothing or personal items. Positioned in a retail environment near other furniture pieces like suitcases and display stands.\"",
+    "image_paths": [
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0652_00/dresser-27/object_in_frame_670.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0652_00/dresser-27/object_in_frame_884.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0652_00/dresser-27/object_in_frame_772.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0652_00/dresser-27/object_in_frame_676.png",
+        "/mnt/bigai_ml/all_datasets/AnyWhere3D/scannet_arkitscene_3RScan_multiple_object_image/scannet_multiple_angle/scene0652_00/dresser-27/object_in_frame_688.png"
+    ]
+}
