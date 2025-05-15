@@ -154,8 +154,7 @@ class LLMBaseline():
                 patience -= 1
                 try:
                     response = self.model_client.chat.completions.create(model = self.model,
-                                                            messages = messages,
-                                                            max_tokens = 16384,
+                                                            messages = messages
                                                             )
                     prediction = response.choices[0].message.content.strip()
                     if prediction != "" and prediction != None:
@@ -217,7 +216,7 @@ def test_a_question(evaluation_level, datasetname, scene_id, scene_name, db_id, 
         messages = [{"role": "system", "content": system_prompt},
                     {"role": "user", "content": user_prompt}]
         LLM_model = LLMBaseline(model)
-        response = LLM_model.get_LLM_response(messages, max_tokens = 16384)
+        response = LLM_model.get_LLM_response(messages)
         result_dic = {
                     "evaluation_level": evaluation_level,
                     "_id": db_id,
@@ -288,50 +287,67 @@ def main(model, evaluation_level):
     
     else:
 
-        gt_dataset_path = "../anywhere3d_datasets/anywhere3d_" + evaluation_level + ".xlsx"
-        file_gt = pd.read_excel(gt_dataset_path, header = 0, index_col = 0)
+        # gt_dataset_path = "../anywhere3d_datasets/anywhere3d_" + evaluation_level + "_aligned.xlsx"
+        # file_gt = pd.read_excel(gt_dataset_path, header = 0, index_col = 0)
 
-        # gt_dataset_path = "../anywhere3d_datasets/eval_anywhere3D_aligned_total.json"
-        # with open(gt_dataset_path, "r") as f:
-        #     file_gt = json.load(f)
+        gt_dataset_path = "../anywhere3d_datasets/eval_anywhere3D_aligned_total.json"
+        with open(gt_dataset_path, "r") as f:
+            file_gt = json.load(f)
         
         questions = []
+
+        for sample in file_gt:
+            if sample["grounding_level"] == evaluation_level:
+
+                datasetname = sample["datasetname"]
+                scene_id = sample["scene_id"]
+                scene_name = sample["scene_name"]
+                db_id = sample["db_id"]
+
+                if not os.path.exists(f"./{model}/{evaluation_level}/{datasetname}-{scene_id}-{db_id}.json"):
+                    questions.append((evaluation_level, datasetname, scene_id, scene_name, db_id, sample["referring_expressions"], model))
+                else:
+                    with open(f"./{model}/{evaluation_level}/{datasetname}-{scene_id}-{db_id}.json", "r") as f:
+                        prediction_file = json.load(f)
+                        if prediction_file["pred_bbx_reasoning"] == "None" or prediction_file["pred_bbx_reasoning"] == "":
+                            questions.append((evaluation_level, datasetname, scene_id, scene_name, db_id, sample["referring_expressions"], model))
+
         
-        for index, row in file_gt.iterrows():
-            print(index)
-            if row["datasetname"] == "scannet":
-                scene_name = row["scene_id"]
-            elif row["datasetname"] == "multiscan":
-                scene_name = "scene_0" + row["scene_id"].split("_")[0][5:] + "_00"
-            elif row["datasetname"] == "3RScan":
-                scan_name_id_path = "/home/wangtianxu/Viewer/3RScan/scan_name_id.pickle"
-                with open(scan_name_id_path, "rb") as f:
-                    scan_name_id_lis = pickle.load(f)
-                scan_name_lis = [ele[0] for ele in scan_name_id_lis]
-                scan_id_lis = [ele[1] for ele in scan_name_id_lis]
-                scan_index = scan_id_lis.index(row["scene_id"])
-                scene_name = scan_name_lis[scan_index]
-            elif row["datasetname"] == "arkitscene_valid":
-                scan_name_id_path = "/home/wangtianxu/Viewer/ARKitScene/validation/scan_name_id.pickle"
-                with open(scan_name_id_path, "rb") as f:
-                    scan_name_id_lis = pickle.load(f)
-                scan_name_lis = [ele[0] for ele in scan_name_id_lis]
-                scan_id_lis = [ele[1] for ele in scan_name_id_lis]
-                scan_index = scan_id_lis.index(row["scene_id"])
-                scene_name = scan_name_lis[scan_index]
+        # for index, row in file_gt.iterrows():
+        #     print(index)
+        #     if row["datasetname"] == "scannet":
+        #         scene_name = row["scene_id"]
+        #     elif row["datasetname"] == "multiscan":
+        #         scene_name = "scene_0" + row["scene_id"].split("_")[0][5:] + "_00"
+        #     elif row["datasetname"] == "3RScan":
+        #         scan_name_id_path = "/home/wangtianxu/Viewer/3RScan/scan_name_id.pickle"
+        #         with open(scan_name_id_path, "rb") as f:
+        #             scan_name_id_lis = pickle.load(f)
+        #         scan_name_lis = [ele[0] for ele in scan_name_id_lis]
+        #         scan_id_lis = [ele[1] for ele in scan_name_id_lis]
+        #         scan_index = scan_id_lis.index(row["scene_id"])
+        #         scene_name = scan_name_lis[scan_index]
+        #     elif row["datasetname"] == "arkitscene_valid":
+        #         scan_name_id_path = "/home/wangtianxu/Viewer/ARKitScene/validation/scan_name_id.pickle"
+        #         with open(scan_name_id_path, "rb") as f:
+        #             scan_name_id_lis = pickle.load(f)
+        #         scan_name_lis = [ele[0] for ele in scan_name_id_lis]
+        #         scan_id_lis = [ele[1] for ele in scan_name_id_lis]
+        #         scan_index = scan_id_lis.index(row["scene_id"])
+        #         scene_name = scan_name_lis[scan_index]
 
-            #print(row["datasetname"], row["scene_id"], scene_name)
-            datasetname = row["datasetname"]
-            scene_id = row["scene_id"]
-            db_id = row["_id"]
+        #     #print(row["datasetname"], row["scene_id"], scene_name)
+        #     datasetname = row["datasetname"]
+        #     scene_id = row["scene_id"]
+        #     db_id = row["_id"]
 
-            if not os.path.exists(f"./{model}/{evaluation_level}/{datasetname}-{scene_id}-{db_id}.json"):
-                questions.append((evaluation_level, datasetname, scene_id, scene_name, db_id, row["new_referring_expressions"], model))
-            else:
-                with open(f"./{model}/{evaluation_level}/{datasetname}-{scene_id}-{db_id}.json", "r") as f:
-                    prediction_file = json.load(f)
-                    if prediction_file["pred_bbx_reasoning"] == "None" or prediction_file["pred_bbx_reasoning"] == "":
-                        questions.append((evaluation_level, datasetname, scene_id, scene_name, db_id, row["new_referring_expressions"], model))
+        #     if not os.path.exists(f"./{model}/{evaluation_level}/{datasetname}-{scene_id}-{db_id}.json"):
+        #         questions.append((evaluation_level, datasetname, scene_id, scene_name, db_id, row["new_referring_expressions"], model))
+        #     else:
+        #         with open(f"./{model}/{evaluation_level}/{datasetname}-{scene_id}-{db_id}.json", "r") as f:
+        #             prediction_file = json.load(f)
+        #             if prediction_file["pred_bbx_reasoning"] == "None" or prediction_file["pred_bbx_reasoning"] == "":
+        #                 questions.append((evaluation_level, datasetname, scene_id, scene_name, db_id, row["new_referring_expressions"], model))
 
         
         num_workers = 10
@@ -343,4 +359,4 @@ def main(model, evaluation_level):
            
 
 if __name__ == "__main__":
-    main("gpt-4.1-2025-04-14", "object_level")
+    main("qwen2.5-72b-instruct", "area_level")
