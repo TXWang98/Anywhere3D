@@ -296,52 +296,29 @@ def main(model, evaluation_level):
             pool.starmap(test_a_question, questions)
 
     else:
-        gt_dataset_path = "../anywhere3d_datasets/anywhere3d_" + evaluation_level + ".xlsx"
-        file_gt = pd.read_excel(gt_dataset_path, header = 0, index_col = 0)
+        
+        gt_dataset_path = "../anywhere3d_datasets/eval_anywhere3D_aligned_total.json"
+        with open(gt_dataset_path, "r") as f:
+            file_gt = json.load(f)
         
         questions = []
 
-        for index, row in file_gt.iterrows():
-            print(index)
-            if row["datasetname"] == "scannet":
-                scene_name = row["scene_id"]
-            elif row["datasetname"] == "multiscan":
-                scene_name = "scene_0" + row["scene_id"].split("_")[0][5:] + "_00"
-            elif row["datasetname"] == "3RScan":
-                scan_name_id_path = "/home/wangtianxu/Viewer/3RScan/scan_name_id.pickle"
-                with open(scan_name_id_path, "rb") as f:
-                    scan_name_id_lis = pickle.load(f)
-                scan_name_lis = [ele[0] for ele in scan_name_id_lis]
-                scan_id_lis = [ele[1] for ele in scan_name_id_lis]
-                scan_index = scan_id_lis.index(row["scene_id"])
-                scene_name = scan_name_lis[scan_index]
-            elif row["datasetname"] == "arkitscene_valid":
-                scan_name_id_path = "/home/wangtianxu/Viewer/ARKitScene/validation/scan_name_id.pickle"
-                with open(scan_name_id_path, "rb") as f:
-                    scan_name_id_lis = pickle.load(f)
-                scan_name_lis = [ele[0] for ele in scan_name_id_lis]
-                scan_id_lis = [ele[1] for ele in scan_name_id_lis]
-                scan_index = scan_id_lis.index(row["scene_id"])
-                scene_name = scan_name_lis[scan_index]
+        for sample in file_gt:
+            if sample["grounding_level"] == evaluation_level:
 
-            #print(row["datasetname"], row["scene_id"], scene_name)
-            datasetname = row["datasetname"]
-            scene_id = row["scene_id"]
-            db_id = row["_id"]
+                datasetname = sample["datasetname"]
+                scene_id = sample["scene_id"]
+                scene_name = sample["scene_name"]
+                db_id = sample["db_id"]
 
-            if not os.path.exists(f"./{model}/{evaluation_level}/{datasetname}-{scene_id}-{db_id}.json"):
-                questions.append((evaluation_level, datasetname, scene_id, scene_name, db_id, row["new_referring_expressions"], model))
-            else:
-                with open(f"./{model}/{evaluation_level}/{datasetname}-{scene_id}-{db_id}.json", "r") as f:
-                    prediction_file = json.load(f)
-                    if prediction_file["pred_bbx_reasoning"] == "None" or prediction_file["pred_bbx_reasoning"] == "" or prediction_file["pred_bbx_reasoning"] is None:
-                        questions.append((evaluation_level, datasetname, scene_id, scene_name, db_id, row["new_referring_expressions"], model))
-                    if math.isnan(prediction_file["pred_box_x"]) or math.isnan(prediction_file["pred_box_y"]) or math.isnan(prediction_file["pred_box_z"]) \
-                        or math.isnan(prediction_file["pred_box_width"]) or math.isnan(prediction_file["pred_box_length"]) or math.isnan(prediction_file["pred_box_height"]):
-                        questions.append((evaluation_level, datasetname, scene_id, scene_name, db_id, row["new_referring_expressions"], model))
-                    # if prediction_file["pred_box_width"] == 0 or prediction_file["pred_box_length"] == 0 or prediction_file["pred_box_height"] == 0:
-                    #     questions.append((evaluation_level, datasetname, scene_id, scene_name, db_id, row["new_referring_expressions"], model))
-                    
+                if not os.path.exists(f"./{model}/{evaluation_level}/{datasetname}-{scene_id}-{db_id}.json"):
+                    questions.append((evaluation_level, datasetname, scene_id, scene_name, db_id, sample["referring_expressions"], model))
+                else:
+                    with open(f"./{model}/{evaluation_level}/{datasetname}-{scene_id}-{db_id}.json", "r") as f:
+                        prediction_file = json.load(f)
+                        if prediction_file["pred_bbx_reasoning"] == "None" or prediction_file["pred_bbx_reasoning"] == "":
+                            questions.append((evaluation_level, datasetname, scene_id, scene_name, db_id, sample["referring_expressions"], model))
+
         num_workers = 8
         print(len(questions))
 
