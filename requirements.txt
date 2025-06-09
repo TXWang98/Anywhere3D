@@ -1,0 +1,10 @@
+openai
+tqdm
+pandas
+numpy
+wordcloud
+matplotlib
+shapely
+trimesh
+open3d
+torch
