@@ -54,7 +54,7 @@ cd Anywhere3D
 pip install -r requirements.txt
 ```
 
-Generate LLM's prediction on Anywhere3D(Please add your on API-KEY for corresponding models: GPT-4.1, o4-mini, Qwen, DeepSeek...)
+Generate LLM's prediction on Anywhere3D(Please add your own API-KEY for corresponding models: GPT-4.1, o4-mini, Qwen, DeepSeek...)
 ```bash
 cd LLM
 python generate_predictions.py
@@ -68,7 +68,7 @@ python process_bbx_with_LLM.py
 python evaluate_predictions.py
 ```
 
-Generate VLM's prediction on Anywhere3D(Please add your on API-KEY for corresponding models: GPT-4.1, o4-mini, Qwen, InternVL3)
+Generate VLM's prediction on Anywhere3D(Please add your own API-KEY for corresponding models: GPT-4.1, o4-mini, Qwen, InternVL3)
 ```bash
 cd VLM
 python generate_predictions.py
@@ -81,3 +81,28 @@ python process_bbx_with_regular_expression.py
 python process_bbx_with_LLM.py
 python evaluate_predictions.py
 ```
+
+
+## ✅ To Do
+
+- [ ] Release Human Annotation Tool Code
+
+---
+
+## 📖 Citation
+
+If you find this project helpful, please consider citing:
+
+```bibtex
+@article{anywhere3d,
+  title={From Objects to Anywhere: A Holistic Benchmark for Multi-level Visual Grounding in 3D Scenes},
+  author={Tianxu Wang, Zhuofan Zhang, Ziyu Zhu, Yue Fan, Jing Xiong, Pengxiang Li1, Xiaojian Ma, Qing Li},
+  journal={arXiv preprint arXiv:2506.04897},
+  year={2025}
+}
+```
+
+## 🙏 Acknowledgements
+
+We thank the contributors of ScanNet, ARKitScenes, 3RScan, and MultiScan for providing the foundational data used in this benchmark.
+
