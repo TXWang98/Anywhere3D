@@ -20,3 +20,9 @@
     <img src="https://img.shields.io/badge/Annotator-interface-black?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Annotator">
   </a>
 </p>
+
+
+## 📰 News
+
+- 📅 **2025/05/26** Released the Human Annotation Interface Demo, supporting four scenes from ScanNet, MultiScan, 3RScan, ARKitScenes. Click [Here](https://anywhere3d-viewer-webpage.onrender.com/apps/meshviewer/datasetname=arkitscene_valid&scene_id=scene0004_00) to play around and further tutorial.
+- 📄 **2025/06/04** Paper submitted to arXiv: [Anywhere3D](https://arxiv.org/abs/2506.04897)
