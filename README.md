@@ -39,7 +39,7 @@
 
 ## 📦 Anywhere3D-Bench
 
-We release the dataset on huggingface in JSON as well as its explanation.
+We release the dataset on huggingface.
 
 - 🔗 [Anywhere3D-Bench](https://huggingface.co/datasets/txwang98/Anywhere3D)
 
@@ -52,30 +52,32 @@ To reproduce the evaluation results on Anywhere3D-Bench
 git clone https://github.com/anywhere-3d/Anywhere3D.git
 cd Anywhere3D
 pip install -r requirements.txt
+```
 
-# Generate LLM's prediction on Anywhere3D(Please add your on API-KEY for corresponding models: GPT-4.1, o4-mini, Qwen, DeepSeek...)
+Generate LLM's prediction on Anywhere3D(Please add your on API-KEY for corresponding models: GPT-4.1, o4-mini, Qwen, DeepSeek...)
 ```bash
 cd LLM
 python generate_predictions.py
+```
 
-# Evaluate LLM's prediction on Anywhere3D(Please extract the center coordinates and sizes of the predicted bounding box first, then evaluate)
+Evaluate LLM's prediction on Anywhere3D(Please extract the center coordinates and sizes of the predicted bounding box first, then evaluate)
 ```bash
 cd LLM
 python process_bbx_with_regular_expression.py
 python process_bbx_with_LLM.py
 python evaluate_predictions.py
+```
 
-
-# Generate VLM's prediction on Anywhere3D(Please add your on API-KEY for corresponding models: GPT-4.1, o4-mini, Qwen, InternVL3)
+Generate VLM's prediction on Anywhere3D(Please add your on API-KEY for corresponding models: GPT-4.1, o4-mini, Qwen, InternVL3)
 ```bash
 cd VLM
 python generate_predictions.py
+```
 
-
-# Evaluate VLM's prediction on Anywhere3D(Please extract the center coordinates and sizes of the predicted bounding box first, then evaluate)
+Evaluate VLM's prediction on Anywhere3D(Please extract the center coordinates and sizes of the predicted bounding box first, then evaluate)
 ```bash
 cd VLM
 python process_bbx_with_regular_expression.py
 python process_bbx_with_LLM.py
 python evaluate_predictions.py
-
+```
