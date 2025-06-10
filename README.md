@@ -103,7 +103,7 @@ python evaluate_predictions.py
 ## ✅ To Do
 
 - [ ] Release Code: Human Annotation Tool
-- [ ] Release Code: Caption Generation using Qwen, Object Orientation Generation using Orient Anything
+- [ ] Release Code: Caption Generation with [Qwen2.5-VL](https://arxiv.org/abs/2502.13923), Object Orientation Generation with [Orient Anything](https://orient-anything.github.io/)
 
 ---
 
@@ -125,5 +125,5 @@ If you find this project helpful, please consider citing:
 
 ## 🙏 Acknowledgements
 
-We thank the contributors of ScanNet, ARKitScenes, 3RScan, and MultiScan for providing the foundational data used in this benchmark.
+We thank the contributors of [ScanNet](http://www.scan-net.org/), [ARKitScenes](https://github.com/apple/ARKitScenes), [3RScan](https://github.com/WaldJohannaU/3RScan), and [MultiScan](https://3dlg-hcvc.github.io/multiscan/#/) for providing the foundational data used in this benchmark.
 
