@@ -22,6 +22,23 @@
 </p>
 
 
+<p align="center">
+  <img src="teaser_v2_refined.pdf" width="600"/>
+</p>
+
+<p align="center">
+  <b>Figure 1:</b> Multi-level visual grounding in 3D scenes.
+</p>
+
+<p align="center">
+  <img src="data_distribution_fin.pdf" width="600"/>
+</p>
+
+<p align="center">
+  <b>Figure 2:</b> Distinct expression types on Anywhere3D-bench
+</p>
+
+
 ## 📰 News
 
 - 📅 **2025/05/26** Released the Human Annotation Interface Demo, supporting four scenes from ScanNet, MultiScan, 3RScan, ARKitScenes. Click [Here](https://anywhere3d-viewer-webpage.onrender.com/apps/meshviewer/datasetname=arkitscene_valid&scene_id=scene0004_00) to play around and further tutorial.
