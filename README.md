@@ -102,7 +102,8 @@ python evaluate_predictions.py
 
 ## ✅ To Do
 
-- [ ] Release Human Annotation Tool Code
+- [ ] Release Code: Human Annotation Tool
+- [ ] Release Code: Caption Generation using Qwen, Object Orientation Generation using Orient Anything
 
 ---
 
