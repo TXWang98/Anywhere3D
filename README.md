@@ -23,7 +23,7 @@
 
 
 <p align="center">
-  <img src="teaser_v2_refined.pdf" width="600"/>
+  <img src="teaser_v2_refined.png" width="600"/>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="data_distribution_fin.pdf" width="600"/>
+  <img src="data_distribution_fin.png" width="600"/>
 </p>
 
 <p align="center">
