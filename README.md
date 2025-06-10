@@ -56,7 +56,7 @@
 
 ## 📦 Anywhere3D-Bench
 
-We release the dataset on huggingface.
+We release our dataset on huggingface.
 
 - 🔗 [Anywhere3D-Bench](https://huggingface.co/datasets/txwang98/Anywhere3D)
 
