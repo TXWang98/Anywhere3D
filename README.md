@@ -111,11 +111,14 @@ python evaluate_predictions.py
 If you find this project helpful, please consider citing:
 
 ```bibtex
-@article{anywhere3d,
-  title={From Objects to Anywhere: A Holistic Benchmark for Multi-level Visual Grounding in 3D Scenes},
-  author={Tianxu Wang, Zhuofan Zhang, Ziyu Zhu, Yue Fan, Jing Xiong, Pengxiang Li1, Xiaojian Ma, Qing Li},
-  journal={arXiv preprint arXiv:2506.04897},
-  year={2025}
+@misc{anywhere3d,
+      title={From Objects to Anywhere: A Holistic Benchmark for Multi-level Visual Grounding in 3D Scenes}, 
+      author={Tianxu Wang and Zhuofan Zhang and Ziyu Zhu and Yue Fan and Jing Xiong and Pengxiang Li and Xiaojian Ma and Qing Li},
+      year={2025},
+      eprint={2506.04897},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2506.04897}, 
 }
 ```
 
