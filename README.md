@@ -23,7 +23,7 @@
 
 
 <p align="center">
-  <img src="teaser_v2_refined.png" width="600"/>
+  <img src="assets/teaser_v2_refined.png" width="600"/>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="data_distribution_fin.png" width="600"/>
+  <img src="assets/data_distribution_fin.png" width="600"/>
 </p>
 
 <p align="center">
@@ -85,7 +85,7 @@ python process_bbx_with_LLM.py
 python evaluate_predictions.py
 ```
 
-Generate VLM's prediction on Anywhere3D(Please follow GPT4Scene to generate Bird's Eye View and Video Frames of each scene first.  Add your own API-KEY for corresponding models: GPT-4.1, o4-mini, Qwen, InternVL3.)
+Generate VLM's prediction on Anywhere3D(Please follow GPT4Scene to generate Bird's Eye View and Video Frames of each scene first and save them in corresponding folder, i.e. ./3RScan_gpt4scene_data, ./arkitscene_gpt4scene_data, ./multiscan_gpt4scene_data, ./scannet_gpt4scene_data.  Add your own API-KEY for corresponding models: GPT-4.1, o4-mini, Qwen, InternVL3.)
 ```bash
 cd VLM
 python generate_predictions.py
