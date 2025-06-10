@@ -85,7 +85,7 @@ python process_bbx_with_LLM.py
 python evaluate_predictions.py
 ```
 
-Generate VLM's prediction on Anywhere3D(Please add your own API-KEY for corresponding models: GPT-4.1, o4-mini, Qwen, InternVL3)
+Generate VLM's prediction on Anywhere3D(Please follow GPT4Scene to generate Bird's Eye View and Video Frames of each scene first.  Add your own API-KEY for corresponding models: GPT-4.1, o4-mini, Qwen, InternVL3.)
 ```bash
 cd VLM
 python generate_predictions.py
