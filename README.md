@@ -44,7 +44,7 @@
 - 🧑‍💻 **2025/05/26** Release Human Annotation Interface Demo, supporting four scenes from ScanNet, MultiScan, 3RScan, ARKitScenes. Click [Here](https://anywhere3d-viewer-webpage.onrender.com/apps/meshviewer/datasetname=arkitscene_valid&scene_id=scene0004_00) to play around and further tutorial.
 - 📄 **2025/06/04** Paper submitted to arXiv: [Anywhere3D Paper](https://arxiv.org/abs/2506.04897)
 - 📺 **2025/06/13** Release Video Demo: [Anywhere3D Video Demo](https://www.youtube.com/watch?v=rZiqZz_ME7g)
-- 🤖 **2025/07/07** Evaluate the state-of-the art thinking models Gemini-2.5-pro and o3: check the updated results on our website page(https://anywhere-3d.github.io/)
+- 🤖 **2025/07/07** Evaluate the state-of-the art thinking models Gemini-2.5-pro and o3: check the updated results on our project page [Anywhere3D Project Page](https://anywhere-3d.github.io/)
 
 
 
