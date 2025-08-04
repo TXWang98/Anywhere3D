@@ -109,6 +109,19 @@ python evaluate_predictions.py
 
 ---
 
+## 🙏 Acknowledgements
+
+We would like to especially thank [ScanRefer](https://github.com/daveredrum/ScanRefer) for providing an excellent 3D annotation interface, which greatly facilitated the annotation process. We also appreciate the modifications made by [SQA3D](https://github.com/SilongYong/SQA3D) to the ScanRefer annotation interface. The annotation interface used in Anywhere3D was adapted from their well-designed interfaces. We are deeply grateful for their wonderful design and generous sharing with the community.
+
+We would also like to thank the open source of the following projects: 
+
+- **3D Datasets:** [ScanNet](https://github.com/ScanNet/ScanNet), [MultiScan](https://github.com/smartscenes/multiscan), [3RScan](https://github.com/WaldJohannaU/3RScan), [ARKitScenes](https://github.com/apple/ARKitScenes); 
+- **3D Visual Grounding Models:** [3D-VisTA](https://github.com/3d-vista/3D-VisTA), [PQ3D](https://github.com/PQ3D/PQ3D), [Chat-Scene](https://github.com/ZzZZCHS/Chat-Scene); 
+- **MLLMs:** [GPT4Scene](https://github.com/Qi-Zhangyang/GPT4Scene-and-VLN-R1), [LLaVA-OneVision](https://huggingface.co/lmms-lab/llava-onevision-qwen2-7b-ov), [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL); 
+- **LLMs:** [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1), [Qwen3](https://github.com/QwenLM/Qwen3), [Qwen2.5](https://arxiv.org/pdf/2412.15115).
+
+We also wish to thank the numerous inspiring works on 3D visual grounding and spatial intelligence that have informed and motivated our research, though it is difficult to list all of them here.
+
 ## 📖 Citation
 
 If you find this project helpful, please consider citing:
