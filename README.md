@@ -138,7 +138,7 @@ If you find this project helpful, please consider citing:
 }
 ```
 
-## 🙏 Acknowledgements
+<!-- ## 🙏 Acknowledgements
 
-We thank the contributors of [ScanNet](http://www.scan-net.org/), [ARKitScenes](https://github.com/apple/ARKitScenes), [3RScan](https://github.com/WaldJohannaU/3RScan), and [MultiScan](https://3dlg-hcvc.github.io/multiscan/#/) for providing the foundational data used in this benchmark.
+We thank the contributors of [ScanNet](http://www.scan-net.org/), [ARKitScenes](https://github.com/apple/ARKitScenes), [3RScan](https://github.com/WaldJohannaU/3RScan), and [MultiScan](https://3dlg-hcvc.github.io/multiscan/#/) for providing the foundational data used in this benchmark. -->
 
